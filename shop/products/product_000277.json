@@ -1,0 +1,41 @@
+{
+  "productId": "000277",
+  "name": "Спортивные часы Orion Max166 #000277",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 12137.13,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 279,
+    "reserved": 56
+  },
+  "sku": "Orion-000277",
+  "tags": [
+    "здоровье",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Max166-000277.jpg",
+      "alt": "Спортивные часы Orion Max166 #000277 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Max166-000277_side.jpg",
+      "alt": "Спортивные часы Orion Max166 #000277 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "513g",
+    "dimensions": "279mm x 122mm x 32mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-03T10:04:04Z",
+  "updatedAt": "2024-10-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

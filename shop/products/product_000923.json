@@ -1,0 +1,40 @@
+{
+  "productId": "000923",
+  "name": "Чайник Quantum Plus754 #000923",
+  "description": "Чайник бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 53339.9,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 214,
+    "reserved": 78
+  },
+  "sku": "Quantum-000923",
+  "tags": [
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Quantum-Plus754-000923.jpg",
+      "alt": "Чайник Quantum Plus754 #000923 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Quantum-Plus754-000923_side.jpg",
+      "alt": "Чайник Quantum Plus754 #000923 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "419g",
+    "dimensions": "239mm x 104mm x 15mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-24T10:04:04Z",
+  "updatedAt": "2025-05-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

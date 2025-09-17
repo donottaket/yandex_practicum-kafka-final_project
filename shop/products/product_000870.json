@@ -1,0 +1,41 @@
+{
+  "productId": "000870",
+  "name": "Планшет Orion 617 #000870",
+  "description": "Планшет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 188160.89,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 25,
+    "reserved": 1
+  },
+  "sku": "Orion-000870",
+  "tags": [
+    "bluetooth",
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Orion-617-000870.jpg",
+      "alt": "Планшет Orion 617 #000870 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Orion-617-000870_side.jpg",
+      "alt": "Планшет Orion 617 #000870 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "429g",
+    "dimensions": "187mm x 90mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-21T10:04:04Z",
+  "updatedAt": "2024-12-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

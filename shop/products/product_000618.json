@@ -1,0 +1,40 @@
+{
+  "productId": "000618",
+  "name": "Увлажнитель воздуха XYZ Plus924 #000618",
+  "description": "Увлажнитель воздуха бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 48174.03,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 49,
+    "reserved": 5
+  },
+  "sku": "XYZ-000618",
+  "tags": [
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-Plus924-000618.jpg",
+      "alt": "Увлажнитель воздуха XYZ Plus924 #000618 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-Plus924-000618_side.jpg",
+      "alt": "Увлажнитель воздуха XYZ Plus924 #000618 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1020g",
+    "dimensions": "269mm x 113mm x 11mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-04T10:04:04Z",
+  "updatedAt": "2025-01-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

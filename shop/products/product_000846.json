@@ -1,0 +1,41 @@
+{
+  "productId": "000846",
+  "name": "Кофемашина Polar Pro652 #000846",
+  "description": "Кофемашина бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 61574.85,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 363,
+    "reserved": 49
+  },
+  "sku": "Polar-000846",
+  "tags": [
+    "тихий",
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Pro652-000846.jpg",
+      "alt": "Кофемашина Polar Pro652 #000846 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Pro652-000846_side.jpg",
+      "alt": "Кофемашина Polar Pro652 #000846 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "842g",
+    "dimensions": "268mm x 121mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-03T10:04:04Z",
+  "updatedAt": "2025-07-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

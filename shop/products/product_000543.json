@@ -1,0 +1,43 @@
+{
+  "productId": "000543",
+  "name": "Пульсометр NovaTech Pro807 #000543",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 93986.24,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 37,
+    "reserved": 8
+  },
+  "sku": "NovaTech-000543",
+  "tags": [
+    "gps",
+    "активность",
+    "спорт",
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Pro807-000543.jpg",
+      "alt": "Пульсометр NovaTech Pro807 #000543 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Pro807-000543_side.jpg",
+      "alt": "Пульсометр NovaTech Pro807 #000543 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "506g",
+    "dimensions": "227mm x 145mm x 27mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-06T10:04:04Z",
+  "updatedAt": "2025-02-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

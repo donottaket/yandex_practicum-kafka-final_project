@@ -1,0 +1,40 @@
+{
+  "productId": "000748",
+  "name": "Спортивные часы XYZ Lite567 #000748",
+  "description": "Спортивные часы бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 60405.45,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 447,
+    "reserved": 150
+  },
+  "sku": "XYZ-000748",
+  "tags": [
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Lite567-000748.jpg",
+      "alt": "Спортивные часы XYZ Lite567 #000748 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Lite567-000748_side.jpg",
+      "alt": "Спортивные часы XYZ Lite567 #000748 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1754g",
+    "dimensions": "295mm x 32mm x 15mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-27T10:04:04Z",
+  "updatedAt": "2025-01-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000084",
+  "name": "Спортивные часы Orion X147 #000084",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 12459.96,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 355,
+    "reserved": 91
+  },
+  "sku": "Orion-000084",
+  "tags": [
+    "активность",
+    "gps",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-X147-000084.jpg",
+      "alt": "Спортивные часы Orion X147 #000084 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-X147-000084_side.jpg",
+      "alt": "Спортивные часы Orion X147 #000084 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1428g",
+    "dimensions": "121mm x 103mm x 21mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-26T10:04:04Z",
+  "updatedAt": "2024-10-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000698",
+  "name": "Спортивные часы Astra Plus917 #000698",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 39343.34,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 119,
+    "reserved": 16
+  },
+  "sku": "Astra-000698",
+  "tags": [
+    "активность",
+    "спорт",
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Plus917-000698.jpg",
+      "alt": "Спортивные часы Astra Plus917 #000698 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Plus917-000698_side.jpg",
+      "alt": "Спортивные часы Astra Plus917 #000698 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "398g",
+    "dimensions": "203mm x 96mm x 46mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-06T10:04:04Z",
+  "updatedAt": "2025-02-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000010",
+  "name": "Смарт-велокомпьютер Lumen Pro970 #000010",
+  "description": "Смарт-велокомпьютер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 56887.82,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 489,
+    "reserved": 50
+  },
+  "sku": "Lumen-000010",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-Pro970-000010.jpg",
+      "alt": "Смарт-велокомпьютер Lumen Pro970 #000010 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-Pro970-000010_side.jpg",
+      "alt": "Смарт-велокомпьютер Lumen Pro970 #000010 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "224g",
+    "dimensions": "192mm x 41mm x 26mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-01T10:04:04Z",
+  "updatedAt": "2024-12-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000683",
+  "name": "Наушники NovaTech Lite772 #000683",
+  "description": "Наушники бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 66024.41,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 69,
+    "reserved": 1
+  },
+  "sku": "NovaTech-000683",
+  "tags": [
+    "ios",
+    "gps",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-Lite772-000683.jpg",
+      "alt": "Наушники NovaTech Lite772 #000683 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-Lite772-000683_side.jpg",
+      "alt": "Наушники NovaTech Lite772 #000683 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "869g",
+    "dimensions": "175mm x 55mm x 12mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-01T10:04:04Z",
+  "updatedAt": "2025-05-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

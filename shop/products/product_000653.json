@@ -1,0 +1,41 @@
+{
+  "productId": "000653",
+  "name": "Кофемашина Astra Pro469 #000653",
+  "description": "Кофемашина бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 31757.5,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 377,
+    "reserved": 107
+  },
+  "sku": "Astra-000653",
+  "tags": [
+    "экономия энергии",
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Astra-Pro469-000653.jpg",
+      "alt": "Кофемашина Astra Pro469 #000653 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Astra-Pro469-000653_side.jpg",
+      "alt": "Кофемашина Astra Pro469 #000653 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1268g",
+    "dimensions": "142mm x 164mm x 11mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-12T10:04:04Z",
+  "updatedAt": "2025-07-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

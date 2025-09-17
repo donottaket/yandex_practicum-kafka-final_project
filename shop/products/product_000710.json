@@ -1,0 +1,41 @@
+{
+  "productId": "000710",
+  "name": "Блендер Quantum Max896 #000710",
+  "description": "Блендер бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 1208.6,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 185,
+    "reserved": 13
+  },
+  "sku": "Quantum-000710",
+  "tags": [
+    "тихий",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Quantum-Max896-000710.jpg",
+      "alt": "Блендер Quantum Max896 #000710 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Quantum-Max896-000710_side.jpg",
+      "alt": "Блендер Quantum Max896 #000710 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "953g",
+    "dimensions": "85mm x 57mm x 12mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-17T10:04:04Z",
+  "updatedAt": "2025-01-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

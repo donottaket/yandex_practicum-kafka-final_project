@@ -1,0 +1,41 @@
+{
+  "productId": "000501",
+  "name": "Блендер Lumen 988 #000501",
+  "description": "Блендер бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 6767.74,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 35,
+    "reserved": 7
+  },
+  "sku": "Lumen-000501",
+  "tags": [
+    "экономия энергии",
+    "тихий",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Lumen-988-000501.jpg",
+      "alt": "Блендер Lumen 988 #000501 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Lumen-988-000501_side.jpg",
+      "alt": "Блендер Lumen 988 #000501 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1515g",
+    "dimensions": "255mm x 190mm x 40mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-24T10:04:04Z",
+  "updatedAt": "2025-06-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

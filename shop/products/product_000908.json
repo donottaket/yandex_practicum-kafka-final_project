@@ -1,0 +1,41 @@
+{
+  "productId": "000908",
+  "name": "Футболка Vega Max97 #000908",
+  "description": "Футболка бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 23364.08,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 89,
+    "reserved": 35
+  },
+  "sku": "Vega-000908",
+  "tags": [
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Vega-Max97-000908.jpg",
+      "alt": "Футболка Vega Max97 #000908 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Vega-Max97-000908_side.jpg",
+      "alt": "Футболка Vega Max97 #000908 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1038g",
+    "dimensions": "221mm x 121mm x 31mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-26T10:04:04Z",
+  "updatedAt": "2025-06-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

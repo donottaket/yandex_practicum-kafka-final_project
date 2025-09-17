@@ -1,0 +1,43 @@
+{
+  "productId": "000631",
+  "name": "Экшн-камера XYZ X244 #000631",
+  "description": "Экшн-камера бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 33017.93,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 255,
+    "reserved": 20
+  },
+  "sku": "XYZ-000631",
+  "tags": [
+    "bluetooth",
+    "gps",
+    "гаджеты",
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-X244-000631.jpg",
+      "alt": "Экшн-камера XYZ X244 #000631 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-X244-000631_side.jpg",
+      "alt": "Экшн-камера XYZ X244 #000631 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "60g",
+    "dimensions": "78mm x 132mm x 8mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-25T10:04:04Z",
+  "updatedAt": "2025-03-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

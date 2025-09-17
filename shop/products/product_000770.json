@@ -1,0 +1,41 @@
+{
+  "productId": "000770",
+  "name": "Кофемашина Polar Pro699 #000770",
+  "description": "Кофемашина бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 54494.87,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 490,
+    "reserved": 134
+  },
+  "sku": "Polar-000770",
+  "tags": [
+    "дом",
+    "умный дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Pro699-000770.jpg",
+      "alt": "Кофемашина Polar Pro699 #000770 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Pro699-000770_side.jpg",
+      "alt": "Кофемашина Polar Pro699 #000770 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "705g",
+    "dimensions": "155mm x 140mm x 30mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-01T10:04:04Z",
+  "updatedAt": "2024-11-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

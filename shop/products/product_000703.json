@@ -1,0 +1,41 @@
+{
+  "productId": "000703",
+  "name": "Наушники Astra X485 #000703",
+  "description": "Наушники бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 183377.79,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 278,
+    "reserved": 97
+  },
+  "sku": "Astra-000703",
+  "tags": [
+    "gps",
+    "bluetooth",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Astra-X485-000703.jpg",
+      "alt": "Наушники Astra X485 #000703 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Astra-X485-000703_side.jpg",
+      "alt": "Наушники Astra X485 #000703 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1746g",
+    "dimensions": "193mm x 32mm x 14mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-24T10:04:04Z",
+  "updatedAt": "2025-06-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

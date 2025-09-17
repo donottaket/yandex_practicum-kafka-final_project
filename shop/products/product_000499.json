@@ -1,0 +1,42 @@
+{
+  "productId": "000499",
+  "name": "Кроссовки ACME X615 #000499",
+  "description": "Кроссовки бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 20118.7,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 390,
+    "reserved": 49
+  },
+  "sku": "ACME-000499",
+  "tags": [
+    "удобство",
+    "стиль",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-ACME-X615-000499.jpg",
+      "alt": "Кроссовки ACME X615 #000499 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-ACME-X615-000499_side.jpg",
+      "alt": "Кроссовки ACME X615 #000499 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "406g",
+    "dimensions": "160mm x 196mm x 25mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-30T10:04:04Z",
+  "updatedAt": "2025-07-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

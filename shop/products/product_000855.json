@@ -1,0 +1,42 @@
+{
+  "productId": "000855",
+  "name": "Смартфон Astra S195 #000855",
+  "description": "Смартфон бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 87549.21,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 434,
+    "reserved": 206
+  },
+  "sku": "Astra-000855",
+  "tags": [
+    "gps",
+    "технологии",
+    "ios",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Astra-S195-000855.jpg",
+      "alt": "Смартфон Astra S195 #000855 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Astra-S195-000855_side.jpg",
+      "alt": "Смартфон Astra S195 #000855 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1818g",
+    "dimensions": "247mm x 57mm x 37mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-26T10:04:04Z",
+  "updatedAt": "2024-12-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

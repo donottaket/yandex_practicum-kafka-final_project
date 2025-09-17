@@ -1,0 +1,40 @@
+{
+  "productId": "000406",
+  "name": "Кроссовки Astra Max638 #000406",
+  "description": "Кроссовки бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 36816.27,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 271,
+    "reserved": 31
+  },
+  "sku": "Astra-000406",
+  "tags": [
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Astra-Max638-000406.jpg",
+      "alt": "Кроссовки Astra Max638 #000406 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Astra-Max638-000406_side.jpg",
+      "alt": "Кроссовки Astra Max638 #000406 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1609g",
+    "dimensions": "49mm x 157mm x 33mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-11-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000214",
+  "name": "Смарт-велокомпьютер Vega X160 #000214",
+  "description": "Смарт-велокомпьютер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 38248.96,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 129,
+    "reserved": 56
+  },
+  "sku": "Vega-000214",
+  "tags": [
+    "здоровье",
+    "outdoor",
+    "активность",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Vega-X160-000214.jpg",
+      "alt": "Смарт-велокомпьютер Vega X160 #000214 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Vega-X160-000214_side.jpg",
+      "alt": "Смарт-велокомпьютер Vega X160 #000214 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "681g",
+    "dimensions": "90mm x 171mm x 7mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-02T10:04:04Z",
+  "updatedAt": "2025-03-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

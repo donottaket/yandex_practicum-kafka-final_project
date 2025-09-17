@@ -1,0 +1,43 @@
+{
+  "productId": "000259",
+  "name": "Пульсометр XYZ 947 #000259",
+  "description": "Пульсометр бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 20818.99,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 35,
+    "reserved": 2
+  },
+  "sku": "XYZ-000259",
+  "tags": [
+    "outdoor",
+    "здоровье",
+    "спорт",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-947-000259.jpg",
+      "alt": "Пульсометр XYZ 947 #000259 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-947-000259_side.jpg",
+      "alt": "Пульсометр XYZ 947 #000259 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1093g",
+    "dimensions": "76mm x 114mm x 11mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-23T10:04:04Z",
+  "updatedAt": "2025-07-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

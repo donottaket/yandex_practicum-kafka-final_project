@@ -1,0 +1,42 @@
+{
+  "productId": "000209",
+  "name": "Экшн-камера Lumen Max787 #000209",
+  "description": "Экшн-камера бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 135485.34,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 97,
+    "reserved": 29
+  },
+  "sku": "Lumen-000209",
+  "tags": [
+    "технологии",
+    "ios",
+    "bluetooth",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Lumen-Max787-000209.jpg",
+      "alt": "Экшн-камера Lumen Max787 #000209 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Lumen-Max787-000209_side.jpg",
+      "alt": "Экшн-камера Lumen Max787 #000209 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1507g",
+    "dimensions": "124mm x 149mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-14T10:04:04Z",
+  "updatedAt": "2024-10-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

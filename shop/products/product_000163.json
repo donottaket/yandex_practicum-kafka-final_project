@@ -1,0 +1,40 @@
+{
+  "productId": "000163",
+  "name": "Штаны Astra Lite857 #000163",
+  "description": "Штаны бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 42563.12,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 271,
+    "reserved": 96
+  },
+  "sku": "Astra-000163",
+  "tags": [
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Astra-Lite857-000163.jpg",
+      "alt": "Штаны Astra Lite857 #000163 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Astra-Lite857-000163_side.jpg",
+      "alt": "Штаны Astra Lite857 #000163 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1440g",
+    "dimensions": "289mm x 20mm x 6mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-23T10:04:04Z",
+  "updatedAt": "2025-03-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

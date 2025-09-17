@@ -1,0 +1,41 @@
+{
+  "productId": "000190",
+  "name": "Наушники Polar Pro89 #000190",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 80623.52,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 374,
+    "reserved": 94
+  },
+  "sku": "Polar-000190",
+  "tags": [
+    "gps",
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-Pro89-000190.jpg",
+      "alt": "Наушники Polar Pro89 #000190 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-Pro89-000190_side.jpg",
+      "alt": "Наушники Polar Pro89 #000190 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1680g",
+    "dimensions": "62mm x 31mm x 9mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-07T10:04:04Z",
+  "updatedAt": "2025-08-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

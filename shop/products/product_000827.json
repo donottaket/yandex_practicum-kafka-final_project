@@ -1,0 +1,41 @@
+{
+  "productId": "000827",
+  "name": "Планшет XYZ Max220 #000827",
+  "description": "Планшет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 184353.11,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 40,
+    "reserved": 4
+  },
+  "sku": "XYZ-000827",
+  "tags": [
+    "bluetooth",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-XYZ-Max220-000827.jpg",
+      "alt": "Планшет XYZ Max220 #000827 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-XYZ-Max220-000827_side.jpg",
+      "alt": "Планшет XYZ Max220 #000827 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1622g",
+    "dimensions": "221mm x 121mm x 24mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-09T10:04:04Z",
+  "updatedAt": "2025-08-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

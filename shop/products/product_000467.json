@@ -1,0 +1,43 @@
+{
+  "productId": "000467",
+  "name": "Блендер Lumen Max734 #000467",
+  "description": "Блендер бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 68324.3,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 451,
+    "reserved": 85
+  },
+  "sku": "Lumen-000467",
+  "tags": [
+    "кухня",
+    "дом",
+    "умный дом",
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Lumen-Max734-000467.jpg",
+      "alt": "Блендер Lumen Max734 #000467 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Lumen-Max734-000467_side.jpg",
+      "alt": "Блендер Lumen Max734 #000467 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "444g",
+    "dimensions": "151mm x 167mm x 48mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-08T10:04:04Z",
+  "updatedAt": "2025-05-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000548",
+  "name": "Смартфон XYZ 930 #000548",
+  "description": "Смартфон бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 35699.85,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 233,
+    "reserved": 45
+  },
+  "sku": "XYZ-000548",
+  "tags": [
+    "gps",
+    "ios",
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-930-000548.jpg",
+      "alt": "Смартфон XYZ 930 #000548 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-930-000548_side.jpg",
+      "alt": "Смартфон XYZ 930 #000548 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "93g",
+    "dimensions": "238mm x 117mm x 16mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-19T10:04:04Z",
+  "updatedAt": "2025-06-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

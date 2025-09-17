@@ -1,0 +1,40 @@
+{
+  "productId": "000760",
+  "name": "Спортивные часы XYZ Plus228 #000760",
+  "description": "Спортивные часы бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 31158.39,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 234,
+    "reserved": 69
+  },
+  "sku": "XYZ-000760",
+  "tags": [
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Plus228-000760.jpg",
+      "alt": "Спортивные часы XYZ Plus228 #000760 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Plus228-000760_side.jpg",
+      "alt": "Спортивные часы XYZ Plus228 #000760 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1689g",
+    "dimensions": "160mm x 169mm x 25mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-15T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

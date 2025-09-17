@@ -1,0 +1,42 @@
+{
+  "productId": "000038",
+  "name": "Пульсометр Polar Pro124 #000038",
+  "description": "Пульсометр бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 73209.56,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 497,
+    "reserved": 90
+  },
+  "sku": "Polar-000038",
+  "tags": [
+    "активность",
+    "здоровье",
+    "gps",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Polar-Pro124-000038.jpg",
+      "alt": "Пульсометр Polar Pro124 #000038 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Polar-Pro124-000038_side.jpg",
+      "alt": "Пульсометр Polar Pro124 #000038 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1733g",
+    "dimensions": "204mm x 190mm x 19mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-26T10:04:04Z",
+  "updatedAt": "2025-09-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000695",
+  "name": "Фитнес-трекер ACME Max656 #000695",
+  "description": "Фитнес-трекер бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 52983.4,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 198,
+    "reserved": 3
+  },
+  "sku": "ACME-000695",
+  "tags": [
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-ACME-Max656-000695.jpg",
+      "alt": "Фитнес-трекер ACME Max656 #000695 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-ACME-Max656-000695_side.jpg",
+      "alt": "Фитнес-трекер ACME Max656 #000695 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "279g",
+    "dimensions": "218mm x 172mm x 25mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-26T10:04:04Z",
+  "updatedAt": "2025-08-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000322",
+  "name": "Экшн-камера Astra S480 #000322",
+  "description": "Экшн-камера бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 136579.14,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 469,
+    "reserved": 118
+  },
+  "sku": "Astra-000322",
+  "tags": [
+    "android",
+    "oled",
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-S480-000322.jpg",
+      "alt": "Экшн-камера Astra S480 #000322 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-S480-000322_side.jpg",
+      "alt": "Экшн-камера Astra S480 #000322 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1576g",
+    "dimensions": "259mm x 100mm x 26mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-03T10:04:04Z",
+  "updatedAt": "2025-05-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

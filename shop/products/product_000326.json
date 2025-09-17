@@ -1,0 +1,40 @@
+{
+  "productId": "000326",
+  "name": "Блендер Astra X661 #000326",
+  "description": "Блендер бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 64550.81,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 273,
+    "reserved": 25
+  },
+  "sku": "Astra-000326",
+  "tags": [
+    "экономия энергии",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Astra-X661-000326.jpg",
+      "alt": "Блендер Astra X661 #000326 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Astra-X661-000326_side.jpg",
+      "alt": "Блендер Astra X661 #000326 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "602g",
+    "dimensions": "166mm x 52mm x 43mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-18T10:04:04Z",
+  "updatedAt": "2024-11-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000027",
+  "name": "Смарт-велокомпьютер NovaTech Max430 #000027",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 97530.96,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 133,
+    "reserved": 66
+  },
+  "sku": "NovaTech-000027",
+  "tags": [
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-Max430-000027.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech Max430 #000027 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-Max430-000027_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech Max430 #000027 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "725g",
+    "dimensions": "176mm x 183mm x 47mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-28T10:04:04Z",
+  "updatedAt": "2025-08-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

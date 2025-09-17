@@ -1,0 +1,40 @@
+{
+  "productId": "000614",
+  "name": "Кроссовки Neon Lite650 #000614",
+  "description": "Кроссовки бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 42812.74,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 266,
+    "reserved": 41
+  },
+  "sku": "Neon-000614",
+  "tags": [
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Neon-Lite650-000614.jpg",
+      "alt": "Кроссовки Neon Lite650 #000614 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Neon-Lite650-000614_side.jpg",
+      "alt": "Кроссовки Neon Lite650 #000614 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1642g",
+    "dimensions": "125mm x 192mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-22T10:04:04Z",
+  "updatedAt": "2025-07-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

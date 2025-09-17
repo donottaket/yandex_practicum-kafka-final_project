@@ -1,0 +1,40 @@
+{
+  "productId": "000317",
+  "name": "Умные часы Orion Pro980 #000317",
+  "description": "Умные часы бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 42061.04,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 434,
+    "reserved": 204
+  },
+  "sku": "Orion-000317",
+  "tags": [
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Orion-Pro980-000317.jpg",
+      "alt": "Умные часы Orion Pro980 #000317 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Orion-Pro980-000317_side.jpg",
+      "alt": "Умные часы Orion Pro980 #000317 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1438g",
+    "dimensions": "163mm x 141mm x 47mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-11-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

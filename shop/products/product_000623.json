@@ -1,0 +1,43 @@
+{
+  "productId": "000623",
+  "name": "Спортивные часы Vega S237 #000623",
+  "description": "Спортивные часы бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 72952.86,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 412,
+    "reserved": 120
+  },
+  "sku": "Vega-000623",
+  "tags": [
+    "gps",
+    "outdoor",
+    "здоровье",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-S237-000623.jpg",
+      "alt": "Спортивные часы Vega S237 #000623 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-S237-000623_side.jpg",
+      "alt": "Спортивные часы Vega S237 #000623 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "321g",
+    "dimensions": "121mm x 195mm x 23mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-16T10:04:04Z",
+  "updatedAt": "2025-06-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

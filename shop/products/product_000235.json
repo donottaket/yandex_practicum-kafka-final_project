@@ -1,0 +1,42 @@
+{
+  "productId": "000235",
+  "name": "Штаны NovaTech Lite698 #000235",
+  "description": "Штаны бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 29120.48,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 108,
+    "reserved": 28
+  },
+  "sku": "NovaTech-000235",
+  "tags": [
+    "стиль",
+    "мода",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-Lite698-000235.jpg",
+      "alt": "Штаны NovaTech Lite698 #000235 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-Lite698-000235_side.jpg",
+      "alt": "Штаны NovaTech Lite698 #000235 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1657g",
+    "dimensions": "42mm x 109mm x 40mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-15T10:04:04Z",
+  "updatedAt": "2024-12-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

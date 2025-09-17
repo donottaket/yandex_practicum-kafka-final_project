@@ -1,0 +1,43 @@
+{
+  "productId": "000699",
+  "name": "Планшет Polar X939 #000699",
+  "description": "Планшет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 50976.42,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 134,
+    "reserved": 32
+  },
+  "sku": "Polar-000699",
+  "tags": [
+    "bluetooth",
+    "gps",
+    "android",
+    "гаджеты",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Polar-X939-000699.jpg",
+      "alt": "Планшет Polar X939 #000699 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Polar-X939-000699_side.jpg",
+      "alt": "Планшет Polar X939 #000699 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1394g",
+    "dimensions": "295mm x 193mm x 11mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-22T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

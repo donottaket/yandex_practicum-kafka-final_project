@@ -1,0 +1,42 @@
+{
+  "productId": "000415",
+  "name": "Куртка XYZ Lite75 #000415",
+  "description": "Куртка бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 1443.4,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 440,
+    "reserved": 145
+  },
+  "sku": "XYZ-000415",
+  "tags": [
+    "мода",
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-XYZ-Lite75-000415.jpg",
+      "alt": "Куртка XYZ Lite75 #000415 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-XYZ-Lite75-000415_side.jpg",
+      "alt": "Куртка XYZ Lite75 #000415 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1510g",
+    "dimensions": "82mm x 96mm x 6mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-13T10:04:04Z",
+  "updatedAt": "2025-06-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

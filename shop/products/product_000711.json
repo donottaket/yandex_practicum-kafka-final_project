@@ -1,0 +1,41 @@
+{
+  "productId": "000711",
+  "name": "Фитнес-браслет Vega Pro95 #000711",
+  "description": "Фитнес-браслет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 184124.21,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 189,
+    "reserved": 11
+  },
+  "sku": "Vega-000711",
+  "tags": [
+    "технологии",
+    "гаджеты",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Vega-Pro95-000711.jpg",
+      "alt": "Фитнес-браслет Vega Pro95 #000711 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Vega-Pro95-000711_side.jpg",
+      "alt": "Фитнес-браслет Vega Pro95 #000711 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1001g",
+    "dimensions": "168mm x 97mm x 12mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-23T10:04:04Z",
+  "updatedAt": "2024-12-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

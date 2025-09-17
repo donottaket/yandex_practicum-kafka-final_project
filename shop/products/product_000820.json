@@ -1,0 +1,42 @@
+{
+  "productId": "000820",
+  "name": "Худи Orion Pro12 #000820",
+  "description": "Худи бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 42859.33,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 343,
+    "reserved": 82
+  },
+  "sku": "Orion-000820",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Orion-Pro12-000820.jpg",
+      "alt": "Худи Orion Pro12 #000820 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Orion-Pro12-000820_side.jpg",
+      "alt": "Худи Orion Pro12 #000820 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "786g",
+    "dimensions": "285mm x 61mm x 19mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-18T10:04:04Z",
+  "updatedAt": "2025-04-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

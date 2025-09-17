@@ -1,0 +1,42 @@
+{
+  "productId": "000719",
+  "name": "Футболка Orion S954 #000719",
+  "description": "Футболка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 47119.09,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 2,
+    "reserved": 0
+  },
+  "sku": "Orion-000719",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Orion-S954-000719.jpg",
+      "alt": "Футболка Orion S954 #000719 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Orion-S954-000719_side.jpg",
+      "alt": "Футболка Orion S954 #000719 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1270g",
+    "dimensions": "150mm x 81mm x 18mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-30T10:04:04Z",
+  "updatedAt": "2025-03-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

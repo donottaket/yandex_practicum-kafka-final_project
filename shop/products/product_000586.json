@@ -1,0 +1,40 @@
+{
+  "productId": "000586",
+  "name": "Кофемашина Neon S954 #000586",
+  "description": "Кофемашина бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 9344.22,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 481,
+    "reserved": 111
+  },
+  "sku": "Neon-000586",
+  "tags": [
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-S954-000586.jpg",
+      "alt": "Кофемашина Neon S954 #000586 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-S954-000586_side.jpg",
+      "alt": "Кофемашина Neon S954 #000586 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1656g",
+    "dimensions": "61mm x 62mm x 50mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-03T10:04:04Z",
+  "updatedAt": "2024-12-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

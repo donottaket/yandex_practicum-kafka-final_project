@@ -1,0 +1,42 @@
+{
+  "productId": "000990",
+  "name": "Футболка XYZ Max858 #000990",
+  "description": "Футболка бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 12007.2,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 150,
+    "reserved": 15
+  },
+  "sku": "XYZ-000990",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-XYZ-Max858-000990.jpg",
+      "alt": "Футболка XYZ Max858 #000990 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-XYZ-Max858-000990_side.jpg",
+      "alt": "Футболка XYZ Max858 #000990 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1166g",
+    "dimensions": "115mm x 66mm x 13mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-10T10:04:04Z",
+  "updatedAt": "2025-08-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

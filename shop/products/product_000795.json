@@ -1,0 +1,42 @@
+{
+  "productId": "000795",
+  "name": "Спортивные часы Neon X710 #000795",
+  "description": "Спортивные часы бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 52899.6,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 477,
+    "reserved": 59
+  },
+  "sku": "Neon-000795",
+  "tags": [
+    "активность",
+    "outdoor",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-X710-000795.jpg",
+      "alt": "Спортивные часы Neon X710 #000795 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-X710-000795_side.jpg",
+      "alt": "Спортивные часы Neon X710 #000795 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "145g",
+    "dimensions": "88mm x 168mm x 31mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-24T10:04:04Z",
+  "updatedAt": "2025-02-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

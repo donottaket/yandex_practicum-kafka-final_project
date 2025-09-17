@@ -1,0 +1,42 @@
+{
+  "productId": "000598",
+  "name": "Чайник Neon Lite307 #000598",
+  "description": "Чайник бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 72485.23,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 124,
+    "reserved": 48
+  },
+  "sku": "Neon-000598",
+  "tags": [
+    "умный дом",
+    "дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Neon-Lite307-000598.jpg",
+      "alt": "Чайник Neon Lite307 #000598 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Neon-Lite307-000598_side.jpg",
+      "alt": "Чайник Neon Lite307 #000598 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "615g",
+    "dimensions": "77mm x 162mm x 43mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-01T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000514",
+  "name": "Смарт-велокомпьютер Quantum Pro391 #000514",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 43753.16,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 477,
+    "reserved": 235
+  },
+  "sku": "Quantum-000514",
+  "tags": [
+    "outdoor",
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Pro391-000514.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Pro391 #000514 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Pro391-000514_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Pro391 #000514 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1193g",
+    "dimensions": "103mm x 64mm x 8mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-24T10:04:04Z",
+  "updatedAt": "2025-04-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000469",
+  "name": "Худи Quantum Pro154 #000469",
+  "description": "Худи бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 31390.71,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 306,
+    "reserved": 53
+  },
+  "sku": "Quantum-000469",
+  "tags": [
+    "стиль",
+    "мода",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Quantum-Pro154-000469.jpg",
+      "alt": "Худи Quantum Pro154 #000469 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Quantum-Pro154-000469_side.jpg",
+      "alt": "Худи Quantum Pro154 #000469 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "387g",
+    "dimensions": "201mm x 197mm x 30mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-23T10:04:04Z",
+  "updatedAt": "2025-06-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

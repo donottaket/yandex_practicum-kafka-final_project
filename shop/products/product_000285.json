@@ -1,0 +1,40 @@
+{
+  "productId": "000285",
+  "name": "Фитнес-трекер XYZ S813 #000285",
+  "description": "Фитнес-трекер бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 64751.67,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 232,
+    "reserved": 57
+  },
+  "sku": "XYZ-000285",
+  "tags": [
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-XYZ-S813-000285.jpg",
+      "alt": "Фитнес-трекер XYZ S813 #000285 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-XYZ-S813-000285_side.jpg",
+      "alt": "Фитнес-трекер XYZ S813 #000285 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "73g",
+    "dimensions": "182mm x 185mm x 6mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-31T10:04:04Z",
+  "updatedAt": "2025-06-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

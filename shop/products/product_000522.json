@@ -1,0 +1,41 @@
+{
+  "productId": "000522",
+  "name": "Фитнес-трекер Lumen Pro182 #000522",
+  "description": "Фитнес-трекер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 10441.82,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 222,
+    "reserved": 74
+  },
+  "sku": "Lumen-000522",
+  "tags": [
+    "спорт",
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Pro182-000522.jpg",
+      "alt": "Фитнес-трекер Lumen Pro182 #000522 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Pro182-000522_side.jpg",
+      "alt": "Фитнес-трекер Lumen Pro182 #000522 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1372g",
+    "dimensions": "116mm x 173mm x 39mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-05T10:04:04Z",
+  "updatedAt": "2025-01-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

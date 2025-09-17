@@ -1,0 +1,40 @@
+{
+  "productId": "000424",
+  "name": "Худи Vega Pro353 #000424",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 24506.41,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 424,
+    "reserved": 92
+  },
+  "sku": "Vega-000424",
+  "tags": [
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-Pro353-000424.jpg",
+      "alt": "Худи Vega Pro353 #000424 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-Pro353-000424_side.jpg",
+      "alt": "Худи Vega Pro353 #000424 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "848g",
+    "dimensions": "246mm x 22mm x 16mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-30T10:04:04Z",
+  "updatedAt": "2025-07-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

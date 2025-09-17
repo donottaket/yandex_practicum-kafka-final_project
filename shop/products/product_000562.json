@@ -1,0 +1,42 @@
+{
+  "productId": "000562",
+  "name": "Планшет Astra Plus953 #000562",
+  "description": "Планшет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 182803.71,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 485,
+    "reserved": 45
+  },
+  "sku": "Astra-000562",
+  "tags": [
+    "gps",
+    "гаджеты",
+    "ios",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Astra-Plus953-000562.jpg",
+      "alt": "Планшет Astra Plus953 #000562 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Astra-Plus953-000562_side.jpg",
+      "alt": "Планшет Astra Plus953 #000562 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "498g",
+    "dimensions": "233mm x 79mm x 38mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-12T10:04:04Z",
+  "updatedAt": "2025-07-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

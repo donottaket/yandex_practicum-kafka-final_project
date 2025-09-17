@@ -1,0 +1,42 @@
+{
+  "productId": "000844",
+  "name": "Умные часы XYZ X729 #000844",
+  "description": "Умные часы бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 166461.77,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 74,
+    "reserved": 24
+  },
+  "sku": "XYZ-000844",
+  "tags": [
+    "гаджеты",
+    "gps",
+    "технологии",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-XYZ-X729-000844.jpg",
+      "alt": "Умные часы XYZ X729 #000844 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-XYZ-X729-000844_side.jpg",
+      "alt": "Умные часы XYZ X729 #000844 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "993g",
+    "dimensions": "75mm x 108mm x 11mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-10T10:04:04Z",
+  "updatedAt": "2025-08-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

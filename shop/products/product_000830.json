@@ -1,0 +1,43 @@
+{
+  "productId": "000830",
+  "name": "Робот-пылесос Orion 516 #000830",
+  "description": "Робот-пылесос бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 68855.57,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 161,
+    "reserved": 10
+  },
+  "sku": "Orion-000830",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "тихий",
+    "экономия энергии",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Orion-516-000830.jpg",
+      "alt": "Робот-пылесос Orion 516 #000830 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Orion-516-000830_side.jpg",
+      "alt": "Робот-пылесос Orion 516 #000830 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "770g",
+    "dimensions": "298mm x 95mm x 36mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-06T10:04:04Z",
+  "updatedAt": "2025-03-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

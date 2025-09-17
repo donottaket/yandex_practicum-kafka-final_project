@@ -1,0 +1,43 @@
+{
+  "productId": "000046",
+  "name": "Пульсометр NovaTech Lite362 #000046",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 61702.37,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 71,
+    "reserved": 19
+  },
+  "sku": "NovaTech-000046",
+  "tags": [
+    "здоровье",
+    "gps",
+    "outdoor",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Lite362-000046.jpg",
+      "alt": "Пульсометр NovaTech Lite362 #000046 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Lite362-000046_side.jpg",
+      "alt": "Пульсометр NovaTech Lite362 #000046 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "451g",
+    "dimensions": "181mm x 68mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-17T10:04:04Z",
+  "updatedAt": "2024-10-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

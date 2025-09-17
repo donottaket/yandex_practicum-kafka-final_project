@@ -1,0 +1,42 @@
+{
+  "productId": "000934",
+  "name": "Увлажнитель воздуха Vega S854 #000934",
+  "description": "Увлажнитель воздуха бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 21771.67,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 96,
+    "reserved": 13
+  },
+  "sku": "Vega-000934",
+  "tags": [
+    "дом",
+    "тихий",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-S854-000934.jpg",
+      "alt": "Увлажнитель воздуха Vega S854 #000934 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-S854-000934_side.jpg",
+      "alt": "Увлажнитель воздуха Vega S854 #000934 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1563g",
+    "dimensions": "113mm x 41mm x 49mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-20T10:04:04Z",
+  "updatedAt": "2025-02-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

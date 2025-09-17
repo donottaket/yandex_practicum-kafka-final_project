@@ -1,0 +1,43 @@
+{
+  "productId": "000628",
+  "name": "Фитнес-браслет Orion X398 #000628",
+  "description": "Фитнес-браслет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 127948.59,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 422,
+    "reserved": 57
+  },
+  "sku": "Orion-000628",
+  "tags": [
+    "android",
+    "gps",
+    "ios",
+    "технологии",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-X398-000628.jpg",
+      "alt": "Фитнес-браслет Orion X398 #000628 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-X398-000628_side.jpg",
+      "alt": "Фитнес-браслет Orion X398 #000628 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1251g",
+    "dimensions": "124mm x 46mm x 15mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-03T10:04:04Z",
+  "updatedAt": "2025-05-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

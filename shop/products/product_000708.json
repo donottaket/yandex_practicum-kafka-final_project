@@ -1,0 +1,42 @@
+{
+  "productId": "000708",
+  "name": "Увлажнитель воздуха XYZ S682 #000708",
+  "description": "Увлажнитель воздуха бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 9545.31,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 151,
+    "reserved": 73
+  },
+  "sku": "XYZ-000708",
+  "tags": [
+    "тихий",
+    "умный дом",
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-S682-000708.jpg",
+      "alt": "Увлажнитель воздуха XYZ S682 #000708 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-S682-000708_side.jpg",
+      "alt": "Увлажнитель воздуха XYZ S682 #000708 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "759g",
+    "dimensions": "268mm x 51mm x 33mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-19T10:04:04Z",
+  "updatedAt": "2025-07-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

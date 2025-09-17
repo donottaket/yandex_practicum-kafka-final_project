@@ -1,0 +1,40 @@
+{
+  "productId": "000208",
+  "name": "Увлажнитель воздуха Orion Lite136 #000208",
+  "description": "Увлажнитель воздуха бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 10219.86,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 445,
+    "reserved": 128
+  },
+  "sku": "Orion-000208",
+  "tags": [
+    "кухня",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Orion-Lite136-000208.jpg",
+      "alt": "Увлажнитель воздуха Orion Lite136 #000208 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Orion-Lite136-000208_side.jpg",
+      "alt": "Увлажнитель воздуха Orion Lite136 #000208 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1072g",
+    "dimensions": "40mm x 83mm x 38mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-25T10:04:04Z",
+  "updatedAt": "2025-05-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000967",
+  "name": "Худи XYZ Lite27 #000967",
+  "description": "Худи бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 25800.87,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 370,
+    "reserved": 106
+  },
+  "sku": "XYZ-000967",
+  "tags": [
+    "повседневное",
+    "мода",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-XYZ-Lite27-000967.jpg",
+      "alt": "Худи XYZ Lite27 #000967 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-XYZ-Lite27-000967_side.jpg",
+      "alt": "Худи XYZ Lite27 #000967 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1024g",
+    "dimensions": "110mm x 24mm x 11mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-15T10:04:04Z",
+  "updatedAt": "2024-12-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

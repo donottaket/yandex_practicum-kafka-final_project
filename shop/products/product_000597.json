@@ -1,0 +1,43 @@
+{
+  "productId": "000597",
+  "name": "Спортивные часы Orion Max335 #000597",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 23433.17,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 152,
+    "reserved": 24
+  },
+  "sku": "Orion-000597",
+  "tags": [
+    "outdoor",
+    "активность",
+    "спорт",
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Max335-000597.jpg",
+      "alt": "Спортивные часы Orion Max335 #000597 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Max335-000597_side.jpg",
+      "alt": "Спортивные часы Orion Max335 #000597 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "845g",
+    "dimensions": "168mm x 71mm x 42mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-27T10:04:04Z",
+  "updatedAt": "2025-06-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

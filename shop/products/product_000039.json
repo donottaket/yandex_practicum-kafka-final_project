@@ -1,0 +1,41 @@
+{
+  "productId": "000039",
+  "name": "Кроссовки Polar X664 #000039",
+  "description": "Кроссовки бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 33860.01,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 484,
+    "reserved": 166
+  },
+  "sku": "Polar-000039",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-X664-000039.jpg",
+      "alt": "Кроссовки Polar X664 #000039 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-X664-000039_side.jpg",
+      "alt": "Кроссовки Polar X664 #000039 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "758g",
+    "dimensions": "135mm x 32mm x 12mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-08-07T10:04:04Z",
+  "updatedAt": "2025-08-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

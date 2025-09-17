@@ -1,0 +1,42 @@
+{
+  "productId": "000353",
+  "name": "Фитнес-трекер Vega Pro588 #000353",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 48968.94,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 149,
+    "reserved": 4
+  },
+  "sku": "Vega-000353",
+  "tags": [
+    "outdoor",
+    "активность",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro588-000353.jpg",
+      "alt": "Фитнес-трекер Vega Pro588 #000353 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro588-000353_side.jpg",
+      "alt": "Фитнес-трекер Vega Pro588 #000353 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1864g",
+    "dimensions": "46mm x 30mm x 42mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-07T10:04:04Z",
+  "updatedAt": "2025-02-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

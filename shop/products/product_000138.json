@@ -1,0 +1,43 @@
+{
+  "productId": "000138",
+  "name": "Увлажнитель воздуха XYZ S713 #000138",
+  "description": "Увлажнитель воздуха бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 10882.63,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 142,
+    "reserved": 8
+  },
+  "sku": "XYZ-000138",
+  "tags": [
+    "кухня",
+    "дом",
+    "тихий",
+    "умный дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-S713-000138.jpg",
+      "alt": "Увлажнитель воздуха XYZ S713 #000138 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-S713-000138_side.jpg",
+      "alt": "Увлажнитель воздуха XYZ S713 #000138 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "965g",
+    "dimensions": "170mm x 190mm x 33mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-05T10:04:04Z",
+  "updatedAt": "2025-02-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

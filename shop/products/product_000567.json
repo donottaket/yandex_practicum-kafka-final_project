@@ -1,0 +1,42 @@
+{
+  "productId": "000567",
+  "name": "Худи Lumen 223 #000567",
+  "description": "Худи бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 37927.15,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 54,
+    "reserved": 17
+  },
+  "sku": "Lumen-000567",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Lumen-223-000567.jpg",
+      "alt": "Худи Lumen 223 #000567 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Lumen-223-000567_side.jpg",
+      "alt": "Худи Lumen 223 #000567 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1988g",
+    "dimensions": "45mm x 125mm x 30mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-20T10:04:04Z",
+  "updatedAt": "2024-12-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

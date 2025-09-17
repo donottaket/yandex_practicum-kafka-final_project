@@ -1,0 +1,40 @@
+{
+  "productId": "000266",
+  "name": "Планшет Quantum Max425 #000266",
+  "description": "Планшет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 132739.66,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 31,
+    "reserved": 12
+  },
+  "sku": "Quantum-000266",
+  "tags": [
+    "технологии",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Quantum-Max425-000266.jpg",
+      "alt": "Планшет Quantum Max425 #000266 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Quantum-Max425-000266_side.jpg",
+      "alt": "Планшет Quantum Max425 #000266 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1785g",
+    "dimensions": "203mm x 147mm x 6mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-30T10:04:04Z",
+  "updatedAt": "2025-06-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

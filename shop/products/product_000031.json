@@ -1,0 +1,42 @@
+{
+  "productId": "000031",
+  "name": "Фитнес-браслет Quantum Lite420 #000031",
+  "description": "Фитнес-браслет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 10450.88,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 418,
+    "reserved": 111
+  },
+  "sku": "Quantum-000031",
+  "tags": [
+    "гаджеты",
+    "технологии",
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Lite420-000031.jpg",
+      "alt": "Фитнес-браслет Quantum Lite420 #000031 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Lite420-000031_side.jpg",
+      "alt": "Фитнес-браслет Quantum Lite420 #000031 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1145g",
+    "dimensions": "189mm x 199mm x 6mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-27T10:04:04Z",
+  "updatedAt": "2024-12-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

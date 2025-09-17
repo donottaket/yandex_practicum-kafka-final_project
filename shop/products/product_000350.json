@@ -1,0 +1,40 @@
+{
+  "productId": "000350",
+  "name": "Блендер Astra Pro808 #000350",
+  "description": "Блендер бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42283.56,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 158,
+    "reserved": 47
+  },
+  "sku": "Astra-000350",
+  "tags": [
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Astra-Pro808-000350.jpg",
+      "alt": "Блендер Astra Pro808 #000350 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Astra-Pro808-000350_side.jpg",
+      "alt": "Блендер Astra Pro808 #000350 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "991g",
+    "dimensions": "288mm x 28mm x 33mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-19T10:04:04Z",
+  "updatedAt": "2025-01-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

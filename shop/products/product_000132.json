@@ -1,0 +1,40 @@
+{
+  "productId": "000132",
+  "name": "Смарт-велокомпьютер Astra Max821 #000132",
+  "description": "Смарт-велокомпьютер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 83654.84,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 247,
+    "reserved": 0
+  },
+  "sku": "Astra-000132",
+  "tags": [
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Astra-Max821-000132.jpg",
+      "alt": "Смарт-велокомпьютер Astra Max821 #000132 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Astra-Max821-000132_side.jpg",
+      "alt": "Смарт-велокомпьютер Astra Max821 #000132 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "273g",
+    "dimensions": "225mm x 154mm x 28mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-14T10:04:04Z",
+  "updatedAt": "2024-10-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

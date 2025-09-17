@@ -1,0 +1,43 @@
+{
+  "productId": "000489",
+  "name": "Планшет NovaTech Pro368 #000489",
+  "description": "Планшет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 169495.19,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 417,
+    "reserved": 204
+  },
+  "sku": "NovaTech-000489",
+  "tags": [
+    "ios",
+    "gps",
+    "oled",
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Pro368-000489.jpg",
+      "alt": "Планшет NovaTech Pro368 #000489 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Pro368-000489_side.jpg",
+      "alt": "Планшет NovaTech Pro368 #000489 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "759g",
+    "dimensions": "222mm x 142mm x 40mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-20T10:04:04Z",
+  "updatedAt": "2025-03-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

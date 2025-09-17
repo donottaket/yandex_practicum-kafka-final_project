@@ -1,0 +1,41 @@
+{
+  "productId": "000717",
+  "name": "Штаны Orion S559 #000717",
+  "description": "Штаны бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 18317.45,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 294,
+    "reserved": 42
+  },
+  "sku": "Orion-000717",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Orion-S559-000717.jpg",
+      "alt": "Штаны Orion S559 #000717 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Orion-S559-000717_side.jpg",
+      "alt": "Штаны Orion S559 #000717 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1583g",
+    "dimensions": "124mm x 62mm x 26mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-09-17T10:04:04Z",
+  "updatedAt": "2024-11-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

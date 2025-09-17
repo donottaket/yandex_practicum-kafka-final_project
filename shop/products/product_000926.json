@@ -1,0 +1,42 @@
+{
+  "productId": "000926",
+  "name": "Штаны ACME 441 #000926",
+  "description": "Штаны бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 36834.99,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 110,
+    "reserved": 41
+  },
+  "sku": "ACME-000926",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-ACME-441-000926.jpg",
+      "alt": "Штаны ACME 441 #000926 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-ACME-441-000926_side.jpg",
+      "alt": "Штаны ACME 441 #000926 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1173g",
+    "dimensions": "204mm x 173mm x 49mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-28T10:04:04Z",
+  "updatedAt": "2024-12-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

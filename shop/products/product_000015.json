@@ -1,0 +1,40 @@
+{
+  "productId": "000015",
+  "name": "Блендер Vega Lite622 #000015",
+  "description": "Блендер бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 18968.59,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 258,
+    "reserved": 73
+  },
+  "sku": "Vega-000015",
+  "tags": [
+    "умный дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Vega-Lite622-000015.jpg",
+      "alt": "Блендер Vega Lite622 #000015 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Vega-Lite622-000015_side.jpg",
+      "alt": "Блендер Vega Lite622 #000015 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1868g",
+    "dimensions": "62mm x 84mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-29T10:04:04Z",
+  "updatedAt": "2025-08-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

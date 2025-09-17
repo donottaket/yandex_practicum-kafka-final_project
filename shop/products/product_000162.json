@@ -1,0 +1,41 @@
+{
+  "productId": "000162",
+  "name": "Умные часы Polar X83 #000162",
+  "description": "Умные часы бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 11928.25,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 145,
+    "reserved": 14
+  },
+  "sku": "Polar-000162",
+  "tags": [
+    "ios",
+    "gps",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-X83-000162.jpg",
+      "alt": "Умные часы Polar X83 #000162 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-X83-000162_side.jpg",
+      "alt": "Умные часы Polar X83 #000162 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "225g",
+    "dimensions": "134mm x 100mm x 47mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-10T10:04:04Z",
+  "updatedAt": "2025-04-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

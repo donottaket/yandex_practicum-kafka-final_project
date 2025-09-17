@@ -1,0 +1,43 @@
+{
+  "productId": "000647",
+  "name": "Умные часы Astra Max968 #000647",
+  "description": "Умные часы бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 123082.15,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 94,
+    "reserved": 39
+  },
+  "sku": "Astra-000647",
+  "tags": [
+    "android",
+    "bluetooth",
+    "ios",
+    "гаджеты",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-Max968-000647.jpg",
+      "alt": "Умные часы Astra Max968 #000647 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-Max968-000647_side.jpg",
+      "alt": "Умные часы Astra Max968 #000647 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1452g",
+    "dimensions": "105mm x 30mm x 30mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-22T10:04:04Z",
+  "updatedAt": "2024-10-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

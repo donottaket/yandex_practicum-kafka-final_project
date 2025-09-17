@@ -1,0 +1,42 @@
+{
+  "productId": "000498",
+  "name": "Футболка Polar Lite172 #000498",
+  "description": "Футболка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 35283.03,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 104,
+    "reserved": 12
+  },
+  "sku": "Polar-000498",
+  "tags": [
+    "повседневное",
+    "мода",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Polar-Lite172-000498.jpg",
+      "alt": "Футболка Polar Lite172 #000498 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Polar-Lite172-000498_side.jpg",
+      "alt": "Футболка Polar Lite172 #000498 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1563g",
+    "dimensions": "34mm x 53mm x 14mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-29T10:04:04Z",
+  "updatedAt": "2025-04-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

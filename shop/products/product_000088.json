@@ -1,0 +1,40 @@
+{
+  "productId": "000088",
+  "name": "Планшет Orion X838 #000088",
+  "description": "Планшет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 185441.19,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 94,
+    "reserved": 20
+  },
+  "sku": "Orion-000088",
+  "tags": [
+    "технологии",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Orion-X838-000088.jpg",
+      "alt": "Планшет Orion X838 #000088 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Orion-X838-000088_side.jpg",
+      "alt": "Планшет Orion X838 #000088 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1809g",
+    "dimensions": "295mm x 51mm x 22mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-31T10:04:04Z",
+  "updatedAt": "2025-02-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

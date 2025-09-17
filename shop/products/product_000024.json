@@ -1,0 +1,40 @@
+{
+  "productId": "000024",
+  "name": "Пульсометр Neon Max389 #000024",
+  "description": "Пульсометр бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 35625.67,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 433,
+    "reserved": 106
+  },
+  "sku": "Neon-000024",
+  "tags": [
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Neon-Max389-000024.jpg",
+      "alt": "Пульсометр Neon Max389 #000024 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Neon-Max389-000024_side.jpg",
+      "alt": "Пульсометр Neon Max389 #000024 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1463g",
+    "dimensions": "31mm x 109mm x 37mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-28T10:04:04Z",
+  "updatedAt": "2024-10-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

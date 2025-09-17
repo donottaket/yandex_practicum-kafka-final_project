@@ -1,0 +1,42 @@
+{
+  "productId": "000069",
+  "name": "Блендер NovaTech Lite986 #000069",
+  "description": "Блендер бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 69349.98,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 318,
+    "reserved": 148
+  },
+  "sku": "NovaTech-000069",
+  "tags": [
+    "умный дом",
+    "дом",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-Lite986-000069.jpg",
+      "alt": "Блендер NovaTech Lite986 #000069 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-Lite986-000069_side.jpg",
+      "alt": "Блендер NovaTech Lite986 #000069 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "612g",
+    "dimensions": "286mm x 39mm x 21mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-28T10:04:04Z",
+  "updatedAt": "2024-11-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

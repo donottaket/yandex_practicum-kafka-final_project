@@ -1,0 +1,42 @@
+{
+  "productId": "000146",
+  "name": "Футболка Vega X742 #000146",
+  "description": "Футболка бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 33097.95,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 346,
+    "reserved": 57
+  },
+  "sku": "Vega-000146",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Vega-X742-000146.jpg",
+      "alt": "Футболка Vega X742 #000146 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Vega-X742-000146_side.jpg",
+      "alt": "Футболка Vega X742 #000146 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1814g",
+    "dimensions": "260mm x 21mm x 15mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-08T10:04:04Z",
+  "updatedAt": "2024-12-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

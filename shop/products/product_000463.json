@@ -1,0 +1,42 @@
+{
+  "productId": "000463",
+  "name": "Фитнес-браслет Lumen Max214 #000463",
+  "description": "Фитнес-браслет бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 75553.27,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 328,
+    "reserved": 157
+  },
+  "sku": "Lumen-000463",
+  "tags": [
+    "bluetooth",
+    "gps",
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Lumen-Max214-000463.jpg",
+      "alt": "Фитнес-браслет Lumen Max214 #000463 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Lumen-Max214-000463_side.jpg",
+      "alt": "Фитнес-браслет Lumen Max214 #000463 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1778g",
+    "dimensions": "104mm x 196mm x 28mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-01T10:04:04Z",
+  "updatedAt": "2024-11-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

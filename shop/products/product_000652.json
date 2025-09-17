@@ -1,0 +1,42 @@
+{
+  "productId": "000652",
+  "name": "Футболка XYZ S147 #000652",
+  "description": "Футболка бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 48706.99,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 301,
+    "reserved": 88
+  },
+  "sku": "XYZ-000652",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-XYZ-S147-000652.jpg",
+      "alt": "Футболка XYZ S147 #000652 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-XYZ-S147-000652_side.jpg",
+      "alt": "Футболка XYZ S147 #000652 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "628g",
+    "dimensions": "262mm x 147mm x 19mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-03T10:04:04Z",
+  "updatedAt": "2024-11-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

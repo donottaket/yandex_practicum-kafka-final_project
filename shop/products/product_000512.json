@@ -1,0 +1,41 @@
+{
+  "productId": "000512",
+  "name": "Спортивные часы ACME X217 #000512",
+  "description": "Спортивные часы бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 21513.88,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 237,
+    "reserved": 11
+  },
+  "sku": "ACME-000512",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-X217-000512.jpg",
+      "alt": "Спортивные часы ACME X217 #000512 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-X217-000512_side.jpg",
+      "alt": "Спортивные часы ACME X217 #000512 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "738g",
+    "dimensions": "169mm x 116mm x 47mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-30T10:04:04Z",
+  "updatedAt": "2025-07-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

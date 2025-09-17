@@ -1,0 +1,41 @@
+{
+  "productId": "000062",
+  "name": "Блендер XYZ Lite676 #000062",
+  "description": "Блендер бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 11797.17,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 446,
+    "reserved": 157
+  },
+  "sku": "XYZ-000062",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-XYZ-Lite676-000062.jpg",
+      "alt": "Блендер XYZ Lite676 #000062 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-XYZ-Lite676-000062_side.jpg",
+      "alt": "Блендер XYZ Lite676 #000062 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1242g",
+    "dimensions": "293mm x 117mm x 29mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-20T10:04:04Z",
+  "updatedAt": "2025-04-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

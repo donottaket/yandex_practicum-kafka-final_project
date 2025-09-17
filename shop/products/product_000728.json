@@ -1,0 +1,43 @@
+{
+  "productId": "000728",
+  "name": "Блендер NovaTech Max787 #000728",
+  "description": "Блендер бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 38072.99,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 110,
+    "reserved": 12
+  },
+  "sku": "NovaTech-000728",
+  "tags": [
+    "экономия энергии",
+    "тихий",
+    "умный дом",
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-Max787-000728.jpg",
+      "alt": "Блендер NovaTech Max787 #000728 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-Max787-000728_side.jpg",
+      "alt": "Блендер NovaTech Max787 #000728 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1694g",
+    "dimensions": "111mm x 130mm x 39mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-22T10:04:04Z",
+  "updatedAt": "2025-03-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

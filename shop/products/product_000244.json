@@ -1,0 +1,40 @@
+{
+  "productId": "000244",
+  "name": "Худи Astra S954 #000244",
+  "description": "Худи бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 37608.94,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 156,
+    "reserved": 64
+  },
+  "sku": "Astra-000244",
+  "tags": [
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Astra-S954-000244.jpg",
+      "alt": "Худи Astra S954 #000244 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Astra-S954-000244_side.jpg",
+      "alt": "Худи Astra S954 #000244 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1297g",
+    "dimensions": "141mm x 80mm x 18mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-08T10:04:04Z",
+  "updatedAt": "2025-02-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

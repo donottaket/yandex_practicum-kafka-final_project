@@ -1,0 +1,40 @@
+{
+  "productId": "000293",
+  "name": "Спортивные часы Vega Max244 #000293",
+  "description": "Спортивные часы бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 22102.42,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 38,
+    "reserved": 14
+  },
+  "sku": "Vega-000293",
+  "tags": [
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-Max244-000293.jpg",
+      "alt": "Спортивные часы Vega Max244 #000293 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-Max244-000293_side.jpg",
+      "alt": "Спортивные часы Vega Max244 #000293 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1351g",
+    "dimensions": "49mm x 140mm x 28mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-19T10:04:04Z",
+  "updatedAt": "2025-04-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

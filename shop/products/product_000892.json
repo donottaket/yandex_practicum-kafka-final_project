@@ -1,0 +1,41 @@
+{
+  "productId": "000892",
+  "name": "Увлажнитель воздуха Astra Pro774 #000892",
+  "description": "Увлажнитель воздуха бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 78237.74,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 9,
+    "reserved": 2
+  },
+  "sku": "Astra-000892",
+  "tags": [
+    "кухня",
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Astra-Pro774-000892.jpg",
+      "alt": "Увлажнитель воздуха Astra Pro774 #000892 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Astra-Pro774-000892_side.jpg",
+      "alt": "Увлажнитель воздуха Astra Pro774 #000892 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1770g",
+    "dimensions": "265mm x 111mm x 6mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-25T10:04:04Z",
+  "updatedAt": "2025-05-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

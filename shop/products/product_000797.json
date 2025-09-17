@@ -1,0 +1,42 @@
+{
+  "productId": "000797",
+  "name": "Фитнес-трекер Vega Max945 #000797",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 78089.76,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 119,
+    "reserved": 53
+  },
+  "sku": "Vega-000797",
+  "tags": [
+    "outdoor",
+    "gps",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Max945-000797.jpg",
+      "alt": "Фитнес-трекер Vega Max945 #000797 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Max945-000797_side.jpg",
+      "alt": "Фитнес-трекер Vega Max945 #000797 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "755g",
+    "dimensions": "59mm x 147mm x 17mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-22T10:04:04Z",
+  "updatedAt": "2025-03-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

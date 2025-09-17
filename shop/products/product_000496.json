@@ -1,0 +1,42 @@
+{
+  "productId": "000496",
+  "name": "Увлажнитель воздуха Quantum 433 #000496",
+  "description": "Увлажнитель воздуха бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 59263.25,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 383,
+    "reserved": 105
+  },
+  "sku": "Quantum-000496",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-433-000496.jpg",
+      "alt": "Увлажнитель воздуха Quantum 433 #000496 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-433-000496_side.jpg",
+      "alt": "Увлажнитель воздуха Quantum 433 #000496 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1436g",
+    "dimensions": "228mm x 179mm x 38mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-08-08T10:04:04Z",
+  "updatedAt": "2025-09-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

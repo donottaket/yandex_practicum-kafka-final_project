@@ -1,0 +1,40 @@
+{
+  "productId": "000403",
+  "name": "Планшет Vega 941 #000403",
+  "description": "Планшет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 77073.02,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 489,
+    "reserved": 123
+  },
+  "sku": "Vega-000403",
+  "tags": [
+    "android",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Vega-941-000403.jpg",
+      "alt": "Планшет Vega 941 #000403 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Vega-941-000403_side.jpg",
+      "alt": "Планшет Vega 941 #000403 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "344g",
+    "dimensions": "59mm x 139mm x 34mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-31T10:04:04Z",
+  "updatedAt": "2025-04-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

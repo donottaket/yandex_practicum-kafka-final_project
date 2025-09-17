@@ -1,0 +1,43 @@
+{
+  "productId": "000786",
+  "name": "Умные часы Lumen X918 #000786",
+  "description": "Умные часы бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 16163.95,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 487,
+    "reserved": 99
+  },
+  "sku": "Lumen-000786",
+  "tags": [
+    "oled",
+    "bluetooth",
+    "android",
+    "ios",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-X918-000786.jpg",
+      "alt": "Умные часы Lumen X918 #000786 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-X918-000786_side.jpg",
+      "alt": "Умные часы Lumen X918 #000786 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "350g",
+    "dimensions": "217mm x 110mm x 9mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-11T10:04:04Z",
+  "updatedAt": "2024-10-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

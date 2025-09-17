@@ -1,0 +1,42 @@
+{
+  "productId": "000640",
+  "name": "Куртка Orion Plus460 #000640",
+  "description": "Куртка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 32346.25,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 288,
+    "reserved": 75
+  },
+  "sku": "Orion-000640",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Orion-Plus460-000640.jpg",
+      "alt": "Куртка Orion Plus460 #000640 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Orion-Plus460-000640_side.jpg",
+      "alt": "Куртка Orion Plus460 #000640 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1181g",
+    "dimensions": "91mm x 76mm x 32mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-18T10:04:04Z",
+  "updatedAt": "2025-04-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000735",
+  "name": "Наушники XYZ S750 #000735",
+  "description": "Наушники бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 70761.14,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 371,
+    "reserved": 170
+  },
+  "sku": "XYZ-000735",
+  "tags": [
+    "ios",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-XYZ-S750-000735.jpg",
+      "alt": "Наушники XYZ S750 #000735 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-XYZ-S750-000735_side.jpg",
+      "alt": "Наушники XYZ S750 #000735 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "726g",
+    "dimensions": "120mm x 185mm x 27mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-03T10:04:04Z",
+  "updatedAt": "2025-07-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

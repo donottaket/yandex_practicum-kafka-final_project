@@ -1,0 +1,41 @@
+{
+  "productId": "000079",
+  "name": "Спортивные часы Orion Lite55 #000079",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 29319.86,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 398,
+    "reserved": 164
+  },
+  "sku": "Orion-000079",
+  "tags": [
+    "здоровье",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Lite55-000079.jpg",
+      "alt": "Спортивные часы Orion Lite55 #000079 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Lite55-000079_side.jpg",
+      "alt": "Спортивные часы Orion Lite55 #000079 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1399g",
+    "dimensions": "125mm x 169mm x 11mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-24T10:04:04Z",
+  "updatedAt": "2025-05-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

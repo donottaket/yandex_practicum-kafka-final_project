@@ -1,0 +1,42 @@
+{
+  "productId": "000376",
+  "name": "Куртка Quantum 984 #000376",
+  "description": "Куртка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 15387.85,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 214,
+    "reserved": 28
+  },
+  "sku": "Quantum-000376",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Quantum-984-000376.jpg",
+      "alt": "Куртка Quantum 984 #000376 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Quantum-984-000376_side.jpg",
+      "alt": "Куртка Quantum 984 #000376 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1163g",
+    "dimensions": "206mm x 27mm x 18mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-18T10:04:04Z",
+  "updatedAt": "2025-04-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

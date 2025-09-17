@@ -1,0 +1,42 @@
+{
+  "productId": "000456",
+  "name": "Куртка ACME S17 #000456",
+  "description": "Куртка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 47092.26,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 201,
+    "reserved": 0
+  },
+  "sku": "ACME-000456",
+  "tags": [
+    "удобство",
+    "повседневное",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-ACME-S17-000456.jpg",
+      "alt": "Куртка ACME S17 #000456 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-ACME-S17-000456_side.jpg",
+      "alt": "Куртка ACME S17 #000456 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1298g",
+    "dimensions": "274mm x 111mm x 10mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-23T10:04:04Z",
+  "updatedAt": "2025-01-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

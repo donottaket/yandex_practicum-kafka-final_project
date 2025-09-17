@@ -1,0 +1,41 @@
+{
+  "productId": "000948",
+  "name": "Футболка Vega 929 #000948",
+  "description": "Футболка бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 22403.26,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 37,
+    "reserved": 5
+  },
+  "sku": "Vega-000948",
+  "tags": [
+    "мода",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Vega-929-000948.jpg",
+      "alt": "Футболка Vega 929 #000948 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Vega-929-000948_side.jpg",
+      "alt": "Футболка Vega 929 #000948 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "800g",
+    "dimensions": "120mm x 101mm x 47mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-13T10:04:04Z",
+  "updatedAt": "2025-03-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

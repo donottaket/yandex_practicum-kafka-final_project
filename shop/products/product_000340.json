@@ -1,0 +1,43 @@
+{
+  "productId": "000340",
+  "name": "Увлажнитель воздуха Quantum Lite506 #000340",
+  "description": "Увлажнитель воздуха бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 46071.35,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 18,
+    "reserved": 1
+  },
+  "sku": "Quantum-000340",
+  "tags": [
+    "тихий",
+    "экономия энергии",
+    "кухня",
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-Lite506-000340.jpg",
+      "alt": "Увлажнитель воздуха Quantum Lite506 #000340 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-Lite506-000340_side.jpg",
+      "alt": "Увлажнитель воздуха Quantum Lite506 #000340 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "170g",
+    "dimensions": "177mm x 99mm x 46mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-09-24T10:04:04Z",
+  "updatedAt": "2024-11-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000310",
+  "name": "Футболка XYZ S869 #000310",
+  "description": "Футболка бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 47508.17,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 443,
+    "reserved": 103
+  },
+  "sku": "XYZ-000310",
+  "tags": [
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-XYZ-S869-000310.jpg",
+      "alt": "Футболка XYZ S869 #000310 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-XYZ-S869-000310_side.jpg",
+      "alt": "Футболка XYZ S869 #000310 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "403g",
+    "dimensions": "64mm x 64mm x 20mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-08T10:04:04Z",
+  "updatedAt": "2024-12-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

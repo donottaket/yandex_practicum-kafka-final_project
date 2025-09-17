@@ -1,0 +1,42 @@
+{
+  "productId": "000082",
+  "name": "Наушники Astra Max408 #000082",
+  "description": "Наушники бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 109120.44,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 32,
+    "reserved": 1
+  },
+  "sku": "Astra-000082",
+  "tags": [
+    "android",
+    "гаджеты",
+    "bluetooth",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Astra-Max408-000082.jpg",
+      "alt": "Наушники Astra Max408 #000082 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Astra-Max408-000082_side.jpg",
+      "alt": "Наушники Astra Max408 #000082 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "138g",
+    "dimensions": "290mm x 196mm x 44mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-30T10:04:04Z",
+  "updatedAt": "2025-09-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

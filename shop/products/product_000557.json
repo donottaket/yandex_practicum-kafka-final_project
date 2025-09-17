@@ -1,0 +1,42 @@
+{
+  "productId": "000557",
+  "name": "Куртка Astra Plus639 #000557",
+  "description": "Куртка бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 23437.36,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 183,
+    "reserved": 4
+  },
+  "sku": "Astra-000557",
+  "tags": [
+    "удобство",
+    "мода",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Astra-Plus639-000557.jpg",
+      "alt": "Куртка Astra Plus639 #000557 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Astra-Plus639-000557_side.jpg",
+      "alt": "Куртка Astra Plus639 #000557 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1651g",
+    "dimensions": "77mm x 145mm x 23mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-08-08T10:04:04Z",
+  "updatedAt": "2025-09-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

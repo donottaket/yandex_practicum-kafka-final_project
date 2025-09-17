@@ -1,0 +1,41 @@
+{
+  "productId": "000651",
+  "name": "Смартфон XYZ Plus342 #000651",
+  "description": "Смартфон бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 189581.95,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 215,
+    "reserved": 65
+  },
+  "sku": "XYZ-000651",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-Plus342-000651.jpg",
+      "alt": "Смартфон XYZ Plus342 #000651 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-Plus342-000651_side.jpg",
+      "alt": "Смартфон XYZ Plus342 #000651 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1443g",
+    "dimensions": "126mm x 52mm x 47mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-01T10:04:04Z",
+  "updatedAt": "2025-01-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

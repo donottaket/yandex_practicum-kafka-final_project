@@ -1,0 +1,40 @@
+{
+  "productId": "000779",
+  "name": "Смарт-велокомпьютер NovaTech S129 #000779",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 7834.09,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 274,
+    "reserved": 124
+  },
+  "sku": "NovaTech-000779",
+  "tags": [
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-S129-000779.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech S129 #000779 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-S129-000779_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech S129 #000779 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "944g",
+    "dimensions": "75mm x 36mm x 10mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-26T10:04:04Z",
+  "updatedAt": "2025-02-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

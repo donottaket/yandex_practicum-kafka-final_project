@@ -1,0 +1,42 @@
+{
+  "productId": "000395",
+  "name": "Футболка ACME X734 #000395",
+  "description": "Футболка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 23247.03,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 83,
+    "reserved": 39
+  },
+  "sku": "ACME-000395",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-ACME-X734-000395.jpg",
+      "alt": "Футболка ACME X734 #000395 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-ACME-X734-000395_side.jpg",
+      "alt": "Футболка ACME X734 #000395 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "614g",
+    "dimensions": "267mm x 192mm x 30mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-26T10:04:04Z",
+  "updatedAt": "2025-04-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

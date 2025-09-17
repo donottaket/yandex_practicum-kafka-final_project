@@ -1,0 +1,42 @@
+{
+  "productId": "000074",
+  "name": "Фитнес-трекер Lumen Plus843 #000074",
+  "description": "Фитнес-трекер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 44357.73,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 81,
+    "reserved": 0
+  },
+  "sku": "Lumen-000074",
+  "tags": [
+    "gps",
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Plus843-000074.jpg",
+      "alt": "Фитнес-трекер Lumen Plus843 #000074 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Plus843-000074_side.jpg",
+      "alt": "Фитнес-трекер Lumen Plus843 #000074 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "400g",
+    "dimensions": "181mm x 99mm x 24mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-28T10:04:04Z",
+  "updatedAt": "2025-02-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

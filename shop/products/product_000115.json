@@ -1,0 +1,41 @@
+{
+  "productId": "000115",
+  "name": "Пульсометр Quantum 666 #000115",
+  "description": "Пульсометр бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 58392.93,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 315,
+    "reserved": 30
+  },
+  "sku": "Quantum-000115",
+  "tags": [
+    "gps",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-666-000115.jpg",
+      "alt": "Пульсометр Quantum 666 #000115 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-666-000115_side.jpg",
+      "alt": "Пульсометр Quantum 666 #000115 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "419g",
+    "dimensions": "147mm x 78mm x 31mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-22T10:04:04Z",
+  "updatedAt": "2025-07-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

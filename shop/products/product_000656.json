@@ -1,0 +1,43 @@
+{
+  "productId": "000656",
+  "name": "Увлажнитель воздуха Polar Max188 #000656",
+  "description": "Увлажнитель воздуха бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42024.16,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 157,
+    "reserved": 17
+  },
+  "sku": "Polar-000656",
+  "tags": [
+    "экономия энергии",
+    "дом",
+    "умный дом",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Polar-Max188-000656.jpg",
+      "alt": "Увлажнитель воздуха Polar Max188 #000656 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Polar-Max188-000656_side.jpg",
+      "alt": "Увлажнитель воздуха Polar Max188 #000656 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "741g",
+    "dimensions": "59mm x 75mm x 20mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-20T10:04:04Z",
+  "updatedAt": "2025-02-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

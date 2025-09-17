@@ -1,0 +1,41 @@
+{
+  "productId": "000118",
+  "name": "Худи Vega Pro167 #000118",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 21148.69,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 336,
+    "reserved": 76
+  },
+  "sku": "Vega-000118",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-Pro167-000118.jpg",
+      "alt": "Худи Vega Pro167 #000118 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-Pro167-000118_side.jpg",
+      "alt": "Худи Vega Pro167 #000118 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1694g",
+    "dimensions": "103mm x 82mm x 22mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-31T10:04:04Z",
+  "updatedAt": "2025-01-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

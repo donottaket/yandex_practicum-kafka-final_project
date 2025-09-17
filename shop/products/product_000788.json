@@ -1,0 +1,40 @@
+{
+  "productId": "000788",
+  "name": "Экшн-камера Lumen S734 #000788",
+  "description": "Экшн-камера бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 70469.05,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 267,
+    "reserved": 92
+  },
+  "sku": "Lumen-000788",
+  "tags": [
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Lumen-S734-000788.jpg",
+      "alt": "Экшн-камера Lumen S734 #000788 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Lumen-S734-000788_side.jpg",
+      "alt": "Экшн-камера Lumen S734 #000788 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "694g",
+    "dimensions": "168mm x 97mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-05T10:04:04Z",
+  "updatedAt": "2024-12-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

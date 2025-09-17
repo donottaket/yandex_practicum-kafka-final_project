@@ -1,0 +1,41 @@
+{
+  "productId": "000231",
+  "name": "Куртка Quantum Lite194 #000231",
+  "description": "Куртка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 8128.44,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 420,
+    "reserved": 195
+  },
+  "sku": "Quantum-000231",
+  "tags": [
+    "мода",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Quantum-Lite194-000231.jpg",
+      "alt": "Куртка Quantum Lite194 #000231 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Quantum-Lite194-000231_side.jpg",
+      "alt": "Куртка Quantum Lite194 #000231 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "622g",
+    "dimensions": "72mm x 142mm x 19mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-08T10:04:04Z",
+  "updatedAt": "2025-08-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

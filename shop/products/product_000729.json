@@ -1,0 +1,42 @@
+{
+  "productId": "000729",
+  "name": "Планшет Quantum Max188 #000729",
+  "description": "Планшет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 136700.54,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 193,
+    "reserved": 49
+  },
+  "sku": "Quantum-000729",
+  "tags": [
+    "android",
+    "технологии",
+    "oled",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Quantum-Max188-000729.jpg",
+      "alt": "Планшет Quantum Max188 #000729 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Quantum-Max188-000729_side.jpg",
+      "alt": "Планшет Quantum Max188 #000729 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1242g",
+    "dimensions": "96mm x 45mm x 9mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-03T10:04:04Z",
+  "updatedAt": "2025-02-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

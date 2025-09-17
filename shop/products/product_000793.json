@@ -1,0 +1,43 @@
+{
+  "productId": "000793",
+  "name": "Спортивные часы Astra Pro985 #000793",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 71810.76,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 141,
+    "reserved": 70
+  },
+  "sku": "Astra-000793",
+  "tags": [
+    "здоровье",
+    "активность",
+    "gps",
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Pro985-000793.jpg",
+      "alt": "Спортивные часы Astra Pro985 #000793 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Pro985-000793_side.jpg",
+      "alt": "Спортивные часы Astra Pro985 #000793 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "142g",
+    "dimensions": "210mm x 193mm x 31mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-23T10:04:04Z",
+  "updatedAt": "2025-01-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

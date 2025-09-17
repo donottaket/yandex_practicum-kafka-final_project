@@ -1,0 +1,40 @@
+{
+  "productId": "000891",
+  "name": "Фитнес-браслет Orion Plus235 #000891",
+  "description": "Фитнес-браслет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 143687.74,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 337,
+    "reserved": 50
+  },
+  "sku": "Orion-000891",
+  "tags": [
+    "гаджеты",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-Plus235-000891.jpg",
+      "alt": "Фитнес-браслет Orion Plus235 #000891 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-Plus235-000891_side.jpg",
+      "alt": "Фитнес-браслет Orion Plus235 #000891 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1186g",
+    "dimensions": "82mm x 171mm x 42mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-18T10:04:04Z",
+  "updatedAt": "2025-07-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

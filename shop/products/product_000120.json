@@ -1,0 +1,41 @@
+{
+  "productId": "000120",
+  "name": "Спортивные часы Vega Plus561 #000120",
+  "description": "Спортивные часы бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 79488.92,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 5,
+    "reserved": 2
+  },
+  "sku": "Vega-000120",
+  "tags": [
+    "активность",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-Plus561-000120.jpg",
+      "alt": "Спортивные часы Vega Plus561 #000120 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-Plus561-000120_side.jpg",
+      "alt": "Спортивные часы Vega Plus561 #000120 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1816g",
+    "dimensions": "178mm x 53mm x 9mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-22T10:04:04Z",
+  "updatedAt": "2025-05-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

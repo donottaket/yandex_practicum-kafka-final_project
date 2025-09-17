@@ -1,0 +1,40 @@
+{
+  "productId": "000774",
+  "name": "Пульсометр Quantum Lite866 #000774",
+  "description": "Пульсометр бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 48256.01,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 190,
+    "reserved": 66
+  },
+  "sku": "Quantum-000774",
+  "tags": [
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-Lite866-000774.jpg",
+      "alt": "Пульсометр Quantum Lite866 #000774 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-Lite866-000774_side.jpg",
+      "alt": "Пульсометр Quantum Lite866 #000774 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "843g",
+    "dimensions": "134mm x 104mm x 11mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-07T10:04:04Z",
+  "updatedAt": "2025-03-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

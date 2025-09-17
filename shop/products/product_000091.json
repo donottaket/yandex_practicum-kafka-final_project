@@ -1,0 +1,40 @@
+{
+  "productId": "000091",
+  "name": "Фитнес-трекер Vega Pro665 #000091",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 54230.46,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 395,
+    "reserved": 97
+  },
+  "sku": "Vega-000091",
+  "tags": [
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro665-000091.jpg",
+      "alt": "Фитнес-трекер Vega Pro665 #000091 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro665-000091_side.jpg",
+      "alt": "Фитнес-трекер Vega Pro665 #000091 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "699g",
+    "dimensions": "281mm x 164mm x 9mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-14T10:04:04Z",
+  "updatedAt": "2025-08-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

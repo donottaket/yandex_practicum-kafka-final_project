@@ -1,0 +1,42 @@
+{
+  "productId": "000590",
+  "name": "Умные часы ACME Plus137 #000590",
+  "description": "Умные часы бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 8701.71,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 430,
+    "reserved": 97
+  },
+  "sku": "ACME-000590",
+  "tags": [
+    "гаджеты",
+    "технологии",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Plus137-000590.jpg",
+      "alt": "Умные часы ACME Plus137 #000590 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Plus137-000590_side.jpg",
+      "alt": "Умные часы ACME Plus137 #000590 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1946g",
+    "dimensions": "147mm x 124mm x 27mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-26T10:04:04Z",
+  "updatedAt": "2025-04-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

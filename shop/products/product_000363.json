@@ -1,0 +1,41 @@
+{
+  "productId": "000363",
+  "name": "Спортивные часы Vega Lite293 #000363",
+  "description": "Спортивные часы бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 66350.21,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 56,
+    "reserved": 19
+  },
+  "sku": "Vega-000363",
+  "tags": [
+    "спорт",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-Lite293-000363.jpg",
+      "alt": "Спортивные часы Vega Lite293 #000363 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-Lite293-000363_side.jpg",
+      "alt": "Спортивные часы Vega Lite293 #000363 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1382g",
+    "dimensions": "280mm x 168mm x 11mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-15T10:04:04Z",
+  "updatedAt": "2024-12-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

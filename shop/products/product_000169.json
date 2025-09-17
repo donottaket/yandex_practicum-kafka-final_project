@@ -1,0 +1,41 @@
+{
+  "productId": "000169",
+  "name": "Футболка ACME Max232 #000169",
+  "description": "Футболка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 39459.57,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 239,
+    "reserved": 69
+  },
+  "sku": "ACME-000169",
+  "tags": [
+    "мода",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-ACME-Max232-000169.jpg",
+      "alt": "Футболка ACME Max232 #000169 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-ACME-Max232-000169_side.jpg",
+      "alt": "Футболка ACME Max232 #000169 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "374g",
+    "dimensions": "186mm x 149mm x 26mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-03T10:04:04Z",
+  "updatedAt": "2025-04-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

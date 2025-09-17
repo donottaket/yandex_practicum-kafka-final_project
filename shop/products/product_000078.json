@@ -1,0 +1,42 @@
+{
+  "productId": "000078",
+  "name": "Футболка ACME Lite390 #000078",
+  "description": "Футболка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 11469.13,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 152,
+    "reserved": 63
+  },
+  "sku": "ACME-000078",
+  "tags": [
+    "мода",
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-ACME-Lite390-000078.jpg",
+      "alt": "Футболка ACME Lite390 #000078 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-ACME-Lite390-000078_side.jpg",
+      "alt": "Футболка ACME Lite390 #000078 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1800g",
+    "dimensions": "225mm x 50mm x 41mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-03T10:04:04Z",
+  "updatedAt": "2025-08-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

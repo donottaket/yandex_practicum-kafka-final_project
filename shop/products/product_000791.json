@@ -1,0 +1,40 @@
+{
+  "productId": "000791",
+  "name": "Смартфон Orion 264 #000791",
+  "description": "Смартфон бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 152573.12,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 324,
+    "reserved": 126
+  },
+  "sku": "Orion-000791",
+  "tags": [
+    "bluetooth",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Orion-264-000791.jpg",
+      "alt": "Смартфон Orion 264 #000791 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Orion-264-000791_side.jpg",
+      "alt": "Смартфон Orion 264 #000791 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "527g",
+    "dimensions": "163mm x 167mm x 19mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-13T10:04:04Z",
+  "updatedAt": "2024-12-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000833",
+  "name": "Наушники Orion Plus453 #000833",
+  "description": "Наушники бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 53862.71,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 220,
+    "reserved": 37
+  },
+  "sku": "Orion-000833",
+  "tags": [
+    "android",
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Orion-Plus453-000833.jpg",
+      "alt": "Наушники Orion Plus453 #000833 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Orion-Plus453-000833_side.jpg",
+      "alt": "Наушники Orion Plus453 #000833 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "829g",
+    "dimensions": "106mm x 85mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-08-03T10:04:04Z",
+  "updatedAt": "2025-09-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

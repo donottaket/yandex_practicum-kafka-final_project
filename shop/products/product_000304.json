@@ -1,0 +1,42 @@
+{
+  "productId": "000304",
+  "name": "Экшн-камера Polar Max670 #000304",
+  "description": "Экшн-камера бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 27179.45,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 69,
+    "reserved": 22
+  },
+  "sku": "Polar-000304",
+  "tags": [
+    "oled",
+    "гаджеты",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Polar-Max670-000304.jpg",
+      "alt": "Экшн-камера Polar Max670 #000304 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Polar-Max670-000304_side.jpg",
+      "alt": "Экшн-камера Polar Max670 #000304 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "741g",
+    "dimensions": "214mm x 160mm x 36mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-05T10:04:04Z",
+  "updatedAt": "2025-03-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

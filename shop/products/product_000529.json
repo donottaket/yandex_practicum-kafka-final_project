@@ -1,0 +1,41 @@
+{
+  "productId": "000529",
+  "name": "Спортивные часы ACME Lite703 #000529",
+  "description": "Спортивные часы бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 21173.99,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 88,
+    "reserved": 21
+  },
+  "sku": "ACME-000529",
+  "tags": [
+    "здоровье",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Lite703-000529.jpg",
+      "alt": "Спортивные часы ACME Lite703 #000529 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Lite703-000529_side.jpg",
+      "alt": "Спортивные часы ACME Lite703 #000529 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1018g",
+    "dimensions": "245mm x 28mm x 6mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-07T10:04:04Z",
+  "updatedAt": "2025-07-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

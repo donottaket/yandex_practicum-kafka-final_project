@@ -1,0 +1,42 @@
+{
+  "productId": "000116",
+  "name": "Футболка NovaTech Plus750 #000116",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 20908.13,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 481,
+    "reserved": 12
+  },
+  "sku": "NovaTech-000116",
+  "tags": [
+    "повседневное",
+    "мода",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Plus750-000116.jpg",
+      "alt": "Футболка NovaTech Plus750 #000116 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Plus750-000116_side.jpg",
+      "alt": "Футболка NovaTech Plus750 #000116 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1342g",
+    "dimensions": "171mm x 115mm x 18mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-05T10:04:04Z",
+  "updatedAt": "2025-05-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

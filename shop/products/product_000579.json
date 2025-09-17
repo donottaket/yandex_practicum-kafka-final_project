@@ -1,0 +1,42 @@
+{
+  "productId": "000579",
+  "name": "Худи NovaTech 536 #000579",
+  "description": "Худи бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 30916.07,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 29,
+    "reserved": 6
+  },
+  "sku": "NovaTech-000579",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-NovaTech-536-000579.jpg",
+      "alt": "Худи NovaTech 536 #000579 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-NovaTech-536-000579_side.jpg",
+      "alt": "Худи NovaTech 536 #000579 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1056g",
+    "dimensions": "116mm x 21mm x 10mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-26T10:04:04Z",
+  "updatedAt": "2025-01-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

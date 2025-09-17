@@ -1,0 +1,41 @@
+{
+  "productId": "000984",
+  "name": "Робот-пылесос Quantum Pro14 #000984",
+  "description": "Робот-пылесос бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 1324.94,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 472,
+    "reserved": 84
+  },
+  "sku": "Quantum-000984",
+  "tags": [
+    "дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Quantum-Pro14-000984.jpg",
+      "alt": "Робот-пылесос Quantum Pro14 #000984 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Quantum-Pro14-000984_side.jpg",
+      "alt": "Робот-пылесос Quantum Pro14 #000984 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "177g",
+    "dimensions": "204mm x 187mm x 25mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-02T10:04:04Z",
+  "updatedAt": "2025-07-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

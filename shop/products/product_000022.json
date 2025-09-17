@@ -1,0 +1,42 @@
+{
+  "productId": "000022",
+  "name": "Худи Orion Plus424 #000022",
+  "description": "Худи бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 22243.98,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 77,
+    "reserved": 7
+  },
+  "sku": "Orion-000022",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Orion-Plus424-000022.jpg",
+      "alt": "Худи Orion Plus424 #000022 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Orion-Plus424-000022_side.jpg",
+      "alt": "Худи Orion Plus424 #000022 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1713g",
+    "dimensions": "135mm x 81mm x 20mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-15T10:04:04Z",
+  "updatedAt": "2025-07-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

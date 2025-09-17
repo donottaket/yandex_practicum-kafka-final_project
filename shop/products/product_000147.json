@@ -1,0 +1,40 @@
+{
+  "productId": "000147",
+  "name": "Пульсометр ACME S272 #000147",
+  "description": "Пульсометр бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 63652.84,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 298,
+    "reserved": 6
+  },
+  "sku": "ACME-000147",
+  "tags": [
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-S272-000147.jpg",
+      "alt": "Пульсометр ACME S272 #000147 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-S272-000147_side.jpg",
+      "alt": "Пульсометр ACME S272 #000147 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1359g",
+    "dimensions": "82mm x 102mm x 27mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-30T10:04:04Z",
+  "updatedAt": "2025-05-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

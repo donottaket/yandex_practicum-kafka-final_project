@@ -1,0 +1,41 @@
+{
+  "productId": "000410",
+  "name": "Пульсометр ACME Max976 #000410",
+  "description": "Пульсометр бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 34820.36,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 263,
+    "reserved": 36
+  },
+  "sku": "ACME-000410",
+  "tags": [
+    "outdoor",
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-Max976-000410.jpg",
+      "alt": "Пульсометр ACME Max976 #000410 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-Max976-000410_side.jpg",
+      "alt": "Пульсометр ACME Max976 #000410 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "278g",
+    "dimensions": "254mm x 134mm x 21mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-10T10:04:04Z",
+  "updatedAt": "2025-04-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

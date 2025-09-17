@@ -1,0 +1,43 @@
+{
+  "productId": "000470",
+  "name": "Чайник Polar S681 #000470",
+  "description": "Чайник бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 11323.35,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 64,
+    "reserved": 4
+  },
+  "sku": "Polar-000470",
+  "tags": [
+    "умный дом",
+    "дом",
+    "экономия энергии",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Polar-S681-000470.jpg",
+      "alt": "Чайник Polar S681 #000470 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Polar-S681-000470_side.jpg",
+      "alt": "Чайник Polar S681 #000470 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "557g",
+    "dimensions": "254mm x 109mm x 46mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-24T10:04:04Z",
+  "updatedAt": "2025-07-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

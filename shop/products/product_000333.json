@@ -1,0 +1,42 @@
+{
+  "productId": "000333",
+  "name": "Штаны Vega Pro999 #000333",
+  "description": "Штаны бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 47434.71,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 408,
+    "reserved": 138
+  },
+  "sku": "Vega-000333",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Vega-Pro999-000333.jpg",
+      "alt": "Штаны Vega Pro999 #000333 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Vega-Pro999-000333_side.jpg",
+      "alt": "Штаны Vega Pro999 #000333 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1699g",
+    "dimensions": "64mm x 101mm x 31mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-13T10:04:04Z",
+  "updatedAt": "2025-05-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000070",
+  "name": "Смартфон Polar Plus151 #000070",
+  "description": "Смартфон бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 35499.05,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 274,
+    "reserved": 79
+  },
+  "sku": "Polar-000070",
+  "tags": [
+    "gps",
+    "android",
+    "oled",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Polar-Plus151-000070.jpg",
+      "alt": "Смартфон Polar Plus151 #000070 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Polar-Plus151-000070_side.jpg",
+      "alt": "Смартфон Polar Plus151 #000070 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1643g",
+    "dimensions": "144mm x 185mm x 34mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-30T10:04:04Z",
+  "updatedAt": "2024-11-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

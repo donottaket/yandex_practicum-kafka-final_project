@@ -1,0 +1,40 @@
+{
+  "productId": "000787",
+  "name": "Спортивные часы Orion X348 #000787",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 49120.42,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 442,
+    "reserved": 41
+  },
+  "sku": "Orion-000787",
+  "tags": [
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-X348-000787.jpg",
+      "alt": "Спортивные часы Orion X348 #000787 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-X348-000787_side.jpg",
+      "alt": "Спортивные часы Orion X348 #000787 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "161g",
+    "dimensions": "275mm x 20mm x 8mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-12T10:04:04Z",
+  "updatedAt": "2025-05-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

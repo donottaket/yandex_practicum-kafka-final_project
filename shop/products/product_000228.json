@@ -1,0 +1,41 @@
+{
+  "productId": "000228",
+  "name": "Чайник Vega Lite912 #000228",
+  "description": "Чайник бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 16021.55,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 292,
+    "reserved": 89
+  },
+  "sku": "Vega-000228",
+  "tags": [
+    "экономия энергии",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Vega-Lite912-000228.jpg",
+      "alt": "Чайник Vega Lite912 #000228 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Vega-Lite912-000228_side.jpg",
+      "alt": "Чайник Vega Lite912 #000228 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "811g",
+    "dimensions": "284mm x 92mm x 27mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-06T10:04:04Z",
+  "updatedAt": "2025-01-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

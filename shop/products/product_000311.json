@@ -1,0 +1,43 @@
+{
+  "productId": "000311",
+  "name": "Блендер Neon Max427 #000311",
+  "description": "Блендер бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 60016.98,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 417,
+    "reserved": 138
+  },
+  "sku": "Neon-000311",
+  "tags": [
+    "дом",
+    "кухня",
+    "экономия энергии",
+    "тихий",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Neon-Max427-000311.jpg",
+      "alt": "Блендер Neon Max427 #000311 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Neon-Max427-000311_side.jpg",
+      "alt": "Блендер Neon Max427 #000311 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1369g",
+    "dimensions": "52mm x 182mm x 46mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-12T10:04:04Z",
+  "updatedAt": "2024-12-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

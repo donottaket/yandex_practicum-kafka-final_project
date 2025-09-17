@@ -1,0 +1,41 @@
+{
+  "productId": "000578",
+  "name": "Спортивные часы ACME Max626 #000578",
+  "description": "Спортивные часы бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 37809.43,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 142,
+    "reserved": 7
+  },
+  "sku": "ACME-000578",
+  "tags": [
+    "gps",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Max626-000578.jpg",
+      "alt": "Спортивные часы ACME Max626 #000578 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Max626-000578_side.jpg",
+      "alt": "Спортивные часы ACME Max626 #000578 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1946g",
+    "dimensions": "38mm x 104mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-22T10:04:04Z",
+  "updatedAt": "2025-03-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

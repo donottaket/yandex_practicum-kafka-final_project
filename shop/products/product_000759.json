@@ -1,0 +1,42 @@
+{
+  "productId": "000759",
+  "name": "Фитнес-браслет Quantum X426 #000759",
+  "description": "Фитнес-браслет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 60671.83,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 13,
+    "reserved": 3
+  },
+  "sku": "Quantum-000759",
+  "tags": [
+    "технологии",
+    "ios",
+    "gps",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-X426-000759.jpg",
+      "alt": "Фитнес-браслет Quantum X426 #000759 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-X426-000759_side.jpg",
+      "alt": "Фитнес-браслет Quantum X426 #000759 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1800g",
+    "dimensions": "194mm x 156mm x 27mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-20T10:04:04Z",
+  "updatedAt": "2025-07-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

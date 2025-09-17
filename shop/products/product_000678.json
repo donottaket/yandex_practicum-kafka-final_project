@@ -1,0 +1,40 @@
+{
+  "productId": "000678",
+  "name": "Фитнес-браслет NovaTech Plus88 #000678",
+  "description": "Фитнес-браслет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 190767.59,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 246,
+    "reserved": 114
+  },
+  "sku": "NovaTech-000678",
+  "tags": [
+    "ios",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Plus88-000678.jpg",
+      "alt": "Фитнес-браслет NovaTech Plus88 #000678 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Plus88-000678_side.jpg",
+      "alt": "Фитнес-браслет NovaTech Plus88 #000678 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "917g",
+    "dimensions": "243mm x 76mm x 27mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-17T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

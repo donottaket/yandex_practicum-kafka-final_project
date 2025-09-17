@@ -1,0 +1,40 @@
+{
+  "productId": "000433",
+  "name": "Худи Quantum Pro587 #000433",
+  "description": "Худи бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 4422.61,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 188,
+    "reserved": 49
+  },
+  "sku": "Quantum-000433",
+  "tags": [
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Quantum-Pro587-000433.jpg",
+      "alt": "Худи Quantum Pro587 #000433 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Quantum-Pro587-000433_side.jpg",
+      "alt": "Худи Quantum Pro587 #000433 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "973g",
+    "dimensions": "275mm x 95mm x 47mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-22T10:04:04Z",
+  "updatedAt": "2025-08-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

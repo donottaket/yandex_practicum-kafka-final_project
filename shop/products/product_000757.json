@@ -1,0 +1,41 @@
+{
+  "productId": "000757",
+  "name": "Кофемашина Orion X835 #000757",
+  "description": "Кофемашина бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 31839.19,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 14,
+    "reserved": 5
+  },
+  "sku": "Orion-000757",
+  "tags": [
+    "тихий",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-X835-000757.jpg",
+      "alt": "Кофемашина Orion X835 #000757 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-X835-000757_side.jpg",
+      "alt": "Кофемашина Orion X835 #000757 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1614g",
+    "dimensions": "137mm x 108mm x 6mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-28T10:04:04Z",
+  "updatedAt": "2025-04-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

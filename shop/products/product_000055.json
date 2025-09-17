@@ -1,0 +1,41 @@
+{
+  "productId": "000055",
+  "name": "Спортивные часы Polar Max475 #000055",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 19037.92,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 11,
+    "reserved": 2
+  },
+  "sku": "Polar-000055",
+  "tags": [
+    "активность",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Max475-000055.jpg",
+      "alt": "Спортивные часы Polar Max475 #000055 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Max475-000055_side.jpg",
+      "alt": "Спортивные часы Polar Max475 #000055 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1626g",
+    "dimensions": "111mm x 81mm x 38mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-18T10:04:04Z",
+  "updatedAt": "2025-08-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

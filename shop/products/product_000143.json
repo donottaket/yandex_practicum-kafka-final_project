@@ -1,0 +1,40 @@
+{
+  "productId": "000143",
+  "name": "Умные часы Polar Pro286 #000143",
+  "description": "Умные часы бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 89738.3,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 479,
+    "reserved": 117
+  },
+  "sku": "Polar-000143",
+  "tags": [
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-Pro286-000143.jpg",
+      "alt": "Умные часы Polar Pro286 #000143 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-Pro286-000143_side.jpg",
+      "alt": "Умные часы Polar Pro286 #000143 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1389g",
+    "dimensions": "237mm x 117mm x 5mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-30T10:04:04Z",
+  "updatedAt": "2025-03-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

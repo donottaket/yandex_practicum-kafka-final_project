@@ -1,0 +1,43 @@
+{
+  "productId": "000869",
+  "name": "Смартфон ACME 453 #000869",
+  "description": "Смартфон бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 13036.02,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 270,
+    "reserved": 31
+  },
+  "sku": "ACME-000869",
+  "tags": [
+    "gps",
+    "технологии",
+    "android",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-ACME-453-000869.jpg",
+      "alt": "Смартфон ACME 453 #000869 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-ACME-453-000869_side.jpg",
+      "alt": "Смартфон ACME 453 #000869 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "273g",
+    "dimensions": "36mm x 138mm x 13mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-01T10:04:04Z",
+  "updatedAt": "2025-05-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

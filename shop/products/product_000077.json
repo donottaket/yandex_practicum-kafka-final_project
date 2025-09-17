@@ -1,0 +1,40 @@
+{
+  "productId": "000077",
+  "name": "Планшет NovaTech Lite214 #000077",
+  "description": "Планшет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 64080.74,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 91,
+    "reserved": 31
+  },
+  "sku": "NovaTech-000077",
+  "tags": [
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Lite214-000077.jpg",
+      "alt": "Планшет NovaTech Lite214 #000077 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Lite214-000077_side.jpg",
+      "alt": "Планшет NovaTech Lite214 #000077 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1067g",
+    "dimensions": "265mm x 92mm x 14mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-18T10:04:04Z",
+  "updatedAt": "2025-05-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

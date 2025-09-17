@@ -1,0 +1,43 @@
+{
+  "productId": "000211",
+  "name": "Смарт-велокомпьютер NovaTech 580 #000211",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 34833.48,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 391,
+    "reserved": 76
+  },
+  "sku": "NovaTech-000211",
+  "tags": [
+    "активность",
+    "outdoor",
+    "здоровье",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-580-000211.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech 580 #000211 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-580-000211_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech 580 #000211 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1963g",
+    "dimensions": "117mm x 28mm x 9mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-29T10:04:04Z",
+  "updatedAt": "2024-10-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

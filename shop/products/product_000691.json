@@ -1,0 +1,40 @@
+{
+  "productId": "000691",
+  "name": "Футболка Orion Plus758 #000691",
+  "description": "Футболка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49873.56,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 452,
+    "reserved": 187
+  },
+  "sku": "Orion-000691",
+  "tags": [
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Orion-Plus758-000691.jpg",
+      "alt": "Футболка Orion Plus758 #000691 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Orion-Plus758-000691_side.jpg",
+      "alt": "Футболка Orion Plus758 #000691 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "843g",
+    "dimensions": "203mm x 184mm x 27mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-18T10:04:04Z",
+  "updatedAt": "2025-04-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

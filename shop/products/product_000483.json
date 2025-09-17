@@ -1,0 +1,40 @@
+{
+  "productId": "000483",
+  "name": "Фитнес-трекер XYZ X969 #000483",
+  "description": "Фитнес-трекер бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 82727.48,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 458,
+    "reserved": 136
+  },
+  "sku": "XYZ-000483",
+  "tags": [
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-XYZ-X969-000483.jpg",
+      "alt": "Фитнес-трекер XYZ X969 #000483 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-XYZ-X969-000483_side.jpg",
+      "alt": "Фитнес-трекер XYZ X969 #000483 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "505g",
+    "dimensions": "140mm x 25mm x 47mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-06T10:04:04Z",
+  "updatedAt": "2025-04-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

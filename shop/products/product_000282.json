@@ -1,0 +1,40 @@
+{
+  "productId": "000282",
+  "name": "Робот-пылесос XYZ S244 #000282",
+  "description": "Робот-пылесос бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 24884.5,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 165,
+    "reserved": 24
+  },
+  "sku": "XYZ-000282",
+  "tags": [
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-XYZ-S244-000282.jpg",
+      "alt": "Робот-пылесос XYZ S244 #000282 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-XYZ-S244-000282_side.jpg",
+      "alt": "Робот-пылесос XYZ S244 #000282 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1706g",
+    "dimensions": "136mm x 185mm x 38mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-27T10:04:04Z",
+  "updatedAt": "2025-07-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

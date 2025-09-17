@@ -1,0 +1,42 @@
+{
+  "productId": "000085",
+  "name": "Увлажнитель воздуха Astra Plus563 #000085",
+  "description": "Увлажнитель воздуха бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 56177.42,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 292,
+    "reserved": 57
+  },
+  "sku": "Astra-000085",
+  "tags": [
+    "экономия энергии",
+    "умный дом",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Astra-Plus563-000085.jpg",
+      "alt": "Увлажнитель воздуха Astra Plus563 #000085 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Astra-Plus563-000085_side.jpg",
+      "alt": "Увлажнитель воздуха Astra Plus563 #000085 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1602g",
+    "dimensions": "282mm x 145mm x 8mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-31T10:04:04Z",
+  "updatedAt": "2024-12-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

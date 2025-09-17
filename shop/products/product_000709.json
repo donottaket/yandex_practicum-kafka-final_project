@@ -1,0 +1,42 @@
+{
+  "productId": "000709",
+  "name": "Спортивные часы NovaTech S788 #000709",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 34234.76,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 297,
+    "reserved": 107
+  },
+  "sku": "NovaTech-000709",
+  "tags": [
+    "здоровье",
+    "gps",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-S788-000709.jpg",
+      "alt": "Спортивные часы NovaTech S788 #000709 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-S788-000709_side.jpg",
+      "alt": "Спортивные часы NovaTech S788 #000709 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "458g",
+    "dimensions": "61mm x 55mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-28T10:04:04Z",
+  "updatedAt": "2025-06-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

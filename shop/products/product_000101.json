@@ -1,0 +1,42 @@
+{
+  "productId": "000101",
+  "name": "Пульсометр Astra Pro919 #000101",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 24803.36,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 306,
+    "reserved": 136
+  },
+  "sku": "Astra-000101",
+  "tags": [
+    "outdoor",
+    "спорт",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Pro919-000101.jpg",
+      "alt": "Пульсометр Astra Pro919 #000101 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Pro919-000101_side.jpg",
+      "alt": "Пульсометр Astra Pro919 #000101 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "583g",
+    "dimensions": "218mm x 52mm x 6mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-13T10:04:04Z",
+  "updatedAt": "2025-01-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

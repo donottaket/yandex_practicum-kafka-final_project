@@ -1,0 +1,42 @@
+{
+  "productId": "000018",
+  "name": "Кофемашина ACME X959 #000018",
+  "description": "Кофемашина бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 58720.77,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 211,
+    "reserved": 83
+  },
+  "sku": "ACME-000018",
+  "tags": [
+    "тихий",
+    "дом",
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-ACME-X959-000018.jpg",
+      "alt": "Кофемашина ACME X959 #000018 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-ACME-X959-000018_side.jpg",
+      "alt": "Кофемашина ACME X959 #000018 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1850g",
+    "dimensions": "253mm x 198mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-08-01T10:04:04Z",
+  "updatedAt": "2025-08-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

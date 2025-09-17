@@ -1,0 +1,40 @@
+{
+  "productId": "000928",
+  "name": "Блендер NovaTech Pro942 #000928",
+  "description": "Блендер бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 24184.17,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 418,
+    "reserved": 6
+  },
+  "sku": "NovaTech-000928",
+  "tags": [
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-Pro942-000928.jpg",
+      "alt": "Блендер NovaTech Pro942 #000928 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-Pro942-000928_side.jpg",
+      "alt": "Блендер NovaTech Pro942 #000928 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1651g",
+    "dimensions": "129mm x 64mm x 47mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-02T10:04:04Z",
+  "updatedAt": "2025-02-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000739",
+  "name": "Смартфон NovaTech S372 #000739",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 33944.34,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 285,
+    "reserved": 70
+  },
+  "sku": "NovaTech-000739",
+  "tags": [
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-S372-000739.jpg",
+      "alt": "Смартфон NovaTech S372 #000739 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-S372-000739_side.jpg",
+      "alt": "Смартфон NovaTech S372 #000739 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "78g",
+    "dimensions": "196mm x 57mm x 8mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-09T10:04:04Z",
+  "updatedAt": "2024-10-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

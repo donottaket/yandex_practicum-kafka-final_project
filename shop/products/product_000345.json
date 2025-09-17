@@ -1,0 +1,42 @@
+{
+  "productId": "000345",
+  "name": "Худи Astra Max25 #000345",
+  "description": "Худи бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 42856.37,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 97,
+    "reserved": 19
+  },
+  "sku": "Astra-000345",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Astra-Max25-000345.jpg",
+      "alt": "Худи Astra Max25 #000345 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Astra-Max25-000345_side.jpg",
+      "alt": "Худи Astra Max25 #000345 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "664g",
+    "dimensions": "144mm x 25mm x 39mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-19T10:04:04Z",
+  "updatedAt": "2025-04-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

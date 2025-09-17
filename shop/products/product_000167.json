@@ -1,0 +1,40 @@
+{
+  "productId": "000167",
+  "name": "Худи Quantum S188 #000167",
+  "description": "Худи бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 17192.16,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 181,
+    "reserved": 45
+  },
+  "sku": "Quantum-000167",
+  "tags": [
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Quantum-S188-000167.jpg",
+      "alt": "Худи Quantum S188 #000167 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Quantum-S188-000167_side.jpg",
+      "alt": "Худи Quantum S188 #000167 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "250g",
+    "dimensions": "92mm x 145mm x 36mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-10T10:04:04Z",
+  "updatedAt": "2025-07-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

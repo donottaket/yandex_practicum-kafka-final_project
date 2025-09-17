@@ -1,0 +1,41 @@
+{
+  "productId": "000837",
+  "name": "Смарт-велокомпьютер XYZ Plus863 #000837",
+  "description": "Смарт-велокомпьютер бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 25176.82,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 88,
+    "reserved": 19
+  },
+  "sku": "XYZ-000837",
+  "tags": [
+    "активность",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-XYZ-Plus863-000837.jpg",
+      "alt": "Смарт-велокомпьютер XYZ Plus863 #000837 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-XYZ-Plus863-000837_side.jpg",
+      "alt": "Смарт-велокомпьютер XYZ Plus863 #000837 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "937g",
+    "dimensions": "180mm x 46mm x 48mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-07T10:04:04Z",
+  "updatedAt": "2025-01-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

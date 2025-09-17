@@ -1,0 +1,41 @@
+{
+  "productId": "000273",
+  "name": "Умные часы ACME Max879 #000273",
+  "description": "Умные часы бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 151397.09,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 491,
+    "reserved": 39
+  },
+  "sku": "ACME-000273",
+  "tags": [
+    "oled",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Max879-000273.jpg",
+      "alt": "Умные часы ACME Max879 #000273 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Max879-000273_side.jpg",
+      "alt": "Умные часы ACME Max879 #000273 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1679g",
+    "dimensions": "213mm x 198mm x 10mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-05T10:04:04Z",
+  "updatedAt": "2025-01-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

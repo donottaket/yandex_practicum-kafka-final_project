@@ -1,0 +1,43 @@
+{
+  "productId": "000859",
+  "name": "Умные часы Vega X186 #000859",
+  "description": "Умные часы бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 23107.7,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 218,
+    "reserved": 94
+  },
+  "sku": "Vega-000859",
+  "tags": [
+    "gps",
+    "ios",
+    "bluetooth",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-X186-000859.jpg",
+      "alt": "Умные часы Vega X186 #000859 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-X186-000859_side.jpg",
+      "alt": "Умные часы Vega X186 #000859 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1198g",
+    "dimensions": "257mm x 137mm x 12mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-20T10:04:04Z",
+  "updatedAt": "2025-03-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

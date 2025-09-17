@@ -1,0 +1,42 @@
+{
+  "productId": "000600",
+  "name": "Спортивные часы XYZ Max583 #000600",
+  "description": "Спортивные часы бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 70710.27,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 267,
+    "reserved": 53
+  },
+  "sku": "XYZ-000600",
+  "tags": [
+    "outdoor",
+    "gps",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Max583-000600.jpg",
+      "alt": "Спортивные часы XYZ Max583 #000600 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Max583-000600_side.jpg",
+      "alt": "Спортивные часы XYZ Max583 #000600 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "517g",
+    "dimensions": "68mm x 197mm x 19mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-07T10:04:04Z",
+  "updatedAt": "2025-04-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

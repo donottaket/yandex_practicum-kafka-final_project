@@ -1,0 +1,42 @@
+{
+  "productId": "000411",
+  "name": "Экшн-камера Neon 147 #000411",
+  "description": "Экшн-камера бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 184682.42,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 172,
+    "reserved": 78
+  },
+  "sku": "Neon-000411",
+  "tags": [
+    "oled",
+    "bluetooth",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Neon-147-000411.jpg",
+      "alt": "Экшн-камера Neon 147 #000411 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Neon-147-000411_side.jpg",
+      "alt": "Экшн-камера Neon 147 #000411 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "852g",
+    "dimensions": "200mm x 141mm x 18mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-04T10:04:04Z",
+  "updatedAt": "2025-07-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

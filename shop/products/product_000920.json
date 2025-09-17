@@ -1,0 +1,43 @@
+{
+  "productId": "000920",
+  "name": "Пульсометр NovaTech X201 #000920",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 24275.5,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 21,
+    "reserved": 5
+  },
+  "sku": "NovaTech-000920",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor",
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-X201-000920.jpg",
+      "alt": "Пульсометр NovaTech X201 #000920 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-X201-000920_side.jpg",
+      "alt": "Пульсометр NovaTech X201 #000920 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1709g",
+    "dimensions": "212mm x 87mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-22T10:04:04Z",
+  "updatedAt": "2024-11-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

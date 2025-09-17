@@ -1,0 +1,40 @@
+{
+  "productId": "000794",
+  "name": "Футболка Quantum 411 #000794",
+  "description": "Футболка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 28948.08,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 138,
+    "reserved": 47
+  },
+  "sku": "Quantum-000794",
+  "tags": [
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Quantum-411-000794.jpg",
+      "alt": "Футболка Quantum 411 #000794 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Quantum-411-000794_side.jpg",
+      "alt": "Футболка Quantum 411 #000794 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "184g",
+    "dimensions": "167mm x 185mm x 13mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-28T10:04:04Z",
+  "updatedAt": "2024-10-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

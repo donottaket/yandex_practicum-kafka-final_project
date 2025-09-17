@@ -1,0 +1,42 @@
+{
+  "productId": "000740",
+  "name": "Кроссовки Polar 925 #000740",
+  "description": "Кроссовки бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 20013.84,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 140,
+    "reserved": 8
+  },
+  "sku": "Polar-000740",
+  "tags": [
+    "мода",
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-925-000740.jpg",
+      "alt": "Кроссовки Polar 925 #000740 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-925-000740_side.jpg",
+      "alt": "Кроссовки Polar 925 #000740 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "449g",
+    "dimensions": "39mm x 96mm x 35mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-29T10:04:04Z",
+  "updatedAt": "2024-11-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

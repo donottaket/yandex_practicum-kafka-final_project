@@ -1,0 +1,41 @@
+{
+  "productId": "000809",
+  "name": "Худи Astra 983 #000809",
+  "description": "Худи бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 31505.43,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 411,
+    "reserved": 147
+  },
+  "sku": "Astra-000809",
+  "tags": [
+    "стиль",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Astra-983-000809.jpg",
+      "alt": "Худи Astra 983 #000809 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Astra-983-000809_side.jpg",
+      "alt": "Худи Astra 983 #000809 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1321g",
+    "dimensions": "200mm x 24mm x 48mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-31T10:04:04Z",
+  "updatedAt": "2025-09-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000580",
+  "name": "Худи Polar Plus640 #000580",
+  "description": "Худи бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 31612.95,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 98,
+    "reserved": 1
+  },
+  "sku": "Polar-000580",
+  "tags": [
+    "повседневное",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Polar-Plus640-000580.jpg",
+      "alt": "Худи Polar Plus640 #000580 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Polar-Plus640-000580_side.jpg",
+      "alt": "Худи Polar Plus640 #000580 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1353g",
+    "dimensions": "49mm x 165mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-06T10:04:04Z",
+  "updatedAt": "2025-03-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

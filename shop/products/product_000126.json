@@ -1,0 +1,42 @@
+{
+  "productId": "000126",
+  "name": "Кроссовки Orion Lite603 #000126",
+  "description": "Кроссовки бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 28820.24,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 257,
+    "reserved": 38
+  },
+  "sku": "Orion-000126",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Orion-Lite603-000126.jpg",
+      "alt": "Кроссовки Orion Lite603 #000126 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Orion-Lite603-000126_side.jpg",
+      "alt": "Кроссовки Orion Lite603 #000126 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "980g",
+    "dimensions": "80mm x 74mm x 23mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-27T10:04:04Z",
+  "updatedAt": "2025-06-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

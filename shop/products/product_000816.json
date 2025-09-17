@@ -1,0 +1,42 @@
+{
+  "productId": "000816",
+  "name": "Штаны Orion Pro538 #000816",
+  "description": "Штаны бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 1893.04,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 243,
+    "reserved": 98
+  },
+  "sku": "Orion-000816",
+  "tags": [
+    "мода",
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Orion-Pro538-000816.jpg",
+      "alt": "Штаны Orion Pro538 #000816 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Orion-Pro538-000816_side.jpg",
+      "alt": "Штаны Orion Pro538 #000816 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "765g",
+    "dimensions": "239mm x 21mm x 46mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-03T10:04:04Z",
+  "updatedAt": "2025-07-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

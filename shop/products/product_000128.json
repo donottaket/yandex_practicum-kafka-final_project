@@ -1,0 +1,40 @@
+{
+  "productId": "000128",
+  "name": "Смартфон ACME X69 #000128",
+  "description": "Смартфон бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 35773.43,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 369,
+    "reserved": 67
+  },
+  "sku": "ACME-000128",
+  "tags": [
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-ACME-X69-000128.jpg",
+      "alt": "Смартфон ACME X69 #000128 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-ACME-X69-000128_side.jpg",
+      "alt": "Смартфон ACME X69 #000128 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1514g",
+    "dimensions": "272mm x 53mm x 41mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-31T10:04:04Z",
+  "updatedAt": "2024-12-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

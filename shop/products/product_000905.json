@@ -1,0 +1,40 @@
+{
+  "productId": "000905",
+  "name": "Худи Orion 737 #000905",
+  "description": "Худи бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 45633.98,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 468,
+    "reserved": 56
+  },
+  "sku": "Orion-000905",
+  "tags": [
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Orion-737-000905.jpg",
+      "alt": "Худи Orion 737 #000905 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Orion-737-000905_side.jpg",
+      "alt": "Худи Orion 737 #000905 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "855g",
+    "dimensions": "282mm x 115mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-22T10:04:04Z",
+  "updatedAt": "2025-05-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

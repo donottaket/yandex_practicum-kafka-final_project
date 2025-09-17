@@ -1,0 +1,43 @@
+{
+  "productId": "000134",
+  "name": "Планшет Quantum 169 #000134",
+  "description": "Планшет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 81920.75,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 46,
+    "reserved": 16
+  },
+  "sku": "Quantum-000134",
+  "tags": [
+    "bluetooth",
+    "gps",
+    "гаджеты",
+    "ios",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Quantum-169-000134.jpg",
+      "alt": "Планшет Quantum 169 #000134 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Quantum-169-000134_side.jpg",
+      "alt": "Планшет Quantum 169 #000134 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "428g",
+    "dimensions": "107mm x 141mm x 32mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-29T10:04:04Z",
+  "updatedAt": "2025-04-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

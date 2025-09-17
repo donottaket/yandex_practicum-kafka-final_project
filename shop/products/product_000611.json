@@ -1,0 +1,41 @@
+{
+  "productId": "000611",
+  "name": "Планшет Astra Lite671 #000611",
+  "description": "Планшет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 72945.64,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 176,
+    "reserved": 1
+  },
+  "sku": "Astra-000611",
+  "tags": [
+    "android",
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite671-000611.jpg",
+      "alt": "Планшет Astra Lite671 #000611 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite671-000611_side.jpg",
+      "alt": "Планшет Astra Lite671 #000611 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "278g",
+    "dimensions": "89mm x 103mm x 10mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-10T10:04:04Z",
+  "updatedAt": "2025-03-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

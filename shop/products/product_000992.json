@@ -1,0 +1,41 @@
+{
+  "productId": "000992",
+  "name": "Увлажнитель воздуха Vega Plus425 #000992",
+  "description": "Увлажнитель воздуха бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 56181.15,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 428,
+    "reserved": 192
+  },
+  "sku": "Vega-000992",
+  "tags": [
+    "дом",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-Plus425-000992.jpg",
+      "alt": "Увлажнитель воздуха Vega Plus425 #000992 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-Plus425-000992_side.jpg",
+      "alt": "Увлажнитель воздуха Vega Plus425 #000992 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "398g",
+    "dimensions": "253mm x 199mm x 29mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-13T10:04:04Z",
+  "updatedAt": "2025-02-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

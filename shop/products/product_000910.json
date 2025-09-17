@@ -1,0 +1,41 @@
+{
+  "productId": "000910",
+  "name": "Кофемашина Orion Plus883 #000910",
+  "description": "Кофемашина бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 40232.87,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 386,
+    "reserved": 79
+  },
+  "sku": "Orion-000910",
+  "tags": [
+    "тихий",
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-Plus883-000910.jpg",
+      "alt": "Кофемашина Orion Plus883 #000910 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-Plus883-000910_side.jpg",
+      "alt": "Кофемашина Orion Plus883 #000910 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1758g",
+    "dimensions": "150mm x 104mm x 7mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-30T10:04:04Z",
+  "updatedAt": "2025-08-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

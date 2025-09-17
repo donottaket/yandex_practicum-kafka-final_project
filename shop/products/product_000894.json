@@ -1,0 +1,43 @@
+{
+  "productId": "000894",
+  "name": "Спортивные часы Lumen 416 #000894",
+  "description": "Спортивные часы бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 70496.55,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 292,
+    "reserved": 62
+  },
+  "sku": "Lumen-000894",
+  "tags": [
+    "здоровье",
+    "спорт",
+    "активность",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Lumen-416-000894.jpg",
+      "alt": "Спортивные часы Lumen 416 #000894 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Lumen-416-000894_side.jpg",
+      "alt": "Спортивные часы Lumen 416 #000894 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1822g",
+    "dimensions": "81mm x 36mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-25T10:04:04Z",
+  "updatedAt": "2025-01-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

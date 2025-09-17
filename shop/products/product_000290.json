@@ -1,0 +1,41 @@
+{
+  "productId": "000290",
+  "name": "Робот-пылесос Polar Max554 #000290",
+  "description": "Робот-пылесос бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 47741.3,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 404,
+    "reserved": 136
+  },
+  "sku": "Polar-000290",
+  "tags": [
+    "кухня",
+    "умный дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-Max554-000290.jpg",
+      "alt": "Робот-пылесос Polar Max554 #000290 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-Max554-000290_side.jpg",
+      "alt": "Робот-пылесос Polar Max554 #000290 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1008g",
+    "dimensions": "200mm x 60mm x 45mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-15T10:04:04Z",
+  "updatedAt": "2025-08-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

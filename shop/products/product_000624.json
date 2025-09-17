@@ -1,0 +1,41 @@
+{
+  "productId": "000624",
+  "name": "Кофемашина Lumen 174 #000624",
+  "description": "Кофемашина бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 65744.76,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 192,
+    "reserved": 6
+  },
+  "sku": "Lumen-000624",
+  "tags": [
+    "тихий",
+    "экономия энергии",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-174-000624.jpg",
+      "alt": "Кофемашина Lumen 174 #000624 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-174-000624_side.jpg",
+      "alt": "Кофемашина Lumen 174 #000624 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1969g",
+    "dimensions": "207mm x 179mm x 34mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-27T10:04:04Z",
+  "updatedAt": "2025-05-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

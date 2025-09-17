@@ -1,0 +1,41 @@
+{
+  "productId": "000099",
+  "name": "Смартфон Orion Lite742 #000099",
+  "description": "Смартфон бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 4993.27,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 48,
+    "reserved": 23
+  },
+  "sku": "Orion-000099",
+  "tags": [
+    "oled",
+    "ios",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Orion-Lite742-000099.jpg",
+      "alt": "Смартфон Orion Lite742 #000099 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Orion-Lite742-000099_side.jpg",
+      "alt": "Смартфон Orion Lite742 #000099 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1998g",
+    "dimensions": "294mm x 53mm x 15mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-25T10:04:04Z",
+  "updatedAt": "2025-01-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

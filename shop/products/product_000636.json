@@ -1,0 +1,41 @@
+{
+  "productId": "000636",
+  "name": "Пульсометр XYZ Max183 #000636",
+  "description": "Пульсометр бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 52594.33,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 364,
+    "reserved": 93
+  },
+  "sku": "XYZ-000636",
+  "tags": [
+    "outdoor",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-Max183-000636.jpg",
+      "alt": "Пульсометр XYZ Max183 #000636 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-Max183-000636_side.jpg",
+      "alt": "Пульсометр XYZ Max183 #000636 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "925g",
+    "dimensions": "189mm x 53mm x 31mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-06T10:04:04Z",
+  "updatedAt": "2025-06-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

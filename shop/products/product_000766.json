@@ -1,0 +1,43 @@
+{
+  "productId": "000766",
+  "name": "Наушники Polar X989 #000766",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 23744.44,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 85,
+    "reserved": 40
+  },
+  "sku": "Polar-000766",
+  "tags": [
+    "ios",
+    "технологии",
+    "bluetooth",
+    "oled",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-X989-000766.jpg",
+      "alt": "Наушники Polar X989 #000766 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-X989-000766_side.jpg",
+      "alt": "Наушники Polar X989 #000766 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1382g",
+    "dimensions": "35mm x 138mm x 11mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-21T10:04:04Z",
+  "updatedAt": "2024-11-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

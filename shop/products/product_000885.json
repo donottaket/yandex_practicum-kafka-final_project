@@ -1,0 +1,41 @@
+{
+  "productId": "000885",
+  "name": "Наушники Neon Pro14 #000885",
+  "description": "Наушники бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 145685.07,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 129,
+    "reserved": 56
+  },
+  "sku": "Neon-000885",
+  "tags": [
+    "android",
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Neon-Pro14-000885.jpg",
+      "alt": "Наушники Neon Pro14 #000885 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Neon-Pro14-000885_side.jpg",
+      "alt": "Наушники Neon Pro14 #000885 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1025g",
+    "dimensions": "274mm x 132mm x 49mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-11T10:04:04Z",
+  "updatedAt": "2025-09-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

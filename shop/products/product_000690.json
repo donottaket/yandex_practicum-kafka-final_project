@@ -1,0 +1,40 @@
+{
+  "productId": "000690",
+  "name": "Наушники ACME Plus480 #000690",
+  "description": "Наушники бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 169773.25,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 262,
+    "reserved": 38
+  },
+  "sku": "ACME-000690",
+  "tags": [
+    "технологии",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-ACME-Plus480-000690.jpg",
+      "alt": "Наушники ACME Plus480 #000690 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-ACME-Plus480-000690_side.jpg",
+      "alt": "Наушники ACME Plus480 #000690 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1658g",
+    "dimensions": "197mm x 82mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-01T10:04:04Z",
+  "updatedAt": "2025-03-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

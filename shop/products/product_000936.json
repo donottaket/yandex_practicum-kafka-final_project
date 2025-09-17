@@ -1,0 +1,43 @@
+{
+  "productId": "000936",
+  "name": "Смарт-велокомпьютер Neon 348 #000936",
+  "description": "Смарт-велокомпьютер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 57321.24,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 38,
+    "reserved": 3
+  },
+  "sku": "Neon-000936",
+  "tags": [
+    "активность",
+    "спорт",
+    "gps",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-348-000936.jpg",
+      "alt": "Смарт-велокомпьютер Neon 348 #000936 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-348-000936_side.jpg",
+      "alt": "Смарт-велокомпьютер Neon 348 #000936 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1379g",
+    "dimensions": "126mm x 75mm x 30mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-14T10:04:04Z",
+  "updatedAt": "2025-07-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000780",
+  "name": "Фитнес-браслет XYZ Plus850 #000780",
+  "description": "Фитнес-браслет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 84894.24,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 211,
+    "reserved": 89
+  },
+  "sku": "XYZ-000780",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "android",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-Plus850-000780.jpg",
+      "alt": "Фитнес-браслет XYZ Plus850 #000780 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-Plus850-000780_side.jpg",
+      "alt": "Фитнес-браслет XYZ Plus850 #000780 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1430g",
+    "dimensions": "92mm x 108mm x 8mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-07T10:04:04Z",
+  "updatedAt": "2025-06-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

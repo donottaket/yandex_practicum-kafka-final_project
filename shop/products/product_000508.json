@@ -1,0 +1,43 @@
+{
+  "productId": "000508",
+  "name": "Спортивные часы NovaTech Lite798 #000508",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 46734.91,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 29,
+    "reserved": 5
+  },
+  "sku": "NovaTech-000508",
+  "tags": [
+    "активность",
+    "спорт",
+    "gps",
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-Lite798-000508.jpg",
+      "alt": "Спортивные часы NovaTech Lite798 #000508 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-Lite798-000508_side.jpg",
+      "alt": "Спортивные часы NovaTech Lite798 #000508 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1825g",
+    "dimensions": "173mm x 85mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-30T10:04:04Z",
+  "updatedAt": "2025-09-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

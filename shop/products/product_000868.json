@@ -1,0 +1,42 @@
+{
+  "productId": "000868",
+  "name": "Футболка NovaTech Max703 #000868",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 14848.52,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 73,
+    "reserved": 21
+  },
+  "sku": "NovaTech-000868",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Max703-000868.jpg",
+      "alt": "Футболка NovaTech Max703 #000868 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Max703-000868_side.jpg",
+      "alt": "Футболка NovaTech Max703 #000868 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "367g",
+    "dimensions": "97mm x 146mm x 11mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-22T10:04:04Z",
+  "updatedAt": "2025-06-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

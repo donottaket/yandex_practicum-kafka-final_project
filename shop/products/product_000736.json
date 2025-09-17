@@ -1,0 +1,43 @@
+{
+  "productId": "000736",
+  "name": "Планшет Quantum X345 #000736",
+  "description": "Планшет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 101701.8,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 321,
+    "reserved": 145
+  },
+  "sku": "Quantum-000736",
+  "tags": [
+    "гаджеты",
+    "технологии",
+    "bluetooth",
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Quantum-X345-000736.jpg",
+      "alt": "Планшет Quantum X345 #000736 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Quantum-X345-000736_side.jpg",
+      "alt": "Планшет Quantum X345 #000736 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1612g",
+    "dimensions": "172mm x 43mm x 28mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-24T10:04:04Z",
+  "updatedAt": "2025-06-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

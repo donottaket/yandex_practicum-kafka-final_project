@@ -1,0 +1,40 @@
+{
+  "productId": "000409",
+  "name": "Спортивные часы Vega X679 #000409",
+  "description": "Спортивные часы бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 99479.8,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 327,
+    "reserved": 158
+  },
+  "sku": "Vega-000409",
+  "tags": [
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-X679-000409.jpg",
+      "alt": "Спортивные часы Vega X679 #000409 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-X679-000409_side.jpg",
+      "alt": "Спортивные часы Vega X679 #000409 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1394g",
+    "dimensions": "113mm x 86mm x 39mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-10T10:04:04Z",
+  "updatedAt": "2025-03-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

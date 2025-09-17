@@ -1,0 +1,43 @@
+{
+  "productId": "000309",
+  "name": "Кофемашина Quantum S403 #000309",
+  "description": "Кофемашина бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 6069.51,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 366,
+    "reserved": 138
+  },
+  "sku": "Quantum-000309",
+  "tags": [
+    "дом",
+    "кухня",
+    "тихий",
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Quantum-S403-000309.jpg",
+      "alt": "Кофемашина Quantum S403 #000309 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Quantum-S403-000309_side.jpg",
+      "alt": "Кофемашина Quantum S403 #000309 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1623g",
+    "dimensions": "189mm x 138mm x 25mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-02T10:04:04Z",
+  "updatedAt": "2025-07-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

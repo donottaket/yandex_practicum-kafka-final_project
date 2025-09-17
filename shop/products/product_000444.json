@@ -1,0 +1,40 @@
+{
+  "productId": "000444",
+  "name": "Увлажнитель воздуха Quantum S546 #000444",
+  "description": "Увлажнитель воздуха бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 4792.47,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 235,
+    "reserved": 30
+  },
+  "sku": "Quantum-000444",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-S546-000444.jpg",
+      "alt": "Увлажнитель воздуха Quantum S546 #000444 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-S546-000444_side.jpg",
+      "alt": "Увлажнитель воздуха Quantum S546 #000444 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "532g",
+    "dimensions": "160mm x 44mm x 13mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-07T10:04:04Z",
+  "updatedAt": "2025-04-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

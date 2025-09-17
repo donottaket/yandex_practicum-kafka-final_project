@@ -1,0 +1,41 @@
+{
+  "productId": "000420",
+  "name": "Смартфон Lumen Max973 #000420",
+  "description": "Смартфон бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 61434.18,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 422,
+    "reserved": 130
+  },
+  "sku": "Lumen-000420",
+  "tags": [
+    "технологии",
+    "gps",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Lumen-Max973-000420.jpg",
+      "alt": "Смартфон Lumen Max973 #000420 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Lumen-Max973-000420_side.jpg",
+      "alt": "Смартфон Lumen Max973 #000420 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "89g",
+    "dimensions": "246mm x 96mm x 8mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-14T10:04:04Z",
+  "updatedAt": "2025-01-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

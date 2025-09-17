@@ -1,0 +1,42 @@
+{
+  "productId": "000642",
+  "name": "Спортивные часы Astra Pro91 #000642",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 89741.57,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 482,
+    "reserved": 170
+  },
+  "sku": "Astra-000642",
+  "tags": [
+    "outdoor",
+    "активность",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Pro91-000642.jpg",
+      "alt": "Спортивные часы Astra Pro91 #000642 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Pro91-000642_side.jpg",
+      "alt": "Спортивные часы Astra Pro91 #000642 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "924g",
+    "dimensions": "251mm x 171mm x 46mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-29T10:04:04Z",
+  "updatedAt": "2024-11-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000554",
+  "name": "Наушники Neon Plus667 #000554",
+  "description": "Наушники бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 184576.18,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 71,
+    "reserved": 14
+  },
+  "sku": "Neon-000554",
+  "tags": [
+    "android",
+    "гаджеты",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Neon-Plus667-000554.jpg",
+      "alt": "Наушники Neon Plus667 #000554 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Neon-Plus667-000554_side.jpg",
+      "alt": "Наушники Neon Plus667 #000554 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "79g",
+    "dimensions": "264mm x 112mm x 32mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-27T10:04:04Z",
+  "updatedAt": "2025-04-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

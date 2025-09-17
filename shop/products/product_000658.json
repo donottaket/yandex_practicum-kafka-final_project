@@ -1,0 +1,41 @@
+{
+  "productId": "000658",
+  "name": "Фитнес-трекер Vega 311 #000658",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 63678.35,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 335,
+    "reserved": 5
+  },
+  "sku": "Vega-000658",
+  "tags": [
+    "спорт",
+    "gps",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-311-000658.jpg",
+      "alt": "Фитнес-трекер Vega 311 #000658 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-311-000658_side.jpg",
+      "alt": "Фитнес-трекер Vega 311 #000658 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "316g",
+    "dimensions": "232mm x 104mm x 41mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-12T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

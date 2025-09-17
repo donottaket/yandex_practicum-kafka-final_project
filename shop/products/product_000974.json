@@ -1,0 +1,42 @@
+{
+  "productId": "000974",
+  "name": "Робот-пылесос Polar Lite243 #000974",
+  "description": "Робот-пылесос бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 73955.61,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 13,
+    "reserved": 0
+  },
+  "sku": "Polar-000974",
+  "tags": [
+    "экономия энергии",
+    "умный дом",
+    "тихий",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-Lite243-000974.jpg",
+      "alt": "Робот-пылесос Polar Lite243 #000974 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-Lite243-000974_side.jpg",
+      "alt": "Робот-пылесос Polar Lite243 #000974 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "104g",
+    "dimensions": "49mm x 192mm x 27mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-04T10:04:04Z",
+  "updatedAt": "2025-05-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

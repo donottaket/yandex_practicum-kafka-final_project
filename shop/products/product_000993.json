@@ -1,0 +1,40 @@
+{
+  "productId": "000993",
+  "name": "Увлажнитель воздуха Neon X664 #000993",
+  "description": "Увлажнитель воздуха бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 10088.88,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 53,
+    "reserved": 22
+  },
+  "sku": "Neon-000993",
+  "tags": [
+    "тихий",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Neon-X664-000993.jpg",
+      "alt": "Увлажнитель воздуха Neon X664 #000993 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Neon-X664-000993_side.jpg",
+      "alt": "Увлажнитель воздуха Neon X664 #000993 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "848g",
+    "dimensions": "277mm x 103mm x 25mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-15T10:04:04Z",
+  "updatedAt": "2025-02-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

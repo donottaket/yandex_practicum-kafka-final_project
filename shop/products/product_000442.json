@@ -1,0 +1,42 @@
+{
+  "productId": "000442",
+  "name": "Умные часы Astra Pro887 #000442",
+  "description": "Умные часы бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 114970.27,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 494,
+    "reserved": 68
+  },
+  "sku": "Astra-000442",
+  "tags": [
+    "gps",
+    "oled",
+    "технологии",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-Pro887-000442.jpg",
+      "alt": "Умные часы Astra Pro887 #000442 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-Pro887-000442_side.jpg",
+      "alt": "Умные часы Astra Pro887 #000442 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1575g",
+    "dimensions": "190mm x 97mm x 12mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-04T10:04:04Z",
+  "updatedAt": "2025-03-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

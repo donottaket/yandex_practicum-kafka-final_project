@@ -1,0 +1,43 @@
+{
+  "productId": "000800",
+  "name": "Фитнес-трекер Vega Max20 #000800",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 61765.6,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 10,
+    "reserved": 2
+  },
+  "sku": "Vega-000800",
+  "tags": [
+    "здоровье",
+    "спорт",
+    "outdoor",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Max20-000800.jpg",
+      "alt": "Фитнес-трекер Vega Max20 #000800 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Max20-000800_side.jpg",
+      "alt": "Фитнес-трекер Vega Max20 #000800 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "728g",
+    "dimensions": "139mm x 66mm x 23mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-10T10:04:04Z",
+  "updatedAt": "2025-01-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000233",
+  "name": "Умные часы Astra Plus621 #000233",
+  "description": "Умные часы бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 151697.64,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 247,
+    "reserved": 68
+  },
+  "sku": "Astra-000233",
+  "tags": [
+    "gps",
+    "bluetooth",
+    "android",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-Plus621-000233.jpg",
+      "alt": "Умные часы Astra Plus621 #000233 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-Plus621-000233_side.jpg",
+      "alt": "Умные часы Astra Plus621 #000233 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1430g",
+    "dimensions": "112mm x 179mm x 44mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-29T10:04:04Z",
+  "updatedAt": "2025-09-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

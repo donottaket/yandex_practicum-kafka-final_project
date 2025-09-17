@@ -1,0 +1,42 @@
+{
+  "productId": "000680",
+  "name": "Умные часы Polar 988 #000680",
+  "description": "Умные часы бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 91855.77,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 148,
+    "reserved": 57
+  },
+  "sku": "Polar-000680",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "gps",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-988-000680.jpg",
+      "alt": "Умные часы Polar 988 #000680 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-988-000680_side.jpg",
+      "alt": "Умные часы Polar 988 #000680 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "134g",
+    "dimensions": "175mm x 152mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-30T10:04:04Z",
+  "updatedAt": "2025-04-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

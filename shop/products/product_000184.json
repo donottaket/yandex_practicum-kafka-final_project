@@ -1,0 +1,41 @@
+{
+  "productId": "000184",
+  "name": "Футболка ACME Pro367 #000184",
+  "description": "Футболка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 15682.23,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 401,
+    "reserved": 66
+  },
+  "sku": "ACME-000184",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-ACME-Pro367-000184.jpg",
+      "alt": "Футболка ACME Pro367 #000184 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-ACME-Pro367-000184_side.jpg",
+      "alt": "Футболка ACME Pro367 #000184 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "680g",
+    "dimensions": "80mm x 154mm x 6mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-01T10:04:04Z",
+  "updatedAt": "2025-05-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

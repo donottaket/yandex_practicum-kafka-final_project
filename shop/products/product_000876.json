@@ -1,0 +1,43 @@
+{
+  "productId": "000876",
+  "name": "Наушники Vega 52 #000876",
+  "description": "Наушники бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 97012.63,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 21,
+    "reserved": 10
+  },
+  "sku": "Vega-000876",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "oled",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Vega-52-000876.jpg",
+      "alt": "Наушники Vega 52 #000876 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Vega-52-000876_side.jpg",
+      "alt": "Наушники Vega 52 #000876 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1152g",
+    "dimensions": "89mm x 157mm x 46mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-25T10:04:04Z",
+  "updatedAt": "2024-10-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

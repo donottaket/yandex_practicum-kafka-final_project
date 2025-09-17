@@ -1,0 +1,40 @@
+{
+  "productId": "000360",
+  "name": "Смарт-велокомпьютер XYZ Max600 #000360",
+  "description": "Смарт-велокомпьютер бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 57186.14,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 456,
+    "reserved": 123
+  },
+  "sku": "XYZ-000360",
+  "tags": [
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-XYZ-Max600-000360.jpg",
+      "alt": "Смарт-велокомпьютер XYZ Max600 #000360 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-XYZ-Max600-000360_side.jpg",
+      "alt": "Смарт-велокомпьютер XYZ Max600 #000360 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "446g",
+    "dimensions": "102mm x 86mm x 14mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-25T10:04:04Z",
+  "updatedAt": "2025-08-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

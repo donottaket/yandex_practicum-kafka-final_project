@@ -1,0 +1,41 @@
+{
+  "productId": "000733",
+  "name": "Умные часы Vega Max635 #000733",
+  "description": "Умные часы бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 3935.05,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 491,
+    "reserved": 43
+  },
+  "sku": "Vega-000733",
+  "tags": [
+    "технологии",
+    "oled",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-Max635-000733.jpg",
+      "alt": "Умные часы Vega Max635 #000733 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-Max635-000733_side.jpg",
+      "alt": "Умные часы Vega Max635 #000733 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1438g",
+    "dimensions": "249mm x 103mm x 9mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-18T10:04:04Z",
+  "updatedAt": "2025-01-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

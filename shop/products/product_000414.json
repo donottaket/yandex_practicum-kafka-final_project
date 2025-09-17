@@ -1,0 +1,43 @@
+{
+  "productId": "000414",
+  "name": "Фитнес-браслет Quantum Plus252 #000414",
+  "description": "Фитнес-браслет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 83510.3,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 296,
+    "reserved": 38
+  },
+  "sku": "Quantum-000414",
+  "tags": [
+    "android",
+    "bluetooth",
+    "oled",
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Plus252-000414.jpg",
+      "alt": "Фитнес-браслет Quantum Plus252 #000414 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Plus252-000414_side.jpg",
+      "alt": "Фитнес-браслет Quantum Plus252 #000414 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1163g",
+    "dimensions": "159mm x 172mm x 19mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-09-14T10:04:04Z",
+  "updatedAt": "2024-09-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

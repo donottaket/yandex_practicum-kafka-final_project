@@ -1,0 +1,42 @@
+{
+  "productId": "000679",
+  "name": "Планшет Orion S844 #000679",
+  "description": "Планшет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 193701.74,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 287,
+    "reserved": 141
+  },
+  "sku": "Orion-000679",
+  "tags": [
+    "bluetooth",
+    "технологии",
+    "ios",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Orion-S844-000679.jpg",
+      "alt": "Планшет Orion S844 #000679 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Orion-S844-000679_side.jpg",
+      "alt": "Планшет Orion S844 #000679 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1472g",
+    "dimensions": "30mm x 40mm x 48mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-17T10:04:04Z",
+  "updatedAt": "2025-04-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000507",
+  "name": "Экшн-камера Orion X459 #000507",
+  "description": "Экшн-камера бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 91710.57,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 483,
+    "reserved": 114
+  },
+  "sku": "Orion-000507",
+  "tags": [
+    "gps",
+    "технологии",
+    "oled",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Orion-X459-000507.jpg",
+      "alt": "Экшн-камера Orion X459 #000507 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Orion-X459-000507_side.jpg",
+      "alt": "Экшн-камера Orion X459 #000507 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "976g",
+    "dimensions": "179mm x 199mm x 18mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-02T10:04:04Z",
+  "updatedAt": "2025-02-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

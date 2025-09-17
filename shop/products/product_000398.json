@@ -1,0 +1,43 @@
+{
+  "productId": "000398",
+  "name": "Увлажнитель воздуха XYZ X41 #000398",
+  "description": "Увлажнитель воздуха бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 70219.42,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 26,
+    "reserved": 10
+  },
+  "sku": "XYZ-000398",
+  "tags": [
+    "умный дом",
+    "тихий",
+    "дом",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-X41-000398.jpg",
+      "alt": "Увлажнитель воздуха XYZ X41 #000398 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-X41-000398_side.jpg",
+      "alt": "Увлажнитель воздуха XYZ X41 #000398 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1874g",
+    "dimensions": "194mm x 174mm x 12mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-03T10:04:04Z",
+  "updatedAt": "2025-03-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000356",
+  "name": "Фитнес-трекер Quantum Max213 #000356",
+  "description": "Фитнес-трекер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 99942.64,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 390,
+    "reserved": 42
+  },
+  "sku": "Quantum-000356",
+  "tags": [
+    "спорт",
+    "outdoor",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Max213-000356.jpg",
+      "alt": "Фитнес-трекер Quantum Max213 #000356 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Max213-000356_side.jpg",
+      "alt": "Фитнес-трекер Quantum Max213 #000356 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1889g",
+    "dimensions": "240mm x 137mm x 15mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-20T10:04:04Z",
+  "updatedAt": "2025-06-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

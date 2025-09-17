@@ -1,0 +1,42 @@
+{
+  "productId": "000254",
+  "name": "Наушники ACME Lite715 #000254",
+  "description": "Наушники бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 26589.82,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 84,
+    "reserved": 27
+  },
+  "sku": "ACME-000254",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-ACME-Lite715-000254.jpg",
+      "alt": "Наушники ACME Lite715 #000254 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-ACME-Lite715-000254_side.jpg",
+      "alt": "Наушники ACME Lite715 #000254 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1686g",
+    "dimensions": "220mm x 111mm x 46mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-19T10:04:04Z",
+  "updatedAt": "2025-01-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

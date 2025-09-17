@@ -1,0 +1,40 @@
+{
+  "productId": "000217",
+  "name": "Пульсометр Orion S244 #000217",
+  "description": "Пульсометр бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 53637.25,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 381,
+    "reserved": 78
+  },
+  "sku": "Orion-000217",
+  "tags": [
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-S244-000217.jpg",
+      "alt": "Пульсометр Orion S244 #000217 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-S244-000217_side.jpg",
+      "alt": "Пульсометр Orion S244 #000217 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "127g",
+    "dimensions": "117mm x 195mm x 43mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-23T10:04:04Z",
+  "updatedAt": "2024-11-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

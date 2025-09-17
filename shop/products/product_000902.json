@@ -1,0 +1,40 @@
+{
+  "productId": "000902",
+  "name": "Наушники NovaTech Max167 #000902",
+  "description": "Наушники бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 86434.03,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 214,
+    "reserved": 20
+  },
+  "sku": "NovaTech-000902",
+  "tags": [
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-Max167-000902.jpg",
+      "alt": "Наушники NovaTech Max167 #000902 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-Max167-000902_side.jpg",
+      "alt": "Наушники NovaTech Max167 #000902 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1110g",
+    "dimensions": "30mm x 118mm x 49mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-08T10:04:04Z",
+  "updatedAt": "2024-10-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000419",
+  "name": "Фитнес-трекер Astra X564 #000419",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 81096.51,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 280,
+    "reserved": 104
+  },
+  "sku": "Astra-000419",
+  "tags": [
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-X564-000419.jpg",
+      "alt": "Фитнес-трекер Astra X564 #000419 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-X564-000419_side.jpg",
+      "alt": "Фитнес-трекер Astra X564 #000419 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "968g",
+    "dimensions": "134mm x 31mm x 17mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-06T10:04:04Z",
+  "updatedAt": "2025-09-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

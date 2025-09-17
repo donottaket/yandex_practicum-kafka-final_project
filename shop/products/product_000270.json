@@ -1,0 +1,43 @@
+{
+  "productId": "000270",
+  "name": "Смартфон Orion Pro282 #000270",
+  "description": "Смартфон бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 77908.7,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 321,
+    "reserved": 101
+  },
+  "sku": "Orion-000270",
+  "tags": [
+    "bluetooth",
+    "oled",
+    "гаджеты",
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Orion-Pro282-000270.jpg",
+      "alt": "Смартфон Orion Pro282 #000270 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Orion-Pro282-000270_side.jpg",
+      "alt": "Смартфон Orion Pro282 #000270 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1613g",
+    "dimensions": "228mm x 72mm x 8mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-05T10:04:04Z",
+  "updatedAt": "2025-04-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

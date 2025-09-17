@@ -1,0 +1,40 @@
+{
+  "productId": "000609",
+  "name": "Кофемашина NovaTech S915 #000609",
+  "description": "Кофемашина бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 32191.19,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 92,
+    "reserved": 43
+  },
+  "sku": "NovaTech-000609",
+  "tags": [
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-S915-000609.jpg",
+      "alt": "Кофемашина NovaTech S915 #000609 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-S915-000609_side.jpg",
+      "alt": "Кофемашина NovaTech S915 #000609 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "270g",
+    "dimensions": "111mm x 104mm x 14mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-28T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

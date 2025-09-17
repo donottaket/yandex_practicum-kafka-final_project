@@ -1,0 +1,43 @@
+{
+  "productId": "000772",
+  "name": "Экшн-камера Vega Lite926 #000772",
+  "description": "Экшн-камера бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 6741.48,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 309,
+    "reserved": 11
+  },
+  "sku": "Vega-000772",
+  "tags": [
+    "гаджеты",
+    "технологии",
+    "android",
+    "bluetooth",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Vega-Lite926-000772.jpg",
+      "alt": "Экшн-камера Vega Lite926 #000772 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Vega-Lite926-000772_side.jpg",
+      "alt": "Экшн-камера Vega Lite926 #000772 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1052g",
+    "dimensions": "253mm x 188mm x 32mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-01T10:04:04Z",
+  "updatedAt": "2025-03-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

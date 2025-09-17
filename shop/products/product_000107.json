@@ -1,0 +1,43 @@
+{
+  "productId": "000107",
+  "name": "Смарт-велокомпьютер Quantum Plus300 #000107",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 8804.84,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 43,
+    "reserved": 4
+  },
+  "sku": "Quantum-000107",
+  "tags": [
+    "спорт",
+    "активность",
+    "gps",
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Plus300-000107.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Plus300 #000107 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Plus300-000107_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Plus300 #000107 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "249g",
+    "dimensions": "156mm x 140mm x 29mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-21T10:04:04Z",
+  "updatedAt": "2025-05-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

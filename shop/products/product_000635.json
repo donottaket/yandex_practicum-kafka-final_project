@@ -1,0 +1,42 @@
+{
+  "productId": "000635",
+  "name": "Спортивные часы Orion 79 #000635",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 35965.17,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 317,
+    "reserved": 90
+  },
+  "sku": "Orion-000635",
+  "tags": [
+    "outdoor",
+    "активность",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-79-000635.jpg",
+      "alt": "Спортивные часы Orion 79 #000635 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-79-000635_side.jpg",
+      "alt": "Спортивные часы Orion 79 #000635 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "741g",
+    "dimensions": "217mm x 92mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-17T10:04:04Z",
+  "updatedAt": "2025-08-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

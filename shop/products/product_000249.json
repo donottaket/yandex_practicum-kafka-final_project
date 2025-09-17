@@ -1,0 +1,42 @@
+{
+  "productId": "000249",
+  "name": "Умные часы Orion Plus782 #000249",
+  "description": "Умные часы бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 55257.38,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 201,
+    "reserved": 23
+  },
+  "sku": "Orion-000249",
+  "tags": [
+    "гаджеты",
+    "android",
+    "ios",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Orion-Plus782-000249.jpg",
+      "alt": "Умные часы Orion Plus782 #000249 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Orion-Plus782-000249_side.jpg",
+      "alt": "Умные часы Orion Plus782 #000249 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1194g",
+    "dimensions": "171mm x 40mm x 50mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-12T10:04:04Z",
+  "updatedAt": "2025-04-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

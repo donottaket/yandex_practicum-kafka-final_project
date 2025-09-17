@@ -1,0 +1,43 @@
+{
+  "productId": "000193",
+  "name": "Чайник Quantum X44 #000193",
+  "description": "Чайник бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42693.58,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 242,
+    "reserved": 109
+  },
+  "sku": "Quantum-000193",
+  "tags": [
+    "умный дом",
+    "экономия энергии",
+    "тихий",
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Quantum-X44-000193.jpg",
+      "alt": "Чайник Quantum X44 #000193 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Quantum-X44-000193_side.jpg",
+      "alt": "Чайник Quantum X44 #000193 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1232g",
+    "dimensions": "176mm x 54mm x 6mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-23T10:04:04Z",
+  "updatedAt": "2025-02-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

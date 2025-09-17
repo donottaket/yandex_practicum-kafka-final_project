@@ -1,0 +1,40 @@
+{
+  "productId": "000484",
+  "name": "Спортивные часы Polar 308 #000484",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 81521.06,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 47,
+    "reserved": 4
+  },
+  "sku": "Polar-000484",
+  "tags": [
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-308-000484.jpg",
+      "alt": "Спортивные часы Polar 308 #000484 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-308-000484_side.jpg",
+      "alt": "Спортивные часы Polar 308 #000484 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "663g",
+    "dimensions": "81mm x 54mm x 7mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-23T10:04:04Z",
+  "updatedAt": "2024-12-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

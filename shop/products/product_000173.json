@@ -1,0 +1,43 @@
+{
+  "productId": "000173",
+  "name": "Пульсометр Lumen Pro576 #000173",
+  "description": "Пульсометр бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 36104.82,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 326,
+    "reserved": 155
+  },
+  "sku": "Lumen-000173",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-Pro576-000173.jpg",
+      "alt": "Пульсометр Lumen Pro576 #000173 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-Pro576-000173_side.jpg",
+      "alt": "Пульсометр Lumen Pro576 #000173 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1561g",
+    "dimensions": "193mm x 124mm x 49mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-05T10:04:04Z",
+  "updatedAt": "2025-03-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

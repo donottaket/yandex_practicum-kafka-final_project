@@ -1,0 +1,40 @@
+{
+  "productId": "000502",
+  "name": "Кроссовки Quantum X125 #000502",
+  "description": "Кроссовки бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 41797.83,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 464,
+    "reserved": 8
+  },
+  "sku": "Quantum-000502",
+  "tags": [
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Quantum-X125-000502.jpg",
+      "alt": "Кроссовки Quantum X125 #000502 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Quantum-X125-000502_side.jpg",
+      "alt": "Кроссовки Quantum X125 #000502 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "597g",
+    "dimensions": "125mm x 125mm x 41mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-13T10:04:04Z",
+  "updatedAt": "2025-06-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

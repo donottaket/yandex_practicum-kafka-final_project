@@ -1,0 +1,42 @@
+{
+  "productId": "000983",
+  "name": "Умные часы Lumen 317 #000983",
+  "description": "Умные часы бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 171685.36,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 25,
+    "reserved": 1
+  },
+  "sku": "Lumen-000983",
+  "tags": [
+    "oled",
+    "гаджеты",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-317-000983.jpg",
+      "alt": "Умные часы Lumen 317 #000983 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-317-000983_side.jpg",
+      "alt": "Умные часы Lumen 317 #000983 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1492g",
+    "dimensions": "131mm x 117mm x 30mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-14T10:04:04Z",
+  "updatedAt": "2025-06-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

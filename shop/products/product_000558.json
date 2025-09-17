@@ -1,0 +1,41 @@
+{
+  "productId": "000558",
+  "name": "Пульсометр Astra Plus656 #000558",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 59563.22,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 392,
+    "reserved": 40
+  },
+  "sku": "Astra-000558",
+  "tags": [
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Plus656-000558.jpg",
+      "alt": "Пульсометр Astra Plus656 #000558 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Plus656-000558_side.jpg",
+      "alt": "Пульсометр Astra Plus656 #000558 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "484g",
+    "dimensions": "138mm x 107mm x 21mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-25T10:04:04Z",
+  "updatedAt": "2025-08-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

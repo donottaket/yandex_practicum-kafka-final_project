@@ -1,0 +1,43 @@
+{
+  "productId": "000860",
+  "name": "Кофемашина NovaTech S343 #000860",
+  "description": "Кофемашина бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 19128.53,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 340,
+    "reserved": 64
+  },
+  "sku": "NovaTech-000860",
+  "tags": [
+    "умный дом",
+    "тихий",
+    "экономия энергии",
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-S343-000860.jpg",
+      "alt": "Кофемашина NovaTech S343 #000860 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-S343-000860_side.jpg",
+      "alt": "Кофемашина NovaTech S343 #000860 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "734g",
+    "dimensions": "164mm x 94mm x 17mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-10T10:04:04Z",
+  "updatedAt": "2025-04-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000020",
+  "name": "Наушники NovaTech X758 #000020",
+  "description": "Наушники бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 105122.71,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 62,
+    "reserved": 29
+  },
+  "sku": "NovaTech-000020",
+  "tags": [
+    "oled",
+    "ios",
+    "гаджеты",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-X758-000020.jpg",
+      "alt": "Наушники NovaTech X758 #000020 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-X758-000020_side.jpg",
+      "alt": "Наушники NovaTech X758 #000020 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "641g",
+    "dimensions": "215mm x 74mm x 29mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-21T10:04:04Z",
+  "updatedAt": "2025-06-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

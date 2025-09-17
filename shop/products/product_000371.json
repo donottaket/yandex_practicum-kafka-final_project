@@ -1,0 +1,43 @@
+{
+  "productId": "000371",
+  "name": "Фитнес-трекер Vega Pro92 #000371",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 62519.83,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 108,
+    "reserved": 5
+  },
+  "sku": "Vega-000371",
+  "tags": [
+    "здоровье",
+    "спорт",
+    "gps",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro92-000371.jpg",
+      "alt": "Фитнес-трекер Vega Pro92 #000371 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro92-000371_side.jpg",
+      "alt": "Фитнес-трекер Vega Pro92 #000371 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "557g",
+    "dimensions": "37mm x 147mm x 19mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-08T10:04:04Z",
+  "updatedAt": "2025-01-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

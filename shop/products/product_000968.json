@@ -1,0 +1,40 @@
+{
+  "productId": "000968",
+  "name": "Смарт-велокомпьютер Vega X496 #000968",
+  "description": "Смарт-велокомпьютер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 32042.66,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 417,
+    "reserved": 202
+  },
+  "sku": "Vega-000968",
+  "tags": [
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Vega-X496-000968.jpg",
+      "alt": "Смарт-велокомпьютер Vega X496 #000968 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Vega-X496-000968_side.jpg",
+      "alt": "Смарт-велокомпьютер Vega X496 #000968 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "112g",
+    "dimensions": "89mm x 71mm x 19mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-13T10:04:04Z",
+  "updatedAt": "2025-04-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

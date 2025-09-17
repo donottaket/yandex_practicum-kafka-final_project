@@ -1,0 +1,43 @@
+{
+  "productId": "000560",
+  "name": "Планшет Neon 408 #000560",
+  "description": "Планшет бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 127148.04,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 125,
+    "reserved": 62
+  },
+  "sku": "Neon-000560",
+  "tags": [
+    "ios",
+    "oled",
+    "gps",
+    "технологии",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Neon-408-000560.jpg",
+      "alt": "Планшет Neon 408 #000560 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Neon-408-000560_side.jpg",
+      "alt": "Планшет Neon 408 #000560 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "401g",
+    "dimensions": "270mm x 61mm x 28mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-04T10:04:04Z",
+  "updatedAt": "2025-04-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

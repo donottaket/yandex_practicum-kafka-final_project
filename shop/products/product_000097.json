@@ -1,0 +1,42 @@
+{
+  "productId": "000097",
+  "name": "Футболка Neon Pro28 #000097",
+  "description": "Футболка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 19149.66,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 25,
+    "reserved": 3
+  },
+  "sku": "Neon-000097",
+  "tags": [
+    "удобство",
+    "мода",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Neon-Pro28-000097.jpg",
+      "alt": "Футболка Neon Pro28 #000097 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Neon-Pro28-000097_side.jpg",
+      "alt": "Футболка Neon Pro28 #000097 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1639g",
+    "dimensions": "101mm x 63mm x 44mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-10T10:04:04Z",
+  "updatedAt": "2025-01-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000393",
+  "name": "Фитнес-браслет NovaTech Lite777 #000393",
+  "description": "Фитнес-браслет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 80070.05,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 382,
+    "reserved": 181
+  },
+  "sku": "NovaTech-000393",
+  "tags": [
+    "oled",
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Lite777-000393.jpg",
+      "alt": "Фитнес-браслет NovaTech Lite777 #000393 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Lite777-000393_side.jpg",
+      "alt": "Фитнес-браслет NovaTech Lite777 #000393 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "201g",
+    "dimensions": "148mm x 111mm x 30mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-22T10:04:04Z",
+  "updatedAt": "2025-02-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000871",
+  "name": "Наушники ACME S18 #000871",
+  "description": "Наушники бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 101310.59,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 288,
+    "reserved": 135
+  },
+  "sku": "ACME-000871",
+  "tags": [
+    "технологии",
+    "android",
+    "oled",
+    "ios",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-ACME-S18-000871.jpg",
+      "alt": "Наушники ACME S18 #000871 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-ACME-S18-000871_side.jpg",
+      "alt": "Наушники ACME S18 #000871 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "238g",
+    "dimensions": "152mm x 54mm x 28mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-22T10:04:04Z",
+  "updatedAt": "2024-09-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

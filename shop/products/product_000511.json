@@ -1,0 +1,42 @@
+{
+  "productId": "000511",
+  "name": "Наушники Neon Plus302 #000511",
+  "description": "Наушники бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 15695.51,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 180,
+    "reserved": 5
+  },
+  "sku": "Neon-000511",
+  "tags": [
+    "gps",
+    "технологии",
+    "oled",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Neon-Plus302-000511.jpg",
+      "alt": "Наушники Neon Plus302 #000511 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Neon-Plus302-000511_side.jpg",
+      "alt": "Наушники Neon Plus302 #000511 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1289g",
+    "dimensions": "282mm x 111mm x 5mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-19T10:04:04Z",
+  "updatedAt": "2025-03-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

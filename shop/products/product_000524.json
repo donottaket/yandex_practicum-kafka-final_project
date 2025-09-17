@@ -1,0 +1,42 @@
+{
+  "productId": "000524",
+  "name": "Штаны Vega Lite242 #000524",
+  "description": "Штаны бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 34273.5,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 231,
+    "reserved": 8
+  },
+  "sku": "Vega-000524",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Vega-Lite242-000524.jpg",
+      "alt": "Штаны Vega Lite242 #000524 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Vega-Lite242-000524_side.jpg",
+      "alt": "Штаны Vega Lite242 #000524 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1220g",
+    "dimensions": "120mm x 140mm x 20mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-01T10:04:04Z",
+  "updatedAt": "2025-04-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

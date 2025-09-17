@@ -1,0 +1,41 @@
+{
+  "productId": "000181",
+  "name": "Экшн-камера Neon X653 #000181",
+  "description": "Экшн-камера бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 45829.94,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 305,
+    "reserved": 105
+  },
+  "sku": "Neon-000181",
+  "tags": [
+    "технологии",
+    "гаджеты",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Neon-X653-000181.jpg",
+      "alt": "Экшн-камера Neon X653 #000181 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Neon-X653-000181_side.jpg",
+      "alt": "Экшн-камера Neon X653 #000181 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1954g",
+    "dimensions": "103mm x 128mm x 28mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-26T10:04:04Z",
+  "updatedAt": "2025-04-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

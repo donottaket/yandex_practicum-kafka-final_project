@@ -1,0 +1,42 @@
+{
+  "productId": "000117",
+  "name": "Фитнес-трекер NovaTech Max130 #000117",
+  "description": "Фитнес-трекер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 64369.1,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 247,
+    "reserved": 89
+  },
+  "sku": "NovaTech-000117",
+  "tags": [
+    "здоровье",
+    "gps",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Max130-000117.jpg",
+      "alt": "Фитнес-трекер NovaTech Max130 #000117 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Max130-000117_side.jpg",
+      "alt": "Фитнес-трекер NovaTech Max130 #000117 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1520g",
+    "dimensions": "272mm x 175mm x 5mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-19T10:04:04Z",
+  "updatedAt": "2025-07-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

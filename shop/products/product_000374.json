@@ -1,0 +1,40 @@
+{
+  "productId": "000374",
+  "name": "Куртка Polar Pro908 #000374",
+  "description": "Куртка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 46936.62,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 355,
+    "reserved": 164
+  },
+  "sku": "Polar-000374",
+  "tags": [
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Polar-Pro908-000374.jpg",
+      "alt": "Куртка Polar Pro908 #000374 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Polar-Pro908-000374_side.jpg",
+      "alt": "Куртка Polar Pro908 #000374 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "365g",
+    "dimensions": "164mm x 89mm x 31mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-06T10:04:04Z",
+  "updatedAt": "2025-05-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

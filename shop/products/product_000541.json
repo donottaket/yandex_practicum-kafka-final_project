@@ -1,0 +1,42 @@
+{
+  "productId": "000541",
+  "name": "Куртка Lumen Pro388 #000541",
+  "description": "Куртка бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 23133.17,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 100,
+    "reserved": 29
+  },
+  "sku": "Lumen-000541",
+  "tags": [
+    "удобство",
+    "стиль",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Lumen-Pro388-000541.jpg",
+      "alt": "Куртка Lumen Pro388 #000541 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Lumen-Pro388-000541_side.jpg",
+      "alt": "Куртка Lumen Pro388 #000541 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "947g",
+    "dimensions": "199mm x 200mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-04T10:04:04Z",
+  "updatedAt": "2025-05-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

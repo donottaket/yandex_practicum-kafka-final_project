@@ -1,0 +1,41 @@
+{
+  "productId": "000359",
+  "name": "Планшет Orion X80 #000359",
+  "description": "Планшет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 7352.91,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 160,
+    "reserved": 28
+  },
+  "sku": "Orion-000359",
+  "tags": [
+    "android",
+    "oled",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Orion-X80-000359.jpg",
+      "alt": "Планшет Orion X80 #000359 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Orion-X80-000359_side.jpg",
+      "alt": "Планшет Orion X80 #000359 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1727g",
+    "dimensions": "216mm x 145mm x 33mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-26T10:04:04Z",
+  "updatedAt": "2025-05-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

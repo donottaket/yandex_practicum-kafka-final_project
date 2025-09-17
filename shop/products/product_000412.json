@@ -1,0 +1,41 @@
+{
+  "productId": "000412",
+  "name": "Наушники Polar Max78 #000412",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 34234.51,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 49,
+    "reserved": 0
+  },
+  "sku": "Polar-000412",
+  "tags": [
+    "bluetooth",
+    "ios",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-Max78-000412.jpg",
+      "alt": "Наушники Polar Max78 #000412 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-Max78-000412_side.jpg",
+      "alt": "Наушники Polar Max78 #000412 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1486g",
+    "dimensions": "234mm x 123mm x 42mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-10T10:04:04Z",
+  "updatedAt": "2025-03-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

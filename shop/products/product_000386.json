@@ -1,0 +1,41 @@
+{
+  "productId": "000386",
+  "name": "Спортивные часы NovaTech X459 #000386",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 79121.72,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 389,
+    "reserved": 88
+  },
+  "sku": "NovaTech-000386",
+  "tags": [
+    "outdoor",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-X459-000386.jpg",
+      "alt": "Спортивные часы NovaTech X459 #000386 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-X459-000386_side.jpg",
+      "alt": "Спортивные часы NovaTech X459 #000386 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1774g",
+    "dimensions": "174mm x 95mm x 31mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-18T10:04:04Z",
+  "updatedAt": "2025-02-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

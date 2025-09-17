@@ -1,0 +1,42 @@
+{
+  "productId": "000279",
+  "name": "Чайник Astra Max460 #000279",
+  "description": "Чайник бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 74179.23,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 330,
+    "reserved": 100
+  },
+  "sku": "Astra-000279",
+  "tags": [
+    "тихий",
+    "кухня",
+    "экономия энергии",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Astra-Max460-000279.jpg",
+      "alt": "Чайник Astra Max460 #000279 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Astra-Max460-000279_side.jpg",
+      "alt": "Чайник Astra Max460 #000279 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1054g",
+    "dimensions": "221mm x 167mm x 42mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-09-28T10:04:04Z",
+  "updatedAt": "2024-10-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

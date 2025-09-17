@@ -1,0 +1,40 @@
+{
+  "productId": "000942",
+  "name": "Робот-пылесос Orion X929 #000942",
+  "description": "Робот-пылесос бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 61851.74,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 355,
+    "reserved": 41
+  },
+  "sku": "Orion-000942",
+  "tags": [
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Orion-X929-000942.jpg",
+      "alt": "Робот-пылесос Orion X929 #000942 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Orion-X929-000942_side.jpg",
+      "alt": "Робот-пылесос Orion X929 #000942 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1869g",
+    "dimensions": "247mm x 118mm x 39mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-30T10:04:04Z",
+  "updatedAt": "2025-06-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

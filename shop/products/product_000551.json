@@ -1,0 +1,40 @@
+{
+  "productId": "000551",
+  "name": "Смарт-велокомпьютер Polar Lite946 #000551",
+  "description": "Смарт-велокомпьютер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 95360.15,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 77,
+    "reserved": 34
+  },
+  "sku": "Polar-000551",
+  "tags": [
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-Lite946-000551.jpg",
+      "alt": "Смарт-велокомпьютер Polar Lite946 #000551 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-Lite946-000551_side.jpg",
+      "alt": "Смарт-велокомпьютер Polar Lite946 #000551 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1525g",
+    "dimensions": "266mm x 31mm x 33mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-14T10:04:04Z",
+  "updatedAt": "2025-06-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

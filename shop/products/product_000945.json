@@ -1,0 +1,42 @@
+{
+  "productId": "000945",
+  "name": "Худи Vega Max29 #000945",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 17047.98,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 54,
+    "reserved": 22
+  },
+  "sku": "Vega-000945",
+  "tags": [
+    "стиль",
+    "удобство",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-Max29-000945.jpg",
+      "alt": "Худи Vega Max29 #000945 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-Max29-000945_side.jpg",
+      "alt": "Худи Vega Max29 #000945 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1486g",
+    "dimensions": "143mm x 182mm x 20mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-20T10:04:04Z",
+  "updatedAt": "2025-08-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

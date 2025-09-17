@@ -1,0 +1,43 @@
+{
+  "productId": "000428",
+  "name": "Планшет ACME Max955 #000428",
+  "description": "Планшет бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 94514.73,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 232,
+    "reserved": 78
+  },
+  "sku": "ACME-000428",
+  "tags": [
+    "oled",
+    "ios",
+    "гаджеты",
+    "технологии",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-ACME-Max955-000428.jpg",
+      "alt": "Планшет ACME Max955 #000428 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-ACME-Max955-000428_side.jpg",
+      "alt": "Планшет ACME Max955 #000428 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "801g",
+    "dimensions": "46mm x 160mm x 50mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-21T10:04:04Z",
+  "updatedAt": "2025-01-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000607",
+  "name": "Умные часы Lumen S102 #000607",
+  "description": "Умные часы бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 91187.35,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 236,
+    "reserved": 3
+  },
+  "sku": "Lumen-000607",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "oled",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-S102-000607.jpg",
+      "alt": "Умные часы Lumen S102 #000607 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-S102-000607_side.jpg",
+      "alt": "Умные часы Lumen S102 #000607 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1669g",
+    "dimensions": "73mm x 20mm x 9mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-11T10:04:04Z",
+  "updatedAt": "2024-10-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

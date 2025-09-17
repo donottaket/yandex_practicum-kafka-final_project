@@ -1,0 +1,40 @@
+{
+  "productId": "000423",
+  "name": "Спортивные часы NovaTech S126 #000423",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 41772.62,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 45,
+    "reserved": 21
+  },
+  "sku": "NovaTech-000423",
+  "tags": [
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-S126-000423.jpg",
+      "alt": "Спортивные часы NovaTech S126 #000423 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-S126-000423_side.jpg",
+      "alt": "Спортивные часы NovaTech S126 #000423 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1378g",
+    "dimensions": "91mm x 167mm x 36mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-04T10:04:04Z",
+  "updatedAt": "2025-07-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

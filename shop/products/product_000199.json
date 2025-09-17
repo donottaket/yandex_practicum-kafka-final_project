@@ -1,0 +1,42 @@
+{
+  "productId": "000199",
+  "name": "Планшет Astra Lite668 #000199",
+  "description": "Планшет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 36226.39,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 90,
+    "reserved": 17
+  },
+  "sku": "Astra-000199",
+  "tags": [
+    "ios",
+    "гаджеты",
+    "bluetooth",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite668-000199.jpg",
+      "alt": "Планшет Astra Lite668 #000199 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite668-000199_side.jpg",
+      "alt": "Планшет Astra Lite668 #000199 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1537g",
+    "dimensions": "80mm x 60mm x 20mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-13T10:04:04Z",
+  "updatedAt": "2024-11-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

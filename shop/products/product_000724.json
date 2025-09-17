@@ -1,0 +1,42 @@
+{
+  "productId": "000724",
+  "name": "Блендер Neon 393 #000724",
+  "description": "Блендер бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 32384.52,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 49,
+    "reserved": 13
+  },
+  "sku": "Neon-000724",
+  "tags": [
+    "кухня",
+    "умный дом",
+    "дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Neon-393-000724.jpg",
+      "alt": "Блендер Neon 393 #000724 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Neon-393-000724_side.jpg",
+      "alt": "Блендер Neon 393 #000724 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "481g",
+    "dimensions": "54mm x 112mm x 9mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-08T10:04:04Z",
+  "updatedAt": "2025-02-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

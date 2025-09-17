@@ -1,0 +1,42 @@
+{
+  "productId": "000165",
+  "name": "Футболка ACME Pro855 #000165",
+  "description": "Футболка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 10202.87,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 410,
+    "reserved": 167
+  },
+  "sku": "ACME-000165",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-ACME-Pro855-000165.jpg",
+      "alt": "Футболка ACME Pro855 #000165 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-ACME-Pro855-000165_side.jpg",
+      "alt": "Футболка ACME Pro855 #000165 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "737g",
+    "dimensions": "179mm x 170mm x 17mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-12T10:04:04Z",
+  "updatedAt": "2025-01-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

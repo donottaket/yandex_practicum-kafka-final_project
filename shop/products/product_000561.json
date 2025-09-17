@@ -1,0 +1,42 @@
+{
+  "productId": "000561",
+  "name": "Смартфон NovaTech Lite295 #000561",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 152678.38,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 302,
+    "reserved": 60
+  },
+  "sku": "NovaTech-000561",
+  "tags": [
+    "ios",
+    "android",
+    "технологии",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Lite295-000561.jpg",
+      "alt": "Смартфон NovaTech Lite295 #000561 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Lite295-000561_side.jpg",
+      "alt": "Смартфон NovaTech Lite295 #000561 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1800g",
+    "dimensions": "84mm x 34mm x 12mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-14T10:04:04Z",
+  "updatedAt": "2024-12-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

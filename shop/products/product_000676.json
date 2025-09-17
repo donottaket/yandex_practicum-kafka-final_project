@@ -1,0 +1,43 @@
+{
+  "productId": "000676",
+  "name": "Чайник Astra Max204 #000676",
+  "description": "Чайник бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 48948.55,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 366,
+    "reserved": 121
+  },
+  "sku": "Astra-000676",
+  "tags": [
+    "кухня",
+    "дом",
+    "экономия энергии",
+    "тихий",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Astra-Max204-000676.jpg",
+      "alt": "Чайник Astra Max204 #000676 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Astra-Max204-000676_side.jpg",
+      "alt": "Чайник Astra Max204 #000676 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1462g",
+    "dimensions": "218mm x 39mm x 12mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-26T10:04:04Z",
+  "updatedAt": "2024-12-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

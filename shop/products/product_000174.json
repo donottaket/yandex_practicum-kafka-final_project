@@ -1,0 +1,43 @@
+{
+  "productId": "000174",
+  "name": "Спортивные часы Polar Lite318 #000174",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 77058.12,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 51,
+    "reserved": 19
+  },
+  "sku": "Polar-000174",
+  "tags": [
+    "спорт",
+    "активность",
+    "outdoor",
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite318-000174.jpg",
+      "alt": "Спортивные часы Polar Lite318 #000174 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite318-000174_side.jpg",
+      "alt": "Спортивные часы Polar Lite318 #000174 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1183g",
+    "dimensions": "257mm x 122mm x 31mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-02T10:04:04Z",
+  "updatedAt": "2025-01-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

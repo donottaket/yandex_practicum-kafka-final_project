@@ -1,0 +1,41 @@
+{
+  "productId": "000096",
+  "name": "Пульсометр ACME Max65 #000096",
+  "description": "Пульсометр бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 92119.14,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 350,
+    "reserved": 140
+  },
+  "sku": "ACME-000096",
+  "tags": [
+    "здоровье",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-Max65-000096.jpg",
+      "alt": "Пульсометр ACME Max65 #000096 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-Max65-000096_side.jpg",
+      "alt": "Пульсометр ACME Max65 #000096 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "606g",
+    "dimensions": "221mm x 111mm x 42mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-08-09T10:04:04Z",
+  "updatedAt": "2025-10-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000930",
+  "name": "Блендер Orion S499 #000930",
+  "description": "Блендер бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 21666.36,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 424,
+    "reserved": 183
+  },
+  "sku": "Orion-000930",
+  "tags": [
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Orion-S499-000930.jpg",
+      "alt": "Блендер Orion S499 #000930 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Orion-S499-000930_side.jpg",
+      "alt": "Блендер Orion S499 #000930 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "973g",
+    "dimensions": "56mm x 100mm x 30mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-13T10:04:04Z",
+  "updatedAt": "2025-03-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

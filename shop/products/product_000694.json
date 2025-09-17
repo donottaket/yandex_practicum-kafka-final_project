@@ -1,0 +1,40 @@
+{
+  "productId": "000694",
+  "name": "Худи ACME Lite219 #000694",
+  "description": "Худи бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 40545.4,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 293,
+    "reserved": 123
+  },
+  "sku": "ACME-000694",
+  "tags": [
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-ACME-Lite219-000694.jpg",
+      "alt": "Худи ACME Lite219 #000694 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-ACME-Lite219-000694_side.jpg",
+      "alt": "Худи ACME Lite219 #000694 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1986g",
+    "dimensions": "152mm x 156mm x 44mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-01T10:04:04Z",
+  "updatedAt": "2024-11-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

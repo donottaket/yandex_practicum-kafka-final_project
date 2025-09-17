@@ -1,0 +1,43 @@
+{
+  "productId": "000912",
+  "name": "Смарт-велокомпьютер Lumen S20 #000912",
+  "description": "Смарт-велокомпьютер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 45116.58,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 277,
+    "reserved": 86
+  },
+  "sku": "Lumen-000912",
+  "tags": [
+    "gps",
+    "спорт",
+    "здоровье",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-S20-000912.jpg",
+      "alt": "Смарт-велокомпьютер Lumen S20 #000912 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-S20-000912_side.jpg",
+      "alt": "Смарт-велокомпьютер Lumen S20 #000912 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "146g",
+    "dimensions": "285mm x 54mm x 22mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-02T10:04:04Z",
+  "updatedAt": "2025-02-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

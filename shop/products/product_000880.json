@@ -1,0 +1,42 @@
+{
+  "productId": "000880",
+  "name": "Планшет Lumen Max550 #000880",
+  "description": "Планшет бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 181658.58,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 74,
+    "reserved": 0
+  },
+  "sku": "Lumen-000880",
+  "tags": [
+    "gps",
+    "bluetooth",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Lumen-Max550-000880.jpg",
+      "alt": "Планшет Lumen Max550 #000880 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Lumen-Max550-000880_side.jpg",
+      "alt": "Планшет Lumen Max550 #000880 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "607g",
+    "dimensions": "106mm x 88mm x 33mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-10T10:04:04Z",
+  "updatedAt": "2025-05-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000364",
+  "name": "Планшет XYZ Plus789 #000364",
+  "description": "Планшет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 184279.12,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 98,
+    "reserved": 17
+  },
+  "sku": "XYZ-000364",
+  "tags": [
+    "oled",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-XYZ-Plus789-000364.jpg",
+      "alt": "Планшет XYZ Plus789 #000364 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-XYZ-Plus789-000364_side.jpg",
+      "alt": "Планшет XYZ Plus789 #000364 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1667g",
+    "dimensions": "84mm x 57mm x 6mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-12T10:04:04Z",
+  "updatedAt": "2025-07-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

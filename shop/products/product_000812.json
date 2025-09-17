@@ -1,0 +1,43 @@
+{
+  "productId": "000812",
+  "name": "Чайник Neon X439 #000812",
+  "description": "Чайник бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 55823.79,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 195,
+    "reserved": 41
+  },
+  "sku": "Neon-000812",
+  "tags": [
+    "умный дом",
+    "экономия энергии",
+    "дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Neon-X439-000812.jpg",
+      "alt": "Чайник Neon X439 #000812 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Neon-X439-000812_side.jpg",
+      "alt": "Чайник Neon X439 #000812 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1855g",
+    "dimensions": "268mm x 70mm x 46mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-06T10:04:04Z",
+  "updatedAt": "2025-06-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

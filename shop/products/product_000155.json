@@ -1,0 +1,42 @@
+{
+  "productId": "000155",
+  "name": "Чайник Astra X83 #000155",
+  "description": "Чайник бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 4440.52,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 52,
+    "reserved": 25
+  },
+  "sku": "Astra-000155",
+  "tags": [
+    "умный дом",
+    "дом",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Astra-X83-000155.jpg",
+      "alt": "Чайник Astra X83 #000155 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Astra-X83-000155_side.jpg",
+      "alt": "Чайник Astra X83 #000155 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "882g",
+    "dimensions": "150mm x 194mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-19T10:04:04Z",
+  "updatedAt": "2025-01-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000785",
+  "name": "Фитнес-браслет Quantum Pro658 #000785",
+  "description": "Фитнес-браслет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 174425.69,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 457,
+    "reserved": 162
+  },
+  "sku": "Quantum-000785",
+  "tags": [
+    "технологии",
+    "gps",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Pro658-000785.jpg",
+      "alt": "Фитнес-браслет Quantum Pro658 #000785 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Pro658-000785_side.jpg",
+      "alt": "Фитнес-браслет Quantum Pro658 #000785 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1757g",
+    "dimensions": "167mm x 165mm x 50mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-22T10:04:04Z",
+  "updatedAt": "2025-04-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

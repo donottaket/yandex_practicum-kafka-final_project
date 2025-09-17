@@ -1,0 +1,43 @@
+{
+  "productId": "000687",
+  "name": "Пульсометр Astra X461 #000687",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 75674.38,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 252,
+    "reserved": 39
+  },
+  "sku": "Astra-000687",
+  "tags": [
+    "активность",
+    "outdoor",
+    "gps",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-X461-000687.jpg",
+      "alt": "Пульсометр Astra X461 #000687 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-X461-000687_side.jpg",
+      "alt": "Пульсометр Astra X461 #000687 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1414g",
+    "dimensions": "255mm x 61mm x 8mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-24T10:04:04Z",
+  "updatedAt": "2025-04-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000137",
+  "name": "Блендер Neon X679 #000137",
+  "description": "Блендер бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 73835.34,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 7,
+    "reserved": 1
+  },
+  "sku": "Neon-000137",
+  "tags": [
+    "экономия энергии",
+    "дом",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Neon-X679-000137.jpg",
+      "alt": "Блендер Neon X679 #000137 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Neon-X679-000137_side.jpg",
+      "alt": "Блендер Neon X679 #000137 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "602g",
+    "dimensions": "292mm x 180mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-08T10:04:04Z",
+  "updatedAt": "2025-03-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

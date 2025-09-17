@@ -1,0 +1,43 @@
+{
+  "productId": "000328",
+  "name": "Фитнес-трекер Quantum Pro100 #000328",
+  "description": "Фитнес-трекер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 44304.59,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 319,
+    "reserved": 123
+  },
+  "sku": "Quantum-000328",
+  "tags": [
+    "gps",
+    "активность",
+    "здоровье",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Pro100-000328.jpg",
+      "alt": "Фитнес-трекер Quantum Pro100 #000328 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Pro100-000328_side.jpg",
+      "alt": "Фитнес-трекер Quantum Pro100 #000328 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "570g",
+    "dimensions": "32mm x 27mm x 20mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-24T10:04:04Z",
+  "updatedAt": "2025-07-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000083",
+  "name": "Блендер Astra Max569 #000083",
+  "description": "Блендер бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 20416.09,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 319,
+    "reserved": 46
+  },
+  "sku": "Astra-000083",
+  "tags": [
+    "кухня",
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Astra-Max569-000083.jpg",
+      "alt": "Блендер Astra Max569 #000083 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Astra-Max569-000083_side.jpg",
+      "alt": "Блендер Astra Max569 #000083 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "396g",
+    "dimensions": "168mm x 126mm x 44mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-14T10:04:04Z",
+  "updatedAt": "2025-01-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

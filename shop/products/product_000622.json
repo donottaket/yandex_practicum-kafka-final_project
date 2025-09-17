@@ -1,0 +1,40 @@
+{
+  "productId": "000622",
+  "name": "Чайник Astra S590 #000622",
+  "description": "Чайник бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 74431.67,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 110,
+    "reserved": 33
+  },
+  "sku": "Astra-000622",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Astra-S590-000622.jpg",
+      "alt": "Чайник Astra S590 #000622 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Astra-S590-000622_side.jpg",
+      "alt": "Чайник Astra S590 #000622 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "297g",
+    "dimensions": "224mm x 164mm x 5mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-12T10:04:04Z",
+  "updatedAt": "2025-01-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

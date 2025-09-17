@@ -1,0 +1,41 @@
+{
+  "productId": "000722",
+  "name": "Фитнес-трекер Lumen Max447 #000722",
+  "description": "Фитнес-трекер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 16484.73,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 409,
+    "reserved": 144
+  },
+  "sku": "Lumen-000722",
+  "tags": [
+    "outdoor",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Max447-000722.jpg",
+      "alt": "Фитнес-трекер Lumen Max447 #000722 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Max447-000722_side.jpg",
+      "alt": "Фитнес-трекер Lumen Max447 #000722 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1590g",
+    "dimensions": "211mm x 111mm x 40mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-20T10:04:04Z",
+  "updatedAt": "2025-03-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

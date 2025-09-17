@@ -1,0 +1,43 @@
+{
+  "productId": "000260",
+  "name": "Блендер Lumen 633 #000260",
+  "description": "Блендер бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 18450.94,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 402,
+    "reserved": 152
+  },
+  "sku": "Lumen-000260",
+  "tags": [
+    "тихий",
+    "умный дом",
+    "экономия энергии",
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Lumen-633-000260.jpg",
+      "alt": "Блендер Lumen 633 #000260 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Lumen-633-000260_side.jpg",
+      "alt": "Блендер Lumen 633 #000260 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1243g",
+    "dimensions": "273mm x 25mm x 32mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-16T10:04:04Z",
+  "updatedAt": "2024-10-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

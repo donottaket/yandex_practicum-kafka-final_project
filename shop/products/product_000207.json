@@ -1,0 +1,40 @@
+{
+  "productId": "000207",
+  "name": "Куртка Quantum Plus627 #000207",
+  "description": "Куртка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 8024.83,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 174,
+    "reserved": 20
+  },
+  "sku": "Quantum-000207",
+  "tags": [
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Quantum-Plus627-000207.jpg",
+      "alt": "Куртка Quantum Plus627 #000207 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Quantum-Plus627-000207_side.jpg",
+      "alt": "Куртка Quantum Plus627 #000207 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1540g",
+    "dimensions": "37mm x 37mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-07T10:04:04Z",
+  "updatedAt": "2025-07-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000280",
+  "name": "Экшн-камера Lumen Pro961 #000280",
+  "description": "Экшн-камера бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 108833.88,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 24,
+    "reserved": 2
+  },
+  "sku": "Lumen-000280",
+  "tags": [
+    "bluetooth",
+    "гаджеты",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Lumen-Pro961-000280.jpg",
+      "alt": "Экшн-камера Lumen Pro961 #000280 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Lumen-Pro961-000280_side.jpg",
+      "alt": "Экшн-камера Lumen Pro961 #000280 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1392g",
+    "dimensions": "67mm x 124mm x 19mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-23T10:04:04Z",
+  "updatedAt": "2025-08-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

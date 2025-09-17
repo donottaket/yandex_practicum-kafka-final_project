@@ -1,0 +1,43 @@
+{
+  "productId": "000306",
+  "name": "Планшет Lumen 968 #000306",
+  "description": "Планшет бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 47897.38,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 42,
+    "reserved": 2
+  },
+  "sku": "Lumen-000306",
+  "tags": [
+    "android",
+    "bluetooth",
+    "технологии",
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Lumen-968-000306.jpg",
+      "alt": "Планшет Lumen 968 #000306 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Lumen-968-000306_side.jpg",
+      "alt": "Планшет Lumen 968 #000306 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1920g",
+    "dimensions": "270mm x 32mm x 45mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-10T10:04:04Z",
+  "updatedAt": "2024-12-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

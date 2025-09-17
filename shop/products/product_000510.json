@@ -1,0 +1,40 @@
+{
+  "productId": "000510",
+  "name": "Пульсометр NovaTech Max248 #000510",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 23443.69,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 186,
+    "reserved": 64
+  },
+  "sku": "NovaTech-000510",
+  "tags": [
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Max248-000510.jpg",
+      "alt": "Пульсометр NovaTech Max248 #000510 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Max248-000510_side.jpg",
+      "alt": "Пульсометр NovaTech Max248 #000510 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "409g",
+    "dimensions": "191mm x 58mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-26T10:04:04Z",
+  "updatedAt": "2025-04-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

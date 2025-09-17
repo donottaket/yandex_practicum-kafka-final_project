@@ -1,0 +1,40 @@
+{
+  "productId": "000127",
+  "name": "Планшет Astra X766 #000127",
+  "description": "Планшет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 144655.05,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 270,
+    "reserved": 5
+  },
+  "sku": "Astra-000127",
+  "tags": [
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Astra-X766-000127.jpg",
+      "alt": "Планшет Astra X766 #000127 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Astra-X766-000127_side.jpg",
+      "alt": "Планшет Astra X766 #000127 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1164g",
+    "dimensions": "233mm x 143mm x 9mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-01T10:04:04Z",
+  "updatedAt": "2025-05-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

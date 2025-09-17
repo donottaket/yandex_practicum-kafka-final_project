@@ -1,0 +1,42 @@
+{
+  "productId": "000513",
+  "name": "Увлажнитель воздуха ACME Pro936 #000513",
+  "description": "Увлажнитель воздуха бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 22063.96,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 184,
+    "reserved": 72
+  },
+  "sku": "ACME-000513",
+  "tags": [
+    "умный дом",
+    "тихий",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-Pro936-000513.jpg",
+      "alt": "Увлажнитель воздуха ACME Pro936 #000513 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-Pro936-000513_side.jpg",
+      "alt": "Увлажнитель воздуха ACME Pro936 #000513 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1209g",
+    "dimensions": "242mm x 105mm x 16mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-30T10:04:04Z",
+  "updatedAt": "2025-07-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

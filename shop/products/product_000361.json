@@ -1,0 +1,43 @@
+{
+  "productId": "000361",
+  "name": "Пульсометр Astra Pro684 #000361",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 62025.72,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 475,
+    "reserved": 48
+  },
+  "sku": "Astra-000361",
+  "tags": [
+    "gps",
+    "активность",
+    "outdoor",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Pro684-000361.jpg",
+      "alt": "Пульсометр Astra Pro684 #000361 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Pro684-000361_side.jpg",
+      "alt": "Пульсометр Astra Pro684 #000361 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1889g",
+    "dimensions": "146mm x 157mm x 25mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-19T10:04:04Z",
+  "updatedAt": "2025-02-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

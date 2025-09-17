@@ -1,0 +1,40 @@
+{
+  "productId": "000941",
+  "name": "Наушники NovaTech 930 #000941",
+  "description": "Наушники бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 159515.54,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 36,
+    "reserved": 5
+  },
+  "sku": "NovaTech-000941",
+  "tags": [
+    "bluetooth",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-930-000941.jpg",
+      "alt": "Наушники NovaTech 930 #000941 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-930-000941_side.jpg",
+      "alt": "Наушники NovaTech 930 #000941 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1648g",
+    "dimensions": "74mm x 156mm x 22mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-14T10:04:04Z",
+  "updatedAt": "2025-03-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

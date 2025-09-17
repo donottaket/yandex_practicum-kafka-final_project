@@ -1,0 +1,42 @@
+{
+  "productId": "000221",
+  "name": "Худи Vega Lite109 #000221",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 39199.59,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 187,
+    "reserved": 49
+  },
+  "sku": "Vega-000221",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-Lite109-000221.jpg",
+      "alt": "Худи Vega Lite109 #000221 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-Lite109-000221_side.jpg",
+      "alt": "Худи Vega Lite109 #000221 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "946g",
+    "dimensions": "241mm x 84mm x 7mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-31T10:04:04Z",
+  "updatedAt": "2025-03-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

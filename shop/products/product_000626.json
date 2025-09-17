@@ -1,0 +1,40 @@
+{
+  "productId": "000626",
+  "name": "Чайник Neon Plus969 #000626",
+  "description": "Чайник бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 58646.11,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 311,
+    "reserved": 60
+  },
+  "sku": "Neon-000626",
+  "tags": [
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Neon-Plus969-000626.jpg",
+      "alt": "Чайник Neon Plus969 #000626 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Neon-Plus969-000626_side.jpg",
+      "alt": "Чайник Neon Plus969 #000626 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "226g",
+    "dimensions": "174mm x 165mm x 32mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-28T10:04:04Z",
+  "updatedAt": "2024-10-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

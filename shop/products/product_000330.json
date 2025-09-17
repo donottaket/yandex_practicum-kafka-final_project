@@ -1,0 +1,41 @@
+{
+  "productId": "000330",
+  "name": "Кроссовки Polar X309 #000330",
+  "description": "Кроссовки бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 756.21,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 376,
+    "reserved": 146
+  },
+  "sku": "Polar-000330",
+  "tags": [
+    "стиль",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-X309-000330.jpg",
+      "alt": "Кроссовки Polar X309 #000330 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-X309-000330_side.jpg",
+      "alt": "Кроссовки Polar X309 #000330 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1023g",
+    "dimensions": "204mm x 196mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-30T10:04:04Z",
+  "updatedAt": "2024-10-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

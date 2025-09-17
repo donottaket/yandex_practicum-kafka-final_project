@@ -1,0 +1,43 @@
+{
+  "productId": "000589",
+  "name": "Пульсометр Neon Lite500 #000589",
+  "description": "Пульсометр бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 5532.23,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 445,
+    "reserved": 75
+  },
+  "sku": "Neon-000589",
+  "tags": [
+    "активность",
+    "outdoor",
+    "здоровье",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Neon-Lite500-000589.jpg",
+      "alt": "Пульсометр Neon Lite500 #000589 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Neon-Lite500-000589_side.jpg",
+      "alt": "Пульсометр Neon Lite500 #000589 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "776g",
+    "dimensions": "277mm x 82mm x 22mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-17T10:04:04Z",
+  "updatedAt": "2025-01-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

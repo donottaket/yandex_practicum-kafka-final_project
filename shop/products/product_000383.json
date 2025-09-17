@@ -1,0 +1,40 @@
+{
+  "productId": "000383",
+  "name": "Пульсометр NovaTech X53 #000383",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 89953.53,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 325,
+    "reserved": 141
+  },
+  "sku": "NovaTech-000383",
+  "tags": [
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-X53-000383.jpg",
+      "alt": "Пульсометр NovaTech X53 #000383 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-X53-000383_side.jpg",
+      "alt": "Пульсометр NovaTech X53 #000383 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1783g",
+    "dimensions": "134mm x 165mm x 24mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-07T10:04:04Z",
+  "updatedAt": "2025-04-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

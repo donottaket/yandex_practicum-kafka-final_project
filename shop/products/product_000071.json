@@ -1,0 +1,42 @@
+{
+  "productId": "000071",
+  "name": "Кроссовки Polar X250 #000071",
+  "description": "Кроссовки бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 34297.81,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 165,
+    "reserved": 68
+  },
+  "sku": "Polar-000071",
+  "tags": [
+    "мода",
+    "повседневное",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-X250-000071.jpg",
+      "alt": "Кроссовки Polar X250 #000071 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-X250-000071_side.jpg",
+      "alt": "Кроссовки Polar X250 #000071 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "334g",
+    "dimensions": "275mm x 129mm x 13mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-27T10:04:04Z",
+  "updatedAt": "2025-02-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

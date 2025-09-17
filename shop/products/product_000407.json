@@ -1,0 +1,40 @@
+{
+  "productId": "000407",
+  "name": "Куртка Lumen Lite496 #000407",
+  "description": "Куртка бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 6568.04,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 377,
+    "reserved": 185
+  },
+  "sku": "Lumen-000407",
+  "tags": [
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Lumen-Lite496-000407.jpg",
+      "alt": "Куртка Lumen Lite496 #000407 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Lumen-Lite496-000407_side.jpg",
+      "alt": "Куртка Lumen Lite496 #000407 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "79g",
+    "dimensions": "53mm x 101mm x 13mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-03T10:04:04Z",
+  "updatedAt": "2024-12-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

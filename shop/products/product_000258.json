@@ -1,0 +1,43 @@
+{
+  "productId": "000258",
+  "name": "Умные часы Neon Pro784 #000258",
+  "description": "Умные часы бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 46013.57,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 306,
+    "reserved": 113
+  },
+  "sku": "Neon-000258",
+  "tags": [
+    "android",
+    "bluetooth",
+    "гаджеты",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-Pro784-000258.jpg",
+      "alt": "Умные часы Neon Pro784 #000258 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-Pro784-000258_side.jpg",
+      "alt": "Умные часы Neon Pro784 #000258 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "926g",
+    "dimensions": "75mm x 143mm x 18mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-08T10:04:04Z",
+  "updatedAt": "2025-04-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

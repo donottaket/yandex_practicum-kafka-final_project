@@ -1,0 +1,43 @@
+{
+  "productId": "000888",
+  "name": "Робот-пылесос Astra Lite45 #000888",
+  "description": "Робот-пылесос бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42235.69,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 275,
+    "reserved": 24
+  },
+  "sku": "Astra-000888",
+  "tags": [
+    "тихий",
+    "кухня",
+    "экономия энергии",
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Lite45-000888.jpg",
+      "alt": "Робот-пылесос Astra Lite45 #000888 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Lite45-000888_side.jpg",
+      "alt": "Робот-пылесос Astra Lite45 #000888 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1211g",
+    "dimensions": "227mm x 124mm x 32mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-08T10:04:04Z",
+  "updatedAt": "2024-10-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

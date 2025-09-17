@@ -1,0 +1,42 @@
+{
+  "productId": "000738",
+  "name": "Смарт-велокомпьютер Vega S84 #000738",
+  "description": "Смарт-велокомпьютер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 49036.89,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 131,
+    "reserved": 0
+  },
+  "sku": "Vega-000738",
+  "tags": [
+    "активность",
+    "gps",
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Vega-S84-000738.jpg",
+      "alt": "Смарт-велокомпьютер Vega S84 #000738 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Vega-S84-000738_side.jpg",
+      "alt": "Смарт-велокомпьютер Vega S84 #000738 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1767g",
+    "dimensions": "227mm x 98mm x 30mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-07T10:04:04Z",
+  "updatedAt": "2025-06-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

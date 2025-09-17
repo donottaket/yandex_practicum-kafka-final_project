@@ -1,0 +1,42 @@
+{
+  "productId": "000587",
+  "name": "Увлажнитель воздуха Lumen X854 #000587",
+  "description": "Увлажнитель воздуха бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 53951.96,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 409,
+    "reserved": 198
+  },
+  "sku": "Lumen-000587",
+  "tags": [
+    "умный дом",
+    "экономия энергии",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-X854-000587.jpg",
+      "alt": "Увлажнитель воздуха Lumen X854 #000587 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-X854-000587_side.jpg",
+      "alt": "Увлажнитель воздуха Lumen X854 #000587 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1925g",
+    "dimensions": "42mm x 53mm x 16mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-27T10:04:04Z",
+  "updatedAt": "2024-11-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

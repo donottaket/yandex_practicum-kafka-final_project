@@ -1,0 +1,41 @@
+{
+  "productId": "000731",
+  "name": "Кроссовки Polar Max174 #000731",
+  "description": "Кроссовки бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 29601.13,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 211,
+    "reserved": 46
+  },
+  "sku": "Polar-000731",
+  "tags": [
+    "повседневное",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-Max174-000731.jpg",
+      "alt": "Кроссовки Polar Max174 #000731 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-Max174-000731_side.jpg",
+      "alt": "Кроссовки Polar Max174 #000731 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1817g",
+    "dimensions": "193mm x 41mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-29T10:04:04Z",
+  "updatedAt": "2025-08-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

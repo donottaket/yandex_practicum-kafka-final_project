@@ -1,0 +1,42 @@
+{
+  "productId": "000435",
+  "name": "Спортивные часы XYZ Plus329 #000435",
+  "description": "Спортивные часы бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 96940.53,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 484,
+    "reserved": 179
+  },
+  "sku": "XYZ-000435",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Plus329-000435.jpg",
+      "alt": "Спортивные часы XYZ Plus329 #000435 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-Plus329-000435_side.jpg",
+      "alt": "Спортивные часы XYZ Plus329 #000435 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1419g",
+    "dimensions": "73mm x 115mm x 22mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-04T10:04:04Z",
+  "updatedAt": "2025-09-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

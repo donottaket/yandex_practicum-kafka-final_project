@@ -1,0 +1,42 @@
+{
+  "productId": "000523",
+  "name": "Спортивные часы NovaTech X237 #000523",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 74877.41,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 123,
+    "reserved": 37
+  },
+  "sku": "NovaTech-000523",
+  "tags": [
+    "активность",
+    "outdoor",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-X237-000523.jpg",
+      "alt": "Спортивные часы NovaTech X237 #000523 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-X237-000523_side.jpg",
+      "alt": "Спортивные часы NovaTech X237 #000523 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "887g",
+    "dimensions": "150mm x 154mm x 19mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-13T10:04:04Z",
+  "updatedAt": "2024-12-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

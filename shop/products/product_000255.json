@@ -1,0 +1,42 @@
+{
+  "productId": "000255",
+  "name": "Увлажнитель воздуха Polar Pro979 #000255",
+  "description": "Увлажнитель воздуха бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 56141.08,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 485,
+    "reserved": 182
+  },
+  "sku": "Polar-000255",
+  "tags": [
+    "дом",
+    "экономия энергии",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Polar-Pro979-000255.jpg",
+      "alt": "Увлажнитель воздуха Polar Pro979 #000255 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Polar-Pro979-000255_side.jpg",
+      "alt": "Увлажнитель воздуха Polar Pro979 #000255 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "55g",
+    "dimensions": "160mm x 112mm x 36mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-02T10:04:04Z",
+  "updatedAt": "2025-04-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

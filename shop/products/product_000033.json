@@ -1,0 +1,40 @@
+{
+  "productId": "000033",
+  "name": "Смарт-велокомпьютер Neon X732 #000033",
+  "description": "Смарт-велокомпьютер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 52444.7,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 210,
+    "reserved": 23
+  },
+  "sku": "Neon-000033",
+  "tags": [
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-X732-000033.jpg",
+      "alt": "Смарт-велокомпьютер Neon X732 #000033 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-X732-000033_side.jpg",
+      "alt": "Смарт-велокомпьютер Neon X732 #000033 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1272g",
+    "dimensions": "81mm x 136mm x 46mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-02T10:04:04Z",
+  "updatedAt": "2025-04-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

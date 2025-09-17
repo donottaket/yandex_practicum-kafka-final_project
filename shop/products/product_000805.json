@@ -1,0 +1,40 @@
+{
+  "productId": "000805",
+  "name": "Футболка Neon Max856 #000805",
+  "description": "Футболка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 12727.37,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 199,
+    "reserved": 97
+  },
+  "sku": "Neon-000805",
+  "tags": [
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Neon-Max856-000805.jpg",
+      "alt": "Футболка Neon Max856 #000805 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Neon-Max856-000805_side.jpg",
+      "alt": "Футболка Neon Max856 #000805 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1893g",
+    "dimensions": "189mm x 22mm x 24mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-08T10:04:04Z",
+  "updatedAt": "2025-08-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

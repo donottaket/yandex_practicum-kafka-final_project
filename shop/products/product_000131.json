@@ -1,0 +1,42 @@
+{
+  "productId": "000131",
+  "name": "Фитнес-трекер Neon Lite975 #000131",
+  "description": "Фитнес-трекер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 38450.78,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 471,
+    "reserved": 88
+  },
+  "sku": "Neon-000131",
+  "tags": [
+    "gps",
+    "спорт",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-Lite975-000131.jpg",
+      "alt": "Фитнес-трекер Neon Lite975 #000131 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-Lite975-000131_side.jpg",
+      "alt": "Фитнес-трекер Neon Lite975 #000131 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1702g",
+    "dimensions": "187mm x 57mm x 30mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-30T10:04:04Z",
+  "updatedAt": "2025-01-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

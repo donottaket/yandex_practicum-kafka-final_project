@@ -1,0 +1,40 @@
+{
+  "productId": "000839",
+  "name": "Смартфон XYZ X679 #000839",
+  "description": "Смартфон бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 161379.75,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 244,
+    "reserved": 112
+  },
+  "sku": "XYZ-000839",
+  "tags": [
+    "gps",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-X679-000839.jpg",
+      "alt": "Смартфон XYZ X679 #000839 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-X679-000839_side.jpg",
+      "alt": "Смартфон XYZ X679 #000839 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1760g",
+    "dimensions": "91mm x 38mm x 9mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-08T10:04:04Z",
+  "updatedAt": "2024-11-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

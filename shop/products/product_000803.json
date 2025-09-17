@@ -1,0 +1,42 @@
+{
+  "productId": "000803",
+  "name": "Экшн-камера Vega Max324 #000803",
+  "description": "Экшн-камера бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 82898.03,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 469,
+    "reserved": 54
+  },
+  "sku": "Vega-000803",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "gps",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Vega-Max324-000803.jpg",
+      "alt": "Экшн-камера Vega Max324 #000803 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Vega-Max324-000803_side.jpg",
+      "alt": "Экшн-камера Vega Max324 #000803 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "813g",
+    "dimensions": "115mm x 50mm x 27mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-17T10:04:04Z",
+  "updatedAt": "2024-12-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

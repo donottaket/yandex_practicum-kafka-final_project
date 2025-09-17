@@ -1,0 +1,42 @@
+{
+  "productId": "000886",
+  "name": "Футболка ACME S455 #000886",
+  "description": "Футболка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 2965.34,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 131,
+    "reserved": 2
+  },
+  "sku": "ACME-000886",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-ACME-S455-000886.jpg",
+      "alt": "Футболка ACME S455 #000886 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-ACME-S455-000886_side.jpg",
+      "alt": "Футболка ACME S455 #000886 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1876g",
+    "dimensions": "217mm x 24mm x 13mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-21T10:04:04Z",
+  "updatedAt": "2025-05-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

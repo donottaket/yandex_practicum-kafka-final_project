@@ -1,0 +1,42 @@
+{
+  "productId": "000413",
+  "name": "Смартфон NovaTech 621 #000413",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 11934.32,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 409,
+    "reserved": 1
+  },
+  "sku": "NovaTech-000413",
+  "tags": [
+    "технологии",
+    "android",
+    "bluetooth",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-621-000413.jpg",
+      "alt": "Смартфон NovaTech 621 #000413 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-621-000413_side.jpg",
+      "alt": "Смартфон NovaTech 621 #000413 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1315g",
+    "dimensions": "280mm x 152mm x 6mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-08T10:04:04Z",
+  "updatedAt": "2025-01-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

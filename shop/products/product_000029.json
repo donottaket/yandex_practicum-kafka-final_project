@@ -1,0 +1,40 @@
+{
+  "productId": "000029",
+  "name": "Пульсометр NovaTech 915 #000029",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 27335.3,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 156,
+    "reserved": 8
+  },
+  "sku": "NovaTech-000029",
+  "tags": [
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-915-000029.jpg",
+      "alt": "Пульсометр NovaTech 915 #000029 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-915-000029_side.jpg",
+      "alt": "Пульсометр NovaTech 915 #000029 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "159g",
+    "dimensions": "126mm x 99mm x 24mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-27T10:04:04Z",
+  "updatedAt": "2025-03-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

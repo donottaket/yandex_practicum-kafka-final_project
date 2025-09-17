@@ -1,0 +1,42 @@
+{
+  "productId": "000917",
+  "name": "Худи Orion Max164 #000917",
+  "description": "Худи бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 33726.95,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 298,
+    "reserved": 86
+  },
+  "sku": "Orion-000917",
+  "tags": [
+    "мода",
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Orion-Max164-000917.jpg",
+      "alt": "Худи Orion Max164 #000917 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Orion-Max164-000917_side.jpg",
+      "alt": "Худи Orion Max164 #000917 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1642g",
+    "dimensions": "123mm x 33mm x 29mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-02T10:04:04Z",
+  "updatedAt": "2025-07-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

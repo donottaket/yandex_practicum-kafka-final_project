@@ -1,0 +1,41 @@
+{
+  "productId": "000025",
+  "name": "Кроссовки Quantum Max465 #000025",
+  "description": "Кроссовки бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 9978.15,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 305,
+    "reserved": 136
+  },
+  "sku": "Quantum-000025",
+  "tags": [
+    "удобство",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Quantum-Max465-000025.jpg",
+      "alt": "Кроссовки Quantum Max465 #000025 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Quantum-Max465-000025_side.jpg",
+      "alt": "Кроссовки Quantum Max465 #000025 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1529g",
+    "dimensions": "213mm x 129mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-22T10:04:04Z",
+  "updatedAt": "2025-08-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

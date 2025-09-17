@@ -1,0 +1,41 @@
+{
+  "productId": "000775",
+  "name": "Умные часы NovaTech 332 #000775",
+  "description": "Умные часы бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 117560.6,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 407,
+    "reserved": 203
+  },
+  "sku": "NovaTech-000775",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-NovaTech-332-000775.jpg",
+      "alt": "Умные часы NovaTech 332 #000775 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-NovaTech-332-000775_side.jpg",
+      "alt": "Умные часы NovaTech 332 #000775 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1820g",
+    "dimensions": "222mm x 76mm x 13mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-29T10:04:04Z",
+  "updatedAt": "2025-04-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

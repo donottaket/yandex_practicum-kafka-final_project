@@ -1,0 +1,41 @@
+{
+  "productId": "000370",
+  "name": "Худи Polar Max147 #000370",
+  "description": "Худи бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 24363.53,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 99,
+    "reserved": 45
+  },
+  "sku": "Polar-000370",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Polar-Max147-000370.jpg",
+      "alt": "Худи Polar Max147 #000370 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Polar-Max147-000370_side.jpg",
+      "alt": "Худи Polar Max147 #000370 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1393g",
+    "dimensions": "175mm x 156mm x 47mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-14T10:04:04Z",
+  "updatedAt": "2024-11-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

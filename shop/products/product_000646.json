@@ -1,0 +1,40 @@
+{
+  "productId": "000646",
+  "name": "Кофемашина Vega Plus814 #000646",
+  "description": "Кофемашина бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 25860.0,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 353,
+    "reserved": 114
+  },
+  "sku": "Vega-000646",
+  "tags": [
+    "умный дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Vega-Plus814-000646.jpg",
+      "alt": "Кофемашина Vega Plus814 #000646 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Vega-Plus814-000646_side.jpg",
+      "alt": "Кофемашина Vega Plus814 #000646 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "886g",
+    "dimensions": "152mm x 187mm x 28mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-24T10:04:04Z",
+  "updatedAt": "2024-12-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000176",
+  "name": "Смарт-велокомпьютер Polar 23 #000176",
+  "description": "Смарт-велокомпьютер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 41147.63,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 471,
+    "reserved": 114
+  },
+  "sku": "Polar-000176",
+  "tags": [
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-23-000176.jpg",
+      "alt": "Смарт-велокомпьютер Polar 23 #000176 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-23-000176_side.jpg",
+      "alt": "Смарт-велокомпьютер Polar 23 #000176 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1699g",
+    "dimensions": "223mm x 128mm x 7mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-04T10:04:04Z",
+  "updatedAt": "2025-03-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

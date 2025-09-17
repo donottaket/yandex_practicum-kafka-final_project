@@ -1,0 +1,42 @@
+{
+  "productId": "000042",
+  "name": "Наушники Neon X395 #000042",
+  "description": "Наушники бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 89979.78,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 178,
+    "reserved": 8
+  },
+  "sku": "Neon-000042",
+  "tags": [
+    "oled",
+    "технологии",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Neon-X395-000042.jpg",
+      "alt": "Наушники Neon X395 #000042 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Neon-X395-000042_side.jpg",
+      "alt": "Наушники Neon X395 #000042 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1074g",
+    "dimensions": "194mm x 28mm x 18mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-25T10:04:04Z",
+  "updatedAt": "2025-03-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

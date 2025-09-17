@@ -1,0 +1,40 @@
+{
+  "productId": "000718",
+  "name": "Футболка Polar X48 #000718",
+  "description": "Футболка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 24460.51,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 353,
+    "reserved": 7
+  },
+  "sku": "Polar-000718",
+  "tags": [
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Polar-X48-000718.jpg",
+      "alt": "Футболка Polar X48 #000718 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Polar-X48-000718_side.jpg",
+      "alt": "Футболка Polar X48 #000718 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1406g",
+    "dimensions": "300mm x 69mm x 39mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-12T10:04:04Z",
+  "updatedAt": "2025-03-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

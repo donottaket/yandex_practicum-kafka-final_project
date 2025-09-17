@@ -1,0 +1,42 @@
+{
+  "productId": "000294",
+  "name": "Худи Quantum Max330 #000294",
+  "description": "Худи бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 37447.79,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 1,
+    "reserved": 0
+  },
+  "sku": "Quantum-000294",
+  "tags": [
+    "мода",
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Quantum-Max330-000294.jpg",
+      "alt": "Худи Quantum Max330 #000294 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Quantum-Max330-000294_side.jpg",
+      "alt": "Худи Quantum Max330 #000294 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "685g",
+    "dimensions": "197mm x 111mm x 36mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-27T10:04:04Z",
+  "updatedAt": "2025-07-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

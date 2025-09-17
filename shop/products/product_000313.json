@@ -1,0 +1,43 @@
+{
+  "productId": "000313",
+  "name": "Смарт-велокомпьютер NovaTech X844 #000313",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 39956.31,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 412,
+    "reserved": 101
+  },
+  "sku": "NovaTech-000313",
+  "tags": [
+    "outdoor",
+    "gps",
+    "активность",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X844-000313.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X844 #000313 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X844-000313_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X844 #000313 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1074g",
+    "dimensions": "101mm x 35mm x 14mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-18T10:04:04Z",
+  "updatedAt": "2025-09-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

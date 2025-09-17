@@ -1,0 +1,43 @@
+{
+  "productId": "000301",
+  "name": "Робот-пылесос Orion S795 #000301",
+  "description": "Робот-пылесос бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 77507.82,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 494,
+    "reserved": 180
+  },
+  "sku": "Orion-000301",
+  "tags": [
+    "дом",
+    "умный дом",
+    "тихий",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Orion-S795-000301.jpg",
+      "alt": "Робот-пылесос Orion S795 #000301 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Orion-S795-000301_side.jpg",
+      "alt": "Робот-пылесос Orion S795 #000301 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1615g",
+    "dimensions": "182mm x 71mm x 46mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-04T10:04:04Z",
+  "updatedAt": "2025-03-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

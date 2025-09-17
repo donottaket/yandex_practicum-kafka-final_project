@@ -1,0 +1,40 @@
+{
+  "productId": "000250",
+  "name": "Экшн-камера XYZ 557 #000250",
+  "description": "Экшн-камера бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 197484.29,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 485,
+    "reserved": 200
+  },
+  "sku": "XYZ-000250",
+  "tags": [
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-557-000250.jpg",
+      "alt": "Экшн-камера XYZ 557 #000250 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-557-000250_side.jpg",
+      "alt": "Экшн-камера XYZ 557 #000250 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1124g",
+    "dimensions": "184mm x 27mm x 6mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-12-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

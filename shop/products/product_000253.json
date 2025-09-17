@@ -1,0 +1,41 @@
+{
+  "productId": "000253",
+  "name": "Футболка Quantum Max485 #000253",
+  "description": "Футболка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 41663.2,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 162,
+    "reserved": 64
+  },
+  "sku": "Quantum-000253",
+  "tags": [
+    "удобство",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Quantum-Max485-000253.jpg",
+      "alt": "Футболка Quantum Max485 #000253 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Quantum-Max485-000253_side.jpg",
+      "alt": "Футболка Quantum Max485 #000253 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "286g",
+    "dimensions": "133mm x 197mm x 35mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-17T10:04:04Z",
+  "updatedAt": "2025-05-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

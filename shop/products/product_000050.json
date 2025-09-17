@@ -1,0 +1,40 @@
+{
+  "productId": "000050",
+  "name": "Кофемашина Polar Plus131 #000050",
+  "description": "Кофемашина бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 19262.88,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 321,
+    "reserved": 45
+  },
+  "sku": "Polar-000050",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Plus131-000050.jpg",
+      "alt": "Кофемашина Polar Plus131 #000050 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Plus131-000050_side.jpg",
+      "alt": "Кофемашина Polar Plus131 #000050 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1356g",
+    "dimensions": "148mm x 178mm x 32mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-27T10:04:04Z",
+  "updatedAt": "2025-07-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

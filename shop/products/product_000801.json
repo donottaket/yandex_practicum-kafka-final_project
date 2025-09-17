@@ -1,0 +1,42 @@
+{
+  "productId": "000801",
+  "name": "Штаны ACME Pro186 #000801",
+  "description": "Штаны бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 18289.8,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 404,
+    "reserved": 56
+  },
+  "sku": "ACME-000801",
+  "tags": [
+    "повседневное",
+    "мода",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-ACME-Pro186-000801.jpg",
+      "alt": "Штаны ACME Pro186 #000801 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-ACME-Pro186-000801_side.jpg",
+      "alt": "Штаны ACME Pro186 #000801 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "953g",
+    "dimensions": "133mm x 104mm x 39mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-27T10:04:04Z",
+  "updatedAt": "2025-02-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

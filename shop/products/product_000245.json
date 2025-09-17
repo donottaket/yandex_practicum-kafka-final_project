@@ -1,0 +1,42 @@
+{
+  "productId": "000245",
+  "name": "Экшн-камера Vega X438 #000245",
+  "description": "Экшн-камера бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 147067.82,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 143,
+    "reserved": 65
+  },
+  "sku": "Vega-000245",
+  "tags": [
+    "гаджеты",
+    "gps",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Vega-X438-000245.jpg",
+      "alt": "Экшн-камера Vega X438 #000245 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Vega-X438-000245_side.jpg",
+      "alt": "Экшн-камера Vega X438 #000245 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1833g",
+    "dimensions": "53mm x 78mm x 27mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-29T10:04:04Z",
+  "updatedAt": "2024-11-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

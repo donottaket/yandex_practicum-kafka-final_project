@@ -1,0 +1,42 @@
+{
+  "productId": "000662",
+  "name": "Штаны Quantum 155 #000662",
+  "description": "Штаны бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 36825.12,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 211,
+    "reserved": 3
+  },
+  "sku": "Quantum-000662",
+  "tags": [
+    "стиль",
+    "мода",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Quantum-155-000662.jpg",
+      "alt": "Штаны Quantum 155 #000662 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Quantum-155-000662_side.jpg",
+      "alt": "Штаны Quantum 155 #000662 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1971g",
+    "dimensions": "117mm x 112mm x 27mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-25T10:04:04Z",
+  "updatedAt": "2025-02-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

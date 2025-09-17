@@ -1,0 +1,41 @@
+{
+  "productId": "000200",
+  "name": "Спортивные часы Astra Pro297 #000200",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 81719.61,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 320,
+    "reserved": 80
+  },
+  "sku": "Astra-000200",
+  "tags": [
+    "спорт",
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Pro297-000200.jpg",
+      "alt": "Спортивные часы Astra Pro297 #000200 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Pro297-000200_side.jpg",
+      "alt": "Спортивные часы Astra Pro297 #000200 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "293g",
+    "dimensions": "82mm x 78mm x 36mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-26T10:04:04Z",
+  "updatedAt": "2025-07-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

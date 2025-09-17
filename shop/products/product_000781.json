@@ -1,0 +1,42 @@
+{
+  "productId": "000781",
+  "name": "Фитнес-трекер NovaTech 758 #000781",
+  "description": "Фитнес-трекер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 98885.36,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 282,
+    "reserved": 29
+  },
+  "sku": "NovaTech-000781",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-758-000781.jpg",
+      "alt": "Фитнес-трекер NovaTech 758 #000781 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-758-000781_side.jpg",
+      "alt": "Фитнес-трекер NovaTech 758 #000781 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "904g",
+    "dimensions": "209mm x 196mm x 6mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-26T10:04:04Z",
+  "updatedAt": "2024-11-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

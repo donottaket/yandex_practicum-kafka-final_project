@@ -1,0 +1,59 @@
+server:
+  port: 8080
+  ssl:
+    enabled: true
+    key-password: ${SERVER_SSL_KEY_PASSWORD}
+    key-store: ${SERVER_SSL_KEY_STORE_LOCATION}
+    key-store-password: ${SERVER_SSL_KEY_STORE_PASSWORD}
+    key-store-type: ${SERVER_SSL_KEY_STORE_TYPE}
+    trust-store: ${SERVER_SSL_TRUST_STORE_LOCATION}
+    trust-store-password: ${SERVER_SSL_TRUST_STORE_PASSWORD}
+    trust-store-type: ${SERVER_SSL_TRUST_STORE_TYPE}
+    client-auth: need
+
+spring:
+  application:
+    name: client
+
+  elasticsearch:
+    uris: ${ELASTICSEARCH_URIS}
+
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS}
+
+    ssl:
+      key-store-location: ${KAFKA_SSL_KEY_STORE_LOCATION}
+      key-store-password: ${KAFKA_SSL_KEY_STORE_PASSWORD}
+      key-password: ${KAFKA_SSL_KEY_PASSWORD}
+      trust-store-location: ${KAFKA_SSL_TRUST_STORE_LOCATION}
+      trust-store-password: ${KAFKA_SSL_TRUST_STORE_PASSWORD}
+      key-store-type: ${KAFKA_SSL_KEY_STORE_TYPE}
+      trust-store-type: ${KAFKA_SSL_TRUST_STORE_TYPE}
+
+    properties:
+      security.protocol: ${KAFKA_SECURITY_PROTOCOL}
+      value.subject.name.strategy: io.confluent.kafka.serializers.subject.RecordNameStrategy
+      specific.avro.reader: true
+      auto.register.schemas: false
+      ssl.endpoint.identification.algorithm: https
+      schema.registry.url: ${KAFKA_SCHEMA_REGISTRY_URL}
+      schema.registry.ssl.truststore.location: ${KAFKA_SCHEMA_REGISTRY_SSL_TRUST_STORE_LOCATION}
+      schema.registry.ssl.truststore.password: ${KAFKA_SCHEMA_REGISTRY_SSL_TRUST_STORE_PASSWORD}
+      schema.registry.ssl.keystore.location: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_STORE_LOCATION}
+      schema.registry.ssl.keystore.password: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_STORE_PASSWORD}
+      schema.registry.ssl.key.password: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_PASSWORD}
+      schema.registry.ssl.keystore.type: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_STORE_TYPE}
+      schema.registry.ssl.truststore.type: ${KAFKA_SCHEMA_REGISTRY_SSL_TRUST_STORE_TYPE}
+      schema.registry.ssl.endpoint.identification.algorithm: https
+
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: io.confluent.kafka.serializers.KafkaAvroSerializer
+      acks: all
+
+application:
+  messaging:
+    product_search_result:
+      topic: ${PRODUCT_SEARCH_RESULT_TOPIC}
+  ksql_db:
+    url: ${KSQL_DB_URL}

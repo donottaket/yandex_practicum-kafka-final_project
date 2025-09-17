@@ -1,0 +1,59 @@
+server:
+  port: 8080
+  ssl:
+    enabled: true
+    key-password: ${SERVER_SSL_KEY_PASSWORD}
+    key-store: ${SERVER_SSL_KEY_STORE_LOCATION}
+    key-store-password: ${SERVER_SSL_KEY_STORE_PASSWORD}
+    key-store-type: ${SERVER_SSL_KEY_STORE_TYPE}
+    trust-store: ${SERVER_SSL_TRUST_STORE_LOCATION}
+    trust-store-password: ${SERVER_SSL_TRUST_STORE_PASSWORD}
+    trust-store-type: ${SERVER_SSL_TRUST_STORE_TYPE}
+    client-auth: need
+
+spring:
+  application:
+    name: shop
+
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP_SERVERS}
+
+    ssl:
+      key-store-location: ${KAFKA_SSL_KEY_STORE_LOCATION}
+      key-store-password: ${KAFKA_SSL_KEY_STORE_PASSWORD}
+      key-password: ${KAFKA_SSL_KEY_PASSWORD}
+      trust-store-location: ${KAFKA_SSL_TRUST_STORE_LOCATION}
+      trust-store-password: ${KAFKA_SSL_TRUST_STORE_PASSWORD}
+      key-store-type: ${KAFKA_SSL_KEY_STORE_TYPE}
+      trust-store-type: ${KAFKA_SSL_TRUST_STORE_TYPE}
+
+    properties:
+      client.id: ${spring.application.name}
+      security.protocol: ${KAFKA_SECURITY_PROTOCOL}
+      ssl.endpoint.identification.algorithm: https
+      auto.register.schemas: true
+      value.subject.name.strategy: io.confluent.kafka.serializers.subject.RecordNameStrategy
+      schema.registry.url: ${KAFKA_SCHEMA_REGISTRY_URL}
+      schema.registry.ssl.truststore.location: ${KAFKA_SCHEMA_REGISTRY_SSL_TRUST_STORE_LOCATION}
+      schema.registry.ssl.truststore.password: ${KAFKA_SCHEMA_REGISTRY_SSL_TRUST_STORE_PASSWORD}
+      schema.registry.ssl.keystore.location: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_STORE_LOCATION}
+      schema.registry.ssl.keystore.password: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_STORE_PASSWORD}
+      schema.registry.ssl.key.password: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_PASSWORD}
+      schema.registry.ssl.keystore.type: ${KAFKA_SCHEMA_REGISTRY_SSL_KEY_STORE_TYPE}
+      schema.registry.ssl.truststore.type: ${KAFKA_SCHEMA_REGISTRY_SSL_TRUST_STORE_TYPE}
+      schema.registry.ssl.endpoint.identification.algorithm: https
+
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: io.confluent.kafka.serializers.KafkaAvroSerializer
+      acks: all
+
+application:
+  messaging:
+    product:
+      topic: ${PRODUCT_KAFKA_TOPIC}
+
+  data:
+    product:
+      directory_path: ${PRODUCT_DATA_DIRECTORY_PATH}
+      publish_interval_ms: ${PRODUCT_DATA_PUBLISH_INTERVAL_MS}

@@ -1,0 +1,43 @@
+{
+  "productId": "000998",
+  "name": "Блендер Quantum Plus335 #000998",
+  "description": "Блендер бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 28339.54,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 154,
+    "reserved": 13
+  },
+  "sku": "Quantum-000998",
+  "tags": [
+    "тихий",
+    "умный дом",
+    "экономия энергии",
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Quantum-Plus335-000998.jpg",
+      "alt": "Блендер Quantum Plus335 #000998 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Quantum-Plus335-000998_side.jpg",
+      "alt": "Блендер Quantum Plus335 #000998 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1085g",
+    "dimensions": "290mm x 101mm x 17mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-06T10:04:04Z",
+  "updatedAt": "2025-07-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

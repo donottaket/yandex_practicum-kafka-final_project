@@ -1,0 +1,43 @@
+{
+  "productId": "000975",
+  "name": "Пульсометр XYZ X535 #000975",
+  "description": "Пульсометр бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 65342.88,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 436,
+    "reserved": 39
+  },
+  "sku": "XYZ-000975",
+  "tags": [
+    "outdoor",
+    "здоровье",
+    "спорт",
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-X535-000975.jpg",
+      "alt": "Пульсометр XYZ X535 #000975 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-X535-000975_side.jpg",
+      "alt": "Пульсометр XYZ X535 #000975 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1713g",
+    "dimensions": "141mm x 73mm x 10mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-17T10:04:04Z",
+  "updatedAt": "2025-07-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

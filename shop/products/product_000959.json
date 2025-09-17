@@ -1,0 +1,43 @@
+{
+  "productId": "000959",
+  "name": "Смарт-велокомпьютер Neon Max623 #000959",
+  "description": "Смарт-велокомпьютер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 28461.03,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 326,
+    "reserved": 15
+  },
+  "sku": "Neon-000959",
+  "tags": [
+    "здоровье",
+    "gps",
+    "outdoor",
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-Max623-000959.jpg",
+      "alt": "Смарт-велокомпьютер Neon Max623 #000959 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-Max623-000959_side.jpg",
+      "alt": "Смарт-велокомпьютер Neon Max623 #000959 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1622g",
+    "dimensions": "168mm x 150mm x 18mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-27T10:04:04Z",
+  "updatedAt": "2025-05-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

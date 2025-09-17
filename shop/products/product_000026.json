@@ -1,0 +1,41 @@
+{
+  "productId": "000026",
+  "name": "Увлажнитель воздуха XYZ Max756 #000026",
+  "description": "Увлажнитель воздуха бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 8954.25,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 467,
+    "reserved": 230
+  },
+  "sku": "XYZ-000026",
+  "tags": [
+    "кухня",
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-Max756-000026.jpg",
+      "alt": "Увлажнитель воздуха XYZ Max756 #000026 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-Max756-000026_side.jpg",
+      "alt": "Увлажнитель воздуха XYZ Max756 #000026 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1513g",
+    "dimensions": "81mm x 89mm x 12mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-30T10:04:04Z",
+  "updatedAt": "2025-09-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

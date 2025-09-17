@@ -1,0 +1,40 @@
+{
+  "productId": "000123",
+  "name": "Умные часы Astra S351 #000123",
+  "description": "Умные часы бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 161666.9,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 95,
+    "reserved": 35
+  },
+  "sku": "Astra-000123",
+  "tags": [
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-S351-000123.jpg",
+      "alt": "Умные часы Astra S351 #000123 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-S351-000123_side.jpg",
+      "alt": "Умные часы Astra S351 #000123 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1054g",
+    "dimensions": "110mm x 25mm x 37mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-06T10:04:04Z",
+  "updatedAt": "2025-01-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

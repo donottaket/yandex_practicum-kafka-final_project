@@ -1,0 +1,42 @@
+{
+  "productId": "000552",
+  "name": "Планшет Astra Lite943 #000552",
+  "description": "Планшет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 23215.2,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 380,
+    "reserved": 67
+  },
+  "sku": "Astra-000552",
+  "tags": [
+    "gps",
+    "технологии",
+    "ios",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite943-000552.jpg",
+      "alt": "Планшет Astra Lite943 #000552 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite943-000552_side.jpg",
+      "alt": "Планшет Astra Lite943 #000552 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1714g",
+    "dimensions": "293mm x 165mm x 12mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-24T10:04:04Z",
+  "updatedAt": "2025-07-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

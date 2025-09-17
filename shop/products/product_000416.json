@@ -1,0 +1,40 @@
+{
+  "productId": "000416",
+  "name": "Фитнес-трекер NovaTech Pro689 #000416",
+  "description": "Фитнес-трекер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 2065.81,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 97,
+    "reserved": 14
+  },
+  "sku": "NovaTech-000416",
+  "tags": [
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Pro689-000416.jpg",
+      "alt": "Фитнес-трекер NovaTech Pro689 #000416 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Pro689-000416_side.jpg",
+      "alt": "Фитнес-трекер NovaTech Pro689 #000416 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "640g",
+    "dimensions": "70mm x 99mm x 28mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-03T10:04:04Z",
+  "updatedAt": "2025-09-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

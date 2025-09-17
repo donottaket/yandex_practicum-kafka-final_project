@@ -1,0 +1,40 @@
+{
+  "productId": "000532",
+  "name": "Экшн-камера NovaTech Max155 #000532",
+  "description": "Экшн-камера бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 72644.43,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 234,
+    "reserved": 45
+  },
+  "sku": "NovaTech-000532",
+  "tags": [
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-NovaTech-Max155-000532.jpg",
+      "alt": "Экшн-камера NovaTech Max155 #000532 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-NovaTech-Max155-000532_side.jpg",
+      "alt": "Экшн-камера NovaTech Max155 #000532 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1192g",
+    "dimensions": "177mm x 108mm x 16mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-17T10:04:04Z",
+  "updatedAt": "2025-08-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000493",
+  "name": "Футболка Neon Plus546 #000493",
+  "description": "Футболка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 28009.53,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 11,
+    "reserved": 1
+  },
+  "sku": "Neon-000493",
+  "tags": [
+    "мода",
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Neon-Plus546-000493.jpg",
+      "alt": "Футболка Neon Plus546 #000493 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Neon-Plus546-000493_side.jpg",
+      "alt": "Футболка Neon Plus546 #000493 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1452g",
+    "dimensions": "167mm x 84mm x 45mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-28T10:04:04Z",
+  "updatedAt": "2025-03-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

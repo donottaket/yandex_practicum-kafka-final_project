@@ -1,0 +1,42 @@
+{
+  "productId": "000865",
+  "name": "Смарт-велокомпьютер Quantum X735 #000865",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 64547.73,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 258,
+    "reserved": 68
+  },
+  "sku": "Quantum-000865",
+  "tags": [
+    "gps",
+    "спорт",
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-X735-000865.jpg",
+      "alt": "Смарт-велокомпьютер Quantum X735 #000865 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-X735-000865_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum X735 #000865 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "242g",
+    "dimensions": "253mm x 27mm x 13mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-23T10:04:04Z",
+  "updatedAt": "2025-08-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

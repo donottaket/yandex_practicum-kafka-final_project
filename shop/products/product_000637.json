@@ -1,0 +1,40 @@
+{
+  "productId": "000637",
+  "name": "Фитнес-браслет NovaTech Pro700 #000637",
+  "description": "Фитнес-браслет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 101592.8,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 25,
+    "reserved": 9
+  },
+  "sku": "NovaTech-000637",
+  "tags": [
+    "технологии",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Pro700-000637.jpg",
+      "alt": "Фитнес-браслет NovaTech Pro700 #000637 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Pro700-000637_side.jpg",
+      "alt": "Фитнес-браслет NovaTech Pro700 #000637 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "629g",
+    "dimensions": "120mm x 95mm x 5mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-11T10:04:04Z",
+  "updatedAt": "2025-05-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000726",
+  "name": "Робот-пылесос Astra 677 #000726",
+  "description": "Робот-пылесос бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 20998.11,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 40,
+    "reserved": 11
+  },
+  "sku": "Astra-000726",
+  "tags": [
+    "кухня",
+    "тихий",
+    "дом",
+    "умный дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-677-000726.jpg",
+      "alt": "Робот-пылесос Astra 677 #000726 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-677-000726_side.jpg",
+      "alt": "Робот-пылесос Astra 677 #000726 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1501g",
+    "dimensions": "103mm x 79mm x 13mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-30T10:04:04Z",
+  "updatedAt": "2025-02-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

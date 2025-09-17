@@ -1,0 +1,43 @@
+{
+  "productId": "000702",
+  "name": "Спортивные часы Vega S752 #000702",
+  "description": "Спортивные часы бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 76330.74,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 143,
+    "reserved": 28
+  },
+  "sku": "Vega-000702",
+  "tags": [
+    "активность",
+    "спорт",
+    "gps",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-S752-000702.jpg",
+      "alt": "Спортивные часы Vega S752 #000702 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-S752-000702_side.jpg",
+      "alt": "Спортивные часы Vega S752 #000702 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "598g",
+    "dimensions": "67mm x 178mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-14T10:04:04Z",
+  "updatedAt": "2025-05-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

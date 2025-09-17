@@ -1,0 +1,42 @@
+{
+  "productId": "000355",
+  "name": "Куртка Polar Max869 #000355",
+  "description": "Куртка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 15075.39,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 114,
+    "reserved": 34
+  },
+  "sku": "Polar-000355",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Polar-Max869-000355.jpg",
+      "alt": "Куртка Polar Max869 #000355 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Polar-Max869-000355_side.jpg",
+      "alt": "Куртка Polar Max869 #000355 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1532g",
+    "dimensions": "100mm x 161mm x 35mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-27T10:04:04Z",
+  "updatedAt": "2025-04-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

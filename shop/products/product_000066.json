@@ -1,0 +1,40 @@
+{
+  "productId": "000066",
+  "name": "Робот-пылесос Lumen Pro482 #000066",
+  "description": "Робот-пылесос бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 47158.31,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 380,
+    "reserved": 89
+  },
+  "sku": "Lumen-000066",
+  "tags": [
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Lumen-Pro482-000066.jpg",
+      "alt": "Робот-пылесос Lumen Pro482 #000066 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Lumen-Pro482-000066_side.jpg",
+      "alt": "Робот-пылесос Lumen Pro482 #000066 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "523g",
+    "dimensions": "101mm x 83mm x 19mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-13T10:04:04Z",
+  "updatedAt": "2025-08-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

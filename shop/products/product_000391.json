@@ -1,0 +1,43 @@
+{
+  "productId": "000391",
+  "name": "Фитнес-трекер Vega Pro144 #000391",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 24569.71,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 421,
+    "reserved": 79
+  },
+  "sku": "Vega-000391",
+  "tags": [
+    "активность",
+    "gps",
+    "outdoor",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro144-000391.jpg",
+      "alt": "Фитнес-трекер Vega Pro144 #000391 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro144-000391_side.jpg",
+      "alt": "Фитнес-трекер Vega Pro144 #000391 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "691g",
+    "dimensions": "123mm x 132mm x 28mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-27T10:04:04Z",
+  "updatedAt": "2025-02-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

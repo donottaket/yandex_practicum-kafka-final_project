@@ -1,0 +1,41 @@
+{
+  "productId": "000593",
+  "name": "Худи Vega Max222 #000593",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 47205.44,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 140,
+    "reserved": 48
+  },
+  "sku": "Vega-000593",
+  "tags": [
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-Max222-000593.jpg",
+      "alt": "Худи Vega Max222 #000593 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-Max222-000593_side.jpg",
+      "alt": "Худи Vega Max222 #000593 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1159g",
+    "dimensions": "212mm x 63mm x 11mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-18T10:04:04Z",
+  "updatedAt": "2025-08-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

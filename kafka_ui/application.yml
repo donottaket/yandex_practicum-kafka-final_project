@@ -1,0 +1,56 @@
+server:
+  port: 8080
+
+kafka:
+  clusters:
+    - name: kafka-cluster-0
+      bootstrapServers: kafka-0-broker-0:9094,kafka-0-broker-1:9094,kafka-0-broker-2:9094
+
+      properties:
+        security.protocol: SSL
+        ssl.truststore.location: /etc/kafkaui/certs/kafka_ui.trust_store.jks
+        ssl.truststore.password: kafka_ui_ssl_trust_store_password
+        ssl.truststore.type: JKS
+        ssl.keystore.location: /etc/kafkaui/certs/kafka_ui.key_store.jks
+        ssl.keystore.password: kafka_ui_ssl_key_store_password
+        ssl.key.password: kafka_ui_ssl_key_password
+        ssl.keystore.type: JKS
+        ssl.endpoint.identification.algorithm: https
+
+        schema.registry.url: https://schema-registry:8081
+        schema.registry.ssl.truststore.location: /etc/kafkaui/certs/kafka_ui.trust_store.jks
+        schema.registry.ssl.truststore.password: kafka_ui_ssl_trust_store_password
+        schema.registry.ssl.truststore.type: JKS
+        schema.registry.ssl.keystore.location: /etc/kafkaui/certs/kafka_ui.key_store.jks
+        schema.registry.ssl.keystore.password: kafka_ui_ssl_key_store_password
+        schema.registry.ssl.keystore.type: JKS
+        schema.registry.ssl.key.password: kafka_ui_ssl_key_password
+        schema.registry.ssl.endpoint.identification.algorithm: https
+      schemaRegistry:
+        url: https://schema-registry:8081
+    - name: kafka-cluster-1
+      bootstrapServers: kafka-1-broker-0:9094,kafka-1-broker-1:9094,kafka-1-broker-2:9094
+      ksqldbserver: http://ksql-db:8088
+
+      properties:
+        security.protocol: SSL
+        ssl.truststore.location: /etc/kafkaui/certs/kafka_ui.trust_store.jks
+        ssl.truststore.password: kafka_ui_ssl_trust_store_password
+        ssl.truststore.type: JKS
+        ssl.keystore.location: /etc/kafkaui/certs/kafka_ui.key_store.jks
+        ssl.keystore.password: kafka_ui_ssl_key_store_password
+        ssl.key.password: kafka_ui_ssl_key_password
+        ssl.keystore.type: JKS
+        ssl.endpoint.identification.algorithm: https
+
+        schema.registry.url: https://schema-registry:8081
+        schema.registry.ssl.truststore.location: /etc/kafkaui/certs/kafka_ui.trust_store.jks
+        schema.registry.ssl.truststore.password: kafka_ui_ssl_trust_store_password
+        schema.registry.ssl.truststore.type: JKS
+        schema.registry.ssl.keystore.location: /etc/kafkaui/certs/kafka_ui.key_store.jks
+        schema.registry.ssl.keystore.password: kafka_ui_ssl_key_store_password
+        schema.registry.ssl.keystore.type: JKS
+        schema.registry.ssl.key.password: kafka_ui_ssl_key_password
+        schema.registry.ssl.endpoint.identification.algorithm: https
+      schemaRegistry:
+        url: https://schema-registry:8081

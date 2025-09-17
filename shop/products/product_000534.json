@@ -1,0 +1,42 @@
+{
+  "productId": "000534",
+  "name": "Фитнес-трекер Orion Lite489 #000534",
+  "description": "Фитнес-трекер бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 18401.81,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 323,
+    "reserved": 63
+  },
+  "sku": "Orion-000534",
+  "tags": [
+    "outdoor",
+    "здоровье",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Orion-Lite489-000534.jpg",
+      "alt": "Фитнес-трекер Orion Lite489 #000534 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Orion-Lite489-000534_side.jpg",
+      "alt": "Фитнес-трекер Orion Lite489 #000534 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1362g",
+    "dimensions": "297mm x 55mm x 24mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-17T10:04:04Z",
+  "updatedAt": "2025-02-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

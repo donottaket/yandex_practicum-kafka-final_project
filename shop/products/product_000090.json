@@ -1,0 +1,41 @@
+{
+  "productId": "000090",
+  "name": "Фитнес-браслет Polar 562 #000090",
+  "description": "Фитнес-браслет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 23946.6,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 159,
+    "reserved": 11
+  },
+  "sku": "Polar-000090",
+  "tags": [
+    "gps",
+    "ios",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-562-000090.jpg",
+      "alt": "Фитнес-браслет Polar 562 #000090 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-562-000090_side.jpg",
+      "alt": "Фитнес-браслет Polar 562 #000090 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1929g",
+    "dimensions": "247mm x 109mm x 37mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-22T10:04:04Z",
+  "updatedAt": "2025-01-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

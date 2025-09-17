@@ -1,0 +1,43 @@
+{
+  "productId": "000278",
+  "name": "Смартфон Quantum Plus951 #000278",
+  "description": "Смартфон бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 165994.26,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 15,
+    "reserved": 6
+  },
+  "sku": "Quantum-000278",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "технологии",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Quantum-Plus951-000278.jpg",
+      "alt": "Смартфон Quantum Plus951 #000278 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Quantum-Plus951-000278_side.jpg",
+      "alt": "Смартфон Quantum Plus951 #000278 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1817g",
+    "dimensions": "106mm x 199mm x 27mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-08T10:04:04Z",
+  "updatedAt": "2025-08-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

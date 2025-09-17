@@ -1,0 +1,41 @@
+{
+  "productId": "000746",
+  "name": "Робот-пылесос Astra Plus85 #000746",
+  "description": "Робот-пылесос бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 22293.66,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 361,
+    "reserved": 19
+  },
+  "sku": "Astra-000746",
+  "tags": [
+    "кухня",
+    "умный дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Plus85-000746.jpg",
+      "alt": "Робот-пылесос Astra Plus85 #000746 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Plus85-000746_side.jpg",
+      "alt": "Робот-пылесос Astra Plus85 #000746 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "790g",
+    "dimensions": "206mm x 116mm x 33mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-12T10:04:04Z",
+  "updatedAt": "2024-12-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

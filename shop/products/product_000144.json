@@ -1,0 +1,42 @@
+{
+  "productId": "000144",
+  "name": "Футболка NovaTech S336 #000144",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 42676.99,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 121,
+    "reserved": 20
+  },
+  "sku": "NovaTech-000144",
+  "tags": [
+    "повседневное",
+    "мода",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-S336-000144.jpg",
+      "alt": "Футболка NovaTech S336 #000144 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-S336-000144_side.jpg",
+      "alt": "Футболка NovaTech S336 #000144 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "141g",
+    "dimensions": "66mm x 24mm x 31mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-01T10:04:04Z",
+  "updatedAt": "2025-04-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000223",
+  "name": "Кофемашина Orion S772 #000223",
+  "description": "Кофемашина бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 43629.12,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 179,
+    "reserved": 12
+  },
+  "sku": "Orion-000223",
+  "tags": [
+    "тихий",
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-S772-000223.jpg",
+      "alt": "Кофемашина Orion S772 #000223 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-S772-000223_side.jpg",
+      "alt": "Кофемашина Orion S772 #000223 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1929g",
+    "dimensions": "169mm x 190mm x 43mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-01T10:04:04Z",
+  "updatedAt": "2025-04-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

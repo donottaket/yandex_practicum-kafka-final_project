@@ -1,0 +1,42 @@
+{
+  "productId": "000831",
+  "name": "Экшн-камера NovaTech Pro409 #000831",
+  "description": "Экшн-камера бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 139972.8,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 304,
+    "reserved": 17
+  },
+  "sku": "NovaTech-000831",
+  "tags": [
+    "gps",
+    "ios",
+    "oled",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-NovaTech-Pro409-000831.jpg",
+      "alt": "Экшн-камера NovaTech Pro409 #000831 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-NovaTech-Pro409-000831_side.jpg",
+      "alt": "Экшн-камера NovaTech Pro409 #000831 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "701g",
+    "dimensions": "43mm x 93mm x 11mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-14T10:04:04Z",
+  "updatedAt": "2025-06-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

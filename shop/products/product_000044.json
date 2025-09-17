@@ -1,0 +1,40 @@
+{
+  "productId": "000044",
+  "name": "Худи Polar 941 #000044",
+  "description": "Худи бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49162.26,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 368,
+    "reserved": 75
+  },
+  "sku": "Polar-000044",
+  "tags": [
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Polar-941-000044.jpg",
+      "alt": "Худи Polar 941 #000044 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Polar-941-000044_side.jpg",
+      "alt": "Худи Polar 941 #000044 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1906g",
+    "dimensions": "194mm x 117mm x 41mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-29T10:04:04Z",
+  "updatedAt": "2025-04-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

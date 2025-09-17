@@ -1,0 +1,43 @@
+{
+  "productId": "000298",
+  "name": "Смартфон Neon 176 #000298",
+  "description": "Смартфон бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 129689.22,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 451,
+    "reserved": 2
+  },
+  "sku": "Neon-000298",
+  "tags": [
+    "технологии",
+    "oled",
+    "gps",
+    "ios",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Neon-176-000298.jpg",
+      "alt": "Смартфон Neon 176 #000298 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Neon-176-000298_side.jpg",
+      "alt": "Смартфон Neon 176 #000298 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "463g",
+    "dimensions": "172mm x 72mm x 33mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-20T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

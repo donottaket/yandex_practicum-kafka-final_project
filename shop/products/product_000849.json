@@ -1,0 +1,43 @@
+{
+  "productId": "000849",
+  "name": "Умные часы Polar Max777 #000849",
+  "description": "Умные часы бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 161679.44,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 230,
+    "reserved": 46
+  },
+  "sku": "Polar-000849",
+  "tags": [
+    "bluetooth",
+    "ios",
+    "гаджеты",
+    "технологии",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-Max777-000849.jpg",
+      "alt": "Умные часы Polar Max777 #000849 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-Max777-000849_side.jpg",
+      "alt": "Умные часы Polar Max777 #000849 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "238g",
+    "dimensions": "32mm x 172mm x 23mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-16T10:04:04Z",
+  "updatedAt": "2024-10-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

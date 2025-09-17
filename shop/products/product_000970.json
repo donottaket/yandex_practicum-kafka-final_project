@@ -1,0 +1,40 @@
+{
+  "productId": "000970",
+  "name": "Чайник Orion Max596 #000970",
+  "description": "Чайник бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 21369.25,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 105,
+    "reserved": 23
+  },
+  "sku": "Orion-000970",
+  "tags": [
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Orion-Max596-000970.jpg",
+      "alt": "Чайник Orion Max596 #000970 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Orion-Max596-000970_side.jpg",
+      "alt": "Чайник Orion Max596 #000970 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1545g",
+    "dimensions": "66mm x 197mm x 43mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-05T10:04:04Z",
+  "updatedAt": "2025-05-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

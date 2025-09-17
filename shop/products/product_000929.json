@@ -1,0 +1,40 @@
+{
+  "productId": "000929",
+  "name": "Спортивные часы ACME S891 #000929",
+  "description": "Спортивные часы бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 96301.48,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 83,
+    "reserved": 13
+  },
+  "sku": "ACME-000929",
+  "tags": [
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-S891-000929.jpg",
+      "alt": "Спортивные часы ACME S891 #000929 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-S891-000929_side.jpg",
+      "alt": "Спортивные часы ACME S891 #000929 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1637g",
+    "dimensions": "256mm x 41mm x 36mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-13T10:04:04Z",
+  "updatedAt": "2024-10-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

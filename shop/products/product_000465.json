@@ -1,0 +1,43 @@
+{
+  "productId": "000465",
+  "name": "Пульсометр Lumen S251 #000465",
+  "description": "Пульсометр бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 56092.76,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 458,
+    "reserved": 228
+  },
+  "sku": "Lumen-000465",
+  "tags": [
+    "здоровье",
+    "спорт",
+    "outdoor",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-S251-000465.jpg",
+      "alt": "Пульсометр Lumen S251 #000465 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-S251-000465_side.jpg",
+      "alt": "Пульсометр Lumen S251 #000465 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1233g",
+    "dimensions": "246mm x 190mm x 25mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-25T10:04:04Z",
+  "updatedAt": "2025-03-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

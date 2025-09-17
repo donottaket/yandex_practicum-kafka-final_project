@@ -1,0 +1,43 @@
+{
+  "productId": "000879",
+  "name": "Чайник XYZ Plus452 #000879",
+  "description": "Чайник бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 19191.4,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 26,
+    "reserved": 13
+  },
+  "sku": "XYZ-000879",
+  "tags": [
+    "экономия энергии",
+    "дом",
+    "кухня",
+    "умный дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Plus452-000879.jpg",
+      "alt": "Чайник XYZ Plus452 #000879 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Plus452-000879_side.jpg",
+      "alt": "Чайник XYZ Plus452 #000879 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1482g",
+    "dimensions": "219mm x 182mm x 13mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-24T10:04:04Z",
+  "updatedAt": "2025-08-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

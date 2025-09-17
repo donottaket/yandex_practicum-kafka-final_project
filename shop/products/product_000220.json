@@ -1,0 +1,40 @@
+{
+  "productId": "000220",
+  "name": "Умные часы Polar Max442 #000220",
+  "description": "Умные часы бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 33499.46,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 427,
+    "reserved": 8
+  },
+  "sku": "Polar-000220",
+  "tags": [
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-Max442-000220.jpg",
+      "alt": "Умные часы Polar Max442 #000220 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-Max442-000220_side.jpg",
+      "alt": "Умные часы Polar Max442 #000220 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "350g",
+    "dimensions": "63mm x 98mm x 17mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-23T10:04:04Z",
+  "updatedAt": "2025-01-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

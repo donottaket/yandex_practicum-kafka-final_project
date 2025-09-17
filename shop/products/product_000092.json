@@ -1,0 +1,42 @@
+{
+  "productId": "000092",
+  "name": "Увлажнитель воздуха Lumen Plus748 #000092",
+  "description": "Увлажнитель воздуха бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 71285.8,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 230,
+    "reserved": 66
+  },
+  "sku": "Lumen-000092",
+  "tags": [
+    "умный дом",
+    "тихий",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-Plus748-000092.jpg",
+      "alt": "Увлажнитель воздуха Lumen Plus748 #000092 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-Plus748-000092_side.jpg",
+      "alt": "Увлажнитель воздуха Lumen Plus748 #000092 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1233g",
+    "dimensions": "270mm x 106mm x 47mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-03T10:04:04Z",
+  "updatedAt": "2025-03-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

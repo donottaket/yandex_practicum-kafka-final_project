@@ -1,0 +1,42 @@
+{
+  "productId": "000583",
+  "name": "Худи Lumen 159 #000583",
+  "description": "Худи бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 48921.24,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 221,
+    "reserved": 102
+  },
+  "sku": "Lumen-000583",
+  "tags": [
+    "мода",
+    "повседневное",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Lumen-159-000583.jpg",
+      "alt": "Худи Lumen 159 #000583 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Lumen-159-000583_side.jpg",
+      "alt": "Худи Lumen 159 #000583 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1945g",
+    "dimensions": "279mm x 130mm x 23mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-11-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

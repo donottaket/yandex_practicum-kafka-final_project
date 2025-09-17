@@ -1,0 +1,40 @@
+{
+  "productId": "000964",
+  "name": "Смартфон ACME Pro468 #000964",
+  "description": "Смартфон бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 170107.26,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 95,
+    "reserved": 18
+  },
+  "sku": "ACME-000964",
+  "tags": [
+    "gps",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-ACME-Pro468-000964.jpg",
+      "alt": "Смартфон ACME Pro468 #000964 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-ACME-Pro468-000964_side.jpg",
+      "alt": "Смартфон ACME Pro468 #000964 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "564g",
+    "dimensions": "136mm x 69mm x 6mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-13T10:04:04Z",
+  "updatedAt": "2025-05-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

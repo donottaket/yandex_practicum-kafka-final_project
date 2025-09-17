@@ -1,0 +1,42 @@
+{
+  "productId": "000943",
+  "name": "Увлажнитель воздуха ACME Max738 #000943",
+  "description": "Увлажнитель воздуха бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 47488.59,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 331,
+    "reserved": 57
+  },
+  "sku": "ACME-000943",
+  "tags": [
+    "умный дом",
+    "дом",
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-Max738-000943.jpg",
+      "alt": "Увлажнитель воздуха ACME Max738 #000943 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-Max738-000943_side.jpg",
+      "alt": "Увлажнитель воздуха ACME Max738 #000943 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "89g",
+    "dimensions": "117mm x 110mm x 9mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-08T10:04:04Z",
+  "updatedAt": "2025-05-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000654",
+  "name": "Штаны ACME Max91 #000654",
+  "description": "Штаны бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 24899.6,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 92,
+    "reserved": 31
+  },
+  "sku": "ACME-000654",
+  "tags": [
+    "стиль",
+    "мода",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-ACME-Max91-000654.jpg",
+      "alt": "Штаны ACME Max91 #000654 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-ACME-Max91-000654_side.jpg",
+      "alt": "Штаны ACME Max91 #000654 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "413g",
+    "dimensions": "108mm x 175mm x 46mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-03T10:04:04Z",
+  "updatedAt": "2024-11-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

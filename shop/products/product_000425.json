@@ -1,0 +1,42 @@
+{
+  "productId": "000425",
+  "name": "Штаны Astra Pro801 #000425",
+  "description": "Штаны бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49938.8,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 273,
+    "reserved": 93
+  },
+  "sku": "Astra-000425",
+  "tags": [
+    "удобство",
+    "мода",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Astra-Pro801-000425.jpg",
+      "alt": "Штаны Astra Pro801 #000425 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Astra-Pro801-000425_side.jpg",
+      "alt": "Штаны Astra Pro801 #000425 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1233g",
+    "dimensions": "149mm x 157mm x 10mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-11T10:04:04Z",
+  "updatedAt": "2025-01-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000461",
+  "name": "Умные часы Neon X469 #000461",
+  "description": "Умные часы бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 81534.54,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 100,
+    "reserved": 0
+  },
+  "sku": "Neon-000461",
+  "tags": [
+    "gps",
+    "гаджеты",
+    "android",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-X469-000461.jpg",
+      "alt": "Умные часы Neon X469 #000461 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-X469-000461_side.jpg",
+      "alt": "Умные часы Neon X469 #000461 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "976g",
+    "dimensions": "282mm x 28mm x 38mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-25T10:04:04Z",
+  "updatedAt": "2025-04-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

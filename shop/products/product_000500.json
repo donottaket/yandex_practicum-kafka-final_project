@@ -1,0 +1,40 @@
+{
+  "productId": "000500",
+  "name": "Умные часы Quantum X386 #000500",
+  "description": "Умные часы бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 102514.21,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 388,
+    "reserved": 59
+  },
+  "sku": "Quantum-000500",
+  "tags": [
+    "gps",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Quantum-X386-000500.jpg",
+      "alt": "Умные часы Quantum X386 #000500 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Quantum-X386-000500_side.jpg",
+      "alt": "Умные часы Quantum X386 #000500 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1793g",
+    "dimensions": "235mm x 33mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-16T10:04:04Z",
+  "updatedAt": "2024-09-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

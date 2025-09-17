@@ -1,0 +1,40 @@
+{
+  "productId": "000283",
+  "name": "Блендер XYZ Plus878 #000283",
+  "description": "Блендер бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 69882.48,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 393,
+    "reserved": 161
+  },
+  "sku": "XYZ-000283",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-XYZ-Plus878-000283.jpg",
+      "alt": "Блендер XYZ Plus878 #000283 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-XYZ-Plus878-000283_side.jpg",
+      "alt": "Блендер XYZ Plus878 #000283 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1816g",
+    "dimensions": "176mm x 78mm x 19mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-25T10:04:04Z",
+  "updatedAt": "2025-03-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

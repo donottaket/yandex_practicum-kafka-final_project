@@ -1,0 +1,42 @@
+{
+  "productId": "000977",
+  "name": "Кроссовки Polar Lite664 #000977",
+  "description": "Кроссовки бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 44469.99,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 49,
+    "reserved": 8
+  },
+  "sku": "Polar-000977",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-Lite664-000977.jpg",
+      "alt": "Кроссовки Polar Lite664 #000977 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-Lite664-000977_side.jpg",
+      "alt": "Кроссовки Polar Lite664 #000977 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "516g",
+    "dimensions": "169mm x 116mm x 45mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-29T10:04:04Z",
+  "updatedAt": "2025-09-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

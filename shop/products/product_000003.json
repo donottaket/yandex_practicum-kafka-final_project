@@ -1,0 +1,42 @@
+{
+  "productId": "000003",
+  "name": "Куртка Astra Max544 #000003",
+  "description": "Куртка бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 26260.15,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 420,
+    "reserved": 155
+  },
+  "sku": "Astra-000003",
+  "tags": [
+    "мода",
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Astra-Max544-000003.jpg",
+      "alt": "Куртка Astra Max544 #000003 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Astra-Max544-000003_side.jpg",
+      "alt": "Куртка Astra Max544 #000003 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "909g",
+    "dimensions": "221mm x 150mm x 7mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-10T10:04:04Z",
+  "updatedAt": "2024-12-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

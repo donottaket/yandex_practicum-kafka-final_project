@@ -1,0 +1,41 @@
+{
+  "productId": "000741",
+  "name": "Смартфон Polar Plus715 #000741",
+  "description": "Смартфон бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 58937.74,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 290,
+    "reserved": 4
+  },
+  "sku": "Polar-000741",
+  "tags": [
+    "gps",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Polar-Plus715-000741.jpg",
+      "alt": "Смартфон Polar Plus715 #000741 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Polar-Plus715-000741_side.jpg",
+      "alt": "Смартфон Polar Plus715 #000741 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "56g",
+    "dimensions": "177mm x 194mm x 38mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-28T10:04:04Z",
+  "updatedAt": "2025-05-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

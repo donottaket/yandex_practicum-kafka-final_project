@@ -1,0 +1,41 @@
+{
+  "productId": "000040",
+  "name": "Планшет Polar S440 #000040",
+  "description": "Планшет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 67149.76,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 255,
+    "reserved": 16
+  },
+  "sku": "Polar-000040",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Polar-S440-000040.jpg",
+      "alt": "Планшет Polar S440 #000040 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Polar-S440-000040_side.jpg",
+      "alt": "Планшет Polar S440 #000040 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "899g",
+    "dimensions": "280mm x 49mm x 30mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-22T10:04:04Z",
+  "updatedAt": "2025-03-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

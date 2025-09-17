@@ -1,0 +1,41 @@
+{
+  "productId": "000113",
+  "name": "Смарт-велокомпьютер Lumen S357 #000113",
+  "description": "Смарт-велокомпьютер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 76442.15,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 394,
+    "reserved": 126
+  },
+  "sku": "Lumen-000113",
+  "tags": [
+    "outdoor",
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-S357-000113.jpg",
+      "alt": "Смарт-велокомпьютер Lumen S357 #000113 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-S357-000113_side.jpg",
+      "alt": "Смарт-велокомпьютер Lumen S357 #000113 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "733g",
+    "dimensions": "59mm x 120mm x 28mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-19T10:04:04Z",
+  "updatedAt": "2024-11-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

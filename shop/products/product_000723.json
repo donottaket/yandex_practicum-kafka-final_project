@@ -1,0 +1,43 @@
+{
+  "productId": "000723",
+  "name": "Планшет Neon Plus12 #000723",
+  "description": "Планшет бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 19777.59,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 444,
+    "reserved": 145
+  },
+  "sku": "Neon-000723",
+  "tags": [
+    "технологии",
+    "gps",
+    "гаджеты",
+    "ios",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Neon-Plus12-000723.jpg",
+      "alt": "Планшет Neon Plus12 #000723 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Neon-Plus12-000723_side.jpg",
+      "alt": "Планшет Neon Plus12 #000723 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "610g",
+    "dimensions": "107mm x 163mm x 17mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-20T10:04:04Z",
+  "updatedAt": "2025-02-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000630",
+  "name": "Фитнес-трекер Astra Plus251 #000630",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 77360.64,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 132,
+    "reserved": 9
+  },
+  "sku": "Astra-000630",
+  "tags": [
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Plus251-000630.jpg",
+      "alt": "Фитнес-трекер Astra Plus251 #000630 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Plus251-000630_side.jpg",
+      "alt": "Фитнес-трекер Astra Plus251 #000630 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1384g",
+    "dimensions": "278mm x 117mm x 29mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-31T10:04:04Z",
+  "updatedAt": "2025-08-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

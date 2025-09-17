@@ -1,0 +1,42 @@
+{
+  "productId": "000189",
+  "name": "Блендер Orion Plus608 #000189",
+  "description": "Блендер бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 7300.32,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 241,
+    "reserved": 100
+  },
+  "sku": "Orion-000189",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "тихий",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Orion-Plus608-000189.jpg",
+      "alt": "Блендер Orion Plus608 #000189 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Orion-Plus608-000189_side.jpg",
+      "alt": "Блендер Orion Plus608 #000189 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "485g",
+    "dimensions": "49mm x 200mm x 41mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-22T10:04:04Z",
+  "updatedAt": "2025-03-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

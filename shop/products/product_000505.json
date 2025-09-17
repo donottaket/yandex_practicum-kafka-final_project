@@ -1,0 +1,43 @@
+{
+  "productId": "000505",
+  "name": "Смарт-велокомпьютер Orion Plus399 #000505",
+  "description": "Смарт-велокомпьютер бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 39855.37,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 83,
+    "reserved": 17
+  },
+  "sku": "Orion-000505",
+  "tags": [
+    "активность",
+    "outdoor",
+    "спорт",
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-Plus399-000505.jpg",
+      "alt": "Смарт-велокомпьютер Orion Plus399 #000505 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-Plus399-000505_side.jpg",
+      "alt": "Смарт-велокомпьютер Orion Plus399 #000505 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1058g",
+    "dimensions": "222mm x 57mm x 25mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-20T10:04:04Z",
+  "updatedAt": "2024-11-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

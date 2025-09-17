@@ -1,0 +1,42 @@
+{
+  "productId": "000106",
+  "name": "Планшет Polar S230 #000106",
+  "description": "Планшет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 83110.22,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 473,
+    "reserved": 61
+  },
+  "sku": "Polar-000106",
+  "tags": [
+    "гаджеты",
+    "android",
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Polar-S230-000106.jpg",
+      "alt": "Планшет Polar S230 #000106 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Polar-S230-000106_side.jpg",
+      "alt": "Планшет Polar S230 #000106 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1562g",
+    "dimensions": "147mm x 87mm x 47mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-18T10:04:04Z",
+  "updatedAt": "2024-10-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

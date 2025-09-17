@@ -1,0 +1,40 @@
+{
+  "productId": "000755",
+  "name": "Фитнес-браслет Lumen Max100 #000755",
+  "description": "Фитнес-браслет бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 124287.19,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 318,
+    "reserved": 88
+  },
+  "sku": "Lumen-000755",
+  "tags": [
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Lumen-Max100-000755.jpg",
+      "alt": "Фитнес-браслет Lumen Max100 #000755 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Lumen-Max100-000755_side.jpg",
+      "alt": "Фитнес-браслет Lumen Max100 #000755 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1382g",
+    "dimensions": "299mm x 192mm x 41mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-18T10:04:04Z",
+  "updatedAt": "2025-08-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000041",
+  "name": "Куртка Orion Max101 #000041",
+  "description": "Куртка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 40986.78,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 89,
+    "reserved": 12
+  },
+  "sku": "Orion-000041",
+  "tags": [
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Orion-Max101-000041.jpg",
+      "alt": "Куртка Orion Max101 #000041 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Orion-Max101-000041_side.jpg",
+      "alt": "Куртка Orion Max101 #000041 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1390g",
+    "dimensions": "259mm x 131mm x 33mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-14T10:04:04Z",
+  "updatedAt": "2025-07-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

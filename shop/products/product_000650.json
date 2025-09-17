@@ -1,0 +1,42 @@
+{
+  "productId": "000650",
+  "name": "Куртка Orion Pro538 #000650",
+  "description": "Куртка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 30545.22,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 495,
+    "reserved": 5
+  },
+  "sku": "Orion-000650",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Orion-Pro538-000650.jpg",
+      "alt": "Куртка Orion Pro538 #000650 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Orion-Pro538-000650_side.jpg",
+      "alt": "Куртка Orion Pro538 #000650 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1101g",
+    "dimensions": "31mm x 52mm x 7mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-30T10:04:04Z",
+  "updatedAt": "2025-02-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

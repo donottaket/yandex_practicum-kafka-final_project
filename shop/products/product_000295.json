@@ -1,0 +1,42 @@
+{
+  "productId": "000295",
+  "name": "Футболка Neon S341 #000295",
+  "description": "Футболка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 31133.21,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 427,
+    "reserved": 212
+  },
+  "sku": "Neon-000295",
+  "tags": [
+    "стиль",
+    "удобство",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Neon-S341-000295.jpg",
+      "alt": "Футболка Neon S341 #000295 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Neon-S341-000295_side.jpg",
+      "alt": "Футболка Neon S341 #000295 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "427g",
+    "dimensions": "196mm x 157mm x 41mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-12T10:04:04Z",
+  "updatedAt": "2025-06-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

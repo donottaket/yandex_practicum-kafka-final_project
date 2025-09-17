@@ -1,0 +1,40 @@
+{
+  "productId": "000595",
+  "name": "Планшет Quantum X375 #000595",
+  "description": "Планшет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 75795.01,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 93,
+    "reserved": 33
+  },
+  "sku": "Quantum-000595",
+  "tags": [
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Quantum-X375-000595.jpg",
+      "alt": "Планшет Quantum X375 #000595 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Quantum-X375-000595_side.jpg",
+      "alt": "Планшет Quantum X375 #000595 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "660g",
+    "dimensions": "88mm x 125mm x 42mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-04T10:04:04Z",
+  "updatedAt": "2024-12-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000324",
+  "name": "Кофемашина Orion 352 #000324",
+  "description": "Кофемашина бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 5653.95,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 31,
+    "reserved": 10
+  },
+  "sku": "Orion-000324",
+  "tags": [
+    "дом",
+    "тихий",
+    "кухня",
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-352-000324.jpg",
+      "alt": "Кофемашина Orion 352 #000324 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-352-000324_side.jpg",
+      "alt": "Кофемашина Orion 352 #000324 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1198g",
+    "dimensions": "266mm x 191mm x 9mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-18T10:04:04Z",
+  "updatedAt": "2025-03-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000612",
+  "name": "Кроссовки XYZ Pro365 #000612",
+  "description": "Кроссовки бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 902.65,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 195,
+    "reserved": 80
+  },
+  "sku": "XYZ-000612",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-XYZ-Pro365-000612.jpg",
+      "alt": "Кроссовки XYZ Pro365 #000612 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-XYZ-Pro365-000612_side.jpg",
+      "alt": "Кроссовки XYZ Pro365 #000612 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1129g",
+    "dimensions": "241mm x 55mm x 28mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-20T10:04:04Z",
+  "updatedAt": "2025-06-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

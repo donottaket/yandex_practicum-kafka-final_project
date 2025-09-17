@@ -1,0 +1,42 @@
+{
+  "productId": "000566",
+  "name": "Кроссовки XYZ 51 #000566",
+  "description": "Кроссовки бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 32324.42,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 153,
+    "reserved": 75
+  },
+  "sku": "XYZ-000566",
+  "tags": [
+    "удобство",
+    "мода",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-XYZ-51-000566.jpg",
+      "alt": "Кроссовки XYZ 51 #000566 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-XYZ-51-000566_side.jpg",
+      "alt": "Кроссовки XYZ 51 #000566 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "738g",
+    "dimensions": "123mm x 136mm x 5mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-09T10:04:04Z",
+  "updatedAt": "2024-12-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

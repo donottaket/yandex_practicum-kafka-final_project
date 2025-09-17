@@ -1,0 +1,41 @@
+{
+  "productId": "000689",
+  "name": "Смартфон NovaTech Pro149 #000689",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 67536.72,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 26,
+    "reserved": 0
+  },
+  "sku": "NovaTech-000689",
+  "tags": [
+    "bluetooth",
+    "ios",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Pro149-000689.jpg",
+      "alt": "Смартфон NovaTech Pro149 #000689 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Pro149-000689_side.jpg",
+      "alt": "Смартфон NovaTech Pro149 #000689 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1873g",
+    "dimensions": "52mm x 141mm x 24mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-30T10:04:04Z",
+  "updatedAt": "2025-07-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

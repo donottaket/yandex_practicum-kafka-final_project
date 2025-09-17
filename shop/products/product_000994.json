@@ -1,0 +1,40 @@
+{
+  "productId": "000994",
+  "name": "Штаны Orion X315 #000994",
+  "description": "Штаны бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 41640.43,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 385,
+    "reserved": 189
+  },
+  "sku": "Orion-000994",
+  "tags": [
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Orion-X315-000994.jpg",
+      "alt": "Штаны Orion X315 #000994 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Orion-X315-000994_side.jpg",
+      "alt": "Штаны Orion X315 #000994 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1279g",
+    "dimensions": "288mm x 75mm x 20mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-27T10:04:04Z",
+  "updatedAt": "2025-05-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

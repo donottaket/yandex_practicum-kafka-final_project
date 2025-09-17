@@ -1,0 +1,42 @@
+{
+  "productId": "000900",
+  "name": "Чайник ACME Max10 #000900",
+  "description": "Чайник бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 21436.22,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 353,
+    "reserved": 69
+  },
+  "sku": "ACME-000900",
+  "tags": [
+    "умный дом",
+    "экономия энергии",
+    "тихий",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-ACME-Max10-000900.jpg",
+      "alt": "Чайник ACME Max10 #000900 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-ACME-Max10-000900_side.jpg",
+      "alt": "Чайник ACME Max10 #000900 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "269g",
+    "dimensions": "229mm x 196mm x 5mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-26T10:04:04Z",
+  "updatedAt": "2025-08-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

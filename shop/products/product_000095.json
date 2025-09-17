@@ -1,0 +1,42 @@
+{
+  "productId": "000095",
+  "name": "Фитнес-трекер Neon Pro309 #000095",
+  "description": "Фитнес-трекер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 23089.15,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 389,
+    "reserved": 96
+  },
+  "sku": "Neon-000095",
+  "tags": [
+    "gps",
+    "спорт",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-Pro309-000095.jpg",
+      "alt": "Фитнес-трекер Neon Pro309 #000095 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-Pro309-000095_side.jpg",
+      "alt": "Фитнес-трекер Neon Pro309 #000095 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1000g",
+    "dimensions": "57mm x 79mm x 13mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-04T10:04:04Z",
+  "updatedAt": "2025-04-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

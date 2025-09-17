@@ -1,0 +1,40 @@
+{
+  "productId": "000186",
+  "name": "Штаны Lumen Pro300 #000186",
+  "description": "Штаны бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 47090.86,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 133,
+    "reserved": 47
+  },
+  "sku": "Lumen-000186",
+  "tags": [
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Lumen-Pro300-000186.jpg",
+      "alt": "Штаны Lumen Pro300 #000186 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Lumen-Pro300-000186_side.jpg",
+      "alt": "Штаны Lumen Pro300 #000186 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "429g",
+    "dimensions": "221mm x 131mm x 40mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-09-23T10:04:04Z",
+  "updatedAt": "2024-11-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

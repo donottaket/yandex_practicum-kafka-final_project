@@ -1,0 +1,42 @@
+{
+  "productId": "000136",
+  "name": "Худи Vega X892 #000136",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 37781.34,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 204,
+    "reserved": 95
+  },
+  "sku": "Vega-000136",
+  "tags": [
+    "мода",
+    "повседневное",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-X892-000136.jpg",
+      "alt": "Худи Vega X892 #000136 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-X892-000136_side.jpg",
+      "alt": "Худи Vega X892 #000136 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "393g",
+    "dimensions": "94mm x 166mm x 33mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-09T10:04:04Z",
+  "updatedAt": "2025-02-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000952",
+  "name": "Футболка Orion Lite394 #000952",
+  "description": "Футболка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 39464.34,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 368,
+    "reserved": 46
+  },
+  "sku": "Orion-000952",
+  "tags": [
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Orion-Lite394-000952.jpg",
+      "alt": "Футболка Orion Lite394 #000952 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Orion-Lite394-000952_side.jpg",
+      "alt": "Футболка Orion Lite394 #000952 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "283g",
+    "dimensions": "121mm x 89mm x 29mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-01T10:04:04Z",
+  "updatedAt": "2024-11-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000451",
+  "name": "Кофемашина Orion S339 #000451",
+  "description": "Кофемашина бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 35682.88,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 6,
+    "reserved": 1
+  },
+  "sku": "Orion-000451",
+  "tags": [
+    "тихий",
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-S339-000451.jpg",
+      "alt": "Кофемашина Orion S339 #000451 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-S339-000451_side.jpg",
+      "alt": "Кофемашина Orion S339 #000451 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "150g",
+    "dimensions": "241mm x 160mm x 27mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-06T10:04:04Z",
+  "updatedAt": "2025-02-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

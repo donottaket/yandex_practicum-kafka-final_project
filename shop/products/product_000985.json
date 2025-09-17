@@ -1,0 +1,43 @@
+{
+  "productId": "000985",
+  "name": "Блендер Astra 224 #000985",
+  "description": "Блендер бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 76624.55,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 473,
+    "reserved": 150
+  },
+  "sku": "Astra-000985",
+  "tags": [
+    "кухня",
+    "умный дом",
+    "тихий",
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Astra-224-000985.jpg",
+      "alt": "Блендер Astra 224 #000985 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Astra-224-000985_side.jpg",
+      "alt": "Блендер Astra 224 #000985 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "807g",
+    "dimensions": "196mm x 138mm x 22mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-09T10:04:04Z",
+  "updatedAt": "2024-12-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000935",
+  "name": "Фитнес-браслет NovaTech 115 #000935",
+  "description": "Фитнес-браслет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 104146.4,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 416,
+    "reserved": 72
+  },
+  "sku": "NovaTech-000935",
+  "tags": [
+    "ios",
+    "bluetooth",
+    "гаджеты",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-115-000935.jpg",
+      "alt": "Фитнес-браслет NovaTech 115 #000935 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-115-000935_side.jpg",
+      "alt": "Фитнес-браслет NovaTech 115 #000935 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1903g",
+    "dimensions": "227mm x 137mm x 38mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-12T10:04:04Z",
+  "updatedAt": "2025-05-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

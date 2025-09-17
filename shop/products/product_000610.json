@@ -1,0 +1,41 @@
+{
+  "productId": "000610",
+  "name": "Смартфон Orion Plus70 #000610",
+  "description": "Смартфон бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 100827.17,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 76,
+    "reserved": 18
+  },
+  "sku": "Orion-000610",
+  "tags": [
+    "ios",
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Orion-Plus70-000610.jpg",
+      "alt": "Смартфон Orion Plus70 #000610 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Orion-Plus70-000610_side.jpg",
+      "alt": "Смартфон Orion Plus70 #000610 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1118g",
+    "dimensions": "70mm x 109mm x 35mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-22T10:04:04Z",
+  "updatedAt": "2025-04-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

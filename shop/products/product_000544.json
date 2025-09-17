@@ -1,0 +1,41 @@
+{
+  "productId": "000544",
+  "name": "Футболка Astra Pro975 #000544",
+  "description": "Футболка бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 6475.09,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 473,
+    "reserved": 218
+  },
+  "sku": "Astra-000544",
+  "tags": [
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Astra-Pro975-000544.jpg",
+      "alt": "Футболка Astra Pro975 #000544 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Astra-Pro975-000544_side.jpg",
+      "alt": "Футболка Astra Pro975 #000544 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1571g",
+    "dimensions": "87mm x 82mm x 38mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-01T10:04:04Z",
+  "updatedAt": "2025-05-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

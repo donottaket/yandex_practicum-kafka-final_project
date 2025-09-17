@@ -1,0 +1,40 @@
+{
+  "productId": "000815",
+  "name": "Планшет Orion X96 #000815",
+  "description": "Планшет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 63615.5,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 280,
+    "reserved": 103
+  },
+  "sku": "Orion-000815",
+  "tags": [
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Orion-X96-000815.jpg",
+      "alt": "Планшет Orion X96 #000815 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Orion-X96-000815_side.jpg",
+      "alt": "Планшет Orion X96 #000815 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1022g",
+    "dimensions": "231mm x 140mm x 43mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-09T10:04:04Z",
+  "updatedAt": "2025-09-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

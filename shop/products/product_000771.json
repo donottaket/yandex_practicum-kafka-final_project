@@ -1,0 +1,41 @@
+{
+  "productId": "000771",
+  "name": "Пульсометр Orion 877 #000771",
+  "description": "Пульсометр бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 90206.87,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 301,
+    "reserved": 84
+  },
+  "sku": "Orion-000771",
+  "tags": [
+    "gps",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-877-000771.jpg",
+      "alt": "Пульсометр Orion 877 #000771 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-877-000771_side.jpg",
+      "alt": "Пульсометр Orion 877 #000771 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1824g",
+    "dimensions": "231mm x 128mm x 25mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-01T10:04:04Z",
+  "updatedAt": "2025-02-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

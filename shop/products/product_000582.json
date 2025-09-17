@@ -1,0 +1,42 @@
+{
+  "productId": "000582",
+  "name": "Штаны Quantum Max670 #000582",
+  "description": "Штаны бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 43233.12,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 377,
+    "reserved": 63
+  },
+  "sku": "Quantum-000582",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Max670-000582.jpg",
+      "alt": "Штаны Quantum Max670 #000582 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Max670-000582_side.jpg",
+      "alt": "Штаны Quantum Max670 #000582 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "370g",
+    "dimensions": "33mm x 145mm x 28mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-19T10:04:04Z",
+  "updatedAt": "2025-01-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

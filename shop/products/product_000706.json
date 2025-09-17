@@ -1,0 +1,41 @@
+{
+  "productId": "000706",
+  "name": "Смартфон Neon Max691 #000706",
+  "description": "Смартфон бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 56063.63,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 327,
+    "reserved": 38
+  },
+  "sku": "Neon-000706",
+  "tags": [
+    "gps",
+    "bluetooth",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Neon-Max691-000706.jpg",
+      "alt": "Смартфон Neon Max691 #000706 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Neon-Max691-000706_side.jpg",
+      "alt": "Смартфон Neon Max691 #000706 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "273g",
+    "dimensions": "289mm x 108mm x 18mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-27T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000252",
+  "name": "Футболка Astra X130 #000252",
+  "description": "Футболка бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 25262.43,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 357,
+    "reserved": 143
+  },
+  "sku": "Astra-000252",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Astra-X130-000252.jpg",
+      "alt": "Футболка Astra X130 #000252 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Astra-X130-000252_side.jpg",
+      "alt": "Футболка Astra X130 #000252 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "473g",
+    "dimensions": "115mm x 176mm x 34mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-29T10:04:04Z",
+  "updatedAt": "2025-01-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

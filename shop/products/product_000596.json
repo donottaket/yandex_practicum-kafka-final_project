@@ -1,0 +1,42 @@
+{
+  "productId": "000596",
+  "name": "Штаны NovaTech Max34 #000596",
+  "description": "Штаны бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 28961.15,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 56,
+    "reserved": 1
+  },
+  "sku": "NovaTech-000596",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-Max34-000596.jpg",
+      "alt": "Штаны NovaTech Max34 #000596 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-Max34-000596_side.jpg",
+      "alt": "Штаны NovaTech Max34 #000596 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1955g",
+    "dimensions": "163mm x 90mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-19T10:04:04Z",
+  "updatedAt": "2025-03-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

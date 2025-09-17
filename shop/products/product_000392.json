@@ -1,0 +1,42 @@
+{
+  "productId": "000392",
+  "name": "Пульсометр Quantum S34 #000392",
+  "description": "Пульсометр бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 10886.71,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 417,
+    "reserved": 77
+  },
+  "sku": "Quantum-000392",
+  "tags": [
+    "активность",
+    "gps",
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-S34-000392.jpg",
+      "alt": "Пульсометр Quantum S34 #000392 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-S34-000392_side.jpg",
+      "alt": "Пульсометр Quantum S34 #000392 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "299g",
+    "dimensions": "128mm x 177mm x 31mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-13T10:04:04Z",
+  "updatedAt": "2025-05-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

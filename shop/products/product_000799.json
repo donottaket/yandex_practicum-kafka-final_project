@@ -1,0 +1,41 @@
+{
+  "productId": "000799",
+  "name": "Спортивные часы Neon Pro996 #000799",
+  "description": "Спортивные часы бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 36421.37,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 441,
+    "reserved": 211
+  },
+  "sku": "Neon-000799",
+  "tags": [
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-Pro996-000799.jpg",
+      "alt": "Спортивные часы Neon Pro996 #000799 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-Pro996-000799_side.jpg",
+      "alt": "Спортивные часы Neon Pro996 #000799 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1434g",
+    "dimensions": "127mm x 105mm x 28mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-30T10:04:04Z",
+  "updatedAt": "2025-07-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000783",
+  "name": "Пульсометр XYZ Pro142 #000783",
+  "description": "Пульсометр бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 5752.09,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 65,
+    "reserved": 7
+  },
+  "sku": "XYZ-000783",
+  "tags": [
+    "здоровье",
+    "активность",
+    "outdoor",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-Pro142-000783.jpg",
+      "alt": "Пульсометр XYZ Pro142 #000783 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-XYZ-Pro142-000783_side.jpg",
+      "alt": "Пульсометр XYZ Pro142 #000783 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1227g",
+    "dimensions": "196mm x 160mm x 24mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-22T10:04:04Z",
+  "updatedAt": "2025-05-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

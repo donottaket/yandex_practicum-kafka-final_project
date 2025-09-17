@@ -1,0 +1,43 @@
+{
+  "productId": "000901",
+  "name": "Фитнес-трекер Quantum S899 #000901",
+  "description": "Фитнес-трекер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 41039.74,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 342,
+    "reserved": 88
+  },
+  "sku": "Quantum-000901",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "gps",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-S899-000901.jpg",
+      "alt": "Фитнес-трекер Quantum S899 #000901 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-S899-000901_side.jpg",
+      "alt": "Фитнес-трекер Quantum S899 #000901 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1271g",
+    "dimensions": "105mm x 24mm x 33mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-22T10:04:04Z",
+  "updatedAt": "2024-10-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

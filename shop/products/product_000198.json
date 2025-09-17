@@ -1,0 +1,42 @@
+{
+  "productId": "000198",
+  "name": "Смартфон Polar 469 #000198",
+  "description": "Смартфон бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 170180.15,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 364,
+    "reserved": 52
+  },
+  "sku": "Polar-000198",
+  "tags": [
+    "bluetooth",
+    "ios",
+    "oled",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Polar-469-000198.jpg",
+      "alt": "Смартфон Polar 469 #000198 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Polar-469-000198_side.jpg",
+      "alt": "Смартфон Polar 469 #000198 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "442g",
+    "dimensions": "229mm x 87mm x 20mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-08-14T10:04:04Z",
+  "updatedAt": "2025-09-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

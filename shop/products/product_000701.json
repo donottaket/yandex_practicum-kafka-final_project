@@ -1,0 +1,42 @@
+{
+  "productId": "000701",
+  "name": "Планшет Neon X453 #000701",
+  "description": "Планшет бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 152524.76,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 450,
+    "reserved": 76
+  },
+  "sku": "Neon-000701",
+  "tags": [
+    "гаджеты",
+    "технологии",
+    "bluetooth",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Neon-X453-000701.jpg",
+      "alt": "Планшет Neon X453 #000701 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Neon-X453-000701_side.jpg",
+      "alt": "Планшет Neon X453 #000701 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "715g",
+    "dimensions": "155mm x 166mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-13T10:04:04Z",
+  "updatedAt": "2025-01-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

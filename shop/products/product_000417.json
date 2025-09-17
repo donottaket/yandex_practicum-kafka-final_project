@@ -1,0 +1,43 @@
+{
+  "productId": "000417",
+  "name": "Смарт-велокомпьютер Orion Lite965 #000417",
+  "description": "Смарт-велокомпьютер бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 14913.25,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 184,
+    "reserved": 6
+  },
+  "sku": "Orion-000417",
+  "tags": [
+    "активность",
+    "спорт",
+    "здоровье",
+    "gps",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-Lite965-000417.jpg",
+      "alt": "Смарт-велокомпьютер Orion Lite965 #000417 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-Lite965-000417_side.jpg",
+      "alt": "Смарт-велокомпьютер Orion Lite965 #000417 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1689g",
+    "dimensions": "51mm x 192mm x 46mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-28T10:04:04Z",
+  "updatedAt": "2025-02-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

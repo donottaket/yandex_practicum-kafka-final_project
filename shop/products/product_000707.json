@@ -1,0 +1,43 @@
+{
+  "productId": "000707",
+  "name": "Фитнес-трекер Vega Lite495 #000707",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 26663.99,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 87,
+    "reserved": 25
+  },
+  "sku": "Vega-000707",
+  "tags": [
+    "gps",
+    "outdoor",
+    "спорт",
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Lite495-000707.jpg",
+      "alt": "Фитнес-трекер Vega Lite495 #000707 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Lite495-000707_side.jpg",
+      "alt": "Фитнес-трекер Vega Lite495 #000707 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "325g",
+    "dimensions": "102mm x 76mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-08-03T10:04:04Z",
+  "updatedAt": "2025-09-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

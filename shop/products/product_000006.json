@@ -1,0 +1,42 @@
+{
+  "productId": "000006",
+  "name": "Смарт-велокомпьютер Lumen Plus440 #000006",
+  "description": "Смарт-велокомпьютер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 79767.72,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 316,
+    "reserved": 16
+  },
+  "sku": "Lumen-000006",
+  "tags": [
+    "спорт",
+    "gps",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-Plus440-000006.jpg",
+      "alt": "Смарт-велокомпьютер Lumen Plus440 #000006 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-Plus440-000006_side.jpg",
+      "alt": "Смарт-велокомпьютер Lumen Plus440 #000006 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "823g",
+    "dimensions": "67mm x 159mm x 49mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-14T10:04:04Z",
+  "updatedAt": "2025-08-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

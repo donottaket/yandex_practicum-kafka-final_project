@@ -1,0 +1,42 @@
+{
+  "productId": "000960",
+  "name": "Худи Astra S491 #000960",
+  "description": "Худи бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 27662.83,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 60,
+    "reserved": 12
+  },
+  "sku": "Astra-000960",
+  "tags": [
+    "мода",
+    "стиль",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Astra-S491-000960.jpg",
+      "alt": "Худи Astra S491 #000960 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Astra-S491-000960_side.jpg",
+      "alt": "Худи Astra S491 #000960 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1575g",
+    "dimensions": "98mm x 175mm x 33mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-26T10:04:04Z",
+  "updatedAt": "2024-11-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

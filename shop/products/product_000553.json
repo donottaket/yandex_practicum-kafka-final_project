@@ -1,0 +1,42 @@
+{
+  "productId": "000553",
+  "name": "Пульсометр Neon Pro150 #000553",
+  "description": "Пульсометр бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 4694.39,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 184,
+    "reserved": 74
+  },
+  "sku": "Neon-000553",
+  "tags": [
+    "здоровье",
+    "активность",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Neon-Pro150-000553.jpg",
+      "alt": "Пульсометр Neon Pro150 #000553 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Neon-Pro150-000553_side.jpg",
+      "alt": "Пульсометр Neon Pro150 #000553 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1527g",
+    "dimensions": "147mm x 187mm x 16mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-21T10:04:04Z",
+  "updatedAt": "2025-08-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

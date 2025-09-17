@@ -1,0 +1,41 @@
+{
+  "productId": "000536",
+  "name": "Робот-пылесос NovaTech S735 #000536",
+  "description": "Робот-пылесос бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 25857.03,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 48,
+    "reserved": 20
+  },
+  "sku": "NovaTech-000536",
+  "tags": [
+    "дом",
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-S735-000536.jpg",
+      "alt": "Робот-пылесос NovaTech S735 #000536 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-S735-000536_side.jpg",
+      "alt": "Робот-пылесос NovaTech S735 #000536 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "897g",
+    "dimensions": "113mm x 168mm x 28mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-02T10:04:04Z",
+  "updatedAt": "2025-05-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

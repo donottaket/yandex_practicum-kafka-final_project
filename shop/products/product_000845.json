@@ -1,0 +1,40 @@
+{
+  "productId": "000845",
+  "name": "Наушники Astra Plus883 #000845",
+  "description": "Наушники бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 28866.79,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 150,
+    "reserved": 23
+  },
+  "sku": "Astra-000845",
+  "tags": [
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Astra-Plus883-000845.jpg",
+      "alt": "Наушники Astra Plus883 #000845 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Astra-Plus883-000845_side.jpg",
+      "alt": "Наушники Astra Plus883 #000845 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1580g",
+    "dimensions": "182mm x 68mm x 21mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-30T10:04:04Z",
+  "updatedAt": "2025-08-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

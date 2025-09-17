@@ -1,0 +1,42 @@
+{
+  "productId": "000401",
+  "name": "Куртка Quantum 144 #000401",
+  "description": "Куртка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 3786.64,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 133,
+    "reserved": 51
+  },
+  "sku": "Quantum-000401",
+  "tags": [
+    "мода",
+    "стиль",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Quantum-144-000401.jpg",
+      "alt": "Куртка Quantum 144 #000401 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Quantum-144-000401_side.jpg",
+      "alt": "Куртка Quantum 144 #000401 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1056g",
+    "dimensions": "138mm x 28mm x 43mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-31T10:04:04Z",
+  "updatedAt": "2025-04-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

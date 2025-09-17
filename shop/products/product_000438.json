@@ -1,0 +1,41 @@
+{
+  "productId": "000438",
+  "name": "Футболка NovaTech X501 #000438",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 10149.17,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 58,
+    "reserved": 10
+  },
+  "sku": "NovaTech-000438",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-X501-000438.jpg",
+      "alt": "Футболка NovaTech X501 #000438 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-X501-000438_side.jpg",
+      "alt": "Футболка NovaTech X501 #000438 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "285g",
+    "dimensions": "40mm x 191mm x 27mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-28T10:04:04Z",
+  "updatedAt": "2025-03-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

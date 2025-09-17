@@ -1,0 +1,42 @@
+{
+  "productId": "000341",
+  "name": "Фитнес-трекер Polar 364 #000341",
+  "description": "Фитнес-трекер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 29324.99,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 130,
+    "reserved": 12
+  },
+  "sku": "Polar-000341",
+  "tags": [
+    "здоровье",
+    "gps",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-364-000341.jpg",
+      "alt": "Фитнес-трекер Polar 364 #000341 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-364-000341_side.jpg",
+      "alt": "Фитнес-трекер Polar 364 #000341 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1992g",
+    "dimensions": "262mm x 30mm x 18mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-24T10:04:04Z",
+  "updatedAt": "2025-07-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

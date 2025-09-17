@@ -1,0 +1,41 @@
+{
+  "productId": "000893",
+  "name": "Смарт-велокомпьютер Orion Lite494 #000893",
+  "description": "Смарт-велокомпьютер бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 27699.04,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 243,
+    "reserved": 18
+  },
+  "sku": "Orion-000893",
+  "tags": [
+    "активность",
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-Lite494-000893.jpg",
+      "alt": "Смарт-велокомпьютер Orion Lite494 #000893 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-Lite494-000893_side.jpg",
+      "alt": "Смарт-велокомпьютер Orion Lite494 #000893 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "524g",
+    "dimensions": "33mm x 171mm x 46mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-28T10:04:04Z",
+  "updatedAt": "2025-03-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

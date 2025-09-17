@@ -1,0 +1,42 @@
+{
+  "productId": "000769",
+  "name": "Штаны Polar X899 #000769",
+  "description": "Штаны бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 33563.88,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 111,
+    "reserved": 54
+  },
+  "sku": "Polar-000769",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Polar-X899-000769.jpg",
+      "alt": "Штаны Polar X899 #000769 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Polar-X899-000769_side.jpg",
+      "alt": "Штаны Polar X899 #000769 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1246g",
+    "dimensions": "163mm x 25mm x 40mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-19T10:04:04Z",
+  "updatedAt": "2024-12-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

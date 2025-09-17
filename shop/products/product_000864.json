@@ -1,0 +1,43 @@
+{
+  "productId": "000864",
+  "name": "Пульсометр Quantum 202 #000864",
+  "description": "Пульсометр бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 40830.52,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 342,
+    "reserved": 90
+  },
+  "sku": "Quantum-000864",
+  "tags": [
+    "спорт",
+    "gps",
+    "здоровье",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-202-000864.jpg",
+      "alt": "Пульсометр Quantum 202 #000864 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-202-000864_side.jpg",
+      "alt": "Пульсометр Quantum 202 #000864 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1497g",
+    "dimensions": "51mm x 90mm x 18mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-26T10:04:04Z",
+  "updatedAt": "2025-01-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

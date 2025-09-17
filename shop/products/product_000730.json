@@ -1,0 +1,42 @@
+{
+  "productId": "000730",
+  "name": "Блендер Lumen Plus392 #000730",
+  "description": "Блендер бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 26597.16,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 168,
+    "reserved": 81
+  },
+  "sku": "Lumen-000730",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Lumen-Plus392-000730.jpg",
+      "alt": "Блендер Lumen Plus392 #000730 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Lumen-Plus392-000730_side.jpg",
+      "alt": "Блендер Lumen Plus392 #000730 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "88g",
+    "dimensions": "274mm x 32mm x 45mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-29T10:04:04Z",
+  "updatedAt": "2024-10-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

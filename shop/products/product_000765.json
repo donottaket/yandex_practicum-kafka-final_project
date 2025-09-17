@@ -1,0 +1,43 @@
+{
+  "productId": "000765",
+  "name": "Робот-пылесос Polar X966 #000765",
+  "description": "Робот-пылесос бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 65990.53,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 310,
+    "reserved": 139
+  },
+  "sku": "Polar-000765",
+  "tags": [
+    "кухня",
+    "дом",
+    "тихий",
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-X966-000765.jpg",
+      "alt": "Робот-пылесос Polar X966 #000765 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-X966-000765_side.jpg",
+      "alt": "Робот-пылесос Polar X966 #000765 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "281g",
+    "dimensions": "143mm x 41mm x 27mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-11T10:04:04Z",
+  "updatedAt": "2025-03-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

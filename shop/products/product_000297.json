@@ -1,0 +1,42 @@
+{
+  "productId": "000297",
+  "name": "Фитнес-трекер Lumen S595 #000297",
+  "description": "Фитнес-трекер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 40946.42,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 44,
+    "reserved": 6
+  },
+  "sku": "Lumen-000297",
+  "tags": [
+    "активность",
+    "здоровье",
+    "gps",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-S595-000297.jpg",
+      "alt": "Фитнес-трекер Lumen S595 #000297 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-S595-000297_side.jpg",
+      "alt": "Фитнес-трекер Lumen S595 #000297 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "295g",
+    "dimensions": "246mm x 78mm x 26mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-12T10:04:04Z",
+  "updatedAt": "2025-05-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000848",
+  "name": "Планшет Astra Lite900 #000848",
+  "description": "Планшет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 107552.65,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 214,
+    "reserved": 42
+  },
+  "sku": "Astra-000848",
+  "tags": [
+    "android",
+    "bluetooth",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite900-000848.jpg",
+      "alt": "Планшет Astra Lite900 #000848 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Astra-Lite900-000848_side.jpg",
+      "alt": "Планшет Astra Lite900 #000848 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1228g",
+    "dimensions": "30mm x 74mm x 8mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-02T10:04:04Z",
+  "updatedAt": "2025-05-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

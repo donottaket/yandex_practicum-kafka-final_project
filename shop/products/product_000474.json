@@ -1,0 +1,40 @@
+{
+  "productId": "000474",
+  "name": "Пульсометр NovaTech 303 #000474",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 77189.79,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 479,
+    "reserved": 130
+  },
+  "sku": "NovaTech-000474",
+  "tags": [
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-303-000474.jpg",
+      "alt": "Пульсометр NovaTech 303 #000474 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-303-000474_side.jpg",
+      "alt": "Пульсометр NovaTech 303 #000474 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1450g",
+    "dimensions": "246mm x 81mm x 20mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-06T10:04:04Z",
+  "updatedAt": "2025-09-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000526",
+  "name": "Штаны Neon 335 #000526",
+  "description": "Штаны бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 2471.29,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 178,
+    "reserved": 1
+  },
+  "sku": "Neon-000526",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Neon-335-000526.jpg",
+      "alt": "Штаны Neon 335 #000526 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Neon-335-000526_side.jpg",
+      "alt": "Штаны Neon 335 #000526 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1003g",
+    "dimensions": "245mm x 185mm x 33mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-06T10:04:04Z",
+  "updatedAt": "2025-05-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

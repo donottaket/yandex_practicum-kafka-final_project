@@ -1,0 +1,43 @@
+{
+  "productId": "000743",
+  "name": "Экшн-камера Astra Pro175 #000743",
+  "description": "Экшн-камера бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 163649.43,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 23,
+    "reserved": 8
+  },
+  "sku": "Astra-000743",
+  "tags": [
+    "gps",
+    "bluetooth",
+    "ios",
+    "oled",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-Pro175-000743.jpg",
+      "alt": "Экшн-камера Astra Pro175 #000743 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-Pro175-000743_side.jpg",
+      "alt": "Экшн-камера Astra Pro175 #000743 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1014g",
+    "dimensions": "226mm x 131mm x 40mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-26T10:04:04Z",
+  "updatedAt": "2025-08-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

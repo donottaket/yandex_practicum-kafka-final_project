@@ -1,0 +1,42 @@
+{
+  "productId": "000436",
+  "name": "Куртка Vega Lite197 #000436",
+  "description": "Куртка бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 5734.95,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 334,
+    "reserved": 47
+  },
+  "sku": "Vega-000436",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Vega-Lite197-000436.jpg",
+      "alt": "Куртка Vega Lite197 #000436 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Vega-Lite197-000436_side.jpg",
+      "alt": "Куртка Vega Lite197 #000436 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "624g",
+    "dimensions": "65mm x 177mm x 34mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-29T10:04:04Z",
+  "updatedAt": "2024-10-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

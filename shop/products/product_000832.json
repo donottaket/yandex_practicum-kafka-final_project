@@ -1,0 +1,41 @@
+{
+  "productId": "000832",
+  "name": "Фитнес-браслет XYZ Lite660 #000832",
+  "description": "Фитнес-браслет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 154829.9,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 183,
+    "reserved": 22
+  },
+  "sku": "XYZ-000832",
+  "tags": [
+    "android",
+    "oled",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-Lite660-000832.jpg",
+      "alt": "Фитнес-браслет XYZ Lite660 #000832 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-Lite660-000832_side.jpg",
+      "alt": "Фитнес-браслет XYZ Lite660 #000832 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1109g",
+    "dimensions": "170mm x 64mm x 16mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-12T10:04:04Z",
+  "updatedAt": "2024-11-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

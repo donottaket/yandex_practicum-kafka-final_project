@@ -1,0 +1,41 @@
+{
+  "productId": "000334",
+  "name": "Фитнес-браслет Astra 73 #000334",
+  "description": "Фитнес-браслет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 141543.31,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 69,
+    "reserved": 7
+  },
+  "sku": "Astra-000334",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Astra-73-000334.jpg",
+      "alt": "Фитнес-браслет Astra 73 #000334 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Astra-73-000334_side.jpg",
+      "alt": "Фитнес-браслет Astra 73 #000334 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "154g",
+    "dimensions": "257mm x 26mm x 33mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-11T10:04:04Z",
+  "updatedAt": "2025-03-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

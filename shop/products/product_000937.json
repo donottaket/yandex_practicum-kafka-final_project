@@ -1,0 +1,42 @@
+{
+  "productId": "000937",
+  "name": "Чайник Polar X643 #000937",
+  "description": "Чайник бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 60687.29,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 110,
+    "reserved": 11
+  },
+  "sku": "Polar-000937",
+  "tags": [
+    "умный дом",
+    "дом",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Polar-X643-000937.jpg",
+      "alt": "Чайник Polar X643 #000937 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Polar-X643-000937_side.jpg",
+      "alt": "Чайник Polar X643 #000937 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "367g",
+    "dimensions": "295mm x 145mm x 25mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-01T10:04:04Z",
+  "updatedAt": "2025-03-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

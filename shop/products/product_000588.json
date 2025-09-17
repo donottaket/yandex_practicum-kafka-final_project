@@ -1,0 +1,40 @@
+{
+  "productId": "000588",
+  "name": "Увлажнитель воздуха ACME Plus38 #000588",
+  "description": "Увлажнитель воздуха бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 29731.53,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 407,
+    "reserved": 20
+  },
+  "sku": "ACME-000588",
+  "tags": [
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-Plus38-000588.jpg",
+      "alt": "Увлажнитель воздуха ACME Plus38 #000588 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-Plus38-000588_side.jpg",
+      "alt": "Увлажнитель воздуха ACME Plus38 #000588 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1885g",
+    "dimensions": "110mm x 125mm x 19mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-18T10:04:04Z",
+  "updatedAt": "2025-06-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

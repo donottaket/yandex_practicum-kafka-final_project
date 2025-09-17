@@ -1,0 +1,40 @@
+{
+  "productId": "000202",
+  "name": "Кроссовки Astra X909 #000202",
+  "description": "Кроссовки бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 33082.93,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 102,
+    "reserved": 37
+  },
+  "sku": "Astra-000202",
+  "tags": [
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Astra-X909-000202.jpg",
+      "alt": "Кроссовки Astra X909 #000202 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Astra-X909-000202_side.jpg",
+      "alt": "Кроссовки Astra X909 #000202 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1432g",
+    "dimensions": "93mm x 61mm x 6mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-04T10:04:04Z",
+  "updatedAt": "2024-10-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

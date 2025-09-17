@@ -1,0 +1,43 @@
+{
+  "productId": "000997",
+  "name": "Фитнес-трекер Neon S748 #000997",
+  "description": "Фитнес-трекер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 24334.67,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 382,
+    "reserved": 142
+  },
+  "sku": "Neon-000997",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S748-000997.jpg",
+      "alt": "Фитнес-трекер Neon S748 #000997 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S748-000997_side.jpg",
+      "alt": "Фитнес-трекер Neon S748 #000997 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "224g",
+    "dimensions": "127mm x 53mm x 41mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-01T10:04:04Z",
+  "updatedAt": "2025-01-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

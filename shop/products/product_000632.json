@@ -1,0 +1,42 @@
+{
+  "productId": "000632",
+  "name": "Худи Astra Max919 #000632",
+  "description": "Худи бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 26825.96,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 52,
+    "reserved": 11
+  },
+  "sku": "Astra-000632",
+  "tags": [
+    "удобство",
+    "стиль",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Astra-Max919-000632.jpg",
+      "alt": "Худи Astra Max919 #000632 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Astra-Max919-000632_side.jpg",
+      "alt": "Худи Astra Max919 #000632 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1515g",
+    "dimensions": "151mm x 85mm x 45mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-26T10:04:04Z",
+  "updatedAt": "2025-04-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000056",
+  "name": "Штаны Polar Pro400 #000056",
+  "description": "Штаны бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49972.59,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 132,
+    "reserved": 41
+  },
+  "sku": "Polar-000056",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Polar-Pro400-000056.jpg",
+      "alt": "Штаны Polar Pro400 #000056 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Polar-Pro400-000056_side.jpg",
+      "alt": "Штаны Polar Pro400 #000056 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "668g",
+    "dimensions": "77mm x 113mm x 15mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-30T10:04:04Z",
+  "updatedAt": "2024-11-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

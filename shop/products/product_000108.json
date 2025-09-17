@@ -1,0 +1,43 @@
+{
+  "productId": "000108",
+  "name": "Смарт-велокомпьютер Lumen Pro571 #000108",
+  "description": "Смарт-велокомпьютер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 44151.88,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 389,
+    "reserved": 117
+  },
+  "sku": "Lumen-000108",
+  "tags": [
+    "gps",
+    "outdoor",
+    "спорт",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-Pro571-000108.jpg",
+      "alt": "Смарт-велокомпьютер Lumen Pro571 #000108 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-Pro571-000108_side.jpg",
+      "alt": "Смарт-велокомпьютер Lumen Pro571 #000108 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "202g",
+    "dimensions": "231mm x 143mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-03T10:04:04Z",
+  "updatedAt": "2025-05-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

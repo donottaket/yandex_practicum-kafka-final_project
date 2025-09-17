@@ -1,0 +1,40 @@
+{
+  "productId": "000987",
+  "name": "Смартфон Astra Plus56 #000987",
+  "description": "Смартфон бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 5321.7,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 471,
+    "reserved": 150
+  },
+  "sku": "Astra-000987",
+  "tags": [
+    "ios",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Astra-Plus56-000987.jpg",
+      "alt": "Смартфон Astra Plus56 #000987 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Astra-Plus56-000987_side.jpg",
+      "alt": "Смартфон Astra Plus56 #000987 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1786g",
+    "dimensions": "78mm x 112mm x 20mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-07T10:04:04Z",
+  "updatedAt": "2025-05-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

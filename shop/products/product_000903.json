@@ -1,0 +1,43 @@
+{
+  "productId": "000903",
+  "name": "Спортивные часы Neon X562 #000903",
+  "description": "Спортивные часы бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 29477.17,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 100,
+    "reserved": 9
+  },
+  "sku": "Neon-000903",
+  "tags": [
+    "активность",
+    "gps",
+    "спорт",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-X562-000903.jpg",
+      "alt": "Спортивные часы Neon X562 #000903 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-X562-000903_side.jpg",
+      "alt": "Спортивные часы Neon X562 #000903 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "993g",
+    "dimensions": "150mm x 146mm x 44mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-06T10:04:04Z",
+  "updatedAt": "2025-02-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

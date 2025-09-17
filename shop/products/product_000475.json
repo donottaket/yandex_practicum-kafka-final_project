@@ -1,0 +1,41 @@
+{
+  "productId": "000475",
+  "name": "Фитнес-трекер Orion Plus607 #000475",
+  "description": "Фитнес-трекер бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 61935.5,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 133,
+    "reserved": 64
+  },
+  "sku": "Orion-000475",
+  "tags": [
+    "gps",
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Orion-Plus607-000475.jpg",
+      "alt": "Фитнес-трекер Orion Plus607 #000475 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Orion-Plus607-000475_side.jpg",
+      "alt": "Фитнес-трекер Orion Plus607 #000475 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1474g",
+    "dimensions": "204mm x 112mm x 34mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-22T10:04:04Z",
+  "updatedAt": "2024-12-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

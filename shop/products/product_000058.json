@@ -1,0 +1,41 @@
+{
+  "productId": "000058",
+  "name": "Планшет Neon S501 #000058",
+  "description": "Планшет бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 104233.22,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 254,
+    "reserved": 74
+  },
+  "sku": "Neon-000058",
+  "tags": [
+    "bluetooth",
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Neon-S501-000058.jpg",
+      "alt": "Планшет Neon S501 #000058 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Neon-S501-000058_side.jpg",
+      "alt": "Планшет Neon S501 #000058 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "487g",
+    "dimensions": "128mm x 28mm x 47mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-12T10:04:04Z",
+  "updatedAt": "2024-12-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

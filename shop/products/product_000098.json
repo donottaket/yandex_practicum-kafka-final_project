@@ -1,0 +1,42 @@
+{
+  "productId": "000098",
+  "name": "Худи Neon Max846 #000098",
+  "description": "Худи бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 37191.88,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 431,
+    "reserved": 161
+  },
+  "sku": "Neon-000098",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Neon-Max846-000098.jpg",
+      "alt": "Худи Neon Max846 #000098 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Neon-Max846-000098_side.jpg",
+      "alt": "Худи Neon Max846 #000098 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "816g",
+    "dimensions": "39mm x 64mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-03T10:04:04Z",
+  "updatedAt": "2024-12-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

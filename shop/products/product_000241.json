@@ -1,0 +1,40 @@
+{
+  "productId": "000241",
+  "name": "Робот-пылесос Vega Lite577 #000241",
+  "description": "Робот-пылесос бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 5897.87,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 333,
+    "reserved": 88
+  },
+  "sku": "Vega-000241",
+  "tags": [
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Vega-Lite577-000241.jpg",
+      "alt": "Робот-пылесос Vega Lite577 #000241 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Vega-Lite577-000241_side.jpg",
+      "alt": "Робот-пылесос Vega Lite577 #000241 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1451g",
+    "dimensions": "225mm x 156mm x 39mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-28T10:04:04Z",
+  "updatedAt": "2025-08-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

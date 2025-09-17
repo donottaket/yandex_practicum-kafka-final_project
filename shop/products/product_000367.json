@@ -1,0 +1,41 @@
+{
+  "productId": "000367",
+  "name": "Увлажнитель воздуха Quantum S692 #000367",
+  "description": "Увлажнитель воздуха бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 71240.92,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 182,
+    "reserved": 18
+  },
+  "sku": "Quantum-000367",
+  "tags": [
+    "умный дом",
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-S692-000367.jpg",
+      "alt": "Увлажнитель воздуха Quantum S692 #000367 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-S692-000367_side.jpg",
+      "alt": "Увлажнитель воздуха Quantum S692 #000367 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1058g",
+    "dimensions": "296mm x 45mm x 5mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-28T10:04:04Z",
+  "updatedAt": "2024-11-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

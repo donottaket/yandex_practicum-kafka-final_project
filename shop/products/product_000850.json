@@ -1,0 +1,42 @@
+{
+  "productId": "000850",
+  "name": "Худи XYZ Plus571 #000850",
+  "description": "Худи бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 28482.33,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 132,
+    "reserved": 2
+  },
+  "sku": "XYZ-000850",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-XYZ-Plus571-000850.jpg",
+      "alt": "Худи XYZ Plus571 #000850 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-XYZ-Plus571-000850_side.jpg",
+      "alt": "Худи XYZ Plus571 #000850 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1715g",
+    "dimensions": "161mm x 112mm x 41mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-17T10:04:04Z",
+  "updatedAt": "2025-04-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

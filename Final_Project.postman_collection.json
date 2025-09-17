@@ -1,0 +1,341 @@
+{
+  "info": {
+    "_postman_id": "69223032-812e-465e-ab0e-766f337a8ba7",
+    "name": "Final Project",
+    "description": "### Welcome to Postman! This is your first collection. \n\nCollections are your starting point for building and testing APIs. You can use this one to:\n\n• Group related requests\n• Test your API in real-world scenarios\n• Document and share your requests\n\nUpdate the name and overview whenever you’re ready to make it yours.\n\n[Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "48539503",
+    "_collection_link": "https://donottaket-7006870.postman.co/workspace/maenlest's-Workspace~d8afb92d-49e6-4925-8647-1c8f3f8bd33c/collection/48539503-69223032-812e-465e-ab0e-766f337a8ba7?action=share&source=collection_link&creator=48539503"
+  },
+  "item": [
+    {
+      "name": "client api",
+      "item": [
+        {
+          "name": "Поиск товара по названию",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://localhost:8090/products/search?name=Смарт&user-id=new_user_1",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "8090",
+              "path": [
+                "products",
+                "search"
+              ],
+              "query": [
+                {
+                  "key": "name",
+                  "value": "Смарт"
+                },
+                {
+                  "key": "user-id",
+                  "value": "new_user_1"
+                }
+              ]
+            }
+          },
+          "response": [
+            {
+              "name": "Поиск товара по названию",
+              "originalRequest": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                  "raw": "https://localhost:8090/products/search?name=Смарт&user-id=new_user_1",
+                  "protocol": "https",
+                  "host": [
+                    "localhost"
+                  ],
+                  "port": "8090",
+                  "path": [
+                    "products",
+                    "search"
+                  ],
+                  "query": [
+                    {
+                      "key": "name",
+                      "value": "Смарт"
+                    },
+                    {
+                      "key": "user-id",
+                      "value": "new_user_1"
+                    }
+                  ]
+                }
+              },
+              "_postman_previewlanguage": null,
+              "header": null,
+              "cookie": [],
+              "body": null
+            }
+          ]
+        },
+        {
+          "name": "Получение рекомендаций",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://localhost:8090/product-recommendations/new_user_1",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "8090",
+              "path": [
+                "product-recommendations",
+                "new_user_1"
+              ]
+            }
+          },
+          "response": [
+            {
+              "name": "Получение рекомендаций",
+              "originalRequest": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                  "raw": "https://localhost:8090/product-recommendations/new_user_1",
+                  "protocol": "https",
+                  "host": [
+                    "localhost"
+                  ],
+                  "port": "8090",
+                  "path": [
+                    "product-recommendations",
+                    "new_user_1"
+                  ]
+                }
+              },
+              "_postman_previewlanguage": "",
+              "header": [],
+              "cookie": [
+                {
+                  "expires": "Invalid Date",
+                  "domain": "",
+                  "path": ""
+                }
+              ],
+              "body": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "shop api",
+      "item": [
+        {
+          "name": "Создание товара",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"productId\": \"new_product_1\",\r\n  \"name\": \"Наушники ACME 427 #000001\",\r\n  \"description\": \"Наушники бренда ACME. Качественный продукт категории Электроника.\",\r\n  \"price\": {\r\n    \"amount\": 33603.15,\r\n    \"currency\": \"RUB\"\r\n  },\r\n  \"category\": \"Электроника\",\r\n  \"brand\": \"ACME\",\r\n  \"stock\": {\r\n    \"available\": 429,\r\n    \"reserved\": 9\r\n  },\r\n  \"sku\": \"ACME-000001\",\r\n  \"tags\": [\r\n    \"oled\",\r\n    \"ios\",\r\n    \"bluetooth\",\r\n    \"android\",\r\n    \"гаджеты\"\r\n  ],\r\n  \"images\": [\r\n    {\r\n      \"url\": \"https://example.com/images/Наушники-ACME-427-000001.jpg\",\r\n      \"alt\": \"Наушники ACME 427 #000001 — вид спереди\"\r\n    },\r\n    {\r\n      \"url\": \"https://example.com/images/Наушники-ACME-427-000001_side.jpg\",\r\n      \"alt\": \"Наушники ACME 427 #000001 — вид сбоку\"\r\n    }\r\n  ],\r\n  \"specifications\": {\r\n    \"weight\": \"740g\",\r\n    \"dimensions\": \"200mm x 199mm x 20mm\",\r\n    \"batteryLife\": \"24 hours\",\r\n    \"waterResistance\": \"IP67\"\r\n  },\r\n  \"createdAt\": \"2025-03-31T10:04:04Z\",\r\n  \"updatedAt\": \"2025-04-06T10:04:04Z\",\r\n  \"index\": \"products\",\r\n  \"storeId\": \"store_007\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:8091/products",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "8091",
+              "path": [
+                "products"
+              ]
+            }
+          },
+          "response": [
+            {
+              "name": "Создание товара",
+              "originalRequest": {
+                "method": "POST",
+                "header": [
+                  {
+                    "key": "Content-Type",
+                    "value": "application/json",
+                    "type": "text"
+                  }
+                ],
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\r\n  \"productId\": \"new_product_1\",\r\n  \"name\": \"Наушники ACME 427 #000001\",\r\n  \"description\": \"Наушники бренда ACME. Качественный продукт категории Электроника.\",\r\n  \"price\": {\r\n    \"amount\": 33603.15,\r\n    \"currency\": \"RUB\"\r\n  },\r\n  \"category\": \"Электроника\",\r\n  \"brand\": \"ACME\",\r\n  \"stock\": {\r\n    \"available\": 429,\r\n    \"reserved\": 9\r\n  },\r\n  \"sku\": \"ACME-000001\",\r\n  \"tags\": [\r\n    \"oled\",\r\n    \"ios\",\r\n    \"bluetooth\",\r\n    \"android\",\r\n    \"гаджеты\"\r\n  ],\r\n  \"images\": [\r\n    {\r\n      \"url\": \"https://example.com/images/Наушники-ACME-427-000001.jpg\",\r\n      \"alt\": \"Наушники ACME 427 #000001 — вид спереди\"\r\n    },\r\n    {\r\n      \"url\": \"https://example.com/images/Наушники-ACME-427-000001_side.jpg\",\r\n      \"alt\": \"Наушники ACME 427 #000001 — вид сбоку\"\r\n    }\r\n  ],\r\n  \"specifications\": {\r\n    \"weight\": \"740g\",\r\n    \"dimensions\": \"200mm x 199mm x 20mm\",\r\n    \"batteryLife\": \"24 hours\",\r\n    \"waterResistance\": \"IP67\"\r\n  },\r\n  \"createdAt\": \"2025-03-31T10:04:04Z\",\r\n  \"updatedAt\": \"2025-04-06T10:04:04Z\",\r\n  \"index\": \"products\",\r\n  \"storeId\": \"store_007\"\r\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                },
+                "url": {
+                  "raw": "https://localhost:8091/products",
+                  "protocol": "https",
+                  "host": [
+                    "localhost"
+                  ],
+                  "port": "8091",
+                  "path": [
+                    "products"
+                  ]
+                }
+              },
+              "_postman_previewlanguage": "",
+              "header": [],
+              "cookie": [
+                {
+                  "expires": "Invalid Date",
+                  "domain": "",
+                  "path": ""
+                }
+              ],
+              "body": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "product filter api",
+      "item": [
+        {
+          "name": "Блокировка товара",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"text\": \"demonstration\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:8092/black-list/000111/block",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "8092",
+              "path": [
+                "black-list",
+                "000111",
+                "block"
+              ]
+            }
+          },
+          "response": [
+            {
+              "name": "Блокировка товара",
+              "originalRequest": {
+                "method": "POST",
+                "header": [
+                  {
+                    "key": "Content-Type",
+                    "value": "application/json",
+                    "type": "text"
+                  }
+                ],
+                "body": {
+                  "mode": "raw",
+                  "raw": "{\r\n    \"text\": \"demonstration\"\r\n}",
+                  "options": {
+                    "raw": {
+                      "language": "json"
+                    }
+                  }
+                },
+                "url": {
+                  "raw": "https://localhost:8092/black-list/000111/block",
+                  "protocol": "https",
+                  "host": [
+                    "localhost"
+                  ],
+                  "port": "8092",
+                  "path": [
+                    "black-list",
+                    "000111",
+                    "block"
+                  ]
+                }
+              },
+              "_postman_previewlanguage": "",
+              "header": [],
+              "cookie": [
+                {
+                  "expires": "Invalid Date",
+                  "domain": "",
+                  "path": ""
+                }
+              ],
+              "body": ""
+            }
+          ]
+        },
+        {
+          "name": "Разблокировка товара",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "https://localhost:8092/black-list/000111/unblock",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "8092",
+              "path": [
+                "black-list",
+                "000111",
+                "unblock"
+              ]
+            }
+          },
+          "response": [
+            {
+              "name": "Разблокировка товара",
+              "originalRequest": {
+                "method": "POST",
+                "header": [],
+                "url": {
+                  "raw": "https://localhost:8092/black-list/000111/unblock",
+                  "protocol": "https",
+                  "host": [
+                    "localhost"
+                  ],
+                  "port": "8092",
+                  "path": [
+                    "black-list",
+                    "000111",
+                    "unblock"
+                  ]
+                }
+              },
+              "_postman_previewlanguage": "",
+              "header": [],
+              "cookie": [
+                {
+                  "expires": "Invalid Date",
+                  "domain": "",
+                  "path": ""
+                }
+              ],
+              "body": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000549",
+  "name": "Экшн-камера XYZ S241 #000549",
+  "description": "Экшн-камера бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 187115.17,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 439,
+    "reserved": 0
+  },
+  "sku": "XYZ-000549",
+  "tags": [
+    "android",
+    "ios",
+    "bluetooth",
+    "gps",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-S241-000549.jpg",
+      "alt": "Экшн-камера XYZ S241 #000549 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-S241-000549_side.jpg",
+      "alt": "Экшн-камера XYZ S241 #000549 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1939g",
+    "dimensions": "248mm x 177mm x 49mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-04T10:04:04Z",
+  "updatedAt": "2024-11-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

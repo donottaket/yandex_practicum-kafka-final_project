@@ -1,0 +1,43 @@
+{
+  "productId": "000087",
+  "name": "Спортивные часы Lumen Pro997 #000087",
+  "description": "Спортивные часы бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 18766.23,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 27,
+    "reserved": 11
+  },
+  "sku": "Lumen-000087",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Lumen-Pro997-000087.jpg",
+      "alt": "Спортивные часы Lumen Pro997 #000087 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Lumen-Pro997-000087_side.jpg",
+      "alt": "Спортивные часы Lumen Pro997 #000087 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1371g",
+    "dimensions": "32mm x 160mm x 15mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-14T10:04:04Z",
+  "updatedAt": "2024-10-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

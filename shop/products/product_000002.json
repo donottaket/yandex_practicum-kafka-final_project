@@ -1,0 +1,40 @@
+{
+  "productId": "000002",
+  "name": "Планшет Lumen Pro16 #000002",
+  "description": "Планшет бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 30140.66,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 229,
+    "reserved": 13
+  },
+  "sku": "Lumen-000002",
+  "tags": [
+    "гаджеты",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Lumen-Pro16-000002.jpg",
+      "alt": "Планшет Lumen Pro16 #000002 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Lumen-Pro16-000002_side.jpg",
+      "alt": "Планшет Lumen Pro16 #000002 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1668g",
+    "dimensions": "40mm x 94mm x 32mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-06T10:04:04Z",
+  "updatedAt": "2025-04-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

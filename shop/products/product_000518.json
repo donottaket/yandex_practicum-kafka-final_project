@@ -1,0 +1,41 @@
+{
+  "productId": "000518",
+  "name": "Наушники XYZ X120 #000518",
+  "description": "Наушники бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 121985.2,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 7,
+    "reserved": 1
+  },
+  "sku": "XYZ-000518",
+  "tags": [
+    "android",
+    "технологии",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-XYZ-X120-000518.jpg",
+      "alt": "Наушники XYZ X120 #000518 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-XYZ-X120-000518_side.jpg",
+      "alt": "Наушники XYZ X120 #000518 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "52g",
+    "dimensions": "103mm x 93mm x 35mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-01T10:04:04Z",
+  "updatedAt": "2024-11-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000674",
+  "name": "Спортивные часы Vega S822 #000674",
+  "description": "Спортивные часы бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 88872.36,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 305,
+    "reserved": 50
+  },
+  "sku": "Vega-000674",
+  "tags": [
+    "gps",
+    "здоровье",
+    "спорт",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-S822-000674.jpg",
+      "alt": "Спортивные часы Vega S822 #000674 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Vega-S822-000674_side.jpg",
+      "alt": "Спортивные часы Vega S822 #000674 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "121g",
+    "dimensions": "195mm x 28mm x 32mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-09-25T10:04:04Z",
+  "updatedAt": "2024-11-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

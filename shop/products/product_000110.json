@@ -1,0 +1,40 @@
+{
+  "productId": "000110",
+  "name": "Кофемашина Neon 112 #000110",
+  "description": "Кофемашина бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 50978.97,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 470,
+    "reserved": 129
+  },
+  "sku": "Neon-000110",
+  "tags": [
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-112-000110.jpg",
+      "alt": "Кофемашина Neon 112 #000110 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-112-000110_side.jpg",
+      "alt": "Кофемашина Neon 112 #000110 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "993g",
+    "dimensions": "194mm x 48mm x 12mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-01T10:04:04Z",
+  "updatedAt": "2025-07-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

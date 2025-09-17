@@ -1,0 +1,43 @@
+{
+  "productId": "000633",
+  "name": "Планшет Vega Lite601 #000633",
+  "description": "Планшет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 29637.7,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 274,
+    "reserved": 32
+  },
+  "sku": "Vega-000633",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "технологии",
+    "oled",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Vega-Lite601-000633.jpg",
+      "alt": "Планшет Vega Lite601 #000633 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Vega-Lite601-000633_side.jpg",
+      "alt": "Планшет Vega Lite601 #000633 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1014g",
+    "dimensions": "49mm x 193mm x 43mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-11T10:04:04Z",
+  "updatedAt": "2025-05-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

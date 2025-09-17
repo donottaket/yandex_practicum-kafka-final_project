@@ -1,0 +1,42 @@
+{
+  "productId": "000890",
+  "name": "Худи Vega Max664 #000890",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 10513.6,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 467,
+    "reserved": 72
+  },
+  "sku": "Vega-000890",
+  "tags": [
+    "мода",
+    "повседневное",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-Max664-000890.jpg",
+      "alt": "Худи Vega Max664 #000890 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-Max664-000890_side.jpg",
+      "alt": "Худи Vega Max664 #000890 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "897g",
+    "dimensions": "203mm x 34mm x 22mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-28T10:04:04Z",
+  "updatedAt": "2025-05-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

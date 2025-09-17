@@ -1,0 +1,40 @@
+{
+  "productId": "000991",
+  "name": "Куртка Astra S756 #000991",
+  "description": "Куртка бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 40129.73,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 31,
+    "reserved": 10
+  },
+  "sku": "Astra-000991",
+  "tags": [
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Astra-S756-000991.jpg",
+      "alt": "Куртка Astra S756 #000991 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Astra-S756-000991_side.jpg",
+      "alt": "Куртка Astra S756 #000991 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "997g",
+    "dimensions": "119mm x 181mm x 17mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-24T10:04:04Z",
+  "updatedAt": "2025-04-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

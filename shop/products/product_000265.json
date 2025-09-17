@@ -1,0 +1,41 @@
+{
+  "productId": "000265",
+  "name": "Худи Quantum Plus334 #000265",
+  "description": "Худи бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 7634.83,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 157,
+    "reserved": 16
+  },
+  "sku": "Quantum-000265",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Quantum-Plus334-000265.jpg",
+      "alt": "Худи Quantum Plus334 #000265 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Quantum-Plus334-000265_side.jpg",
+      "alt": "Худи Quantum Plus334 #000265 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "740g",
+    "dimensions": "80mm x 149mm x 22mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-11T10:04:04Z",
+  "updatedAt": "2025-04-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

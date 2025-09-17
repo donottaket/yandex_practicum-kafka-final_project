@@ -1,0 +1,43 @@
+{
+  "productId": "000320",
+  "name": "Экшн-камера ACME X38 #000320",
+  "description": "Экшн-камера бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 105887.96,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 75,
+    "reserved": 37
+  },
+  "sku": "ACME-000320",
+  "tags": [
+    "gps",
+    "android",
+    "гаджеты",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-ACME-X38-000320.jpg",
+      "alt": "Экшн-камера ACME X38 #000320 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-ACME-X38-000320_side.jpg",
+      "alt": "Экшн-камера ACME X38 #000320 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "178g",
+    "dimensions": "77mm x 36mm x 14mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-21T10:04:04Z",
+  "updatedAt": "2025-01-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

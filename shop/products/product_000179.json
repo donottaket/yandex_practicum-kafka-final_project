@@ -1,0 +1,41 @@
+{
+  "productId": "000179",
+  "name": "Планшет Lumen S284 #000179",
+  "description": "Планшет бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 130862.1,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 39,
+    "reserved": 1
+  },
+  "sku": "Lumen-000179",
+  "tags": [
+    "гаджеты",
+    "ios",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Lumen-S284-000179.jpg",
+      "alt": "Планшет Lumen S284 #000179 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Lumen-S284-000179_side.jpg",
+      "alt": "Планшет Lumen S284 #000179 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1255g",
+    "dimensions": "281mm x 93mm x 41mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-18T10:04:04Z",
+  "updatedAt": "2025-02-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

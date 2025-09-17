@@ -1,0 +1,40 @@
+{
+  "productId": "000569",
+  "name": "Увлажнитель воздуха ACME X610 #000569",
+  "description": "Увлажнитель воздуха бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 8508.06,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 404,
+    "reserved": 76
+  },
+  "sku": "ACME-000569",
+  "tags": [
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-X610-000569.jpg",
+      "alt": "Увлажнитель воздуха ACME X610 #000569 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-X610-000569_side.jpg",
+      "alt": "Увлажнитель воздуха ACME X610 #000569 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "987g",
+    "dimensions": "222mm x 82mm x 40mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-25T10:04:04Z",
+  "updatedAt": "2025-07-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

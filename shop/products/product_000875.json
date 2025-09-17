@@ -1,0 +1,41 @@
+{
+  "productId": "000875",
+  "name": "Смартфон Lumen S749 #000875",
+  "description": "Смартфон бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 118753.35,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 278,
+    "reserved": 7
+  },
+  "sku": "Lumen-000875",
+  "tags": [
+    "технологии",
+    "gps",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Lumen-S749-000875.jpg",
+      "alt": "Смартфон Lumen S749 #000875 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Lumen-S749-000875_side.jpg",
+      "alt": "Смартфон Lumen S749 #000875 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "914g",
+    "dimensions": "228mm x 64mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-07T10:04:04Z",
+  "updatedAt": "2024-12-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

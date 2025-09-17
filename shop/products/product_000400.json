@@ -1,0 +1,41 @@
+{
+  "productId": "000400",
+  "name": "Блендер Orion Lite584 #000400",
+  "description": "Блендер бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 43142.33,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 275,
+    "reserved": 106
+  },
+  "sku": "Orion-000400",
+  "tags": [
+    "кухня",
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Orion-Lite584-000400.jpg",
+      "alt": "Блендер Orion Lite584 #000400 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Orion-Lite584-000400_side.jpg",
+      "alt": "Блендер Orion Lite584 #000400 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1120g",
+    "dimensions": "272mm x 192mm x 21mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-12T10:04:04Z",
+  "updatedAt": "2025-06-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000281",
+  "name": "Кроссовки Lumen Plus136 #000281",
+  "description": "Кроссовки бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 18722.31,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 194,
+    "reserved": 96
+  },
+  "sku": "Lumen-000281",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Lumen-Plus136-000281.jpg",
+      "alt": "Кроссовки Lumen Plus136 #000281 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Lumen-Plus136-000281_side.jpg",
+      "alt": "Кроссовки Lumen Plus136 #000281 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "996g",
+    "dimensions": "277mm x 117mm x 9mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-01T10:04:04Z",
+  "updatedAt": "2025-06-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000953",
+  "name": "Планшет Vega S100 #000953",
+  "description": "Планшет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 120992.2,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 288,
+    "reserved": 6
+  },
+  "sku": "Vega-000953",
+  "tags": [
+    "android",
+    "oled",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Vega-S100-000953.jpg",
+      "alt": "Планшет Vega S100 #000953 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Vega-S100-000953_side.jpg",
+      "alt": "Планшет Vega S100 #000953 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1325g",
+    "dimensions": "268mm x 86mm x 38mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-12T10:04:04Z",
+  "updatedAt": "2025-06-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000362",
+  "name": "Экшн-камера Polar 55 #000362",
+  "description": "Экшн-камера бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 12753.94,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 426,
+    "reserved": 188
+  },
+  "sku": "Polar-000362",
+  "tags": [
+    "oled",
+    "гаджеты",
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Polar-55-000362.jpg",
+      "alt": "Экшн-камера Polar 55 #000362 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Polar-55-000362_side.jpg",
+      "alt": "Экшн-камера Polar 55 #000362 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1468g",
+    "dimensions": "103mm x 172mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-09T10:04:04Z",
+  "updatedAt": "2025-08-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

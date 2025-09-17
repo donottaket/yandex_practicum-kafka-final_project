@@ -1,0 +1,40 @@
+{
+  "productId": "000399",
+  "name": "Робот-пылесос Neon X224 #000399",
+  "description": "Робот-пылесос бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 37226.0,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 169,
+    "reserved": 20
+  },
+  "sku": "Neon-000399",
+  "tags": [
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Neon-X224-000399.jpg",
+      "alt": "Робот-пылесос Neon X224 #000399 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Neon-X224-000399_side.jpg",
+      "alt": "Робот-пылесос Neon X224 #000399 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1281g",
+    "dimensions": "251mm x 103mm x 45mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-30T10:04:04Z",
+  "updatedAt": "2024-11-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

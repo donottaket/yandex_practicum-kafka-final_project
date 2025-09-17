@@ -1,0 +1,40 @@
+{
+  "productId": "000756",
+  "name": "Штаны XYZ X438 #000756",
+  "description": "Штаны бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 36205.07,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 124,
+    "reserved": 56
+  },
+  "sku": "XYZ-000756",
+  "tags": [
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-XYZ-X438-000756.jpg",
+      "alt": "Штаны XYZ X438 #000756 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-XYZ-X438-000756_side.jpg",
+      "alt": "Штаны XYZ X438 #000756 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "765g",
+    "dimensions": "300mm x 95mm x 24mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-19T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

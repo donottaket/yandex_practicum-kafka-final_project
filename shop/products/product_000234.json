@@ -1,0 +1,41 @@
+{
+  "productId": "000234",
+  "name": "Фитнес-трекер Polar Lite322 #000234",
+  "description": "Фитнес-трекер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 7773.53,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 463,
+    "reserved": 17
+  },
+  "sku": "Polar-000234",
+  "tags": [
+    "здоровье",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-Lite322-000234.jpg",
+      "alt": "Фитнес-трекер Polar Lite322 #000234 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-Lite322-000234_side.jpg",
+      "alt": "Фитнес-трекер Polar Lite322 #000234 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1005g",
+    "dimensions": "182mm x 142mm x 14mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-19T10:04:04Z",
+  "updatedAt": "2025-05-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

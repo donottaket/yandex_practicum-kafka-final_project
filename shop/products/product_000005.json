@@ -1,0 +1,43 @@
+{
+  "productId": "000005",
+  "name": "Экшн-камера Astra X997 #000005",
+  "description": "Экшн-камера бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 150816.73,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 119,
+    "reserved": 34
+  },
+  "sku": "Astra-000005",
+  "tags": [
+    "технологии",
+    "ios",
+    "oled",
+    "gps",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-X997-000005.jpg",
+      "alt": "Экшн-камера Astra X997 #000005 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-X997-000005_side.jpg",
+      "alt": "Экшн-камера Astra X997 #000005 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "140g",
+    "dimensions": "35mm x 54mm x 34mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-26T10:04:04Z",
+  "updatedAt": "2024-11-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

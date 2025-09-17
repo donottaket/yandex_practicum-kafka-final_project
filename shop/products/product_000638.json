@@ -1,0 +1,41 @@
+{
+  "productId": "000638",
+  "name": "Футболка Quantum X245 #000638",
+  "description": "Футболка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 24544.01,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 15,
+    "reserved": 4
+  },
+  "sku": "Quantum-000638",
+  "tags": [
+    "стиль",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Quantum-X245-000638.jpg",
+      "alt": "Футболка Quantum X245 #000638 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Quantum-X245-000638_side.jpg",
+      "alt": "Футболка Quantum X245 #000638 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1297g",
+    "dimensions": "210mm x 192mm x 11mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-08T10:04:04Z",
+  "updatedAt": "2025-04-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

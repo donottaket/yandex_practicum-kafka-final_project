@@ -1,0 +1,40 @@
+{
+  "productId": "000268",
+  "name": "Планшет Vega Max669 #000268",
+  "description": "Планшет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 59948.62,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 342,
+    "reserved": 136
+  },
+  "sku": "Vega-000268",
+  "tags": [
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Vega-Max669-000268.jpg",
+      "alt": "Планшет Vega Max669 #000268 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Vega-Max669-000268_side.jpg",
+      "alt": "Планшет Vega Max669 #000268 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1998g",
+    "dimensions": "203mm x 118mm x 42mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-27T10:04:04Z",
+  "updatedAt": "2024-10-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

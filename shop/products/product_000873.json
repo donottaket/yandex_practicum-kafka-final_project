@@ -1,0 +1,40 @@
+{
+  "productId": "000873",
+  "name": "Футболка NovaTech S864 #000873",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 4886.41,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 138,
+    "reserved": 66
+  },
+  "sku": "NovaTech-000873",
+  "tags": [
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-S864-000873.jpg",
+      "alt": "Футболка NovaTech S864 #000873 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-S864-000873_side.jpg",
+      "alt": "Футболка NovaTech S864 #000873 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1486g",
+    "dimensions": "81mm x 121mm x 15mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-03T10:04:04Z",
+  "updatedAt": "2025-08-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

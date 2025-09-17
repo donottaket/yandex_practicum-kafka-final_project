@@ -1,0 +1,43 @@
+{
+  "productId": "000001",
+  "name": "Наушники ACME 427 #000001",
+  "description": "Наушники бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 33603.15,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 429,
+    "reserved": 9
+  },
+  "sku": "ACME-000001",
+  "tags": [
+    "oled",
+    "ios",
+    "bluetooth",
+    "android",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-ACME-427-000001.jpg",
+      "alt": "Наушники ACME 427 #000001 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-ACME-427-000001_side.jpg",
+      "alt": "Наушники ACME 427 #000001 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "740g",
+    "dimensions": "200mm x 199mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-31T10:04:04Z",
+  "updatedAt": "2025-04-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

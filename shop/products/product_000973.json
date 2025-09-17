@@ -1,0 +1,42 @@
+{
+  "productId": "000973",
+  "name": "Смарт-велокомпьютер Polar Max913 #000973",
+  "description": "Смарт-велокомпьютер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 97998.79,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 269,
+    "reserved": 95
+  },
+  "sku": "Polar-000973",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-Max913-000973.jpg",
+      "alt": "Смарт-велокомпьютер Polar Max913 #000973 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-Max913-000973_side.jpg",
+      "alt": "Смарт-велокомпьютер Polar Max913 #000973 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "995g",
+    "dimensions": "208mm x 50mm x 26mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-09T10:04:04Z",
+  "updatedAt": "2025-03-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

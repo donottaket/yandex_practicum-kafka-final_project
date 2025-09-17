@@ -1,0 +1,40 @@
+{
+  "productId": "000601",
+  "name": "Умные часы Neon X770 #000601",
+  "description": "Умные часы бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 4187.61,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 213,
+    "reserved": 68
+  },
+  "sku": "Neon-000601",
+  "tags": [
+    "bluetooth",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-X770-000601.jpg",
+      "alt": "Умные часы Neon X770 #000601 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-X770-000601_side.jpg",
+      "alt": "Умные часы Neon X770 #000601 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "268g",
+    "dimensions": "230mm x 62mm x 42mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-21T10:04:04Z",
+  "updatedAt": "2025-05-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

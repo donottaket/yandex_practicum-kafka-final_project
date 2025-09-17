@@ -1,0 +1,40 @@
+{
+  "productId": "000519",
+  "name": "Смарт-велокомпьютер NovaTech X680 #000519",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 17598.39,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 56,
+    "reserved": 20
+  },
+  "sku": "NovaTech-000519",
+  "tags": [
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X680-000519.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X680 #000519 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X680-000519_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X680 #000519 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1735g",
+    "dimensions": "33mm x 198mm x 18mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-23T10:04:04Z",
+  "updatedAt": "2025-06-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

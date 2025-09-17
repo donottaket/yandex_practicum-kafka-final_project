@@ -1,0 +1,40 @@
+{
+  "productId": "000897",
+  "name": "Увлажнитель воздуха Vega Pro762 #000897",
+  "description": "Увлажнитель воздуха бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 46252.52,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 379,
+    "reserved": 69
+  },
+  "sku": "Vega-000897",
+  "tags": [
+    "тихий",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-Pro762-000897.jpg",
+      "alt": "Увлажнитель воздуха Vega Pro762 #000897 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-Pro762-000897_side.jpg",
+      "alt": "Увлажнитель воздуха Vega Pro762 #000897 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "841g",
+    "dimensions": "142mm x 46mm x 7mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-24T10:04:04Z",
+  "updatedAt": "2025-08-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

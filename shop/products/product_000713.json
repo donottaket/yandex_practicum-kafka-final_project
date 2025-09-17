@@ -1,0 +1,42 @@
+{
+  "productId": "000713",
+  "name": "Штаны Astra 882 #000713",
+  "description": "Штаны бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 27077.23,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 96,
+    "reserved": 48
+  },
+  "sku": "Astra-000713",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Astra-882-000713.jpg",
+      "alt": "Штаны Astra 882 #000713 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Astra-882-000713_side.jpg",
+      "alt": "Штаны Astra 882 #000713 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1090g",
+    "dimensions": "236mm x 96mm x 48mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-19T10:04:04Z",
+  "updatedAt": "2025-05-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

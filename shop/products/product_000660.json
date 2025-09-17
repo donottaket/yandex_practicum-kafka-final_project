@@ -1,0 +1,42 @@
+{
+  "productId": "000660",
+  "name": "Куртка Neon S869 #000660",
+  "description": "Куртка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 27892.5,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 182,
+    "reserved": 24
+  },
+  "sku": "Neon-000660",
+  "tags": [
+    "удобство",
+    "мода",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Neon-S869-000660.jpg",
+      "alt": "Куртка Neon S869 #000660 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Neon-S869-000660_side.jpg",
+      "alt": "Куртка Neon S869 #000660 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "283g",
+    "dimensions": "156mm x 114mm x 46mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-27T10:04:04Z",
+  "updatedAt": "2025-03-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000804",
+  "name": "Умные часы Neon X152 #000804",
+  "description": "Умные часы бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 155704.24,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 325,
+    "reserved": 74
+  },
+  "sku": "Neon-000804",
+  "tags": [
+    "android",
+    "bluetooth",
+    "гаджеты",
+    "технологии",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-X152-000804.jpg",
+      "alt": "Умные часы Neon X152 #000804 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-X152-000804_side.jpg",
+      "alt": "Умные часы Neon X152 #000804 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1482g",
+    "dimensions": "250mm x 77mm x 8mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-02T10:04:04Z",
+  "updatedAt": "2025-01-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

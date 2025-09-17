@@ -1,0 +1,41 @@
+{
+  "productId": "000019",
+  "name": "Смарт-велокомпьютер Orion S36 #000019",
+  "description": "Смарт-велокомпьютер бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 66569.72,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 78,
+    "reserved": 29
+  },
+  "sku": "Orion-000019",
+  "tags": [
+    "outdoor",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-S36-000019.jpg",
+      "alt": "Смарт-велокомпьютер Orion S36 #000019 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Orion-S36-000019_side.jpg",
+      "alt": "Смарт-велокомпьютер Orion S36 #000019 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "940g",
+    "dimensions": "230mm x 163mm x 17mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-10T10:04:04Z",
+  "updatedAt": "2025-04-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

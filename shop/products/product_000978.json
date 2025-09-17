@@ -1,0 +1,42 @@
+{
+  "productId": "000978",
+  "name": "Чайник Orion Lite742 #000978",
+  "description": "Чайник бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 44373.21,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 257,
+    "reserved": 115
+  },
+  "sku": "Orion-000978",
+  "tags": [
+    "умный дом",
+    "дом",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Orion-Lite742-000978.jpg",
+      "alt": "Чайник Orion Lite742 #000978 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Orion-Lite742-000978_side.jpg",
+      "alt": "Чайник Orion Lite742 #000978 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1775g",
+    "dimensions": "105mm x 116mm x 46mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-29T10:04:04Z",
+  "updatedAt": "2025-01-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

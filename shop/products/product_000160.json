@@ -1,0 +1,42 @@
+{
+  "productId": "000160",
+  "name": "Смарт-велокомпьютер Polar S830 #000160",
+  "description": "Смарт-велокомпьютер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 68165.66,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 369,
+    "reserved": 156
+  },
+  "sku": "Polar-000160",
+  "tags": [
+    "здоровье",
+    "outdoor",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-S830-000160.jpg",
+      "alt": "Смарт-велокомпьютер Polar S830 #000160 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-S830-000160_side.jpg",
+      "alt": "Смарт-велокомпьютер Polar S830 #000160 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "236g",
+    "dimensions": "128mm x 57mm x 37mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-25T10:04:04Z",
+  "updatedAt": "2025-04-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

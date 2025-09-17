@@ -1,0 +1,42 @@
+{
+  "productId": "000693",
+  "name": "Фитнес-браслет Quantum Max111 #000693",
+  "description": "Фитнес-браслет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 127115.92,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 368,
+    "reserved": 114
+  },
+  "sku": "Quantum-000693",
+  "tags": [
+    "ios",
+    "oled",
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Max111-000693.jpg",
+      "alt": "Фитнес-браслет Quantum Max111 #000693 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-Max111-000693_side.jpg",
+      "alt": "Фитнес-браслет Quantum Max111 #000693 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1257g",
+    "dimensions": "109mm x 200mm x 48mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-18T10:04:04Z",
+  "updatedAt": "2024-12-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

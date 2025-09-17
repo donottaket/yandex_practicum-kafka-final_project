@@ -1,0 +1,43 @@
+{
+  "productId": "000796",
+  "name": "Смарт-велокомпьютер XYZ Lite455 #000796",
+  "description": "Смарт-велокомпьютер бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 76694.55,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 261,
+    "reserved": 1
+  },
+  "sku": "XYZ-000796",
+  "tags": [
+    "outdoor",
+    "gps",
+    "активность",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-XYZ-Lite455-000796.jpg",
+      "alt": "Смарт-велокомпьютер XYZ Lite455 #000796 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-XYZ-Lite455-000796_side.jpg",
+      "alt": "Смарт-велокомпьютер XYZ Lite455 #000796 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1020g",
+    "dimensions": "137mm x 94mm x 5mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-15T10:04:04Z",
+  "updatedAt": "2024-11-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000089",
+  "name": "Умные часы Neon Plus639 #000089",
+  "description": "Умные часы бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 126591.93,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 79,
+    "reserved": 28
+  },
+  "sku": "Neon-000089",
+  "tags": [
+    "gps",
+    "гаджеты",
+    "android",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-Plus639-000089.jpg",
+      "alt": "Умные часы Neon Plus639 #000089 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Neon-Plus639-000089_side.jpg",
+      "alt": "Умные часы Neon Plus639 #000089 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "86g",
+    "dimensions": "229mm x 68mm x 18mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-30T10:04:04Z",
+  "updatedAt": "2025-07-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

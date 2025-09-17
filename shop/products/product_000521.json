@@ -1,0 +1,40 @@
+{
+  "productId": "000521",
+  "name": "Робот-пылесос Vega X814 #000521",
+  "description": "Робот-пылесос бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42377.53,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 350,
+    "reserved": 8
+  },
+  "sku": "Vega-000521",
+  "tags": [
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Vega-X814-000521.jpg",
+      "alt": "Робот-пылесос Vega X814 #000521 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Vega-X814-000521_side.jpg",
+      "alt": "Робот-пылесос Vega X814 #000521 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "112g",
+    "dimensions": "133mm x 106mm x 37mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-13T10:04:04Z",
+  "updatedAt": "2025-07-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

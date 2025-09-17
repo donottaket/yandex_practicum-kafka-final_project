@@ -1,0 +1,42 @@
+{
+  "productId": "000076",
+  "name": "Умные часы ACME Lite486 #000076",
+  "description": "Умные часы бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 20599.61,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 420,
+    "reserved": 197
+  },
+  "sku": "ACME-000076",
+  "tags": [
+    "технологии",
+    "android",
+    "gps",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Lite486-000076.jpg",
+      "alt": "Умные часы ACME Lite486 #000076 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Lite486-000076_side.jpg",
+      "alt": "Умные часы ACME Lite486 #000076 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1780g",
+    "dimensions": "161mm x 74mm x 45mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-12T10:04:04Z",
+  "updatedAt": "2025-01-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

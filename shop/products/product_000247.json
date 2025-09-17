@@ -1,0 +1,40 @@
+{
+  "productId": "000247",
+  "name": "Кофемашина NovaTech Plus409 #000247",
+  "description": "Кофемашина бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 10059.13,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 184,
+    "reserved": 4
+  },
+  "sku": "NovaTech-000247",
+  "tags": [
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-Plus409-000247.jpg",
+      "alt": "Кофемашина NovaTech Plus409 #000247 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-Plus409-000247_side.jpg",
+      "alt": "Кофемашина NovaTech Plus409 #000247 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "783g",
+    "dimensions": "55mm x 108mm x 36mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-16T10:04:04Z",
+  "updatedAt": "2025-07-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000443",
+  "name": "Фитнес-трекер Neon S633 #000443",
+  "description": "Фитнес-трекер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 83879.67,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 25,
+    "reserved": 8
+  },
+  "sku": "Neon-000443",
+  "tags": [
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S633-000443.jpg",
+      "alt": "Фитнес-трекер Neon S633 #000443 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S633-000443_side.jpg",
+      "alt": "Фитнес-трекер Neon S633 #000443 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "144g",
+    "dimensions": "130mm x 34mm x 27mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-22T10:04:04Z",
+  "updatedAt": "2025-01-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

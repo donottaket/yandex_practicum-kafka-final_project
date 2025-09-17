@@ -1,0 +1,40 @@
+{
+  "productId": "000222",
+  "name": "Футболка Astra Plus274 #000222",
+  "description": "Футболка бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 8964.61,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 327,
+    "reserved": 56
+  },
+  "sku": "Astra-000222",
+  "tags": [
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Astra-Plus274-000222.jpg",
+      "alt": "Футболка Astra Plus274 #000222 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Astra-Plus274-000222_side.jpg",
+      "alt": "Футболка Astra Plus274 #000222 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "983g",
+    "dimensions": "137mm x 170mm x 22mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-22T10:04:04Z",
+  "updatedAt": "2024-12-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

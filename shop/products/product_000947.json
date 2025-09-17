@@ -1,0 +1,42 @@
+{
+  "productId": "000947",
+  "name": "Футболка Neon X880 #000947",
+  "description": "Футболка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 11014.27,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 12,
+    "reserved": 1
+  },
+  "sku": "Neon-000947",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Neon-X880-000947.jpg",
+      "alt": "Футболка Neon X880 #000947 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Neon-X880-000947_side.jpg",
+      "alt": "Футболка Neon X880 #000947 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1861g",
+    "dimensions": "160mm x 39mm x 34mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-03T10:04:04Z",
+  "updatedAt": "2024-12-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

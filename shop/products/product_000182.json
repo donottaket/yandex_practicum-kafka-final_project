@@ -1,0 +1,42 @@
+{
+  "productId": "000182",
+  "name": "Куртка Orion Lite159 #000182",
+  "description": "Куртка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 19546.73,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 447,
+    "reserved": 142
+  },
+  "sku": "Orion-000182",
+  "tags": [
+    "стиль",
+    "удобство",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Orion-Lite159-000182.jpg",
+      "alt": "Куртка Orion Lite159 #000182 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Orion-Lite159-000182_side.jpg",
+      "alt": "Куртка Orion Lite159 #000182 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "870g",
+    "dimensions": "247mm x 198mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-23T10:04:04Z",
+  "updatedAt": "2025-08-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

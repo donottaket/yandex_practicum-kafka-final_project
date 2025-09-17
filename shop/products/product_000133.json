@@ -1,0 +1,41 @@
+{
+  "productId": "000133",
+  "name": "Смартфон Vega Max60 #000133",
+  "description": "Смартфон бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 3566.88,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 240,
+    "reserved": 95
+  },
+  "sku": "Vega-000133",
+  "tags": [
+    "oled",
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Vega-Max60-000133.jpg",
+      "alt": "Смартфон Vega Max60 #000133 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Vega-Max60-000133_side.jpg",
+      "alt": "Смартфон Vega Max60 #000133 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "989g",
+    "dimensions": "274mm x 146mm x 18mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-22T10:04:04Z",
+  "updatedAt": "2025-04-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

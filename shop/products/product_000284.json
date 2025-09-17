@@ -1,0 +1,40 @@
+{
+  "productId": "000284",
+  "name": "Фитнес-трекер Vega Lite844 #000284",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 7523.34,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 222,
+    "reserved": 60
+  },
+  "sku": "Vega-000284",
+  "tags": [
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Lite844-000284.jpg",
+      "alt": "Фитнес-трекер Vega Lite844 #000284 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Lite844-000284_side.jpg",
+      "alt": "Фитнес-трекер Vega Lite844 #000284 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1710g",
+    "dimensions": "70mm x 157mm x 20mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-26T10:04:04Z",
+  "updatedAt": "2024-11-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000248",
+  "name": "Экшн-камера Neon X415 #000248",
+  "description": "Экшн-камера бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 2901.61,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 105,
+    "reserved": 21
+  },
+  "sku": "Neon-000248",
+  "tags": [
+    "android",
+    "ios",
+    "технологии",
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Neon-X415-000248.jpg",
+      "alt": "Экшн-камера Neon X415 #000248 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Neon-X415-000248_side.jpg",
+      "alt": "Экшн-камера Neon X415 #000248 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1579g",
+    "dimensions": "122mm x 186mm x 30mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-11T10:04:04Z",
+  "updatedAt": "2025-02-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

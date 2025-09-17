@@ -1,0 +1,43 @@
+{
+  "productId": "000054",
+  "name": "Пульсометр NovaTech Max596 #000054",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 98381.93,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 450,
+    "reserved": 196
+  },
+  "sku": "NovaTech-000054",
+  "tags": [
+    "gps",
+    "outdoor",
+    "активность",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Max596-000054.jpg",
+      "alt": "Пульсометр NovaTech Max596 #000054 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Max596-000054_side.jpg",
+      "alt": "Пульсометр NovaTech Max596 #000054 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "511g",
+    "dimensions": "147mm x 59mm x 43mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-08T10:04:04Z",
+  "updatedAt": "2025-04-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

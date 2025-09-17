@@ -1,0 +1,40 @@
+{
+  "productId": "000999",
+  "name": "Кроссовки Neon Plus808 #000999",
+  "description": "Кроссовки бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 16585.13,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 435,
+    "reserved": 180
+  },
+  "sku": "Neon-000999",
+  "tags": [
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Neon-Plus808-000999.jpg",
+      "alt": "Кроссовки Neon Plus808 #000999 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Neon-Plus808-000999_side.jpg",
+      "alt": "Кроссовки Neon Plus808 #000999 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "874g",
+    "dimensions": "280mm x 86mm x 22mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-06T10:04:04Z",
+  "updatedAt": "2024-10-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000112",
+  "name": "Штаны Lumen Lite817 #000112",
+  "description": "Штаны бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 7431.52,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 58,
+    "reserved": 26
+  },
+  "sku": "Lumen-000112",
+  "tags": [
+    "стиль",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Lumen-Lite817-000112.jpg",
+      "alt": "Штаны Lumen Lite817 #000112 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Lumen-Lite817-000112_side.jpg",
+      "alt": "Штаны Lumen Lite817 #000112 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1816g",
+    "dimensions": "51mm x 128mm x 29mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-03T10:04:04Z",
+  "updatedAt": "2025-07-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

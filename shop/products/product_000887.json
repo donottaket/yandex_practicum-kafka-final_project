@@ -1,0 +1,41 @@
+{
+  "productId": "000887",
+  "name": "Футболка Orion 662 #000887",
+  "description": "Футболка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 24547.94,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 378,
+    "reserved": 134
+  },
+  "sku": "Orion-000887",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Orion-662-000887.jpg",
+      "alt": "Футболка Orion 662 #000887 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Orion-662-000887_side.jpg",
+      "alt": "Футболка Orion 662 #000887 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1355g",
+    "dimensions": "249mm x 104mm x 19mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-16T10:04:04Z",
+  "updatedAt": "2025-06-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

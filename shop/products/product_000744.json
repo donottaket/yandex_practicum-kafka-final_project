@@ -1,0 +1,43 @@
+{
+  "productId": "000744",
+  "name": "Наушники NovaTech X579 #000744",
+  "description": "Наушники бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 188335.16,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 252,
+    "reserved": 73
+  },
+  "sku": "NovaTech-000744",
+  "tags": [
+    "гаджеты",
+    "технологии",
+    "gps",
+    "bluetooth",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-X579-000744.jpg",
+      "alt": "Наушники NovaTech X579 #000744 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-X579-000744_side.jpg",
+      "alt": "Наушники NovaTech X579 #000744 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "150g",
+    "dimensions": "134mm x 62mm x 39mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-29T10:04:04Z",
+  "updatedAt": "2025-07-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

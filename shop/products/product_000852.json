@@ -1,0 +1,40 @@
+{
+  "productId": "000852",
+  "name": "Фитнес-браслет Orion Max545 #000852",
+  "description": "Фитнес-браслет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 138866.63,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 87,
+    "reserved": 31
+  },
+  "sku": "Orion-000852",
+  "tags": [
+    "гаджеты",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-Max545-000852.jpg",
+      "alt": "Фитнес-браслет Orion Max545 #000852 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-Max545-000852_side.jpg",
+      "alt": "Фитнес-браслет Orion Max545 #000852 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1600g",
+    "dimensions": "262mm x 178mm x 10mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-23T10:04:04Z",
+  "updatedAt": "2025-04-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

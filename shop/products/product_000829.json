@@ -1,0 +1,43 @@
+{
+  "productId": "000829",
+  "name": "Блендер ACME X913 #000829",
+  "description": "Блендер бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 52815.65,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 215,
+    "reserved": 99
+  },
+  "sku": "ACME-000829",
+  "tags": [
+    "кухня",
+    "умный дом",
+    "дом",
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-ACME-X913-000829.jpg",
+      "alt": "Блендер ACME X913 #000829 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-ACME-X913-000829_side.jpg",
+      "alt": "Блендер ACME X913 #000829 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1047g",
+    "dimensions": "73mm x 182mm x 36mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-22T10:04:04Z",
+  "updatedAt": "2025-01-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

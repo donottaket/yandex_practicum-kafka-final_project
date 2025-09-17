@@ -1,0 +1,41 @@
+{
+  "productId": "000327",
+  "name": "Фитнес-трекер Vega Pro130 #000327",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 31065.0,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 144,
+    "reserved": 3
+  },
+  "sku": "Vega-000327",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro130-000327.jpg",
+      "alt": "Фитнес-трекер Vega Pro130 #000327 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Pro130-000327_side.jpg",
+      "alt": "Фитнес-трекер Vega Pro130 #000327 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "583g",
+    "dimensions": "240mm x 69mm x 36mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-15T10:04:04Z",
+  "updatedAt": "2025-01-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

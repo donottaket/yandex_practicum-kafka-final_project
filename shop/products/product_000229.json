@@ -1,0 +1,43 @@
+{
+  "productId": "000229",
+  "name": "Смартфон ACME Pro972 #000229",
+  "description": "Смартфон бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 186891.32,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 12,
+    "reserved": 6
+  },
+  "sku": "ACME-000229",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "технологии",
+    "ios",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-ACME-Pro972-000229.jpg",
+      "alt": "Смартфон ACME Pro972 #000229 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-ACME-Pro972-000229_side.jpg",
+      "alt": "Смартфон ACME Pro972 #000229 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "381g",
+    "dimensions": "66mm x 38mm x 28mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-06-09T10:04:04Z",
+  "updatedAt": "2025-06-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

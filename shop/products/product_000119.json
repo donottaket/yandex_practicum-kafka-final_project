@@ -1,0 +1,40 @@
+{
+  "productId": "000119",
+  "name": "Умные часы Polar 269 #000119",
+  "description": "Умные часы бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 132940.24,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 375,
+    "reserved": 16
+  },
+  "sku": "Polar-000119",
+  "tags": [
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-269-000119.jpg",
+      "alt": "Умные часы Polar 269 #000119 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-269-000119_side.jpg",
+      "alt": "Умные часы Polar 269 #000119 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "865g",
+    "dimensions": "112mm x 122mm x 22mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-08T10:04:04Z",
+  "updatedAt": "2024-10-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

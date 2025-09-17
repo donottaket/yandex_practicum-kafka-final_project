@@ -1,0 +1,43 @@
+{
+  "productId": "000291",
+  "name": "Смарт-велокомпьютер Lumen X85 #000291",
+  "description": "Смарт-велокомпьютер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 85110.17,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 355,
+    "reserved": 125
+  },
+  "sku": "Lumen-000291",
+  "tags": [
+    "спорт",
+    "gps",
+    "outdoor",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-X85-000291.jpg",
+      "alt": "Смарт-велокомпьютер Lumen X85 #000291 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-X85-000291_side.jpg",
+      "alt": "Смарт-велокомпьютер Lumen X85 #000291 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1038g",
+    "dimensions": "296mm x 88mm x 41mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-15T10:04:04Z",
+  "updatedAt": "2025-01-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

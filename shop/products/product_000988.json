@@ -1,0 +1,41 @@
+{
+  "productId": "000988",
+  "name": "Смарт-велокомпьютер NovaTech X85 #000988",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 94244.1,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 88,
+    "reserved": 3
+  },
+  "sku": "NovaTech-000988",
+  "tags": [
+    "gps",
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X85-000988.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X85 #000988 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X85-000988_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X85 #000988 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "785g",
+    "dimensions": "118mm x 61mm x 33mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-27T10:04:04Z",
+  "updatedAt": "2024-10-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

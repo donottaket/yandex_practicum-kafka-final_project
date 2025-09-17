@@ -1,0 +1,43 @@
+{
+  "productId": "000210",
+  "name": "Блендер ACME Max30 #000210",
+  "description": "Блендер бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 29059.0,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 251,
+    "reserved": 3
+  },
+  "sku": "ACME-000210",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "дом",
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-ACME-Max30-000210.jpg",
+      "alt": "Блендер ACME Max30 #000210 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-ACME-Max30-000210_side.jpg",
+      "alt": "Блендер ACME Max30 #000210 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "480g",
+    "dimensions": "218mm x 182mm x 13mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-03T10:04:04Z",
+  "updatedAt": "2025-05-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

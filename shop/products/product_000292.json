@@ -1,0 +1,43 @@
+{
+  "productId": "000292",
+  "name": "Чайник XYZ Max259 #000292",
+  "description": "Чайник бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 54370.21,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 32,
+    "reserved": 0
+  },
+  "sku": "XYZ-000292",
+  "tags": [
+    "умный дом",
+    "тихий",
+    "экономия энергии",
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Max259-000292.jpg",
+      "alt": "Чайник XYZ Max259 #000292 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Max259-000292_side.jpg",
+      "alt": "Чайник XYZ Max259 #000292 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "57g",
+    "dimensions": "298mm x 166mm x 21mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-24T10:04:04Z",
+  "updatedAt": "2024-12-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

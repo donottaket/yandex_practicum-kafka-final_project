@@ -1,0 +1,41 @@
+{
+  "productId": "000213",
+  "name": "Кроссовки Lumen Pro377 #000213",
+  "description": "Кроссовки бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 48277.53,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 330,
+    "reserved": 39
+  },
+  "sku": "Lumen-000213",
+  "tags": [
+    "мода",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Lumen-Pro377-000213.jpg",
+      "alt": "Кроссовки Lumen Pro377 #000213 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Lumen-Pro377-000213_side.jpg",
+      "alt": "Кроссовки Lumen Pro377 #000213 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1620g",
+    "dimensions": "176mm x 74mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-09T10:04:04Z",
+  "updatedAt": "2025-08-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

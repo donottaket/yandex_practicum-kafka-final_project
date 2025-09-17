@@ -1,0 +1,43 @@
+{
+  "productId": "000490",
+  "name": "Фитнес-трекер Astra Plus112 #000490",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 2226.56,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 222,
+    "reserved": 15
+  },
+  "sku": "Astra-000490",
+  "tags": [
+    "outdoor",
+    "активность",
+    "здоровье",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Plus112-000490.jpg",
+      "alt": "Фитнес-трекер Astra Plus112 #000490 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Plus112-000490_side.jpg",
+      "alt": "Фитнес-трекер Astra Plus112 #000490 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "118g",
+    "dimensions": "267mm x 62mm x 49mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-11T10:04:04Z",
+  "updatedAt": "2025-03-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

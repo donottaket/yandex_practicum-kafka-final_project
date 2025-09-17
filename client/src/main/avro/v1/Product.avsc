@@ -1,0 +1,152 @@
+{
+  "type": "record",
+  "name": "Product",
+  "namespace": "kz.yandex_practicum.kafka.final_project.contract.shop.v1",
+  "doc": "Доменная модель товара",
+  "fields": [
+    {
+      "name": "product_id",
+      "type": "string",
+      "doc": "Идентификатор товара"
+    },
+    {
+      "name": "store_id",
+      "type": "string",
+      "doc": "Идентификатор магазина/продавца"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": [
+        "null",
+        "string"
+      ],
+      "default": null
+    },
+    {
+      "name": "category",
+      "type": "string"
+    },
+    {
+      "name": "brand",
+      "type": [
+        "null",
+        "string"
+      ],
+      "default": null
+    },
+    {
+      "name": "sku",
+      "type": [
+        "null",
+        "string"
+      ],
+      "default": null
+    },
+    {
+      "name": "price",
+      "type": {
+        "type": "record",
+        "name": "Price",
+        "fields": [
+          {
+            "name": "amount",
+            "type": "double",
+            "doc": "Цена"
+          },
+          {
+            "name": "currency",
+            "type": "string",
+            "doc": "Валюта"
+          }
+        ]
+      }
+    },
+    {
+      "name": "stock",
+      "type": {
+        "type": "record",
+        "name": "Stock",
+        "fields": [
+          {
+            "name": "available",
+            "type": "int",
+            "default": 0
+          },
+          {
+            "name": "reserved",
+            "type": "int",
+            "default": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "tags",
+      "type": {
+        "type": "array",
+        "items": "string"
+      },
+      "default": []
+    },
+    {
+      "name": "images",
+      "type": {
+        "type": "array",
+        "items": {
+          "type": "record",
+          "name": "Image",
+          "fields": [
+            {
+              "name": "url",
+              "type": "string"
+            },
+            {
+              "name": "alt",
+              "type": [
+                "null",
+                "string"
+              ],
+              "default": null
+            }
+          ]
+        }
+      },
+      "default": []
+    },
+    {
+      "name": "specifications",
+      "type": {
+        "type": "map",
+        "values": "string"
+      },
+      "default": {}
+    },
+    {
+      "name": "created_at",
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "name": "updated_at",
+      "type": [
+        "null",
+        "string"
+      ],
+      "default": null
+    },
+    {
+      "name": "index",
+      "type": [
+        "null",
+        "string"
+      ],
+      "default": null
+    }
+  ]
+}

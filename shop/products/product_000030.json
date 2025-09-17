@@ -1,0 +1,40 @@
+{
+  "productId": "000030",
+  "name": "Экшн-камера NovaTech Max301 #000030",
+  "description": "Экшн-камера бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 173478.09,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 108,
+    "reserved": 31
+  },
+  "sku": "NovaTech-000030",
+  "tags": [
+    "gps",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-NovaTech-Max301-000030.jpg",
+      "alt": "Экшн-камера NovaTech Max301 #000030 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-NovaTech-Max301-000030_side.jpg",
+      "alt": "Экшн-камера NovaTech Max301 #000030 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1689g",
+    "dimensions": "108mm x 63mm x 47mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-04T10:04:04Z",
+  "updatedAt": "2025-05-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000325",
+  "name": "Худи ACME Plus65 #000325",
+  "description": "Худи бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49163.8,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 498,
+    "reserved": 126
+  },
+  "sku": "ACME-000325",
+  "tags": [
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-ACME-Plus65-000325.jpg",
+      "alt": "Худи ACME Plus65 #000325 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-ACME-Plus65-000325_side.jpg",
+      "alt": "Худи ACME Plus65 #000325 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "563g",
+    "dimensions": "285mm x 71mm x 8mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-06T10:04:04Z",
+  "updatedAt": "2024-12-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

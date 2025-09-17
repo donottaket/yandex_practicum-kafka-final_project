@@ -1,0 +1,43 @@
+{
+  "productId": "000205",
+  "name": "Наушники Vega Max276 #000205",
+  "description": "Наушники бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 124979.35,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 444,
+    "reserved": 9
+  },
+  "sku": "Vega-000205",
+  "tags": [
+    "гаджеты",
+    "технологии",
+    "android",
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Vega-Max276-000205.jpg",
+      "alt": "Наушники Vega Max276 #000205 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Vega-Max276-000205_side.jpg",
+      "alt": "Наушники Vega Max276 #000205 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1884g",
+    "dimensions": "231mm x 135mm x 25mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-04T10:04:04Z",
+  "updatedAt": "2024-11-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

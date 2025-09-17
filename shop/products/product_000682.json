@@ -1,0 +1,40 @@
+{
+  "productId": "000682",
+  "name": "Кроссовки NovaTech S957 #000682",
+  "description": "Кроссовки бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 28868.5,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 207,
+    "reserved": 10
+  },
+  "sku": "NovaTech-000682",
+  "tags": [
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-NovaTech-S957-000682.jpg",
+      "alt": "Кроссовки NovaTech S957 #000682 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-NovaTech-S957-000682_side.jpg",
+      "alt": "Кроссовки NovaTech S957 #000682 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "377g",
+    "dimensions": "124mm x 23mm x 34mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-16T10:04:04Z",
+  "updatedAt": "2025-07-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000150",
+  "name": "Фитнес-браслет Astra X831 #000150",
+  "description": "Фитнес-браслет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 109626.86,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 235,
+    "reserved": 58
+  },
+  "sku": "Astra-000150",
+  "tags": [
+    "гаджеты",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Astra-X831-000150.jpg",
+      "alt": "Фитнес-браслет Astra X831 #000150 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Astra-X831-000150_side.jpg",
+      "alt": "Фитнес-браслет Astra X831 #000150 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "454g",
+    "dimensions": "167mm x 64mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-30T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

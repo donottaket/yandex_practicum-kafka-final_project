@@ -1,0 +1,43 @@
+{
+  "productId": "000318",
+  "name": "Кофемашина Lumen Pro484 #000318",
+  "description": "Кофемашина бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42410.22,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 447,
+    "reserved": 204
+  },
+  "sku": "Lumen-000318",
+  "tags": [
+    "умный дом",
+    "тихий",
+    "кухня",
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-Pro484-000318.jpg",
+      "alt": "Кофемашина Lumen Pro484 #000318 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-Pro484-000318_side.jpg",
+      "alt": "Кофемашина Lumen Pro484 #000318 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "835g",
+    "dimensions": "233mm x 99mm x 14mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-06T10:04:04Z",
+  "updatedAt": "2024-11-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

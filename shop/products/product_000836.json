@@ -1,0 +1,41 @@
+{
+  "productId": "000836",
+  "name": "Фитнес-трекер Quantum Lite569 #000836",
+  "description": "Фитнес-трекер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 56938.79,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 322,
+    "reserved": 69
+  },
+  "sku": "Quantum-000836",
+  "tags": [
+    "здоровье",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Lite569-000836.jpg",
+      "alt": "Фитнес-трекер Quantum Lite569 #000836 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Lite569-000836_side.jpg",
+      "alt": "Фитнес-трекер Quantum Lite569 #000836 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1501g",
+    "dimensions": "85mm x 63mm x 44mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-01T10:04:04Z",
+  "updatedAt": "2024-11-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

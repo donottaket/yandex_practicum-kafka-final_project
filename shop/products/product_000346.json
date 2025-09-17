@@ -1,0 +1,43 @@
+{
+  "productId": "000346",
+  "name": "Блендер Neon Plus752 #000346",
+  "description": "Блендер бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 2740.52,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 38,
+    "reserved": 17
+  },
+  "sku": "Neon-000346",
+  "tags": [
+    "умный дом",
+    "дом",
+    "тихий",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Neon-Plus752-000346.jpg",
+      "alt": "Блендер Neon Plus752 #000346 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Neon-Plus752-000346_side.jpg",
+      "alt": "Блендер Neon Plus752 #000346 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "181g",
+    "dimensions": "220mm x 131mm x 43mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-05T10:04:04Z",
+  "updatedAt": "2025-05-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

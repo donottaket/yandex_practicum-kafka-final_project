@@ -1,0 +1,42 @@
+{
+  "productId": "000329",
+  "name": "Футболка Neon Lite882 #000329",
+  "description": "Футболка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 5621.51,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 61,
+    "reserved": 21
+  },
+  "sku": "Neon-000329",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Neon-Lite882-000329.jpg",
+      "alt": "Футболка Neon Lite882 #000329 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Neon-Lite882-000329_side.jpg",
+      "alt": "Футболка Neon Lite882 #000329 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "846g",
+    "dimensions": "276mm x 123mm x 38mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-28T10:04:04Z",
+  "updatedAt": "2024-09-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

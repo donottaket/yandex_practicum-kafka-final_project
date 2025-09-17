@@ -1,0 +1,40 @@
+{
+  "productId": "000307",
+  "name": "Блендер Vega Plus21 #000307",
+  "description": "Блендер бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 9571.46,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 228,
+    "reserved": 109
+  },
+  "sku": "Vega-000307",
+  "tags": [
+    "тихий",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Vega-Plus21-000307.jpg",
+      "alt": "Блендер Vega Plus21 #000307 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Vega-Plus21-000307_side.jpg",
+      "alt": "Блендер Vega Plus21 #000307 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "957g",
+    "dimensions": "59mm x 116mm x 17mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-29T10:04:04Z",
+  "updatedAt": "2025-08-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

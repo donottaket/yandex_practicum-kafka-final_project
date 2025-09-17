@@ -1,0 +1,40 @@
+{
+  "productId": "000348",
+  "name": "Смартфон Astra 236 #000348",
+  "description": "Смартфон бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 46368.72,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 414,
+    "reserved": 201
+  },
+  "sku": "Astra-000348",
+  "tags": [
+    "гаджеты",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Astra-236-000348.jpg",
+      "alt": "Смартфон Astra 236 #000348 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Astra-236-000348_side.jpg",
+      "alt": "Смартфон Astra 236 #000348 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "281g",
+    "dimensions": "294mm x 80mm x 32mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-30T10:04:04Z",
+  "updatedAt": "2025-06-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000661",
+  "name": "Смарт-велокомпьютер Astra Lite941 #000661",
+  "description": "Смарт-велокомпьютер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 30986.82,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 24,
+    "reserved": 2
+  },
+  "sku": "Astra-000661",
+  "tags": [
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Astra-Lite941-000661.jpg",
+      "alt": "Смарт-велокомпьютер Astra Lite941 #000661 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Astra-Lite941-000661_side.jpg",
+      "alt": "Смарт-велокомпьютер Astra Lite941 #000661 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1160g",
+    "dimensions": "94mm x 51mm x 38mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-09T10:04:04Z",
+  "updatedAt": "2024-12-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

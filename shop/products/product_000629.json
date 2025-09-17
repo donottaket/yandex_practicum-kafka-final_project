@@ -1,0 +1,40 @@
+{
+  "productId": "000629",
+  "name": "Чайник NovaTech Pro362 #000629",
+  "description": "Чайник бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 35194.39,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 436,
+    "reserved": 45
+  },
+  "sku": "NovaTech-000629",
+  "tags": [
+    "дом",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-NovaTech-Pro362-000629.jpg",
+      "alt": "Чайник NovaTech Pro362 #000629 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-NovaTech-Pro362-000629_side.jpg",
+      "alt": "Чайник NovaTech Pro362 #000629 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1217g",
+    "dimensions": "192mm x 109mm x 46mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-20T10:04:04Z",
+  "updatedAt": "2025-01-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

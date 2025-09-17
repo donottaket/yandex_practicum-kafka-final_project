@@ -1,0 +1,43 @@
+{
+  "productId": "000152",
+  "name": "Робот-пылесос Vega Plus286 #000152",
+  "description": "Робот-пылесос бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 48653.22,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 94,
+    "reserved": 2
+  },
+  "sku": "Vega-000152",
+  "tags": [
+    "экономия энергии",
+    "умный дом",
+    "дом",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Vega-Plus286-000152.jpg",
+      "alt": "Робот-пылесос Vega Plus286 #000152 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Vega-Plus286-000152_side.jpg",
+      "alt": "Робот-пылесос Vega Plus286 #000152 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1748g",
+    "dimensions": "219mm x 94mm x 14mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-20T10:04:04Z",
+  "updatedAt": "2025-03-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

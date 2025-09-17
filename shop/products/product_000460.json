@@ -1,0 +1,43 @@
+{
+  "productId": "000460",
+  "name": "Увлажнитель воздуха NovaTech S142 #000460",
+  "description": "Увлажнитель воздуха бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 18464.4,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 481,
+    "reserved": 120
+  },
+  "sku": "NovaTech-000460",
+  "tags": [
+    "кухня",
+    "экономия энергии",
+    "тихий",
+    "дом",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-NovaTech-S142-000460.jpg",
+      "alt": "Увлажнитель воздуха NovaTech S142 #000460 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-NovaTech-S142-000460_side.jpg",
+      "alt": "Увлажнитель воздуха NovaTech S142 #000460 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1536g",
+    "dimensions": "125mm x 34mm x 27mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-06T10:04:04Z",
+  "updatedAt": "2025-04-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

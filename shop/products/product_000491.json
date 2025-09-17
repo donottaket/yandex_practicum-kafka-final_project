@@ -1,0 +1,43 @@
+{
+  "productId": "000491",
+  "name": "Фитнес-браслет Polar Lite190 #000491",
+  "description": "Фитнес-браслет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 171621.47,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 493,
+    "reserved": 194
+  },
+  "sku": "Polar-000491",
+  "tags": [
+    "gps",
+    "ios",
+    "bluetooth",
+    "гаджеты",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-Lite190-000491.jpg",
+      "alt": "Фитнес-браслет Polar Lite190 #000491 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-Lite190-000491_side.jpg",
+      "alt": "Фитнес-браслет Polar Lite190 #000491 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1953g",
+    "dimensions": "233mm x 120mm x 5mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-04T10:04:04Z",
+  "updatedAt": "2024-11-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000337",
+  "name": "Смарт-велокомпьютер Polar X602 #000337",
+  "description": "Смарт-велокомпьютер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 17528.11,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 4,
+    "reserved": 1
+  },
+  "sku": "Polar-000337",
+  "tags": [
+    "gps",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-X602-000337.jpg",
+      "alt": "Смарт-велокомпьютер Polar X602 #000337 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-X602-000337_side.jpg",
+      "alt": "Смарт-велокомпьютер Polar X602 #000337 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "514g",
+    "dimensions": "240mm x 138mm x 6mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-24T10:04:04Z",
+  "updatedAt": "2025-08-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000246",
+  "name": "Умные часы Quantum 531 #000246",
+  "description": "Умные часы бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 127804.46,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 26,
+    "reserved": 0
+  },
+  "sku": "Quantum-000246",
+  "tags": [
+    "гаджеты",
+    "bluetooth",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Quantum-531-000246.jpg",
+      "alt": "Умные часы Quantum 531 #000246 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Quantum-531-000246_side.jpg",
+      "alt": "Умные часы Quantum 531 #000246 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1341g",
+    "dimensions": "62mm x 90mm x 25mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-17T10:04:04Z",
+  "updatedAt": "2025-03-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

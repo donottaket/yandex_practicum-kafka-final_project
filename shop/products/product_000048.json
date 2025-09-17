@@ -1,0 +1,41 @@
+{
+  "productId": "000048",
+  "name": "Планшет Neon Pro630 #000048",
+  "description": "Планшет бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 35813.69,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 52,
+    "reserved": 13
+  },
+  "sku": "Neon-000048",
+  "tags": [
+    "технологии",
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Neon-Pro630-000048.jpg",
+      "alt": "Планшет Neon Pro630 #000048 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Neon-Pro630-000048_side.jpg",
+      "alt": "Планшет Neon Pro630 #000048 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1616g",
+    "dimensions": "95mm x 168mm x 28mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-15T10:04:04Z",
+  "updatedAt": "2025-05-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000758",
+  "name": "Робот-пылесос Polar S448 #000758",
+  "description": "Робот-пылесос бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 51919.78,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 310,
+    "reserved": 145
+  },
+  "sku": "Polar-000758",
+  "tags": [
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-S448-000758.jpg",
+      "alt": "Робот-пылесос Polar S448 #000758 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-S448-000758_side.jpg",
+      "alt": "Робот-пылесос Polar S448 #000758 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1886g",
+    "dimensions": "61mm x 20mm x 36mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-02T10:04:04Z",
+  "updatedAt": "2025-07-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

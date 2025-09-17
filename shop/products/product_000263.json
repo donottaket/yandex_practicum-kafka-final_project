@@ -1,0 +1,43 @@
+{
+  "productId": "000263",
+  "name": "Кофемашина Lumen X802 #000263",
+  "description": "Кофемашина бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 31528.99,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 322,
+    "reserved": 108
+  },
+  "sku": "Lumen-000263",
+  "tags": [
+    "дом",
+    "тихий",
+    "экономия энергии",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-X802-000263.jpg",
+      "alt": "Кофемашина Lumen X802 #000263 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-X802-000263_side.jpg",
+      "alt": "Кофемашина Lumen X802 #000263 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "324g",
+    "dimensions": "41mm x 154mm x 41mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-25T10:04:04Z",
+  "updatedAt": "2025-06-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

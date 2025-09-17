@@ -1,0 +1,42 @@
+{
+  "productId": "000877",
+  "name": "Наушники Quantum Lite623 #000877",
+  "description": "Наушники бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 12772.3,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 447,
+    "reserved": 62
+  },
+  "sku": "Quantum-000877",
+  "tags": [
+    "bluetooth",
+    "гаджеты",
+    "gps",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Quantum-Lite623-000877.jpg",
+      "alt": "Наушники Quantum Lite623 #000877 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Quantum-Lite623-000877_side.jpg",
+      "alt": "Наушники Quantum Lite623 #000877 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "428g",
+    "dimensions": "121mm x 110mm x 12mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-28T10:04:04Z",
+  "updatedAt": "2025-02-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

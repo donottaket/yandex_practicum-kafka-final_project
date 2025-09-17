@@ -1,0 +1,41 @@
+{
+  "productId": "000047",
+  "name": "Чайник Polar Pro195 #000047",
+  "description": "Чайник бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 20216.7,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 170,
+    "reserved": 79
+  },
+  "sku": "Polar-000047",
+  "tags": [
+    "умный дом",
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Polar-Pro195-000047.jpg",
+      "alt": "Чайник Polar Pro195 #000047 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Polar-Pro195-000047_side.jpg",
+      "alt": "Чайник Polar Pro195 #000047 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "761g",
+    "dimensions": "140mm x 41mm x 16mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-25T10:04:04Z",
+  "updatedAt": "2025-07-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

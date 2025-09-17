@@ -1,0 +1,43 @@
+{
+  "productId": "000093",
+  "name": "Фитнес-трекер Orion 87 #000093",
+  "description": "Фитнес-трекер бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 7129.15,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 282,
+    "reserved": 87
+  },
+  "sku": "Orion-000093",
+  "tags": [
+    "спорт",
+    "outdoor",
+    "gps",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Orion-87-000093.jpg",
+      "alt": "Фитнес-трекер Orion 87 #000093 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Orion-87-000093_side.jpg",
+      "alt": "Фитнес-трекер Orion 87 #000093 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "977g",
+    "dimensions": "53mm x 98mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-28T10:04:04Z",
+  "updatedAt": "2025-06-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

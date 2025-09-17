@@ -1,0 +1,41 @@
+{
+  "productId": "000604",
+  "name": "Пульсометр Lumen S507 #000604",
+  "description": "Пульсометр бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 52862.78,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 106,
+    "reserved": 19
+  },
+  "sku": "Lumen-000604",
+  "tags": [
+    "активность",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-S507-000604.jpg",
+      "alt": "Пульсометр Lumen S507 #000604 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-S507-000604_side.jpg",
+      "alt": "Пульсометр Lumen S507 #000604 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "810g",
+    "dimensions": "77mm x 28mm x 19mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-18T10:04:04Z",
+  "updatedAt": "2025-07-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

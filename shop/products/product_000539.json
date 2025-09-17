@@ -1,0 +1,42 @@
+{
+  "productId": "000539",
+  "name": "Худи Astra Pro246 #000539",
+  "description": "Худи бренда Astra. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 36330.84,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Astra",
+  "stock": {
+    "available": 202,
+    "reserved": 62
+  },
+  "sku": "Astra-000539",
+  "tags": [
+    "мода",
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Astra-Pro246-000539.jpg",
+      "alt": "Худи Astra Pro246 #000539 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Astra-Pro246-000539_side.jpg",
+      "alt": "Худи Astra Pro246 #000539 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "66g",
+    "dimensions": "147mm x 126mm x 11mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-22T10:04:04Z",
+  "updatedAt": "2025-02-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

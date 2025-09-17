@@ -1,0 +1,43 @@
+{
+  "productId": "001000",
+  "name": "Планшет Orion X716 #001000",
+  "description": "Планшет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 164577.98,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 201,
+    "reserved": 87
+  },
+  "sku": "Orion-001000",
+  "tags": [
+    "android",
+    "gps",
+    "технологии",
+    "oled",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Orion-X716-001000.jpg",
+      "alt": "Планшет Orion X716 #001000 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Orion-X716-001000_side.jpg",
+      "alt": "Планшет Orion X716 #001000 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1607g",
+    "dimensions": "183mm x 58mm x 22mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-22T10:04:04Z",
+  "updatedAt": "2025-02-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

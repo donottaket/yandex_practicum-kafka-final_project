@@ -1,0 +1,42 @@
+{
+  "productId": "000339",
+  "name": "Спортивные часы Astra X702 #000339",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 92459.5,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 126,
+    "reserved": 13
+  },
+  "sku": "Astra-000339",
+  "tags": [
+    "gps",
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-X702-000339.jpg",
+      "alt": "Спортивные часы Astra X702 #000339 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-X702-000339_side.jpg",
+      "alt": "Спортивные часы Astra X702 #000339 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "259g",
+    "dimensions": "36mm x 165mm x 45mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-15T10:04:04Z",
+  "updatedAt": "2025-06-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

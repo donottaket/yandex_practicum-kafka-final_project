@@ -1,0 +1,42 @@
+{
+  "productId": "000135",
+  "name": "Пульсометр Lumen X400 #000135",
+  "description": "Пульсометр бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 83657.73,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 386,
+    "reserved": 117
+  },
+  "sku": "Lumen-000135",
+  "tags": [
+    "outdoor",
+    "здоровье",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-X400-000135.jpg",
+      "alt": "Пульсометр Lumen X400 #000135 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-X400-000135_side.jpg",
+      "alt": "Пульсометр Lumen X400 #000135 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "450g",
+    "dimensions": "42mm x 35mm x 8mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-12T10:04:04Z",
+  "updatedAt": "2024-11-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

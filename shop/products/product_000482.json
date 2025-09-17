@@ -1,0 +1,43 @@
+{
+  "productId": "000482",
+  "name": "Смартфон Neon X179 #000482",
+  "description": "Смартфон бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 159280.67,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 211,
+    "reserved": 89
+  },
+  "sku": "Neon-000482",
+  "tags": [
+    "ios",
+    "гаджеты",
+    "gps",
+    "android",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Neon-X179-000482.jpg",
+      "alt": "Смартфон Neon X179 #000482 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Neon-X179-000482_side.jpg",
+      "alt": "Смартфон Neon X179 #000482 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "179g",
+    "dimensions": "257mm x 148mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-11T10:04:04Z",
+  "updatedAt": "2025-06-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000218",
+  "name": "Чайник Astra X44 #000218",
+  "description": "Чайник бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 16214.09,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 242,
+    "reserved": 86
+  },
+  "sku": "Astra-000218",
+  "tags": [
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Astra-X44-000218.jpg",
+      "alt": "Чайник Astra X44 #000218 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Astra-X44-000218_side.jpg",
+      "alt": "Чайник Astra X44 #000218 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1945g",
+    "dimensions": "254mm x 136mm x 32mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-29T10:04:04Z",
+  "updatedAt": "2025-03-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

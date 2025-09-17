@@ -1,0 +1,41 @@
+{
+  "productId": "000851",
+  "name": "Смартфон Polar Pro140 #000851",
+  "description": "Смартфон бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 20275.63,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 473,
+    "reserved": 31
+  },
+  "sku": "Polar-000851",
+  "tags": [
+    "гаджеты",
+    "oled",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Polar-Pro140-000851.jpg",
+      "alt": "Смартфон Polar Pro140 #000851 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Polar-Pro140-000851_side.jpg",
+      "alt": "Смартфон Polar Pro140 #000851 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "760g",
+    "dimensions": "157mm x 105mm x 12mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-13T10:04:04Z",
+  "updatedAt": "2024-11-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000899",
+  "name": "Спортивные часы Quantum 93 #000899",
+  "description": "Спортивные часы бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 49934.28,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 413,
+    "reserved": 195
+  },
+  "sku": "Quantum-000899",
+  "tags": [
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Quantum-93-000899.jpg",
+      "alt": "Спортивные часы Quantum 93 #000899 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Quantum-93-000899_side.jpg",
+      "alt": "Спортивные часы Quantum 93 #000899 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1508g",
+    "dimensions": "145mm x 77mm x 39mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-01T10:04:04Z",
+  "updatedAt": "2024-11-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

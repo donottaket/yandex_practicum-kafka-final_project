@@ -1,0 +1,40 @@
+{
+  "productId": "000762",
+  "name": "Спортивные часы ACME 281 #000762",
+  "description": "Спортивные часы бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 69895.8,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 195,
+    "reserved": 23
+  },
+  "sku": "ACME-000762",
+  "tags": [
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-281-000762.jpg",
+      "alt": "Спортивные часы ACME 281 #000762 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-281-000762_side.jpg",
+      "alt": "Спортивные часы ACME 281 #000762 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "741g",
+    "dimensions": "282mm x 71mm x 33mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-01T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

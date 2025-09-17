@@ -1,0 +1,42 @@
+{
+  "productId": "000767",
+  "name": "Наушники Astra Max56 #000767",
+  "description": "Наушники бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 159132.66,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 459,
+    "reserved": 83
+  },
+  "sku": "Astra-000767",
+  "tags": [
+    "ios",
+    "gps",
+    "bluetooth",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Astra-Max56-000767.jpg",
+      "alt": "Наушники Astra Max56 #000767 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Astra-Max56-000767_side.jpg",
+      "alt": "Наушники Astra Max56 #000767 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1094g",
+    "dimensions": "278mm x 59mm x 37mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-10T10:04:04Z",
+  "updatedAt": "2025-09-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

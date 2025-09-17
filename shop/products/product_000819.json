@@ -1,0 +1,41 @@
+{
+  "productId": "000819",
+  "name": "Спортивные часы Polar Lite995 #000819",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 70364.94,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 390,
+    "reserved": 25
+  },
+  "sku": "Polar-000819",
+  "tags": [
+    "outdoor",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite995-000819.jpg",
+      "alt": "Спортивные часы Polar Lite995 #000819 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite995-000819_side.jpg",
+      "alt": "Спортивные часы Polar Lite995 #000819 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "416g",
+    "dimensions": "154mm x 91mm x 45mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-29T10:04:04Z",
+  "updatedAt": "2025-06-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

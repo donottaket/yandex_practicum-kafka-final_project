@@ -1,0 +1,40 @@
+{
+  "productId": "000591",
+  "name": "Пульсометр Orion 499 #000591",
+  "description": "Пульсометр бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 76682.9,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 275,
+    "reserved": 50
+  },
+  "sku": "Orion-000591",
+  "tags": [
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-499-000591.jpg",
+      "alt": "Пульсометр Orion 499 #000591 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-499-000591_side.jpg",
+      "alt": "Пульсометр Orion 499 #000591 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1484g",
+    "dimensions": "171mm x 154mm x 19mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-05T10:04:04Z",
+  "updatedAt": "2025-08-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

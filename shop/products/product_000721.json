@@ -1,0 +1,43 @@
+{
+  "productId": "000721",
+  "name": "Блендер XYZ Pro382 #000721",
+  "description": "Блендер бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 58662.43,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 295,
+    "reserved": 106
+  },
+  "sku": "XYZ-000721",
+  "tags": [
+    "дом",
+    "кухня",
+    "умный дом",
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-XYZ-Pro382-000721.jpg",
+      "alt": "Блендер XYZ Pro382 #000721 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-XYZ-Pro382-000721_side.jpg",
+      "alt": "Блендер XYZ Pro382 #000721 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1520g",
+    "dimensions": "212mm x 77mm x 23mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-24T10:04:04Z",
+  "updatedAt": "2024-12-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

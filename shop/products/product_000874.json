@@ -1,0 +1,40 @@
+{
+  "productId": "000874",
+  "name": "Футболка Polar Plus791 #000874",
+  "description": "Футболка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 27937.48,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 421,
+    "reserved": 66
+  },
+  "sku": "Polar-000874",
+  "tags": [
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Polar-Plus791-000874.jpg",
+      "alt": "Футболка Polar Plus791 #000874 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Polar-Plus791-000874_side.jpg",
+      "alt": "Футболка Polar Plus791 #000874 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "406g",
+    "dimensions": "156mm x 42mm x 35mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-08-08T10:04:04Z",
+  "updatedAt": "2025-09-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

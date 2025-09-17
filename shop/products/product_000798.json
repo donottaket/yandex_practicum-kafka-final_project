@@ -1,0 +1,42 @@
+{
+  "productId": "000798",
+  "name": "Планшет ACME S596 #000798",
+  "description": "Планшет бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 122441.23,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 195,
+    "reserved": 59
+  },
+  "sku": "ACME-000798",
+  "tags": [
+    "gps",
+    "oled",
+    "технологии",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-ACME-S596-000798.jpg",
+      "alt": "Планшет ACME S596 #000798 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-ACME-S596-000798_side.jpg",
+      "alt": "Планшет ACME S596 #000798 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "264g",
+    "dimensions": "183mm x 33mm x 7mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-25T10:04:04Z",
+  "updatedAt": "2024-11-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

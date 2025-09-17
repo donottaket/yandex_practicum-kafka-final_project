@@ -1,0 +1,42 @@
+{
+  "productId": "000957",
+  "name": "Куртка NovaTech S951 #000957",
+  "description": "Куртка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 4657.39,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 427,
+    "reserved": 204
+  },
+  "sku": "NovaTech-000957",
+  "tags": [
+    "удобство",
+    "стиль",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-S951-000957.jpg",
+      "alt": "Куртка NovaTech S951 #000957 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-S951-000957_side.jpg",
+      "alt": "Куртка NovaTech S951 #000957 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "734g",
+    "dimensions": "185mm x 172mm x 37mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-18T10:04:04Z",
+  "updatedAt": "2025-03-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

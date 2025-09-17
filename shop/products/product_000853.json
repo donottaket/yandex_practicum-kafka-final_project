@@ -1,0 +1,43 @@
+{
+  "productId": "000853",
+  "name": "Чайник Astra S937 #000853",
+  "description": "Чайник бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 49643.92,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 428,
+    "reserved": 80
+  },
+  "sku": "Astra-000853",
+  "tags": [
+    "экономия энергии",
+    "умный дом",
+    "дом",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Astra-S937-000853.jpg",
+      "alt": "Чайник Astra S937 #000853 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Astra-S937-000853_side.jpg",
+      "alt": "Чайник Astra S937 #000853 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1873g",
+    "dimensions": "178mm x 30mm x 36mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-28T10:04:04Z",
+  "updatedAt": "2025-07-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

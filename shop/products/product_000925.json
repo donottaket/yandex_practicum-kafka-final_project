@@ -1,0 +1,42 @@
+{
+  "productId": "000925",
+  "name": "Робот-пылесос NovaTech Lite289 #000925",
+  "description": "Робот-пылесос бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 68307.07,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 120,
+    "reserved": 43
+  },
+  "sku": "NovaTech-000925",
+  "tags": [
+    "дом",
+    "тихий",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-Lite289-000925.jpg",
+      "alt": "Робот-пылесос NovaTech Lite289 #000925 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-Lite289-000925_side.jpg",
+      "alt": "Робот-пылесос NovaTech Lite289 #000925 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "359g",
+    "dimensions": "113mm x 165mm x 15mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-30T10:04:04Z",
+  "updatedAt": "2025-02-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

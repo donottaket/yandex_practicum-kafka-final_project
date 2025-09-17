@@ -1,0 +1,42 @@
+{
+  "productId": "000344",
+  "name": "Планшет NovaTech Plus990 #000344",
+  "description": "Планшет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 175325.7,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 31,
+    "reserved": 4
+  },
+  "sku": "NovaTech-000344",
+  "tags": [
+    "ios",
+    "гаджеты",
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Plus990-000344.jpg",
+      "alt": "Планшет NovaTech Plus990 #000344 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Plus990-000344_side.jpg",
+      "alt": "Планшет NovaTech Plus990 #000344 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1132g",
+    "dimensions": "286mm x 161mm x 49mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-29T10:04:04Z",
+  "updatedAt": "2025-05-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

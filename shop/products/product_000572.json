@@ -1,0 +1,40 @@
+{
+  "productId": "000572",
+  "name": "Блендер Polar S137 #000572",
+  "description": "Блендер бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 77833.55,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 17,
+    "reserved": 1
+  },
+  "sku": "Polar-000572",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Polar-S137-000572.jpg",
+      "alt": "Блендер Polar S137 #000572 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Polar-S137-000572_side.jpg",
+      "alt": "Блендер Polar S137 #000572 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "400g",
+    "dimensions": "227mm x 57mm x 50mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-29T10:04:04Z",
+  "updatedAt": "2025-05-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

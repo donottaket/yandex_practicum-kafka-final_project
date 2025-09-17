@@ -1,0 +1,40 @@
+{
+  "productId": "000308",
+  "name": "Чайник Lumen Plus523 #000308",
+  "description": "Чайник бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42819.37,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 395,
+    "reserved": 127
+  },
+  "sku": "Lumen-000308",
+  "tags": [
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Lumen-Plus523-000308.jpg",
+      "alt": "Чайник Lumen Plus523 #000308 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Lumen-Plus523-000308_side.jpg",
+      "alt": "Чайник Lumen Plus523 #000308 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "828g",
+    "dimensions": "174mm x 25mm x 29mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-11T10:04:04Z",
+  "updatedAt": "2025-02-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

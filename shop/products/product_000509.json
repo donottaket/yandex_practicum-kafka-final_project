@@ -1,0 +1,41 @@
+{
+  "productId": "000509",
+  "name": "Куртка Polar S109 #000509",
+  "description": "Куртка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 34925.82,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 422,
+    "reserved": 27
+  },
+  "sku": "Polar-000509",
+  "tags": [
+    "стиль",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Polar-S109-000509.jpg",
+      "alt": "Куртка Polar S109 #000509 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Polar-S109-000509_side.jpg",
+      "alt": "Куртка Polar S109 #000509 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1505g",
+    "dimensions": "158mm x 69mm x 25mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-07T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

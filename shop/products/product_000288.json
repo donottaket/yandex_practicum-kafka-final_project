@@ -1,0 +1,42 @@
+{
+  "productId": "000288",
+  "name": "Смарт-велокомпьютер Neon X782 #000288",
+  "description": "Смарт-велокомпьютер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 96031.34,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 337,
+    "reserved": 5
+  },
+  "sku": "Neon-000288",
+  "tags": [
+    "outdoor",
+    "gps",
+    "спорт",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-X782-000288.jpg",
+      "alt": "Смарт-велокомпьютер Neon X782 #000288 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-X782-000288_side.jpg",
+      "alt": "Смарт-велокомпьютер Neon X782 #000288 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1248g",
+    "dimensions": "170mm x 167mm x 16mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-11T10:04:04Z",
+  "updatedAt": "2025-09-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

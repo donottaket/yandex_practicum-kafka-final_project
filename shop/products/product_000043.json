@@ -1,0 +1,43 @@
+{
+  "productId": "000043",
+  "name": "Блендер Quantum X379 #000043",
+  "description": "Блендер бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 45080.94,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 386,
+    "reserved": 8
+  },
+  "sku": "Quantum-000043",
+  "tags": [
+    "кухня",
+    "тихий",
+    "экономия энергии",
+    "дом",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Quantum-X379-000043.jpg",
+      "alt": "Блендер Quantum X379 #000043 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Quantum-X379-000043_side.jpg",
+      "alt": "Блендер Quantum X379 #000043 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1788g",
+    "dimensions": "189mm x 61mm x 17mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-21T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

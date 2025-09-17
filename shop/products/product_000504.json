@@ -1,0 +1,40 @@
+{
+  "productId": "000504",
+  "name": "Футболка Lumen X851 #000504",
+  "description": "Футболка бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 13006.5,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 9,
+    "reserved": 1
+  },
+  "sku": "Lumen-000504",
+  "tags": [
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Lumen-X851-000504.jpg",
+      "alt": "Футболка Lumen X851 #000504 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Lumen-X851-000504_side.jpg",
+      "alt": "Футболка Lumen X851 #000504 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1228g",
+    "dimensions": "82mm x 46mm x 16mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-07T10:04:04Z",
+  "updatedAt": "2025-06-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

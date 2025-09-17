@@ -1,0 +1,42 @@
+{
+  "productId": "000602",
+  "name": "Куртка Polar Pro979 #000602",
+  "description": "Куртка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 9030.09,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 490,
+    "reserved": 142
+  },
+  "sku": "Polar-000602",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Polar-Pro979-000602.jpg",
+      "alt": "Куртка Polar Pro979 #000602 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Polar-Pro979-000602_side.jpg",
+      "alt": "Куртка Polar Pro979 #000602 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1454g",
+    "dimensions": "212mm x 200mm x 14mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-18T10:04:04Z",
+  "updatedAt": "2025-02-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

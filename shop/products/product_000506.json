@@ -1,0 +1,42 @@
+{
+  "productId": "000506",
+  "name": "Блендер XYZ 139 #000506",
+  "description": "Блендер бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 66177.0,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 310,
+    "reserved": 51
+  },
+  "sku": "XYZ-000506",
+  "tags": [
+    "экономия энергии",
+    "умный дом",
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-XYZ-139-000506.jpg",
+      "alt": "Блендер XYZ 139 #000506 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-XYZ-139-000506_side.jpg",
+      "alt": "Блендер XYZ 139 #000506 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "157g",
+    "dimensions": "294mm x 176mm x 6mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-25T10:04:04Z",
+  "updatedAt": "2025-01-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

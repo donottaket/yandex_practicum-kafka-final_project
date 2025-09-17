@@ -1,0 +1,42 @@
+{
+  "productId": "000615",
+  "name": "Худи NovaTech Lite438 #000615",
+  "description": "Худи бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 18180.53,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 287,
+    "reserved": 40
+  },
+  "sku": "NovaTech-000615",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-NovaTech-Lite438-000615.jpg",
+      "alt": "Худи NovaTech Lite438 #000615 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-NovaTech-Lite438-000615_side.jpg",
+      "alt": "Худи NovaTech Lite438 #000615 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "679g",
+    "dimensions": "39mm x 36mm x 34mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-21T10:04:04Z",
+  "updatedAt": "2024-12-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

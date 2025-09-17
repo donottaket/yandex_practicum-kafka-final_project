@@ -1,0 +1,41 @@
+{
+  "productId": "000634",
+  "name": "Пульсометр Quantum Max747 #000634",
+  "description": "Пульсометр бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 34029.14,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 229,
+    "reserved": 50
+  },
+  "sku": "Quantum-000634",
+  "tags": [
+    "здоровье",
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-Max747-000634.jpg",
+      "alt": "Пульсометр Quantum Max747 #000634 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-Max747-000634_side.jpg",
+      "alt": "Пульсометр Quantum Max747 #000634 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "473g",
+    "dimensions": "194mm x 175mm x 43mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-12T10:04:04Z",
+  "updatedAt": "2025-08-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000672",
+  "name": "Футболка Lumen S447 #000672",
+  "description": "Футболка бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 46718.1,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 243,
+    "reserved": 79
+  },
+  "sku": "Lumen-000672",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Lumen-S447-000672.jpg",
+      "alt": "Футболка Lumen S447 #000672 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Lumen-S447-000672_side.jpg",
+      "alt": "Футболка Lumen S447 #000672 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1730g",
+    "dimensions": "217mm x 96mm x 37mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-02T10:04:04Z",
+  "updatedAt": "2024-11-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

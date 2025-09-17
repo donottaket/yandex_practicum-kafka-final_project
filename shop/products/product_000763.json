@@ -1,0 +1,43 @@
+{
+  "productId": "000763",
+  "name": "Планшет ACME Pro54 #000763",
+  "description": "Планшет бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 86824.04,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 348,
+    "reserved": 13
+  },
+  "sku": "ACME-000763",
+  "tags": [
+    "bluetooth",
+    "технологии",
+    "гаджеты",
+    "oled",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-ACME-Pro54-000763.jpg",
+      "alt": "Планшет ACME Pro54 #000763 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-ACME-Pro54-000763_side.jpg",
+      "alt": "Планшет ACME Pro54 #000763 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "825g",
+    "dimensions": "37mm x 126mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-09T10:04:04Z",
+  "updatedAt": "2025-06-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

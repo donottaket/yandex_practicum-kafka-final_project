@@ -1,0 +1,41 @@
+{
+  "productId": "000599",
+  "name": "Футболка XYZ Lite157 #000599",
+  "description": "Футболка бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 12177.22,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 394,
+    "reserved": 77
+  },
+  "sku": "XYZ-000599",
+  "tags": [
+    "удобство",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-XYZ-Lite157-000599.jpg",
+      "alt": "Футболка XYZ Lite157 #000599 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-XYZ-Lite157-000599_side.jpg",
+      "alt": "Футболка XYZ Lite157 #000599 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1509g",
+    "dimensions": "147mm x 198mm x 39mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-20T10:04:04Z",
+  "updatedAt": "2025-01-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

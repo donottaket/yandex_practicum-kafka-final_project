@@ -1,0 +1,40 @@
+{
+  "productId": "000434",
+  "name": "Фитнес-трекер Polar S576 #000434",
+  "description": "Фитнес-трекер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 5694.99,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 393,
+    "reserved": 28
+  },
+  "sku": "Polar-000434",
+  "tags": [
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-S576-000434.jpg",
+      "alt": "Фитнес-трекер Polar S576 #000434 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-S576-000434_side.jpg",
+      "alt": "Фитнес-трекер Polar S576 #000434 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1273g",
+    "dimensions": "39mm x 180mm x 48mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-13T10:04:04Z",
+  "updatedAt": "2024-12-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

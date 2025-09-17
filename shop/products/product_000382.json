@@ -1,0 +1,40 @@
+{
+  "productId": "000382",
+  "name": "Кофемашина Polar X757 #000382",
+  "description": "Кофемашина бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 4504.43,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 43,
+    "reserved": 0
+  },
+  "sku": "Polar-000382",
+  "tags": [
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-X757-000382.jpg",
+      "alt": "Кофемашина Polar X757 #000382 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-X757-000382_side.jpg",
+      "alt": "Кофемашина Polar X757 #000382 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1146g",
+    "dimensions": "173mm x 92mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-14T10:04:04Z",
+  "updatedAt": "2025-09-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

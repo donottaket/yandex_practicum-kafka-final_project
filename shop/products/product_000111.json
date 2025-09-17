@@ -1,0 +1,42 @@
+{
+  "productId": "000111",
+  "name": "Умные часы Orion Plus45 #000111",
+  "description": "Умные часы бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 16175.43,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 87,
+    "reserved": 0
+  },
+  "sku": "Orion-000111",
+  "tags": [
+    "ios",
+    "гаджеты",
+    "технологии",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Orion-Plus45-000111.jpg",
+      "alt": "Умные часы Orion Plus45 #000111 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Orion-Plus45-000111_side.jpg",
+      "alt": "Умные часы Orion Plus45 #000111 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1068g",
+    "dimensions": "77mm x 47mm x 18mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-22T10:04:04Z",
+  "updatedAt": "2025-04-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

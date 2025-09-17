@@ -1,0 +1,43 @@
+{
+  "productId": "000734",
+  "name": "Кофемашина Polar Lite497 #000734",
+  "description": "Кофемашина бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 49502.92,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 493,
+    "reserved": 180
+  },
+  "sku": "Polar-000734",
+  "tags": [
+    "экономия энергии",
+    "тихий",
+    "умный дом",
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Lite497-000734.jpg",
+      "alt": "Кофемашина Polar Lite497 #000734 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-Lite497-000734_side.jpg",
+      "alt": "Кофемашина Polar Lite497 #000734 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "222g",
+    "dimensions": "77mm x 144mm x 7mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-17T10:04:04Z",
+  "updatedAt": "2025-04-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

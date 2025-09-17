@@ -1,0 +1,43 @@
+{
+  "productId": "000251",
+  "name": "Спортивные часы Neon X935 #000251",
+  "description": "Спортивные часы бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 64922.39,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 404,
+    "reserved": 35
+  },
+  "sku": "Neon-000251",
+  "tags": [
+    "активность",
+    "gps",
+    "outdoor",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-X935-000251.jpg",
+      "alt": "Спортивные часы Neon X935 #000251 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-X935-000251_side.jpg",
+      "alt": "Спортивные часы Neon X935 #000251 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1936g",
+    "dimensions": "295mm x 111mm x 42mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-26T10:04:04Z",
+  "updatedAt": "2024-12-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

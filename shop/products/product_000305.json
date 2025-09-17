@@ -1,0 +1,40 @@
+{
+  "productId": "000305",
+  "name": "Робот-пылесос Neon 807 #000305",
+  "description": "Робот-пылесос бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 1035.68,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 67,
+    "reserved": 3
+  },
+  "sku": "Neon-000305",
+  "tags": [
+    "дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Neon-807-000305.jpg",
+      "alt": "Робот-пылесос Neon 807 #000305 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Neon-807-000305_side.jpg",
+      "alt": "Робот-пылесос Neon 807 #000305 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "918g",
+    "dimensions": "126mm x 121mm x 24mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-07T10:04:04Z",
+  "updatedAt": "2025-08-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

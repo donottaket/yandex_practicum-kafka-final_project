@@ -1,0 +1,40 @@
+{
+  "productId": "000963",
+  "name": "Умные часы Lumen 474 #000963",
+  "description": "Умные часы бренда Lumen. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 56683.91,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Lumen",
+  "stock": {
+    "available": 75,
+    "reserved": 26
+  },
+  "sku": "Lumen-000963",
+  "tags": [
+    "ios",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-474-000963.jpg",
+      "alt": "Умные часы Lumen 474 #000963 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Lumen-474-000963_side.jpg",
+      "alt": "Умные часы Lumen 474 #000963 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "716g",
+    "dimensions": "194mm x 198mm x 25mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-12-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

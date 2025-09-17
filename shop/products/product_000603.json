@@ -1,0 +1,42 @@
+{
+  "productId": "000603",
+  "name": "Чайник Neon Max540 #000603",
+  "description": "Чайник бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 45389.33,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 142,
+    "reserved": 55
+  },
+  "sku": "Neon-000603",
+  "tags": [
+    "умный дом",
+    "дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Neon-Max540-000603.jpg",
+      "alt": "Чайник Neon Max540 #000603 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Neon-Max540-000603_side.jpg",
+      "alt": "Чайник Neon Max540 #000603 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1195g",
+    "dimensions": "36mm x 73mm x 6mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-19T10:04:04Z",
+  "updatedAt": "2025-04-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

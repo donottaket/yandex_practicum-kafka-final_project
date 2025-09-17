@@ -1,0 +1,40 @@
+{
+  "productId": "000971",
+  "name": "Штаны Vega S986 #000971",
+  "description": "Штаны бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 27089.64,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 30,
+    "reserved": 4
+  },
+  "sku": "Vega-000971",
+  "tags": [
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Vega-S986-000971.jpg",
+      "alt": "Штаны Vega S986 #000971 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Vega-S986-000971_side.jpg",
+      "alt": "Штаны Vega S986 #000971 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1068g",
+    "dimensions": "102mm x 118mm x 19mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-25T10:04:04Z",
+  "updatedAt": "2025-07-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

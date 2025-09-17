@@ -1,0 +1,43 @@
+{
+  "productId": "000191",
+  "name": "Смарт-велокомпьютер Quantum Pro343 #000191",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 82130.16,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 169,
+    "reserved": 42
+  },
+  "sku": "Quantum-000191",
+  "tags": [
+    "здоровье",
+    "активность",
+    "outdoor",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Pro343-000191.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Pro343 #000191 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Pro343-000191_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Pro343 #000191 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1569g",
+    "dimensions": "43mm x 194mm x 39mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-10T10:04:04Z",
+  "updatedAt": "2025-04-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

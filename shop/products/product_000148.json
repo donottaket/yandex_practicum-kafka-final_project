@@ -1,0 +1,40 @@
+{
+  "productId": "000148",
+  "name": "Спортивные часы Polar 851 #000148",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 25647.66,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 395,
+    "reserved": 144
+  },
+  "sku": "Polar-000148",
+  "tags": [
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-851-000148.jpg",
+      "alt": "Спортивные часы Polar 851 #000148 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-851-000148_side.jpg",
+      "alt": "Спортивные часы Polar 851 #000148 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "127g",
+    "dimensions": "156mm x 190mm x 46mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-12T10:04:04Z",
+  "updatedAt": "2025-05-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

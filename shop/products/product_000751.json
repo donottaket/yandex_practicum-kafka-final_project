@@ -1,0 +1,41 @@
+{
+  "productId": "000751",
+  "name": "Футболка Quantum Pro249 #000751",
+  "description": "Футболка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 20446.91,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 164,
+    "reserved": 12
+  },
+  "sku": "Quantum-000751",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Quantum-Pro249-000751.jpg",
+      "alt": "Футболка Quantum Pro249 #000751 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Quantum-Pro249-000751_side.jpg",
+      "alt": "Футболка Quantum Pro249 #000751 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "172g",
+    "dimensions": "108mm x 33mm x 50mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-14T10:04:04Z",
+  "updatedAt": "2025-07-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

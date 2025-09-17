@@ -1,0 +1,43 @@
+{
+  "productId": "000286",
+  "name": "Фитнес-трекер Quantum Pro385 #000286",
+  "description": "Фитнес-трекер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 15211.72,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 112,
+    "reserved": 40
+  },
+  "sku": "Quantum-000286",
+  "tags": [
+    "gps",
+    "здоровье",
+    "активность",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Pro385-000286.jpg",
+      "alt": "Фитнес-трекер Quantum Pro385 #000286 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Quantum-Pro385-000286_side.jpg",
+      "alt": "Фитнес-трекер Quantum Pro385 #000286 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "616g",
+    "dimensions": "269mm x 59mm x 33mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-20T10:04:04Z",
+  "updatedAt": "2025-03-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

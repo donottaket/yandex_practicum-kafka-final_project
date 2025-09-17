@@ -1,0 +1,41 @@
+{
+  "productId": "000677",
+  "name": "Умные часы Quantum 882 #000677",
+  "description": "Умные часы бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 93413.9,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 329,
+    "reserved": 83
+  },
+  "sku": "Quantum-000677",
+  "tags": [
+    "ios",
+    "гаджеты",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Quantum-882-000677.jpg",
+      "alt": "Умные часы Quantum 882 #000677 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Quantum-882-000677_side.jpg",
+      "alt": "Умные часы Quantum 882 #000677 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1600g",
+    "dimensions": "134mm x 67mm x 44mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-02T10:04:04Z",
+  "updatedAt": "2025-03-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000821",
+  "name": "Кофемашина Neon X364 #000821",
+  "description": "Кофемашина бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 64637.27,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 318,
+    "reserved": 26
+  },
+  "sku": "Neon-000821",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-X364-000821.jpg",
+      "alt": "Кофемашина Neon X364 #000821 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-X364-000821_side.jpg",
+      "alt": "Кофемашина Neon X364 #000821 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1551g",
+    "dimensions": "192mm x 182mm x 36mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-08T10:04:04Z",
+  "updatedAt": "2025-04-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

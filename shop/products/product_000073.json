@@ -1,0 +1,41 @@
+{
+  "productId": "000073",
+  "name": "Фитнес-трекер Astra X696 #000073",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 86596.14,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 233,
+    "reserved": 9
+  },
+  "sku": "Astra-000073",
+  "tags": [
+    "здоровье",
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-X696-000073.jpg",
+      "alt": "Фитнес-трекер Astra X696 #000073 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-X696-000073_side.jpg",
+      "alt": "Фитнес-трекер Astra X696 #000073 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "665g",
+    "dimensions": "97mm x 100mm x 16mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-10T10:04:04Z",
+  "updatedAt": "2024-11-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

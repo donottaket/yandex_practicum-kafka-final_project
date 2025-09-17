@@ -1,0 +1,40 @@
+{
+  "productId": "000300",
+  "name": "Спортивные часы ACME Max753 #000300",
+  "description": "Спортивные часы бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 55178.52,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 475,
+    "reserved": 200
+  },
+  "sku": "ACME-000300",
+  "tags": [
+    "gps",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Max753-000300.jpg",
+      "alt": "Спортивные часы ACME Max753 #000300 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Max753-000300_side.jpg",
+      "alt": "Спортивные часы ACME Max753 #000300 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1686g",
+    "dimensions": "64mm x 55mm x 25mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-14T10:04:04Z",
+  "updatedAt": "2025-02-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

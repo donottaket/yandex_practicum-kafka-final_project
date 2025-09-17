@@ -1,0 +1,40 @@
+{
+  "productId": "000556",
+  "name": "Блендер Orion S964 #000556",
+  "description": "Блендер бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 58713.15,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 444,
+    "reserved": 131
+  },
+  "sku": "Orion-000556",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Orion-S964-000556.jpg",
+      "alt": "Блендер Orion S964 #000556 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Orion-S964-000556_side.jpg",
+      "alt": "Блендер Orion S964 #000556 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "224g",
+    "dimensions": "230mm x 166mm x 47mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-15T10:04:04Z",
+  "updatedAt": "2024-12-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000790",
+  "name": "Футболка XYZ Plus702 #000790",
+  "description": "Футболка бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 33097.99,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 400,
+    "reserved": 75
+  },
+  "sku": "XYZ-000790",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-XYZ-Plus702-000790.jpg",
+      "alt": "Футболка XYZ Plus702 #000790 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-XYZ-Plus702-000790_side.jpg",
+      "alt": "Футболка XYZ Plus702 #000790 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "325g",
+    "dimensions": "255mm x 63mm x 8mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-27T10:04:04Z",
+  "updatedAt": "2024-12-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

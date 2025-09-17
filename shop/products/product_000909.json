@@ -1,0 +1,43 @@
+{
+  "productId": "000909",
+  "name": "Планшет Neon Max453 #000909",
+  "description": "Планшет бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 91098.19,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 65,
+    "reserved": 25
+  },
+  "sku": "Neon-000909",
+  "tags": [
+    "ios",
+    "bluetooth",
+    "гаджеты",
+    "технологии",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Neon-Max453-000909.jpg",
+      "alt": "Планшет Neon Max453 #000909 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Neon-Max453-000909_side.jpg",
+      "alt": "Планшет Neon Max453 #000909 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1815g",
+    "dimensions": "265mm x 98mm x 12mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-10T10:04:04Z",
+  "updatedAt": "2024-12-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

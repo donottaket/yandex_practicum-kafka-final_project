@@ -1,0 +1,43 @@
+{
+  "productId": "000485",
+  "name": "Фитнес-трекер Neon Plus94 #000485",
+  "description": "Фитнес-трекер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 89632.63,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 477,
+    "reserved": 35
+  },
+  "sku": "Neon-000485",
+  "tags": [
+    "gps",
+    "активность",
+    "outdoor",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-Plus94-000485.jpg",
+      "alt": "Фитнес-трекер Neon Plus94 #000485 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-Plus94-000485_side.jpg",
+      "alt": "Фитнес-трекер Neon Plus94 #000485 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "770g",
+    "dimensions": "282mm x 50mm x 44mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-21T10:04:04Z",
+  "updatedAt": "2024-10-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

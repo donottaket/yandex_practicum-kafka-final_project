@@ -1,0 +1,42 @@
+{
+  "productId": "000188",
+  "name": "Смарт-велокомпьютер NovaTech 933 #000188",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 39411.24,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 341,
+    "reserved": 25
+  },
+  "sku": "NovaTech-000188",
+  "tags": [
+    "спорт",
+    "outdoor",
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-933-000188.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech 933 #000188 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-933-000188_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech 933 #000188 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1995g",
+    "dimensions": "252mm x 29mm x 23mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-08T10:04:04Z",
+  "updatedAt": "2025-03-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

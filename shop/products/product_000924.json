@@ -1,0 +1,40 @@
+{
+  "productId": "000924",
+  "name": "Увлажнитель воздуха XYZ Lite29 #000924",
+  "description": "Увлажнитель воздуха бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 24077.51,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 219,
+    "reserved": 59
+  },
+  "sku": "XYZ-000924",
+  "tags": [
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-Lite29-000924.jpg",
+      "alt": "Увлажнитель воздуха XYZ Lite29 #000924 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-XYZ-Lite29-000924_side.jpg",
+      "alt": "Увлажнитель воздуха XYZ Lite29 #000924 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "634g",
+    "dimensions": "130mm x 112mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-20T10:04:04Z",
+  "updatedAt": "2025-05-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

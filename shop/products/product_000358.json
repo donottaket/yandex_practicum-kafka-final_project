@@ -1,0 +1,42 @@
+{
+  "productId": "000358",
+  "name": "Футболка Vega S325 #000358",
+  "description": "Футболка бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 29328.21,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 329,
+    "reserved": 134
+  },
+  "sku": "Vega-000358",
+  "tags": [
+    "удобство",
+    "мода",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Vega-S325-000358.jpg",
+      "alt": "Футболка Vega S325 #000358 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Vega-S325-000358_side.jpg",
+      "alt": "Футболка Vega S325 #000358 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1408g",
+    "dimensions": "128mm x 25mm x 40mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-11T10:04:04Z",
+  "updatedAt": "2025-01-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

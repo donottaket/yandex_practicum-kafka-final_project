@@ -1,0 +1,42 @@
+{
+  "productId": "000452",
+  "name": "Планшет NovaTech Plus981 #000452",
+  "description": "Планшет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 76299.39,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 236,
+    "reserved": 34
+  },
+  "sku": "NovaTech-000452",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "gps",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Plus981-000452.jpg",
+      "alt": "Планшет NovaTech Plus981 #000452 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Plus981-000452_side.jpg",
+      "alt": "Планшет NovaTech Plus981 #000452 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1697g",
+    "dimensions": "155mm x 108mm x 33mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-23T10:04:04Z",
+  "updatedAt": "2025-01-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

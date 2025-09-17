@@ -1,0 +1,41 @@
+{
+  "productId": "000664",
+  "name": "Пульсометр Vega Plus539 #000664",
+  "description": "Пульсометр бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 85764.69,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 320,
+    "reserved": 149
+  },
+  "sku": "Vega-000664",
+  "tags": [
+    "здоровье",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Vega-Plus539-000664.jpg",
+      "alt": "Пульсометр Vega Plus539 #000664 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Vega-Plus539-000664_side.jpg",
+      "alt": "Пульсометр Vega Plus539 #000664 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "727g",
+    "dimensions": "162mm x 192mm x 33mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-07T10:04:04Z",
+  "updatedAt": "2025-05-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

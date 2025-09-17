@@ -1,0 +1,41 @@
+{
+  "productId": "000139",
+  "name": "Пульсометр Quantum Plus86 #000139",
+  "description": "Пульсометр бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 36897.06,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 372,
+    "reserved": 183
+  },
+  "sku": "Quantum-000139",
+  "tags": [
+    "спорт",
+    "gps",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-Plus86-000139.jpg",
+      "alt": "Пульсометр Quantum Plus86 #000139 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-Plus86-000139_side.jpg",
+      "alt": "Пульсометр Quantum Plus86 #000139 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "678g",
+    "dimensions": "235mm x 77mm x 18mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-13T10:04:04Z",
+  "updatedAt": "2025-09-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

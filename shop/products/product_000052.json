@@ -1,0 +1,43 @@
+{
+  "productId": "000052",
+  "name": "Спортивные часы Polar Plus34 #000052",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 99087.43,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 171,
+    "reserved": 16
+  },
+  "sku": "Polar-000052",
+  "tags": [
+    "outdoor",
+    "активность",
+    "спорт",
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Plus34-000052.jpg",
+      "alt": "Спортивные часы Polar Plus34 #000052 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Plus34-000052_side.jpg",
+      "alt": "Спортивные часы Polar Plus34 #000052 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "813g",
+    "dimensions": "93mm x 79mm x 27mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-03T10:04:04Z",
+  "updatedAt": "2025-06-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

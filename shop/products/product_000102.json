@@ -1,0 +1,42 @@
+{
+  "productId": "000102",
+  "name": "Куртка Polar Plus676 #000102",
+  "description": "Куртка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 26906.03,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 262,
+    "reserved": 42
+  },
+  "sku": "Polar-000102",
+  "tags": [
+    "удобство",
+    "повседневное",
+    "стиль",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Polar-Plus676-000102.jpg",
+      "alt": "Куртка Polar Plus676 #000102 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Polar-Plus676-000102_side.jpg",
+      "alt": "Куртка Polar Plus676 #000102 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "792g",
+    "dimensions": "201mm x 115mm x 50mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-24T10:04:04Z",
+  "updatedAt": "2025-02-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000466",
+  "name": "Худи Lumen Lite488 #000466",
+  "description": "Худи бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 39277.97,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 155,
+    "reserved": 0
+  },
+  "sku": "Lumen-000466",
+  "tags": [
+    "стиль",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Lumen-Lite488-000466.jpg",
+      "alt": "Худи Lumen Lite488 #000466 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Lumen-Lite488-000466_side.jpg",
+      "alt": "Худи Lumen Lite488 #000466 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "381g",
+    "dimensions": "94mm x 30mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-23T10:04:04Z",
+  "updatedAt": "2024-12-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

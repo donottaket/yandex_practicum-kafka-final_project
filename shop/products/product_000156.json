@@ -1,0 +1,41 @@
+{
+  "productId": "000156",
+  "name": "Смартфон Neon Lite199 #000156",
+  "description": "Смартфон бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 198659.34,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 371,
+    "reserved": 96
+  },
+  "sku": "Neon-000156",
+  "tags": [
+    "gps",
+    "технологии",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Neon-Lite199-000156.jpg",
+      "alt": "Смартфон Neon Lite199 #000156 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Neon-Lite199-000156_side.jpg",
+      "alt": "Смартфон Neon Lite199 #000156 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "923g",
+    "dimensions": "120mm x 172mm x 16mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-13T10:04:04Z",
+  "updatedAt": "2025-07-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

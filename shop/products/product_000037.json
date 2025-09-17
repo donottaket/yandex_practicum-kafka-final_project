@@ -1,0 +1,40 @@
+{
+  "productId": "000037",
+  "name": "Фитнес-браслет NovaTech Max368 #000037",
+  "description": "Фитнес-браслет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 170023.92,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 224,
+    "reserved": 28
+  },
+  "sku": "NovaTech-000037",
+  "tags": [
+    "gps",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Max368-000037.jpg",
+      "alt": "Фитнес-браслет NovaTech Max368 #000037 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-NovaTech-Max368-000037_side.jpg",
+      "alt": "Фитнес-браслет NovaTech Max368 #000037 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1017g",
+    "dimensions": "232mm x 101mm x 8mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-29T10:04:04Z",
+  "updatedAt": "2025-01-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

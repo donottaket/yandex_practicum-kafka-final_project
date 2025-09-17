@@ -1,0 +1,41 @@
+{
+  "productId": "000267",
+  "name": "Смартфон Quantum S986 #000267",
+  "description": "Смартфон бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 80063.09,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 59,
+    "reserved": 8
+  },
+  "sku": "Quantum-000267",
+  "tags": [
+    "bluetooth",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Quantum-S986-000267.jpg",
+      "alt": "Смартфон Quantum S986 #000267 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Quantum-S986-000267_side.jpg",
+      "alt": "Смартфон Quantum S986 #000267 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1609g",
+    "dimensions": "276mm x 155mm x 28mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-01T10:04:04Z",
+  "updatedAt": "2025-06-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

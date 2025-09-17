@@ -1,0 +1,41 @@
+{
+  "productId": "000565",
+  "name": "Кроссовки NovaTech Max261 #000565",
+  "description": "Кроссовки бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 2673.87,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 8,
+    "reserved": 2
+  },
+  "sku": "NovaTech-000565",
+  "tags": [
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-NovaTech-Max261-000565.jpg",
+      "alt": "Кроссовки NovaTech Max261 #000565 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-NovaTech-Max261-000565_side.jpg",
+      "alt": "Кроссовки NovaTech Max261 #000565 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1584g",
+    "dimensions": "154mm x 175mm x 42mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-29T10:04:04Z",
+  "updatedAt": "2024-12-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000378",
+  "name": "Спортивные часы Neon Max721 #000378",
+  "description": "Спортивные часы бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 35807.48,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 88,
+    "reserved": 3
+  },
+  "sku": "Neon-000378",
+  "tags": [
+    "gps",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-Max721-000378.jpg",
+      "alt": "Спортивные часы Neon Max721 #000378 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-Max721-000378_side.jpg",
+      "alt": "Спортивные часы Neon Max721 #000378 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1514g",
+    "dimensions": "63mm x 142mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-20T10:04:04Z",
+  "updatedAt": "2025-04-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

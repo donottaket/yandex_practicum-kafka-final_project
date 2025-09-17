@@ -1,0 +1,42 @@
+{
+  "productId": "000302",
+  "name": "Фитнес-трекер NovaTech Lite954 #000302",
+  "description": "Фитнес-трекер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 3666.46,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 16,
+    "reserved": 7
+  },
+  "sku": "NovaTech-000302",
+  "tags": [
+    "outdoor",
+    "активность",
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Lite954-000302.jpg",
+      "alt": "Фитнес-трекер NovaTech Lite954 #000302 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Lite954-000302_side.jpg",
+      "alt": "Фитнес-трекер NovaTech Lite954 #000302 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1043g",
+    "dimensions": "82mm x 85mm x 23mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-10T10:04:04Z",
+  "updatedAt": "2025-06-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

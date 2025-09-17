@@ -1,0 +1,41 @@
+{
+  "productId": "000072",
+  "name": "Кофемашина ACME Pro636 #000072",
+  "description": "Кофемашина бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 7230.49,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 144,
+    "reserved": 43
+  },
+  "sku": "ACME-000072",
+  "tags": [
+    "умный дом",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-ACME-Pro636-000072.jpg",
+      "alt": "Кофемашина ACME Pro636 #000072 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-ACME-Pro636-000072_side.jpg",
+      "alt": "Кофемашина ACME Pro636 #000072 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1924g",
+    "dimensions": "57mm x 154mm x 30mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-19T10:04:04Z",
+  "updatedAt": "2024-12-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

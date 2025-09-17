@@ -1,0 +1,43 @@
+{
+  "productId": "000338",
+  "name": "Пульсометр Orion 480 #000338",
+  "description": "Пульсометр бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 30288.03,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 334,
+    "reserved": 1
+  },
+  "sku": "Orion-000338",
+  "tags": [
+    "outdoor",
+    "активность",
+    "спорт",
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-480-000338.jpg",
+      "alt": "Пульсометр Orion 480 #000338 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-480-000338_side.jpg",
+      "alt": "Пульсометр Orion 480 #000338 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1960g",
+    "dimensions": "221mm x 147mm x 5mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-02T10:04:04Z",
+  "updatedAt": "2025-04-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

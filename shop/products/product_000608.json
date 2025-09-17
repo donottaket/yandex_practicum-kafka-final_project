@@ -1,0 +1,42 @@
+{
+  "productId": "000608",
+  "name": "Смарт-велокомпьютер ACME Pro274 #000608",
+  "description": "Смарт-велокомпьютер бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 16740.63,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 499,
+    "reserved": 42
+  },
+  "sku": "ACME-000608",
+  "tags": [
+    "спорт",
+    "outdoor",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-Pro274-000608.jpg",
+      "alt": "Смарт-велокомпьютер ACME Pro274 #000608 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-Pro274-000608_side.jpg",
+      "alt": "Смарт-велокомпьютер ACME Pro274 #000608 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "569g",
+    "dimensions": "78mm x 95mm x 50mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-06T10:04:04Z",
+  "updatedAt": "2025-05-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

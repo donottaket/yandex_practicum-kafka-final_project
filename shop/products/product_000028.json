@@ -1,0 +1,41 @@
+{
+  "productId": "000028",
+  "name": "Умные часы ACME S113 #000028",
+  "description": "Умные часы бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 2058.98,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 198,
+    "reserved": 45
+  },
+  "sku": "ACME-000028",
+  "tags": [
+    "ios",
+    "технологии",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-S113-000028.jpg",
+      "alt": "Умные часы ACME S113 #000028 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-S113-000028_side.jpg",
+      "alt": "Умные часы ACME S113 #000028 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "479g",
+    "dimensions": "152mm x 21mm x 31mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-01T10:04:04Z",
+  "updatedAt": "2025-02-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

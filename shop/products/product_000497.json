@@ -1,0 +1,40 @@
+{
+  "productId": "000497",
+  "name": "Спортивные часы Orion Max144 #000497",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 33568.17,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 149,
+    "reserved": 18
+  },
+  "sku": "Orion-000497",
+  "tags": [
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Max144-000497.jpg",
+      "alt": "Спортивные часы Orion Max144 #000497 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Max144-000497_side.jpg",
+      "alt": "Спортивные часы Orion Max144 #000497 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1034g",
+    "dimensions": "184mm x 124mm x 13mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-13T10:04:04Z",
+  "updatedAt": "2025-02-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

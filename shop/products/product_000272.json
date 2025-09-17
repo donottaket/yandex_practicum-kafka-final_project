@@ -1,0 +1,42 @@
+{
+  "productId": "000272",
+  "name": "Пульсометр Orion S303 #000272",
+  "description": "Пульсометр бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 75385.76,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 289,
+    "reserved": 132
+  },
+  "sku": "Orion-000272",
+  "tags": [
+    "здоровье",
+    "outdoor",
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-S303-000272.jpg",
+      "alt": "Пульсометр Orion S303 #000272 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-S303-000272_side.jpg",
+      "alt": "Пульсометр Orion S303 #000272 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1031g",
+    "dimensions": "138mm x 62mm x 10mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-24T10:04:04Z",
+  "updatedAt": "2025-03-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

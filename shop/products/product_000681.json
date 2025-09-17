@@ -1,0 +1,43 @@
+{
+  "productId": "000681",
+  "name": "Увлажнитель воздуха Neon Pro617 #000681",
+  "description": "Увлажнитель воздуха бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 43600.91,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 381,
+    "reserved": 1
+  },
+  "sku": "Neon-000681",
+  "tags": [
+    "умный дом",
+    "экономия энергии",
+    "дом",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Neon-Pro617-000681.jpg",
+      "alt": "Увлажнитель воздуха Neon Pro617 #000681 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Neon-Pro617-000681_side.jpg",
+      "alt": "Увлажнитель воздуха Neon Pro617 #000681 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1760g",
+    "dimensions": "146mm x 180mm x 29mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-29T10:04:04Z",
+  "updatedAt": "2025-02-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

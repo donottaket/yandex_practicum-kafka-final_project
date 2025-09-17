@@ -1,0 +1,43 @@
+{
+  "productId": "000980",
+  "name": "Фитнес-браслет XYZ X940 #000980",
+  "description": "Фитнес-браслет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 175694.93,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 231,
+    "reserved": 87
+  },
+  "sku": "XYZ-000980",
+  "tags": [
+    "технологии",
+    "bluetooth",
+    "oled",
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-X940-000980.jpg",
+      "alt": "Фитнес-браслет XYZ X940 #000980 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-X940-000980_side.jpg",
+      "alt": "Фитнес-браслет XYZ X940 #000980 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "545g",
+    "dimensions": "135mm x 32mm x 13mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-14T10:04:04Z",
+  "updatedAt": "2025-01-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

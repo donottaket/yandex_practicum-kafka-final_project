@@ -1,0 +1,43 @@
+{
+  "productId": "000592",
+  "name": "Фитнес-трекер Astra Pro211 #000592",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 84298.01,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 497,
+    "reserved": 233
+  },
+  "sku": "Astra-000592",
+  "tags": [
+    "здоровье",
+    "gps",
+    "outdoor",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Pro211-000592.jpg",
+      "alt": "Фитнес-трекер Astra Pro211 #000592 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Pro211-000592_side.jpg",
+      "alt": "Фитнес-трекер Astra Pro211 #000592 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "508g",
+    "dimensions": "146mm x 101mm x 49mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-30T10:04:04Z",
+  "updatedAt": "2025-09-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

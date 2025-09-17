@@ -1,0 +1,42 @@
+{
+  "productId": "000818",
+  "name": "Смарт-велокомпьютер Quantum Max503 #000818",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 54216.9,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 189,
+    "reserved": 93
+  },
+  "sku": "Quantum-000818",
+  "tags": [
+    "gps",
+    "outdoor",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Max503-000818.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Max503 #000818 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Max503-000818_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Max503 #000818 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1916g",
+    "dimensions": "132mm x 153mm x 14mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-24T10:04:04Z",
+  "updatedAt": "2025-07-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

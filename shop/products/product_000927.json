@@ -1,0 +1,41 @@
+{
+  "productId": "000927",
+  "name": "Планшет Orion Max711 #000927",
+  "description": "Планшет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 167301.58,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 64,
+    "reserved": 0
+  },
+  "sku": "Orion-000927",
+  "tags": [
+    "oled",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Orion-Max711-000927.jpg",
+      "alt": "Планшет Orion Max711 #000927 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Orion-Max711-000927_side.jpg",
+      "alt": "Планшет Orion Max711 #000927 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "796g",
+    "dimensions": "189mm x 122mm x 31mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-29T10:04:04Z",
+  "updatedAt": "2025-03-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000473",
+  "name": "Чайник NovaTech Lite648 #000473",
+  "description": "Чайник бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 18664.74,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 214,
+    "reserved": 42
+  },
+  "sku": "NovaTech-000473",
+  "tags": [
+    "дом",
+    "умный дом",
+    "кухня",
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-NovaTech-Lite648-000473.jpg",
+      "alt": "Чайник NovaTech Lite648 #000473 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-NovaTech-Lite648-000473_side.jpg",
+      "alt": "Чайник NovaTech Lite648 #000473 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1719g",
+    "dimensions": "120mm x 142mm x 7mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-15T10:04:04Z",
+  "updatedAt": "2025-04-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000145",
+  "name": "Планшет ACME X34 #000145",
+  "description": "Планшет бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 144955.07,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 84,
+    "reserved": 34
+  },
+  "sku": "ACME-000145",
+  "tags": [
+    "гаджеты",
+    "gps",
+    "ios",
+    "технологии",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-ACME-X34-000145.jpg",
+      "alt": "Планшет ACME X34 #000145 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-ACME-X34-000145_side.jpg",
+      "alt": "Планшет ACME X34 #000145 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1949g",
+    "dimensions": "89mm x 116mm x 5mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-16T10:04:04Z",
+  "updatedAt": "2025-03-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

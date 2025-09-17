@@ -1,0 +1,43 @@
+{
+  "productId": "000896",
+  "name": "Робот-пылесос NovaTech Max896 #000896",
+  "description": "Робот-пылесос бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 60566.81,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 12,
+    "reserved": 3
+  },
+  "sku": "NovaTech-000896",
+  "tags": [
+    "умный дом",
+    "дом",
+    "тихий",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-Max896-000896.jpg",
+      "alt": "Робот-пылесос NovaTech Max896 #000896 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-Max896-000896_side.jpg",
+      "alt": "Робот-пылесос NovaTech Max896 #000896 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1699g",
+    "dimensions": "44mm x 34mm x 48mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-08T10:04:04Z",
+  "updatedAt": "2025-04-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

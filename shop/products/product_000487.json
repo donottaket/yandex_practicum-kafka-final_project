@@ -1,0 +1,41 @@
+{
+  "productId": "000487",
+  "name": "Смартфон Astra Max982 #000487",
+  "description": "Смартфон бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 192739.59,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 473,
+    "reserved": 74
+  },
+  "sku": "Astra-000487",
+  "tags": [
+    "bluetooth",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Astra-Max982-000487.jpg",
+      "alt": "Смартфон Astra Max982 #000487 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Astra-Max982-000487_side.jpg",
+      "alt": "Смартфон Astra Max982 #000487 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1859g",
+    "dimensions": "251mm x 103mm x 27mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-15T10:04:04Z",
+  "updatedAt": "2024-12-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000673",
+  "name": "Чайник XYZ Pro937 #000673",
+  "description": "Чайник бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 28967.94,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 475,
+    "reserved": 131
+  },
+  "sku": "XYZ-000673",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Pro937-000673.jpg",
+      "alt": "Чайник XYZ Pro937 #000673 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Pro937-000673_side.jpg",
+      "alt": "Чайник XYZ Pro937 #000673 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1012g",
+    "dimensions": "258mm x 70mm x 49mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-02T10:04:04Z",
+  "updatedAt": "2025-03-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

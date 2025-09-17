@@ -1,0 +1,41 @@
+{
+  "productId": "000555",
+  "name": "Смарт-велокомпьютер Polar X150 #000555",
+  "description": "Смарт-велокомпьютер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 77784.71,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 427,
+    "reserved": 43
+  },
+  "sku": "Polar-000555",
+  "tags": [
+    "gps",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-X150-000555.jpg",
+      "alt": "Смарт-велокомпьютер Polar X150 #000555 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Polar-X150-000555_side.jpg",
+      "alt": "Смарт-велокомпьютер Polar X150 #000555 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1131g",
+    "dimensions": "215mm x 92mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-29T10:04:04Z",
+  "updatedAt": "2025-07-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

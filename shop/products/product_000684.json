@@ -1,0 +1,41 @@
+{
+  "productId": "000684",
+  "name": "Планшет NovaTech 706 #000684",
+  "description": "Планшет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 134380.78,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 228,
+    "reserved": 6
+  },
+  "sku": "NovaTech-000684",
+  "tags": [
+    "ios",
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-706-000684.jpg",
+      "alt": "Планшет NovaTech 706 #000684 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-706-000684_side.jpg",
+      "alt": "Планшет NovaTech 706 #000684 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "370g",
+    "dimensions": "37mm x 200mm x 40mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-04T10:04:04Z",
+  "updatedAt": "2025-04-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

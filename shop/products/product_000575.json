@@ -1,0 +1,43 @@
+{
+  "productId": "000575",
+  "name": "Пульсометр NovaTech 629 #000575",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 81055.45,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 154,
+    "reserved": 47
+  },
+  "sku": "NovaTech-000575",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-629-000575.jpg",
+      "alt": "Пульсометр NovaTech 629 #000575 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-629-000575_side.jpg",
+      "alt": "Пульсометр NovaTech 629 #000575 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "541g",
+    "dimensions": "119mm x 177mm x 12mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-27T10:04:04Z",
+  "updatedAt": "2025-05-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

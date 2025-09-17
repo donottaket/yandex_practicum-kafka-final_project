@@ -1,0 +1,40 @@
+{
+  "productId": "000455",
+  "name": "Наушники Neon X187 #000455",
+  "description": "Наушники бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 51190.15,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 33,
+    "reserved": 12
+  },
+  "sku": "Neon-000455",
+  "tags": [
+    "oled",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Neon-X187-000455.jpg",
+      "alt": "Наушники Neon X187 #000455 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Neon-X187-000455_side.jpg",
+      "alt": "Наушники Neon X187 #000455 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "458g",
+    "dimensions": "144mm x 65mm x 45mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-01T10:04:04Z",
+  "updatedAt": "2024-10-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000408",
+  "name": "Фитнес-браслет Vega Max905 #000408",
+  "description": "Фитнес-браслет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 182922.27,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 481,
+    "reserved": 30
+  },
+  "sku": "Vega-000408",
+  "tags": [
+    "oled",
+    "bluetooth",
+    "технологии",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Vega-Max905-000408.jpg",
+      "alt": "Фитнес-браслет Vega Max905 #000408 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Vega-Max905-000408_side.jpg",
+      "alt": "Фитнес-браслет Vega Max905 #000408 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1940g",
+    "dimensions": "150mm x 158mm x 46mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-16T10:04:04Z",
+  "updatedAt": "2025-01-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000814",
+  "name": "Худи Vega 972 #000814",
+  "description": "Худи бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 43340.41,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 230,
+    "reserved": 35
+  },
+  "sku": "Vega-000814",
+  "tags": [
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Vega-972-000814.jpg",
+      "alt": "Худи Vega 972 #000814 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Vega-972-000814_side.jpg",
+      "alt": "Худи Vega 972 #000814 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "230g",
+    "dimensions": "126mm x 90mm x 15mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-28T10:04:04Z",
+  "updatedAt": "2025-02-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

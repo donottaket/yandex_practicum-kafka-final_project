@@ -1,0 +1,40 @@
+{
+  "productId": "000323",
+  "name": "Робот-пылесос Astra Pro740 #000323",
+  "description": "Робот-пылесос бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 65381.07,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 498,
+    "reserved": 117
+  },
+  "sku": "Astra-000323",
+  "tags": [
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Pro740-000323.jpg",
+      "alt": "Робот-пылесос Astra Pro740 #000323 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Pro740-000323_side.jpg",
+      "alt": "Робот-пылесос Astra Pro740 #000323 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "210g",
+    "dimensions": "99mm x 195mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-13T10:04:04Z",
+  "updatedAt": "2025-03-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000164",
+  "name": "Чайник NovaTech S85 #000164",
+  "description": "Чайник бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 2918.09,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 292,
+    "reserved": 68
+  },
+  "sku": "NovaTech-000164",
+  "tags": [
+    "дом",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-NovaTech-S85-000164.jpg",
+      "alt": "Чайник NovaTech S85 #000164 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-NovaTech-S85-000164_side.jpg",
+      "alt": "Чайник NovaTech S85 #000164 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1505g",
+    "dimensions": "282mm x 85mm x 8mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-16T10:04:04Z",
+  "updatedAt": "2025-02-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

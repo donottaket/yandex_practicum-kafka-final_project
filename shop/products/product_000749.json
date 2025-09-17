@@ -1,0 +1,42 @@
+{
+  "productId": "000749",
+  "name": "Смарт-велокомпьютер Neon Plus158 #000749",
+  "description": "Смарт-велокомпьютер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 51575.54,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 228,
+    "reserved": 73
+  },
+  "sku": "Neon-000749",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-Plus158-000749.jpg",
+      "alt": "Смарт-велокомпьютер Neon Plus158 #000749 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-Plus158-000749_side.jpg",
+      "alt": "Смарт-велокомпьютер Neon Plus158 #000749 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1041g",
+    "dimensions": "44mm x 157mm x 9mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-03T10:04:04Z",
+  "updatedAt": "2025-06-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

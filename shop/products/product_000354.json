@@ -1,0 +1,43 @@
+{
+  "productId": "000354",
+  "name": "Фитнес-трекер Astra Pro760 #000354",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 92585.02,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 189,
+    "reserved": 63
+  },
+  "sku": "Astra-000354",
+  "tags": [
+    "outdoor",
+    "спорт",
+    "активность",
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Pro760-000354.jpg",
+      "alt": "Фитнес-трекер Astra Pro760 #000354 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Pro760-000354_side.jpg",
+      "alt": "Фитнес-трекер Astra Pro760 #000354 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1176g",
+    "dimensions": "79mm x 170mm x 14mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-14T10:04:04Z",
+  "updatedAt": "2025-01-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

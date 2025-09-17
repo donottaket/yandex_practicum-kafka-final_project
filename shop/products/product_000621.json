@@ -1,0 +1,43 @@
+{
+  "productId": "000621",
+  "name": "Смартфон Quantum Pro426 #000621",
+  "description": "Смартфон бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 169691.01,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 102,
+    "reserved": 7
+  },
+  "sku": "Quantum-000621",
+  "tags": [
+    "gps",
+    "технологии",
+    "oled",
+    "bluetooth",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Quantum-Pro426-000621.jpg",
+      "alt": "Смартфон Quantum Pro426 #000621 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Quantum-Pro426-000621_side.jpg",
+      "alt": "Смартфон Quantum Pro426 #000621 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1966g",
+    "dimensions": "214mm x 52mm x 9mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-11T10:04:04Z",
+  "updatedAt": "2025-09-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

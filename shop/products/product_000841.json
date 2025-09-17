@@ -1,0 +1,40 @@
+{
+  "productId": "000841",
+  "name": "Наушники ACME X243 #000841",
+  "description": "Наушники бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 138011.46,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 408,
+    "reserved": 73
+  },
+  "sku": "ACME-000841",
+  "tags": [
+    "oled",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-ACME-X243-000841.jpg",
+      "alt": "Наушники ACME X243 #000841 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-ACME-X243-000841_side.jpg",
+      "alt": "Наушники ACME X243 #000841 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "659g",
+    "dimensions": "92mm x 58mm x 25mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-15T10:04:04Z",
+  "updatedAt": "2025-04-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

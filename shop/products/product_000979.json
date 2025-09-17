@@ -1,0 +1,40 @@
+{
+  "productId": "000979",
+  "name": "Кофемашина Lumen 59 #000979",
+  "description": "Кофемашина бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 68359.85,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 104,
+    "reserved": 12
+  },
+  "sku": "Lumen-000979",
+  "tags": [
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-59-000979.jpg",
+      "alt": "Кофемашина Lumen 59 #000979 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-59-000979_side.jpg",
+      "alt": "Кофемашина Lumen 59 #000979 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "550g",
+    "dimensions": "283mm x 131mm x 6mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-08-06T10:04:04Z",
+  "updatedAt": "2025-08-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

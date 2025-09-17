@@ -1,0 +1,42 @@
+{
+  "productId": "000520",
+  "name": "Куртка NovaTech Max951 #000520",
+  "description": "Куртка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 8962.16,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 249,
+    "reserved": 68
+  },
+  "sku": "NovaTech-000520",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-Max951-000520.jpg",
+      "alt": "Куртка NovaTech Max951 #000520 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-Max951-000520_side.jpg",
+      "alt": "Куртка NovaTech Max951 #000520 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "576g",
+    "dimensions": "49mm x 101mm x 44mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-16T10:04:04Z",
+  "updatedAt": "2024-09-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

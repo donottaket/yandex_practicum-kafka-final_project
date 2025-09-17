@@ -1,0 +1,42 @@
+{
+  "productId": "000753",
+  "name": "Робот-пылесос Lumen X397 #000753",
+  "description": "Робот-пылесос бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 55957.2,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 211,
+    "reserved": 66
+  },
+  "sku": "Lumen-000753",
+  "tags": [
+    "экономия энергии",
+    "тихий",
+    "кухня",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Lumen-X397-000753.jpg",
+      "alt": "Робот-пылесос Lumen X397 #000753 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Lumen-X397-000753_side.jpg",
+      "alt": "Робот-пылесос Lumen X397 #000753 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1969g",
+    "dimensions": "229mm x 36mm x 18mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-22T10:04:04Z",
+  "updatedAt": "2024-12-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000737",
+  "name": "Кофемашина Vega Pro200 #000737",
+  "description": "Кофемашина бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 78954.82,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 231,
+    "reserved": 78
+  },
+  "sku": "Vega-000737",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Vega-Pro200-000737.jpg",
+      "alt": "Кофемашина Vega Pro200 #000737 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Vega-Pro200-000737_side.jpg",
+      "alt": "Кофемашина Vega Pro200 #000737 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "58g",
+    "dimensions": "173mm x 22mm x 17mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-06-05T10:04:04Z",
+  "updatedAt": "2025-06-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

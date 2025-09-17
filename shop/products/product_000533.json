@@ -1,0 +1,43 @@
+{
+  "productId": "000533",
+  "name": "Смартфон Vega X98 #000533",
+  "description": "Смартфон бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 177541.62,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 37,
+    "reserved": 15
+  },
+  "sku": "Vega-000533",
+  "tags": [
+    "ios",
+    "android",
+    "технологии",
+    "oled",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Vega-X98-000533.jpg",
+      "alt": "Смартфон Vega X98 #000533 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Vega-X98-000533_side.jpg",
+      "alt": "Смартфон Vega X98 #000533 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "892g",
+    "dimensions": "197mm x 182mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-11T10:04:04Z",
+  "updatedAt": "2025-03-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

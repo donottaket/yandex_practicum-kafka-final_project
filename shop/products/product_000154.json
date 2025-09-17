@@ -1,0 +1,42 @@
+{
+  "productId": "000154",
+  "name": "Смарт-велокомпьютер Quantum 847 #000154",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 60398.94,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 498,
+    "reserved": 121
+  },
+  "sku": "Quantum-000154",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-847-000154.jpg",
+      "alt": "Смарт-велокомпьютер Quantum 847 #000154 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-847-000154_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum 847 #000154 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "968g",
+    "dimensions": "211mm x 59mm x 25mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-11-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

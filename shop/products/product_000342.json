@@ -1,0 +1,41 @@
+{
+  "productId": "000342",
+  "name": "Фитнес-трекер Neon S771 #000342",
+  "description": "Фитнес-трекер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 81869.89,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 46,
+    "reserved": 5
+  },
+  "sku": "Neon-000342",
+  "tags": [
+    "gps",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S771-000342.jpg",
+      "alt": "Фитнес-трекер Neon S771 #000342 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S771-000342_side.jpg",
+      "alt": "Фитнес-трекер Neon S771 #000342 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1860g",
+    "dimensions": "248mm x 39mm x 15mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-23T10:04:04Z",
+  "updatedAt": "2025-08-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

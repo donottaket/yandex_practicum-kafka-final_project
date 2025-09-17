@@ -1,0 +1,40 @@
+{
+  "productId": "000257",
+  "name": "Фитнес-браслет Polar Max271 #000257",
+  "description": "Фитнес-браслет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 148966.32,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 423,
+    "reserved": 209
+  },
+  "sku": "Polar-000257",
+  "tags": [
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-Max271-000257.jpg",
+      "alt": "Фитнес-браслет Polar Max271 #000257 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-Max271-000257_side.jpg",
+      "alt": "Фитнес-браслет Polar Max271 #000257 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "787g",
+    "dimensions": "117mm x 138mm x 21mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-30T10:04:04Z",
+  "updatedAt": "2025-04-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

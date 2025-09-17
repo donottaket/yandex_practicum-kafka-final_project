@@ -1,0 +1,40 @@
+{
+  "productId": "000840",
+  "name": "Смартфон NovaTech Max749 #000840",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 41863.42,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 252,
+    "reserved": 99
+  },
+  "sku": "NovaTech-000840",
+  "tags": [
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Max749-000840.jpg",
+      "alt": "Смартфон NovaTech Max749 #000840 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Max749-000840_side.jpg",
+      "alt": "Смартфон NovaTech Max749 #000840 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "58g",
+    "dimensions": "181mm x 87mm x 14mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-03T10:04:04Z",
+  "updatedAt": "2025-09-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000477",
+  "name": "Фитнес-браслет XYZ 308 #000477",
+  "description": "Фитнес-браслет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 175899.4,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 328,
+    "reserved": 8
+  },
+  "sku": "XYZ-000477",
+  "tags": [
+    "oled",
+    "гаджеты",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-308-000477.jpg",
+      "alt": "Фитнес-браслет XYZ 308 #000477 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-308-000477_side.jpg",
+      "alt": "Фитнес-браслет XYZ 308 #000477 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1572g",
+    "dimensions": "199mm x 106mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-17T10:04:04Z",
+  "updatedAt": "2025-03-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000462",
+  "name": "Блендер Lumen Pro741 #000462",
+  "description": "Блендер бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 2308.94,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 263,
+    "reserved": 71
+  },
+  "sku": "Lumen-000462",
+  "tags": [
+    "экономия энергии",
+    "кухня",
+    "дом",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Lumen-Pro741-000462.jpg",
+      "alt": "Блендер Lumen Pro741 #000462 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Lumen-Pro741-000462_side.jpg",
+      "alt": "Блендер Lumen Pro741 #000462 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1113g",
+    "dimensions": "38mm x 170mm x 9mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-19T10:04:04Z",
+  "updatedAt": "2025-02-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000227",
+  "name": "Спортивные часы Polar Lite719 #000227",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 1269.67,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 314,
+    "reserved": 54
+  },
+  "sku": "Polar-000227",
+  "tags": [
+    "здоровье",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite719-000227.jpg",
+      "alt": "Спортивные часы Polar Lite719 #000227 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite719-000227_side.jpg",
+      "alt": "Спортивные часы Polar Lite719 #000227 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1091g",
+    "dimensions": "247mm x 105mm x 42mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-08T10:04:04Z",
+  "updatedAt": "2024-11-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

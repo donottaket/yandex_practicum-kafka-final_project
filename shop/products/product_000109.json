@@ -1,0 +1,42 @@
+{
+  "productId": "000109",
+  "name": "Штаны Polar Max923 #000109",
+  "description": "Штаны бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 19166.28,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 271,
+    "reserved": 131
+  },
+  "sku": "Polar-000109",
+  "tags": [
+    "удобство",
+    "повседневное",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Polar-Max923-000109.jpg",
+      "alt": "Штаны Polar Max923 #000109 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Polar-Max923-000109_side.jpg",
+      "alt": "Штаны Polar Max923 #000109 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1263g",
+    "dimensions": "163mm x 29mm x 8mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-11T10:04:04Z",
+  "updatedAt": "2025-09-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

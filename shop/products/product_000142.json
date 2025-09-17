@@ -1,0 +1,43 @@
+{
+  "productId": "000142",
+  "name": "Спортивные часы XYZ S351 #000142",
+  "description": "Спортивные часы бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 71670.75,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 469,
+    "reserved": 211
+  },
+  "sku": "XYZ-000142",
+  "tags": [
+    "спорт",
+    "gps",
+    "outdoor",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-S351-000142.jpg",
+      "alt": "Спортивные часы XYZ S351 #000142 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-XYZ-S351-000142_side.jpg",
+      "alt": "Спортивные часы XYZ S351 #000142 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1783g",
+    "dimensions": "124mm x 192mm x 29mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-08T10:04:04Z",
+  "updatedAt": "2025-06-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

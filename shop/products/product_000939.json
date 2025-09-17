@@ -1,0 +1,40 @@
+{
+  "productId": "000939",
+  "name": "Пульсометр Polar Max395 #000939",
+  "description": "Пульсометр бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 79444.57,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 110,
+    "reserved": 14
+  },
+  "sku": "Polar-000939",
+  "tags": [
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Polar-Max395-000939.jpg",
+      "alt": "Пульсометр Polar Max395 #000939 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Polar-Max395-000939_side.jpg",
+      "alt": "Пульсометр Polar Max395 #000939 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1314g",
+    "dimensions": "60mm x 35mm x 15mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-15T10:04:04Z",
+  "updatedAt": "2025-07-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000961",
+  "name": "Пульсометр Orion Pro472 #000961",
+  "description": "Пульсометр бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 47154.11,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 276,
+    "reserved": 103
+  },
+  "sku": "Orion-000961",
+  "tags": [
+    "outdoor",
+    "здоровье",
+    "активность",
+    "спорт",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-Pro472-000961.jpg",
+      "alt": "Пульсометр Orion Pro472 #000961 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-Pro472-000961_side.jpg",
+      "alt": "Пульсометр Orion Pro472 #000961 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1081g",
+    "dimensions": "49mm x 28mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-14T10:04:04Z",
+  "updatedAt": "2025-02-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

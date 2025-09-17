@@ -1,0 +1,40 @@
+{
+  "productId": "000023",
+  "name": "Экшн-камера XYZ Max345 #000023",
+  "description": "Экшн-камера бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 14781.38,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 402,
+    "reserved": 58
+  },
+  "sku": "XYZ-000023",
+  "tags": [
+    "гаджеты",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-Max345-000023.jpg",
+      "alt": "Экшн-камера XYZ Max345 #000023 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-Max345-000023_side.jpg",
+      "alt": "Экшн-камера XYZ Max345 #000023 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1943g",
+    "dimensions": "157mm x 93mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-21T10:04:04Z",
+  "updatedAt": "2025-02-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

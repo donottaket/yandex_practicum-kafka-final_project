@@ -1,0 +1,43 @@
+{
+  "productId": "000616",
+  "name": "Кофемашина Neon Max514 #000616",
+  "description": "Кофемашина бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 46791.73,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 269,
+    "reserved": 100
+  },
+  "sku": "Neon-000616",
+  "tags": [
+    "дом",
+    "экономия энергии",
+    "кухня",
+    "умный дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-Max514-000616.jpg",
+      "alt": "Кофемашина Neon Max514 #000616 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-Max514-000616_side.jpg",
+      "alt": "Кофемашина Neon Max514 #000616 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1168g",
+    "dimensions": "259mm x 84mm x 46mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-24T10:04:04Z",
+  "updatedAt": "2025-04-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

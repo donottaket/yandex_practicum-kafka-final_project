@@ -1,0 +1,40 @@
+{
+  "productId": "000180",
+  "name": "Смартфон NovaTech Plus46 #000180",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 163167.56,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 472,
+    "reserved": 90
+  },
+  "sku": "NovaTech-000180",
+  "tags": [
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Plus46-000180.jpg",
+      "alt": "Смартфон NovaTech Plus46 #000180 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Plus46-000180_side.jpg",
+      "alt": "Смартфон NovaTech Plus46 #000180 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1953g",
+    "dimensions": "98mm x 115mm x 15mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-13T10:04:04Z",
+  "updatedAt": "2025-06-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

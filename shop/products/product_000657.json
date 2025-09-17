@@ -1,0 +1,41 @@
+{
+  "productId": "000657",
+  "name": "Смартфон NovaTech Pro280 #000657",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 34527.74,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 198,
+    "reserved": 0
+  },
+  "sku": "NovaTech-000657",
+  "tags": [
+    "oled",
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Pro280-000657.jpg",
+      "alt": "Смартфон NovaTech Pro280 #000657 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-Pro280-000657_side.jpg",
+      "alt": "Смартфон NovaTech Pro280 #000657 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1038g",
+    "dimensions": "47mm x 124mm x 46mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-12T10:04:04Z",
+  "updatedAt": "2025-01-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

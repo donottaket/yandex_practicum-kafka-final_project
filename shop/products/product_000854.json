@@ -1,0 +1,42 @@
+{
+  "productId": "000854",
+  "name": "Штаны NovaTech X755 #000854",
+  "description": "Штаны бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 26102.36,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 9,
+    "reserved": 2
+  },
+  "sku": "NovaTech-000854",
+  "tags": [
+    "удобство",
+    "мода",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-X755-000854.jpg",
+      "alt": "Штаны NovaTech X755 #000854 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-X755-000854_side.jpg",
+      "alt": "Штаны NovaTech X755 #000854 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "589g",
+    "dimensions": "58mm x 58mm x 29mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-27T10:04:04Z",
+  "updatedAt": "2024-11-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

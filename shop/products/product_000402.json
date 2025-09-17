@@ -1,0 +1,42 @@
+{
+  "productId": "000402",
+  "name": "Планшет Polar 714 #000402",
+  "description": "Планшет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 87940.41,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 227,
+    "reserved": 32
+  },
+  "sku": "Polar-000402",
+  "tags": [
+    "гаджеты",
+    "android",
+    "технологии",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Polar-714-000402.jpg",
+      "alt": "Планшет Polar 714 #000402 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Polar-714-000402_side.jpg",
+      "alt": "Планшет Polar 714 #000402 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1628g",
+    "dimensions": "261mm x 120mm x 12mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-08T10:04:04Z",
+  "updatedAt": "2024-12-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

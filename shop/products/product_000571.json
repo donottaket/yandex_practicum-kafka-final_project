@@ -1,0 +1,41 @@
+{
+  "productId": "000571",
+  "name": "Куртка NovaTech Lite99 #000571",
+  "description": "Куртка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 24948.66,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 96,
+    "reserved": 7
+  },
+  "sku": "NovaTech-000571",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-Lite99-000571.jpg",
+      "alt": "Куртка NovaTech Lite99 #000571 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-Lite99-000571_side.jpg",
+      "alt": "Куртка NovaTech Lite99 #000571 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1579g",
+    "dimensions": "34mm x 140mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-10T10:04:04Z",
+  "updatedAt": "2025-03-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

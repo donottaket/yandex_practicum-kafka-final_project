@@ -1,0 +1,40 @@
+{
+  "productId": "000479",
+  "name": "Увлажнитель воздуха Quantum Max250 #000479",
+  "description": "Увлажнитель воздуха бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 68207.86,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 215,
+    "reserved": 19
+  },
+  "sku": "Quantum-000479",
+  "tags": [
+    "кухня",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-Max250-000479.jpg",
+      "alt": "Увлажнитель воздуха Quantum Max250 #000479 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-Max250-000479_side.jpg",
+      "alt": "Увлажнитель воздуха Quantum Max250 #000479 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1663g",
+    "dimensions": "69mm x 67mm x 19mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-13T10:04:04Z",
+  "updatedAt": "2025-01-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

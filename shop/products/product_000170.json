@@ -1,0 +1,40 @@
+{
+  "productId": "000170",
+  "name": "Увлажнитель воздуха Lumen Lite320 #000170",
+  "description": "Увлажнитель воздуха бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 75013.36,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 191,
+    "reserved": 94
+  },
+  "sku": "Lumen-000170",
+  "tags": [
+    "экономия энергии",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-Lite320-000170.jpg",
+      "alt": "Увлажнитель воздуха Lumen Lite320 #000170 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-Lite320-000170_side.jpg",
+      "alt": "Увлажнитель воздуха Lumen Lite320 #000170 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1237g",
+    "dimensions": "71mm x 157mm x 21mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-21T10:04:04Z",
+  "updatedAt": "2024-10-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

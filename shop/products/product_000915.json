@@ -1,0 +1,41 @@
+{
+  "productId": "000915",
+  "name": "Наушники Polar Max49 #000915",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 173783.87,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 463,
+    "reserved": 56
+  },
+  "sku": "Polar-000915",
+  "tags": [
+    "bluetooth",
+    "oled",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-Max49-000915.jpg",
+      "alt": "Наушники Polar Max49 #000915 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-Max49-000915_side.jpg",
+      "alt": "Наушники Polar Max49 #000915 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "934g",
+    "dimensions": "101mm x 27mm x 16mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-09T10:04:04Z",
+  "updatedAt": "2025-08-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

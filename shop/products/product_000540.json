@@ -1,0 +1,40 @@
+{
+  "productId": "000540",
+  "name": "Штаны Lumen Max826 #000540",
+  "description": "Штаны бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 18868.61,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 112,
+    "reserved": 21
+  },
+  "sku": "Lumen-000540",
+  "tags": [
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Lumen-Max826-000540.jpg",
+      "alt": "Штаны Lumen Max826 #000540 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Lumen-Max826-000540_side.jpg",
+      "alt": "Штаны Lumen Max826 #000540 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1797g",
+    "dimensions": "129mm x 115mm x 9mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-24T10:04:04Z",
+  "updatedAt": "2025-08-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

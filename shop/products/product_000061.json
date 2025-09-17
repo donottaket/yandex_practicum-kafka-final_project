@@ -1,0 +1,40 @@
+{
+  "productId": "000061",
+  "name": "Пульсометр Vega S608 #000061",
+  "description": "Пульсометр бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 64325.93,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 234,
+    "reserved": 63
+  },
+  "sku": "Vega-000061",
+  "tags": [
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Vega-S608-000061.jpg",
+      "alt": "Пульсометр Vega S608 #000061 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Vega-S608-000061_side.jpg",
+      "alt": "Пульсометр Vega S608 #000061 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1566g",
+    "dimensions": "55mm x 190mm x 28mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-08T10:04:04Z",
+  "updatedAt": "2025-02-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

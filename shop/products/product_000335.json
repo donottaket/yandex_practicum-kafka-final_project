@@ -1,0 +1,41 @@
+{
+  "productId": "000335",
+  "name": "Наушники Polar S330 #000335",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 174261.51,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 411,
+    "reserved": 13
+  },
+  "sku": "Polar-000335",
+  "tags": [
+    "ios",
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-S330-000335.jpg",
+      "alt": "Наушники Polar S330 #000335 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-S330-000335_side.jpg",
+      "alt": "Наушники Polar S330 #000335 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "592g",
+    "dimensions": "194mm x 108mm x 43mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-13T10:04:04Z",
+  "updatedAt": "2025-05-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

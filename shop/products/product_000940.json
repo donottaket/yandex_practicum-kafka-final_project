@@ -1,0 +1,40 @@
+{
+  "productId": "000940",
+  "name": "Фитнес-трекер Polar Lite209 #000940",
+  "description": "Фитнес-трекер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 58162.24,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 26,
+    "reserved": 13
+  },
+  "sku": "Polar-000940",
+  "tags": [
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-Lite209-000940.jpg",
+      "alt": "Фитнес-трекер Polar Lite209 #000940 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-Lite209-000940_side.jpg",
+      "alt": "Фитнес-трекер Polar Lite209 #000940 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1117g",
+    "dimensions": "80mm x 45mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-06T10:04:04Z",
+  "updatedAt": "2025-04-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

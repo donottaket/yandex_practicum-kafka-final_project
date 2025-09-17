@@ -1,0 +1,42 @@
+{
+  "productId": "000439",
+  "name": "Наушники Polar Plus366 #000439",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 155439.5,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 435,
+    "reserved": 203
+  },
+  "sku": "Polar-000439",
+  "tags": [
+    "android",
+    "oled",
+    "гаджеты",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-Plus366-000439.jpg",
+      "alt": "Наушники Polar Plus366 #000439 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-Plus366-000439_side.jpg",
+      "alt": "Наушники Polar Plus366 #000439 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1875g",
+    "dimensions": "60mm x 190mm x 17mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-26T10:04:04Z",
+  "updatedAt": "2025-03-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000457",
+  "name": "Фитнес-браслет Quantum S521 #000457",
+  "description": "Фитнес-браслет бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 13388.99,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 297,
+    "reserved": 67
+  },
+  "sku": "Quantum-000457",
+  "tags": [
+    "bluetooth",
+    "ios",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-S521-000457.jpg",
+      "alt": "Фитнес-браслет Quantum S521 #000457 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Quantum-S521-000457_side.jpg",
+      "alt": "Фитнес-браслет Quantum S521 #000457 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1581g",
+    "dimensions": "239mm x 79mm x 49mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-25T10:04:04Z",
+  "updatedAt": "2024-10-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

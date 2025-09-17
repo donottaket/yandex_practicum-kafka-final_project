@@ -1,0 +1,41 @@
+{
+  "productId": "000951",
+  "name": "Увлажнитель воздуха Neon 767 #000951",
+  "description": "Увлажнитель воздуха бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 22029.38,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 146,
+    "reserved": 17
+  },
+  "sku": "Neon-000951",
+  "tags": [
+    "экономия энергии",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Neon-767-000951.jpg",
+      "alt": "Увлажнитель воздуха Neon 767 #000951 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Neon-767-000951_side.jpg",
+      "alt": "Увлажнитель воздуха Neon 767 #000951 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "378g",
+    "dimensions": "293mm x 48mm x 15mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-11T10:04:04Z",
+  "updatedAt": "2025-01-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

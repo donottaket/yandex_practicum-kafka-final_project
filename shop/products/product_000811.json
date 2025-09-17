@@ -1,0 +1,40 @@
+{
+  "productId": "000811",
+  "name": "Футболка Quantum X819 #000811",
+  "description": "Футболка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 40912.04,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 440,
+    "reserved": 80
+  },
+  "sku": "Quantum-000811",
+  "tags": [
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Quantum-X819-000811.jpg",
+      "alt": "Футболка Quantum X819 #000811 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Quantum-X819-000811_side.jpg",
+      "alt": "Футболка Quantum X819 #000811 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1808g",
+    "dimensions": "219mm x 54mm x 49mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-16T10:04:04Z",
+  "updatedAt": "2025-05-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

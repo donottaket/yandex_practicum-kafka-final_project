@@ -1,0 +1,41 @@
+{
+  "productId": "000823",
+  "name": "Пульсометр Quantum 620 #000823",
+  "description": "Пульсометр бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 38494.2,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 416,
+    "reserved": 154
+  },
+  "sku": "Quantum-000823",
+  "tags": [
+    "здоровье",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-620-000823.jpg",
+      "alt": "Пульсометр Quantum 620 #000823 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Quantum-620-000823_side.jpg",
+      "alt": "Пульсометр Quantum 620 #000823 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "581g",
+    "dimensions": "55mm x 104mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-29T10:04:04Z",
+  "updatedAt": "2025-07-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

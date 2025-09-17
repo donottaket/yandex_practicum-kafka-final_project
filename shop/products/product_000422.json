@@ -1,0 +1,41 @@
+{
+  "productId": "000422",
+  "name": "Увлажнитель воздуха Vega Lite79 #000422",
+  "description": "Увлажнитель воздуха бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 33845.08,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 428,
+    "reserved": 125
+  },
+  "sku": "Vega-000422",
+  "tags": [
+    "умный дом",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-Lite79-000422.jpg",
+      "alt": "Увлажнитель воздуха Vega Lite79 #000422 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Vega-Lite79-000422_side.jpg",
+      "alt": "Увлажнитель воздуха Vega Lite79 #000422 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "856g",
+    "dimensions": "201mm x 196mm x 47mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-21T10:04:04Z",
+  "updatedAt": "2025-08-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000450",
+  "name": "Смартфон Polar S737 #000450",
+  "description": "Смартфон бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 22558.32,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 437,
+    "reserved": 194
+  },
+  "sku": "Polar-000450",
+  "tags": [
+    "android",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Polar-S737-000450.jpg",
+      "alt": "Смартфон Polar S737 #000450 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Polar-S737-000450_side.jpg",
+      "alt": "Смартфон Polar S737 #000450 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1645g",
+    "dimensions": "248mm x 178mm x 26mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-06T10:04:04Z",
+  "updatedAt": "2024-11-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000714",
+  "name": "Робот-пылесос NovaTech X55 #000714",
+  "description": "Робот-пылесос бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 38920.32,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 354,
+    "reserved": 38
+  },
+  "sku": "NovaTech-000714",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-X55-000714.jpg",
+      "alt": "Робот-пылесос NovaTech X55 #000714 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-X55-000714_side.jpg",
+      "alt": "Робот-пылесос NovaTech X55 #000714 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1304g",
+    "dimensions": "69mm x 141mm x 39mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-17T10:04:04Z",
+  "updatedAt": "2025-05-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

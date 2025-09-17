@@ -1,0 +1,41 @@
+{
+  "productId": "000441",
+  "name": "Чайник Polar Max378 #000441",
+  "description": "Чайник бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 58133.92,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 41,
+    "reserved": 4
+  },
+  "sku": "Polar-000441",
+  "tags": [
+    "дом",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Polar-Max378-000441.jpg",
+      "alt": "Чайник Polar Max378 #000441 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Polar-Max378-000441_side.jpg",
+      "alt": "Чайник Polar Max378 #000441 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "650g",
+    "dimensions": "167mm x 36mm x 48mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-09T10:04:04Z",
+  "updatedAt": "2024-12-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

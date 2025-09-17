@@ -1,0 +1,43 @@
+{
+  "productId": "000053",
+  "name": "Умные часы XYZ Plus740 #000053",
+  "description": "Умные часы бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 130420.88,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 426,
+    "reserved": 115
+  },
+  "sku": "XYZ-000053",
+  "tags": [
+    "gps",
+    "технологии",
+    "android",
+    "oled",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-XYZ-Plus740-000053.jpg",
+      "alt": "Умные часы XYZ Plus740 #000053 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-XYZ-Plus740-000053_side.jpg",
+      "alt": "Умные часы XYZ Plus740 #000053 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "730g",
+    "dimensions": "135mm x 135mm x 14mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-18T10:04:04Z",
+  "updatedAt": "2025-03-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

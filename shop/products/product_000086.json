@@ -1,0 +1,40 @@
+{
+  "productId": "000086",
+  "name": "Штаны NovaTech S899 #000086",
+  "description": "Штаны бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 6321.64,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 467,
+    "reserved": 126
+  },
+  "sku": "NovaTech-000086",
+  "tags": [
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-S899-000086.jpg",
+      "alt": "Штаны NovaTech S899 #000086 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-NovaTech-S899-000086_side.jpg",
+      "alt": "Штаны NovaTech S899 #000086 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "413g",
+    "dimensions": "282mm x 111mm x 14mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-03-18T10:04:04Z",
+  "updatedAt": "2025-05-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

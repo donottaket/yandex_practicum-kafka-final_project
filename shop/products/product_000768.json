@@ -1,0 +1,42 @@
+{
+  "productId": "000768",
+  "name": "Спортивные часы Astra X684 #000768",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 11493.99,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 129,
+    "reserved": 37
+  },
+  "sku": "Astra-000768",
+  "tags": [
+    "outdoor",
+    "gps",
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-X684-000768.jpg",
+      "alt": "Спортивные часы Astra X684 #000768 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-X684-000768_side.jpg",
+      "alt": "Спортивные часы Astra X684 #000768 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "744g",
+    "dimensions": "264mm x 30mm x 26mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-05T10:04:04Z",
+  "updatedAt": "2024-12-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

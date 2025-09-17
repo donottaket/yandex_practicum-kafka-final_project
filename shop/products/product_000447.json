@@ -1,0 +1,43 @@
+{
+  "productId": "000447",
+  "name": "Увлажнитель воздуха Polar Plus972 #000447",
+  "description": "Увлажнитель воздуха бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 39145.96,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 390,
+    "reserved": 14
+  },
+  "sku": "Polar-000447",
+  "tags": [
+    "тихий",
+    "дом",
+    "умный дом",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Polar-Plus972-000447.jpg",
+      "alt": "Увлажнитель воздуха Polar Plus972 #000447 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Polar-Plus972-000447_side.jpg",
+      "alt": "Увлажнитель воздуха Polar Plus972 #000447 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1855g",
+    "dimensions": "229mm x 118mm x 5mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-16T10:04:04Z",
+  "updatedAt": "2025-07-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000336",
+  "name": "Футболка NovaTech X909 #000336",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 3138.91,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 236,
+    "reserved": 72
+  },
+  "sku": "NovaTech-000336",
+  "tags": [
+    "мода",
+    "стиль",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-X909-000336.jpg",
+      "alt": "Футболка NovaTech X909 #000336 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-X909-000336_side.jpg",
+      "alt": "Футболка NovaTech X909 #000336 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1130g",
+    "dimensions": "296mm x 164mm x 42mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-16T10:04:04Z",
+  "updatedAt": "2025-03-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

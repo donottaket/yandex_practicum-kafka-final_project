@@ -1,0 +1,43 @@
+{
+  "productId": "000216",
+  "name": "Кофемашина Astra Max991 #000216",
+  "description": "Кофемашина бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 42440.64,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 490,
+    "reserved": 90
+  },
+  "sku": "Astra-000216",
+  "tags": [
+    "кухня",
+    "тихий",
+    "умный дом",
+    "экономия энергии",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Astra-Max991-000216.jpg",
+      "alt": "Кофемашина Astra Max991 #000216 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Astra-Max991-000216_side.jpg",
+      "alt": "Кофемашина Astra Max991 #000216 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1440g",
+    "dimensions": "154mm x 119mm x 24mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-20T10:04:04Z",
+  "updatedAt": "2025-06-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000159",
+  "name": "Футболка Orion 613 #000159",
+  "description": "Футболка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 16861.15,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 464,
+    "reserved": 19
+  },
+  "sku": "Orion-000159",
+  "tags": [
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Orion-613-000159.jpg",
+      "alt": "Футболка Orion 613 #000159 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Orion-613-000159_side.jpg",
+      "alt": "Футболка Orion 613 #000159 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "437g",
+    "dimensions": "68mm x 68mm x 36mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-30T10:04:04Z",
+  "updatedAt": "2025-02-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

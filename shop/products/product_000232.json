@@ -1,0 +1,43 @@
+{
+  "productId": "000232",
+  "name": "Спортивные часы Astra X401 #000232",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 17070.09,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 428,
+    "reserved": 91
+  },
+  "sku": "Astra-000232",
+  "tags": [
+    "спорт",
+    "gps",
+    "outdoor",
+    "активность",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-X401-000232.jpg",
+      "alt": "Спортивные часы Astra X401 #000232 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-X401-000232_side.jpg",
+      "alt": "Спортивные часы Astra X401 #000232 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "385g",
+    "dimensions": "223mm x 33mm x 24mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-23T10:04:04Z",
+  "updatedAt": "2025-07-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

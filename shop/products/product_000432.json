@@ -1,0 +1,42 @@
+{
+  "productId": "000432",
+  "name": "Куртка Orion 288 #000432",
+  "description": "Куртка бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 4312.78,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 1,
+    "reserved": 0
+  },
+  "sku": "Orion-000432",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Orion-288-000432.jpg",
+      "alt": "Куртка Orion 288 #000432 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Orion-288-000432_side.jpg",
+      "alt": "Куртка Orion 288 #000432 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "277g",
+    "dimensions": "109mm x 101mm x 35mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-22T10:04:04Z",
+  "updatedAt": "2025-07-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

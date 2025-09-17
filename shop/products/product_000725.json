@@ -1,0 +1,43 @@
+{
+  "productId": "000725",
+  "name": "Кофемашина Quantum 467 #000725",
+  "description": "Кофемашина бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 24080.07,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 334,
+    "reserved": 49
+  },
+  "sku": "Quantum-000725",
+  "tags": [
+    "умный дом",
+    "экономия энергии",
+    "дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Quantum-467-000725.jpg",
+      "alt": "Кофемашина Quantum 467 #000725 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Quantum-467-000725_side.jpg",
+      "alt": "Кофемашина Quantum 467 #000725 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1434g",
+    "dimensions": "95mm x 148mm x 37mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-28T10:04:04Z",
+  "updatedAt": "2025-03-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

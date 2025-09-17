@@ -1,0 +1,42 @@
+{
+  "productId": "000898",
+  "name": "Чайник Quantum Lite329 #000898",
+  "description": "Чайник бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 21965.07,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 231,
+    "reserved": 110
+  },
+  "sku": "Quantum-000898",
+  "tags": [
+    "экономия энергии",
+    "тихий",
+    "кухня",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Quantum-Lite329-000898.jpg",
+      "alt": "Чайник Quantum Lite329 #000898 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Quantum-Lite329-000898_side.jpg",
+      "alt": "Чайник Quantum Lite329 #000898 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1603g",
+    "dimensions": "214mm x 30mm x 25mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-02T10:04:04Z",
+  "updatedAt": "2025-06-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000238",
+  "name": "Пульсометр NovaTech Max31 #000238",
+  "description": "Пульсометр бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 12928.32,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 473,
+    "reserved": 83
+  },
+  "sku": "NovaTech-000238",
+  "tags": [
+    "outdoor",
+    "спорт",
+    "gps",
+    "здоровье",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Max31-000238.jpg",
+      "alt": "Пульсометр NovaTech Max31 #000238 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-NovaTech-Max31-000238_side.jpg",
+      "alt": "Пульсометр NovaTech Max31 #000238 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1102g",
+    "dimensions": "191mm x 49mm x 34mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-26T10:04:04Z",
+  "updatedAt": "2025-03-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

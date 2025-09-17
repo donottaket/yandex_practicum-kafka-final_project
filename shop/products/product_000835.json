@@ -1,0 +1,43 @@
+{
+  "productId": "000835",
+  "name": "Смартфон Polar X591 #000835",
+  "description": "Смартфон бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 37930.49,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 29,
+    "reserved": 2
+  },
+  "sku": "Polar-000835",
+  "tags": [
+    "android",
+    "ios",
+    "гаджеты",
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Polar-X591-000835.jpg",
+      "alt": "Смартфон Polar X591 #000835 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Polar-X591-000835_side.jpg",
+      "alt": "Смартфон Polar X591 #000835 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "455g",
+    "dimensions": "147mm x 102mm x 47mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-07T10:04:04Z",
+  "updatedAt": "2025-04-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

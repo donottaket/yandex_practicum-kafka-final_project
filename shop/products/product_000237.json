@@ -1,0 +1,42 @@
+{
+  "productId": "000237",
+  "name": "Кроссовки Vega 873 #000237",
+  "description": "Кроссовки бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 16231.4,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 117,
+    "reserved": 18
+  },
+  "sku": "Vega-000237",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Vega-873-000237.jpg",
+      "alt": "Кроссовки Vega 873 #000237 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Vega-873-000237_side.jpg",
+      "alt": "Кроссовки Vega 873 #000237 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1508g",
+    "dimensions": "64mm x 69mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-11T10:04:04Z",
+  "updatedAt": "2025-06-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

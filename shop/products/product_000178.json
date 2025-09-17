@@ -1,0 +1,42 @@
+{
+  "productId": "000178",
+  "name": "Футболка Quantum Plus138 #000178",
+  "description": "Футболка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 36564.41,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 54,
+    "reserved": 4
+  },
+  "sku": "Quantum-000178",
+  "tags": [
+    "удобство",
+    "повседневное",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Quantum-Plus138-000178.jpg",
+      "alt": "Футболка Quantum Plus138 #000178 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Quantum-Plus138-000178_side.jpg",
+      "alt": "Футболка Quantum Plus138 #000178 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "361g",
+    "dimensions": "162mm x 153mm x 41mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-26T10:04:04Z",
+  "updatedAt": "2025-04-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

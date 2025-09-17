@@ -1,0 +1,40 @@
+{
+  "productId": "000904",
+  "name": "Робот-пылесос NovaTech Pro143 #000904",
+  "description": "Робот-пылесос бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 25326.59,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 146,
+    "reserved": 32
+  },
+  "sku": "NovaTech-000904",
+  "tags": [
+    "тихий",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-Pro143-000904.jpg",
+      "alt": "Робот-пылесос NovaTech Pro143 #000904 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-Pro143-000904_side.jpg",
+      "alt": "Робот-пылесос NovaTech Pro143 #000904 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1821g",
+    "dimensions": "222mm x 81mm x 5mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-17T10:04:04Z",
+  "updatedAt": "2025-06-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

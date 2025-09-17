@@ -1,0 +1,40 @@
+{
+  "productId": "000385",
+  "name": "Блендер NovaTech X159 #000385",
+  "description": "Блендер бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 33682.0,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 375,
+    "reserved": 92
+  },
+  "sku": "NovaTech-000385",
+  "tags": [
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-X159-000385.jpg",
+      "alt": "Блендер NovaTech X159 #000385 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-NovaTech-X159-000385_side.jpg",
+      "alt": "Блендер NovaTech X159 #000385 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "563g",
+    "dimensions": "84mm x 183mm x 23mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-17T10:04:04Z",
+  "updatedAt": "2025-03-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

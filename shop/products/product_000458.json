@@ -1,0 +1,42 @@
+{
+  "productId": "000458",
+  "name": "Планшет XYZ Lite703 #000458",
+  "description": "Планшет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 188008.19,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 155,
+    "reserved": 9
+  },
+  "sku": "XYZ-000458",
+  "tags": [
+    "технологии",
+    "oled",
+    "bluetooth",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-XYZ-Lite703-000458.jpg",
+      "alt": "Планшет XYZ Lite703 #000458 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-XYZ-Lite703-000458_side.jpg",
+      "alt": "Планшет XYZ Lite703 #000458 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1782g",
+    "dimensions": "68mm x 40mm x 10mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-12T10:04:04Z",
+  "updatedAt": "2025-06-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

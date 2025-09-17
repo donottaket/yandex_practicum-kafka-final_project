@@ -1,0 +1,43 @@
+{
+  "productId": "000004",
+  "name": "Фитнес-трекер Vega Max577 #000004",
+  "description": "Фитнес-трекер бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 83318.78,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 37,
+    "reserved": 14
+  },
+  "sku": "Vega-000004",
+  "tags": [
+    "gps",
+    "активность",
+    "спорт",
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Max577-000004.jpg",
+      "alt": "Фитнес-трекер Vega Max577 #000004 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Vega-Max577-000004_side.jpg",
+      "alt": "Фитнес-трекер Vega Max577 #000004 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "794g",
+    "dimensions": "36mm x 110mm x 19mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-26T10:04:04Z",
+  "updatedAt": "2025-03-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

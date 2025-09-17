@@ -1,0 +1,40 @@
+{
+  "productId": "000882",
+  "name": "Кофемашина Astra 417 #000882",
+  "description": "Кофемашина бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 27424.87,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 396,
+    "reserved": 158
+  },
+  "sku": "Astra-000882",
+  "tags": [
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Astra-417-000882.jpg",
+      "alt": "Кофемашина Astra 417 #000882 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Astra-417-000882_side.jpg",
+      "alt": "Кофемашина Astra 417 #000882 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "614g",
+    "dimensions": "212mm x 65mm x 20mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-12T10:04:04Z",
+  "updatedAt": "2025-03-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

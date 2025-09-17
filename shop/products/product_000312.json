@@ -1,0 +1,40 @@
+{
+  "productId": "000312",
+  "name": "Штаны Quantum 353 #000312",
+  "description": "Штаны бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 14256.19,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 130,
+    "reserved": 63
+  },
+  "sku": "Quantum-000312",
+  "tags": [
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Quantum-353-000312.jpg",
+      "alt": "Штаны Quantum 353 #000312 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Quantum-353-000312_side.jpg",
+      "alt": "Штаны Quantum 353 #000312 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "954g",
+    "dimensions": "31mm x 46mm x 19mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-28T10:04:04Z",
+  "updatedAt": "2025-02-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000219",
+  "name": "Пульсометр Astra Max716 #000219",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 49979.97,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 160,
+    "reserved": 5
+  },
+  "sku": "Astra-000219",
+  "tags": [
+    "gps",
+    "здоровье",
+    "активность",
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Max716-000219.jpg",
+      "alt": "Пульсометр Astra Max716 #000219 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Max716-000219_side.jpg",
+      "alt": "Пульсометр Astra Max716 #000219 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "388g",
+    "dimensions": "60mm x 53mm x 11mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-07-01T10:04:04Z",
+  "updatedAt": "2025-08-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

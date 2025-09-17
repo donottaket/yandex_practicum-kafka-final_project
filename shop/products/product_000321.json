@@ -1,0 +1,40 @@
+{
+  "productId": "000321",
+  "name": "Пульсометр Vega S962 #000321",
+  "description": "Пульсометр бренда Vega. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 34177.46,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Vega",
+  "stock": {
+    "available": 305,
+    "reserved": 128
+  },
+  "sku": "Vega-000321",
+  "tags": [
+    "outdoor",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Vega-S962-000321.jpg",
+      "alt": "Пульсометр Vega S962 #000321 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Vega-S962-000321_side.jpg",
+      "alt": "Пульсометр Vega S962 #000321 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1461g",
+    "dimensions": "201mm x 116mm x 12mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-18T10:04:04Z",
+  "updatedAt": "2025-07-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000236",
+  "name": "Пульсометр Orion Lite976 #000236",
+  "description": "Пульсометр бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 5678.01,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 7,
+    "reserved": 2
+  },
+  "sku": "Orion-000236",
+  "tags": [
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-Lite976-000236.jpg",
+      "alt": "Пульсометр Orion Lite976 #000236 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Orion-Lite976-000236_side.jpg",
+      "alt": "Пульсометр Orion Lite976 #000236 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "2000g",
+    "dimensions": "119mm x 119mm x 48mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-28T10:04:04Z",
+  "updatedAt": "2024-11-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

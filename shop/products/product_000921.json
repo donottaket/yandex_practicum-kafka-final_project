@@ -1,0 +1,40 @@
+{
+  "productId": "000921",
+  "name": "Планшет NovaTech Plus70 #000921",
+  "description": "Планшет бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 65746.76,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 121,
+    "reserved": 43
+  },
+  "sku": "NovaTech-000921",
+  "tags": [
+    "bluetooth",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Plus70-000921.jpg",
+      "alt": "Планшет NovaTech Plus70 #000921 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-NovaTech-Plus70-000921_side.jpg",
+      "alt": "Планшет NovaTech Plus70 #000921 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "389g",
+    "dimensions": "89mm x 98mm x 26mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-05T10:04:04Z",
+  "updatedAt": "2025-05-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

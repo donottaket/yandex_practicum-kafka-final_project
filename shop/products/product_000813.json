@@ -1,0 +1,41 @@
+{
+  "productId": "000813",
+  "name": "Штаны Quantum Plus845 #000813",
+  "description": "Штаны бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 20273.18,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 204,
+    "reserved": 36
+  },
+  "sku": "Quantum-000813",
+  "tags": [
+    "мода",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Plus845-000813.jpg",
+      "alt": "Штаны Quantum Plus845 #000813 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Plus845-000813_side.jpg",
+      "alt": "Штаны Quantum Plus845 #000813 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1761g",
+    "dimensions": "102mm x 99mm x 7mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-02T10:04:04Z",
+  "updatedAt": "2025-08-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

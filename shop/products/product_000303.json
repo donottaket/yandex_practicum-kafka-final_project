@@ -1,0 +1,43 @@
+{
+  "productId": "000303",
+  "name": "Смарт-велокомпьютер Lumen 406 #000303",
+  "description": "Смарт-велокомпьютер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 69063.68,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 314,
+    "reserved": 18
+  },
+  "sku": "Lumen-000303",
+  "tags": [
+    "здоровье",
+    "спорт",
+    "активность",
+    "gps",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-406-000303.jpg",
+      "alt": "Смарт-велокомпьютер Lumen 406 #000303 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Lumen-406-000303_side.jpg",
+      "alt": "Смарт-велокомпьютер Lumen 406 #000303 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1794g",
+    "dimensions": "263mm x 185mm x 13mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-06T10:04:04Z",
+  "updatedAt": "2024-12-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

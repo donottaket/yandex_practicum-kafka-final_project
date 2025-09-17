@@ -1,0 +1,43 @@
+{
+  "productId": "000617",
+  "name": "Смарт-велокомпьютер Quantum Plus854 #000617",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 96224.62,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 185,
+    "reserved": 72
+  },
+  "sku": "Quantum-000617",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Plus854-000617.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Plus854 #000617 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Plus854-000617_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Plus854 #000617 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1198g",
+    "dimensions": "54mm x 195mm x 42mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-09T10:04:04Z",
+  "updatedAt": "2025-04-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

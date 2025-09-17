@@ -1,0 +1,43 @@
+{
+  "productId": "000172",
+  "name": "Умные часы Vega 196 #000172",
+  "description": "Умные часы бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 66845.39,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 227,
+    "reserved": 77
+  },
+  "sku": "Vega-000172",
+  "tags": [
+    "гаджеты",
+    "ios",
+    "gps",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-196-000172.jpg",
+      "alt": "Умные часы Vega 196 #000172 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-196-000172_side.jpg",
+      "alt": "Умные часы Vega 196 #000172 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1089g",
+    "dimensions": "44mm x 129mm x 49mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-05T10:04:04Z",
+  "updatedAt": "2025-01-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

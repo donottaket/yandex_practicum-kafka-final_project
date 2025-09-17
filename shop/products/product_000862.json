@@ -1,0 +1,42 @@
+{
+  "productId": "000862",
+  "name": "Куртка Neon 134 #000862",
+  "description": "Куртка бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 18612.13,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 89,
+    "reserved": 4
+  },
+  "sku": "Neon-000862",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Neon-134-000862.jpg",
+      "alt": "Куртка Neon 134 #000862 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Neon-134-000862_side.jpg",
+      "alt": "Куртка Neon 134 #000862 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1000g",
+    "dimensions": "34mm x 180mm x 22mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-22T10:04:04Z",
+  "updatedAt": "2025-07-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000563",
+  "name": "Худи Polar X470 #000563",
+  "description": "Худи бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 31547.14,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 257,
+    "reserved": 57
+  },
+  "sku": "Polar-000563",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Polar-X470-000563.jpg",
+      "alt": "Худи Polar X470 #000563 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Polar-X470-000563_side.jpg",
+      "alt": "Худи Polar X470 #000563 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1322g",
+    "dimensions": "51mm x 55mm x 46mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-06-24T10:04:04Z",
+  "updatedAt": "2025-07-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

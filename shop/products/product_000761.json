@@ -1,0 +1,43 @@
+{
+  "productId": "000761",
+  "name": "Спортивные часы Astra Max462 #000761",
+  "description": "Спортивные часы бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 15972.7,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 39,
+    "reserved": 1
+  },
+  "sku": "Astra-000761",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Max462-000761.jpg",
+      "alt": "Спортивные часы Astra Max462 #000761 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Astra-Max462-000761_side.jpg",
+      "alt": "Спортивные часы Astra Max462 #000761 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1377g",
+    "dimensions": "231mm x 93mm x 35mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-18T10:04:04Z",
+  "updatedAt": "2025-05-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

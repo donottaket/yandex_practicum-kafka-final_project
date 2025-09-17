@@ -1,0 +1,43 @@
+{
+  "productId": "000187",
+  "name": "Пульсометр Lumen X890 #000187",
+  "description": "Пульсометр бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 46712.2,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 206,
+    "reserved": 91
+  },
+  "sku": "Lumen-000187",
+  "tags": [
+    "активность",
+    "gps",
+    "здоровье",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-X890-000187.jpg",
+      "alt": "Пульсометр Lumen X890 #000187 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Lumen-X890-000187_side.jpg",
+      "alt": "Пульсометр Lumen X890 #000187 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1946g",
+    "dimensions": "40mm x 55mm x 18mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-11T10:04:04Z",
+  "updatedAt": "2025-03-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

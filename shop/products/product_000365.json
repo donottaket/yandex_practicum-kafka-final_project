@@ -1,0 +1,40 @@
+{
+  "productId": "000365",
+  "name": "Фитнес-трекер NovaTech Plus967 #000365",
+  "description": "Фитнес-трекер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 4917.53,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 320,
+    "reserved": 1
+  },
+  "sku": "NovaTech-000365",
+  "tags": [
+    "здоровье",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Plus967-000365.jpg",
+      "alt": "Фитнес-трекер NovaTech Plus967 #000365 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-NovaTech-Plus967-000365_side.jpg",
+      "alt": "Фитнес-трекер NovaTech Plus967 #000365 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1007g",
+    "dimensions": "121mm x 124mm x 21mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-19T10:04:04Z",
+  "updatedAt": "2024-12-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

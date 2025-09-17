@@ -1,0 +1,42 @@
+{
+  "productId": "000185",
+  "name": "Смарт-велокомпьютер ACME 552 #000185",
+  "description": "Смарт-велокомпьютер бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 11195.54,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 224,
+    "reserved": 52
+  },
+  "sku": "ACME-000185",
+  "tags": [
+    "gps",
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-552-000185.jpg",
+      "alt": "Смарт-велокомпьютер ACME 552 #000185 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-552-000185_side.jpg",
+      "alt": "Смарт-велокомпьютер ACME 552 #000185 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1218g",
+    "dimensions": "155mm x 56mm x 12mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-31T10:04:04Z",
+  "updatedAt": "2024-12-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000995",
+  "name": "Спортивные часы Quantum Lite271 #000995",
+  "description": "Спортивные часы бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 84944.86,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 358,
+    "reserved": 123
+  },
+  "sku": "Quantum-000995",
+  "tags": [
+    "outdoor",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Quantum-Lite271-000995.jpg",
+      "alt": "Спортивные часы Quantum Lite271 #000995 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Quantum-Lite271-000995_side.jpg",
+      "alt": "Спортивные часы Quantum Lite271 #000995 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "234g",
+    "dimensions": "110mm x 36mm x 6mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-01T10:04:04Z",
+  "updatedAt": "2025-08-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

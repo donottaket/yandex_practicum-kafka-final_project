@@ -1,0 +1,41 @@
+{
+  "productId": "000773",
+  "name": "Куртка ACME X672 #000773",
+  "description": "Куртка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 11257.04,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 479,
+    "reserved": 114
+  },
+  "sku": "ACME-000773",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-ACME-X672-000773.jpg",
+      "alt": "Куртка ACME X672 #000773 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-ACME-X672-000773_side.jpg",
+      "alt": "Куртка ACME X672 #000773 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1300g",
+    "dimensions": "176mm x 185mm x 40mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-23T10:04:04Z",
+  "updatedAt": "2025-03-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

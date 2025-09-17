@@ -1,0 +1,42 @@
+{
+  "productId": "000965",
+  "name": "Штаны Neon 199 #000965",
+  "description": "Штаны бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 20661.35,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 60,
+    "reserved": 25
+  },
+  "sku": "Neon-000965",
+  "tags": [
+    "мода",
+    "удобство",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Neon-199-000965.jpg",
+      "alt": "Штаны Neon 199 #000965 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Neon-199-000965_side.jpg",
+      "alt": "Штаны Neon 199 #000965 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "975g",
+    "dimensions": "111mm x 95mm x 19mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-02-06T10:04:04Z",
+  "updatedAt": "2025-02-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000655",
+  "name": "Увлажнитель воздуха Lumen S333 #000655",
+  "description": "Увлажнитель воздуха бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 29939.68,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 1,
+    "reserved": 0
+  },
+  "sku": "Lumen-000655",
+  "tags": [
+    "экономия энергии",
+    "кухня",
+    "дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-S333-000655.jpg",
+      "alt": "Увлажнитель воздуха Lumen S333 #000655 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Lumen-S333-000655_side.jpg",
+      "alt": "Увлажнитель воздуха Lumen S333 #000655 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1482g",
+    "dimensions": "36mm x 39mm x 38mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-09T10:04:04Z",
+  "updatedAt": "2025-06-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

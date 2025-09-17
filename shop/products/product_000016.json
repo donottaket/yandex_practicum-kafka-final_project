@@ -1,0 +1,41 @@
+{
+  "productId": "000016",
+  "name": "Куртка Quantum Pro518 #000016",
+  "description": "Куртка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 43340.83,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 23,
+    "reserved": 4
+  },
+  "sku": "Quantum-000016",
+  "tags": [
+    "стиль",
+    "удобство",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Quantum-Pro518-000016.jpg",
+      "alt": "Куртка Quantum Pro518 #000016 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Quantum-Pro518-000016_side.jpg",
+      "alt": "Куртка Quantum Pro518 #000016 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1007g",
+    "dimensions": "144mm x 92mm x 38mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-22T10:04:04Z",
+  "updatedAt": "2025-06-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

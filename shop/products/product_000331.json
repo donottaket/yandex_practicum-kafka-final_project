@@ -1,0 +1,40 @@
+{
+  "productId": "000331",
+  "name": "Планшет Vega 697 #000331",
+  "description": "Планшет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 171100.44,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 325,
+    "reserved": 147
+  },
+  "sku": "Vega-000331",
+  "tags": [
+    "технологии",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Vega-697-000331.jpg",
+      "alt": "Планшет Vega 697 #000331 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Vega-697-000331_side.jpg",
+      "alt": "Планшет Vega 697 #000331 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "158g",
+    "dimensions": "32mm x 110mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-31T10:04:04Z",
+  "updatedAt": "2025-03-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000183",
+  "name": "Спортивные часы ACME Plus371 #000183",
+  "description": "Спортивные часы бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 78554.56,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 13,
+    "reserved": 6
+  },
+  "sku": "ACME-000183",
+  "tags": [
+    "активность",
+    "здоровье",
+    "спорт",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Plus371-000183.jpg",
+      "alt": "Спортивные часы ACME Plus371 #000183 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-ACME-Plus371-000183_side.jpg",
+      "alt": "Спортивные часы ACME Plus371 #000183 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "467g",
+    "dimensions": "288mm x 162mm x 37mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-12T10:04:04Z",
+  "updatedAt": "2025-08-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

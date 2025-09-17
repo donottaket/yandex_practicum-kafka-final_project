@@ -1,0 +1,40 @@
+{
+  "productId": "000486",
+  "name": "Увлажнитель воздуха Quantum Lite511 #000486",
+  "description": "Увлажнитель воздуха бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 78284.09,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 269,
+    "reserved": 97
+  },
+  "sku": "Quantum-000486",
+  "tags": [
+    "умный дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-Lite511-000486.jpg",
+      "alt": "Увлажнитель воздуха Quantum Lite511 #000486 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-Lite511-000486_side.jpg",
+      "alt": "Увлажнитель воздуха Quantum Lite511 #000486 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "870g",
+    "dimensions": "112mm x 196mm x 37mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-04T10:04:04Z",
+  "updatedAt": "2025-05-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000857",
+  "name": "Кофемашина Vega S652 #000857",
+  "description": "Кофемашина бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 69140.63,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 48,
+    "reserved": 23
+  },
+  "sku": "Vega-000857",
+  "tags": [
+    "кухня",
+    "дом",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Vega-S652-000857.jpg",
+      "alt": "Кофемашина Vega S652 #000857 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Vega-S652-000857_side.jpg",
+      "alt": "Кофемашина Vega S652 #000857 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1679g",
+    "dimensions": "231mm x 75mm x 40mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-07-13T10:04:04Z",
+  "updatedAt": "2025-08-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

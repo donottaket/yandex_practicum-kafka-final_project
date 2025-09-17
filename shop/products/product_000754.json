@@ -1,0 +1,41 @@
+{
+  "productId": "000754",
+  "name": "Умные часы Vega Pro360 #000754",
+  "description": "Умные часы бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 167798.41,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 493,
+    "reserved": 95
+  },
+  "sku": "Vega-000754",
+  "tags": [
+    "ios",
+    "oled",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-Pro360-000754.jpg",
+      "alt": "Умные часы Vega Pro360 #000754 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Vega-Pro360-000754_side.jpg",
+      "alt": "Умные часы Vega Pro360 #000754 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1504g",
+    "dimensions": "195mm x 171mm x 35mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-31T10:04:04Z",
+  "updatedAt": "2025-02-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

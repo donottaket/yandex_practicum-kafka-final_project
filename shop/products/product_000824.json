@@ -1,0 +1,42 @@
+{
+  "productId": "000824",
+  "name": "Фитнес-браслет Astra Plus599 #000824",
+  "description": "Фитнес-браслет бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 118124.59,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 136,
+    "reserved": 38
+  },
+  "sku": "Astra-000824",
+  "tags": [
+    "ios",
+    "android",
+    "гаджеты",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Astra-Plus599-000824.jpg",
+      "alt": "Фитнес-браслет Astra Plus599 #000824 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Astra-Plus599-000824_side.jpg",
+      "alt": "Фитнес-браслет Astra Plus599 #000824 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1165g",
+    "dimensions": "295mm x 136mm x 6mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-14T10:04:04Z",
+  "updatedAt": "2024-11-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

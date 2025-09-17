@@ -1,0 +1,42 @@
+{
+  "productId": "000856",
+  "name": "Худи ACME S531 #000856",
+  "description": "Худи бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 32002.98,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 424,
+    "reserved": 147
+  },
+  "sku": "ACME-000856",
+  "tags": [
+    "удобство",
+    "мода",
+    "повседневное",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-ACME-S531-000856.jpg",
+      "alt": "Худи ACME S531 #000856 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-ACME-S531-000856_side.jpg",
+      "alt": "Худи ACME S531 #000856 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1544g",
+    "dimensions": "246mm x 78mm x 28mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-11T10:04:04Z",
+  "updatedAt": "2024-12-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

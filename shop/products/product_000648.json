@@ -1,0 +1,42 @@
+{
+  "productId": "000648",
+  "name": "Фитнес-трекер Lumen Lite857 #000648",
+  "description": "Фитнес-трекер бренда Lumen. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 47802.19,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Lumen",
+  "stock": {
+    "available": 96,
+    "reserved": 7
+  },
+  "sku": "Lumen-000648",
+  "tags": [
+    "здоровье",
+    "активность",
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Lite857-000648.jpg",
+      "alt": "Фитнес-трекер Lumen Lite857 #000648 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Lumen-Lite857-000648_side.jpg",
+      "alt": "Фитнес-трекер Lumen Lite857 #000648 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "340g",
+    "dimensions": "192mm x 127mm x 38mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-16T10:04:04Z",
+  "updatedAt": "2024-11-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

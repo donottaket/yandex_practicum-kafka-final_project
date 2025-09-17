@@ -1,0 +1,42 @@
+{
+  "productId": "000605",
+  "name": "Блендер Astra Plus468 #000605",
+  "description": "Блендер бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 69638.36,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 10,
+    "reserved": 2
+  },
+  "sku": "Astra-000605",
+  "tags": [
+    "дом",
+    "кухня",
+    "умный дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Astra-Plus468-000605.jpg",
+      "alt": "Блендер Astra Plus468 #000605 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Astra-Plus468-000605_side.jpg",
+      "alt": "Блендер Astra Plus468 #000605 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1440g",
+    "dimensions": "164mm x 116mm x 21mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-27T10:04:04Z",
+  "updatedAt": "2024-12-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

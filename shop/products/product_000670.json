@@ -1,0 +1,43 @@
+{
+  "productId": "000670",
+  "name": "Спортивные часы NovaTech 907 #000670",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 81333.33,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 496,
+    "reserved": 248
+  },
+  "sku": "NovaTech-000670",
+  "tags": [
+    "спорт",
+    "outdoor",
+    "здоровье",
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-907-000670.jpg",
+      "alt": "Спортивные часы NovaTech 907 #000670 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-907-000670_side.jpg",
+      "alt": "Спортивные часы NovaTech 907 #000670 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1315g",
+    "dimensions": "47mm x 140mm x 31mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-03T10:04:04Z",
+  "updatedAt": "2025-03-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

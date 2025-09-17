@@ -1,0 +1,40 @@
+{
+  "productId": "000405",
+  "name": "Куртка NovaTech Plus721 #000405",
+  "description": "Куртка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 2196.27,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 497,
+    "reserved": 33
+  },
+  "sku": "NovaTech-000405",
+  "tags": [
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-Plus721-000405.jpg",
+      "alt": "Куртка NovaTech Plus721 #000405 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-NovaTech-Plus721-000405_side.jpg",
+      "alt": "Куртка NovaTech Plus721 #000405 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "66g",
+    "dimensions": "99mm x 134mm x 7mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-16T10:04:04Z",
+  "updatedAt": "2024-12-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000644",
+  "name": "Кофемашина Neon Plus204 #000644",
+  "description": "Кофемашина бренда Neon. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 34283.64,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Neon",
+  "stock": {
+    "available": 52,
+    "reserved": 1
+  },
+  "sku": "Neon-000644",
+  "tags": [
+    "умный дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-Plus204-000644.jpg",
+      "alt": "Кофемашина Neon Plus204 #000644 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Neon-Plus204-000644_side.jpg",
+      "alt": "Кофемашина Neon Plus204 #000644 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1562g",
+    "dimensions": "108mm x 45mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-10T10:04:04Z",
+  "updatedAt": "2025-01-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

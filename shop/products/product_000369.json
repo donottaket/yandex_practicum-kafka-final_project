@@ -1,0 +1,42 @@
+{
+  "productId": "000369",
+  "name": "Чайник Vega S208 #000369",
+  "description": "Чайник бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 34340.59,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 282,
+    "reserved": 121
+  },
+  "sku": "Vega-000369",
+  "tags": [
+    "тихий",
+    "кухня",
+    "дом",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Vega-S208-000369.jpg",
+      "alt": "Чайник Vega S208 #000369 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Vega-S208-000369_side.jpg",
+      "alt": "Чайник Vega S208 #000369 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1968g",
+    "dimensions": "148mm x 194mm x 7mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-24T10:04:04Z",
+  "updatedAt": "2025-01-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

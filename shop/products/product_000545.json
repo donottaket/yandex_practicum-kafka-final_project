@@ -1,0 +1,41 @@
+{
+  "productId": "000545",
+  "name": "Фитнес-трекер Astra X407 #000545",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 15661.83,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 4,
+    "reserved": 2
+  },
+  "sku": "Astra-000545",
+  "tags": [
+    "здоровье",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-X407-000545.jpg",
+      "alt": "Фитнес-трекер Astra X407 #000545 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-X407-000545_side.jpg",
+      "alt": "Фитнес-трекер Astra X407 #000545 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1459g",
+    "dimensions": "42mm x 188mm x 39mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-24T10:04:04Z",
+  "updatedAt": "2025-04-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

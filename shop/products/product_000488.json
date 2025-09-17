@@ -1,0 +1,41 @@
+{
+  "productId": "000488",
+  "name": "Смартфон Astra Max132 #000488",
+  "description": "Смартфон бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 69275.75,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 395,
+    "reserved": 113
+  },
+  "sku": "Astra-000488",
+  "tags": [
+    "android",
+    "gps",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Astra-Max132-000488.jpg",
+      "alt": "Смартфон Astra Max132 #000488 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Astra-Max132-000488_side.jpg",
+      "alt": "Смартфон Astra Max132 #000488 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1006g",
+    "dimensions": "41mm x 131mm x 48mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-20T10:04:04Z",
+  "updatedAt": "2024-11-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000437",
+  "name": "Пульсометр Astra 903 #000437",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 9485.9,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 464,
+    "reserved": 91
+  },
+  "sku": "Astra-000437",
+  "tags": [
+    "здоровье",
+    "outdoor",
+    "gps",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-903-000437.jpg",
+      "alt": "Пульсометр Astra 903 #000437 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-903-000437_side.jpg",
+      "alt": "Пульсометр Astra 903 #000437 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1609g",
+    "dimensions": "246mm x 21mm x 48mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-02T10:04:04Z",
+  "updatedAt": "2025-09-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

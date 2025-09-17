@@ -1,0 +1,41 @@
+{
+  "productId": "000032",
+  "name": "Экшн-камера XYZ 431 #000032",
+  "description": "Экшн-камера бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 194893.64,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 196,
+    "reserved": 42
+  },
+  "sku": "XYZ-000032",
+  "tags": [
+    "android",
+    "ios",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-431-000032.jpg",
+      "alt": "Экшн-камера XYZ 431 #000032 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-431-000032_side.jpg",
+      "alt": "Экшн-камера XYZ 431 #000032 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1397g",
+    "dimensions": "83mm x 42mm x 7mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-16T10:04:04Z",
+  "updatedAt": "2025-01-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000426",
+  "name": "Экшн-камера Orion Max31 #000426",
+  "description": "Экшн-камера бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 52618.16,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 206,
+    "reserved": 47
+  },
+  "sku": "Orion-000426",
+  "tags": [
+    "oled",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Orion-Max31-000426.jpg",
+      "alt": "Экшн-камера Orion Max31 #000426 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Orion-Max31-000426_side.jpg",
+      "alt": "Экшн-камера Orion Max31 #000426 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1559g",
+    "dimensions": "247mm x 193mm x 44mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-09-22T10:04:04Z",
+  "updatedAt": "2024-11-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

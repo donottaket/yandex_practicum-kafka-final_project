@@ -1,0 +1,42 @@
+{
+  "productId": "000315",
+  "name": "Экшн-камера Quantum 735 #000315",
+  "description": "Экшн-камера бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 12384.71,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 94,
+    "reserved": 22
+  },
+  "sku": "Quantum-000315",
+  "tags": [
+    "gps",
+    "ios",
+    "android",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Quantum-735-000315.jpg",
+      "alt": "Экшн-камера Quantum 735 #000315 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Quantum-735-000315_side.jpg",
+      "alt": "Экшн-камера Quantum 735 #000315 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1805g",
+    "dimensions": "209mm x 123mm x 45mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-21T10:04:04Z",
+  "updatedAt": "2025-03-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

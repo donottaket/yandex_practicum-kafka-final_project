@@ -1,0 +1,43 @@
+{
+  "productId": "000431",
+  "name": "Наушники Orion Lite454 #000431",
+  "description": "Наушники бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 75649.04,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 240,
+    "reserved": 80
+  },
+  "sku": "Orion-000431",
+  "tags": [
+    "гаджеты",
+    "android",
+    "ios",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Orion-Lite454-000431.jpg",
+      "alt": "Наушники Orion Lite454 #000431 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Orion-Lite454-000431_side.jpg",
+      "alt": "Наушники Orion Lite454 #000431 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1291g",
+    "dimensions": "127mm x 147mm x 7mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-20T10:04:04Z",
+  "updatedAt": "2025-09-16T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

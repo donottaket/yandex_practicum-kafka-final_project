@@ -1,0 +1,41 @@
+{
+  "productId": "000492",
+  "name": "Фитнес-браслет Polar Lite639 #000492",
+  "description": "Фитнес-браслет бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 120574.17,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 312,
+    "reserved": 37
+  },
+  "sku": "Polar-000492",
+  "tags": [
+    "oled",
+    "технологии",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-Lite639-000492.jpg",
+      "alt": "Фитнес-браслет Polar Lite639 #000492 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Polar-Lite639-000492_side.jpg",
+      "alt": "Фитнес-браслет Polar Lite639 #000492 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1061g",
+    "dimensions": "131mm x 28mm x 21mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-17T10:04:04Z",
+  "updatedAt": "2025-01-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

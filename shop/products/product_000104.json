@@ -1,0 +1,42 @@
+{
+  "productId": "000104",
+  "name": "Смарт-велокомпьютер Quantum Pro278 #000104",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 98392.94,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 81,
+    "reserved": 34
+  },
+  "sku": "Quantum-000104",
+  "tags": [
+    "активность",
+    "спорт",
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Pro278-000104.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Pro278 #000104 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-Pro278-000104_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum Pro278 #000104 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1179g",
+    "dimensions": "211mm x 57mm x 31mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-03T10:04:04Z",
+  "updatedAt": "2024-11-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000559",
+  "name": "Кофемашина XYZ S421 #000559",
+  "description": "Кофемашина бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 26669.68,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 136,
+    "reserved": 52
+  },
+  "sku": "XYZ-000559",
+  "tags": [
+    "кухня",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-XYZ-S421-000559.jpg",
+      "alt": "Кофемашина XYZ S421 #000559 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-XYZ-S421-000559_side.jpg",
+      "alt": "Кофемашина XYZ S421 #000559 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1410g",
+    "dimensions": "164mm x 30mm x 30mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-06T10:04:04Z",
+  "updatedAt": "2024-11-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

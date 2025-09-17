@@ -1,0 +1,42 @@
+{
+  "productId": "000380",
+  "name": "Футболка NovaTech Lite808 #000380",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49031.15,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 494,
+    "reserved": 152
+  },
+  "sku": "NovaTech-000380",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Lite808-000380.jpg",
+      "alt": "Футболка NovaTech Lite808 #000380 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Lite808-000380_side.jpg",
+      "alt": "Футболка NovaTech Lite808 #000380 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "970g",
+    "dimensions": "300mm x 156mm x 15mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-27T10:04:04Z",
+  "updatedAt": "2025-04-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

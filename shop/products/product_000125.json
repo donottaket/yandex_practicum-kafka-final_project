@@ -1,0 +1,40 @@
+{
+  "productId": "000125",
+  "name": "Кофемашина Polar X502 #000125",
+  "description": "Кофемашина бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 62397.68,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 350,
+    "reserved": 24
+  },
+  "sku": "Polar-000125",
+  "tags": [
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-X502-000125.jpg",
+      "alt": "Кофемашина Polar X502 #000125 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Polar-X502-000125_side.jpg",
+      "alt": "Кофемашина Polar X502 #000125 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "836g",
+    "dimensions": "85mm x 31mm x 21mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-27T10:04:04Z",
+  "updatedAt": "2025-05-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

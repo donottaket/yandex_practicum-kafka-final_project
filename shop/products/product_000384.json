@@ -1,0 +1,42 @@
+{
+  "productId": "000384",
+  "name": "Умные часы Astra S256 #000384",
+  "description": "Умные часы бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 55380.4,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 228,
+    "reserved": 113
+  },
+  "sku": "Astra-000384",
+  "tags": [
+    "гаджеты",
+    "android",
+    "gps",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-S256-000384.jpg",
+      "alt": "Умные часы Astra S256 #000384 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Astra-S256-000384_side.jpg",
+      "alt": "Умные часы Astra S256 #000384 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1060g",
+    "dimensions": "110mm x 105mm x 41mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-08T10:04:04Z",
+  "updatedAt": "2025-09-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

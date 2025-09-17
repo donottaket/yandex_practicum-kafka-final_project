@@ -1,0 +1,42 @@
+{
+  "productId": "000712",
+  "name": "Футболка NovaTech Pro570 #000712",
+  "description": "Футболка бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 35968.61,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 12,
+    "reserved": 5
+  },
+  "sku": "NovaTech-000712",
+  "tags": [
+    "мода",
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Pro570-000712.jpg",
+      "alt": "Футболка NovaTech Pro570 #000712 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-NovaTech-Pro570-000712_side.jpg",
+      "alt": "Футболка NovaTech Pro570 #000712 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "736g",
+    "dimensions": "65mm x 95mm x 7mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-13T10:04:04Z",
+  "updatedAt": "2025-03-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000064",
+  "name": "Спортивные часы NovaTech 457 #000064",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 2814.53,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 397,
+    "reserved": 117
+  },
+  "sku": "NovaTech-000064",
+  "tags": [
+    "спорт",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-457-000064.jpg",
+      "alt": "Спортивные часы NovaTech 457 #000064 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-457-000064_side.jpg",
+      "alt": "Спортивные часы NovaTech 457 #000064 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1963g",
+    "dimensions": "59mm x 122mm x 9mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-21T10:04:04Z",
+  "updatedAt": "2024-10-12T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

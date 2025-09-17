@@ -1,0 +1,43 @@
+{
+  "productId": "000668",
+  "name": "Смартфон Neon Pro475 #000668",
+  "description": "Смартфон бренда Neon. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 157374.01,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Neon",
+  "stock": {
+    "available": 420,
+    "reserved": 112
+  },
+  "sku": "Neon-000668",
+  "tags": [
+    "oled",
+    "технологии",
+    "android",
+    "gps",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-Neon-Pro475-000668.jpg",
+      "alt": "Смартфон Neon Pro475 #000668 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-Neon-Pro475-000668_side.jpg",
+      "alt": "Смартфон Neon Pro475 #000668 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "230g",
+    "dimensions": "33mm x 126mm x 31mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-15T10:04:04Z",
+  "updatedAt": "2025-01-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

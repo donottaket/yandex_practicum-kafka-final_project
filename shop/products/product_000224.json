@@ -1,0 +1,43 @@
+{
+  "productId": "000224",
+  "name": "Смартфон XYZ Plus58 #000224",
+  "description": "Смартфон бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 179845.61,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 464,
+    "reserved": 120
+  },
+  "sku": "XYZ-000224",
+  "tags": [
+    "gps",
+    "bluetooth",
+    "oled",
+    "ios",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-Plus58-000224.jpg",
+      "alt": "Смартфон XYZ Plus58 #000224 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-XYZ-Plus58-000224_side.jpg",
+      "alt": "Смартфон XYZ Plus58 #000224 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "147g",
+    "dimensions": "258mm x 182mm x 28mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-11-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

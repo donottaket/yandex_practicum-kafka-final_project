@@ -1,0 +1,42 @@
+{
+  "productId": "000817",
+  "name": "Худи XYZ Max222 #000817",
+  "description": "Худи бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 39728.84,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 127,
+    "reserved": 5
+  },
+  "sku": "XYZ-000817",
+  "tags": [
+    "удобство",
+    "стиль",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-XYZ-Max222-000817.jpg",
+      "alt": "Худи XYZ Max222 #000817 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-XYZ-Max222-000817_side.jpg",
+      "alt": "Худи XYZ Max222 #000817 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1126g",
+    "dimensions": "297mm x 177mm x 35mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-23T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

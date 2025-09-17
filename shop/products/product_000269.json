@@ -1,0 +1,41 @@
+{
+  "productId": "000269",
+  "name": "Наушники Polar S849 #000269",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 104609.36,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 79,
+    "reserved": 0
+  },
+  "sku": "Polar-000269",
+  "tags": [
+    "gps",
+    "технологии",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-S849-000269.jpg",
+      "alt": "Наушники Polar S849 #000269 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-S849-000269_side.jpg",
+      "alt": "Наушники Polar S849 #000269 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1354g",
+    "dimensions": "135mm x 37mm x 32mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-12T10:04:04Z",
+  "updatedAt": "2024-12-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

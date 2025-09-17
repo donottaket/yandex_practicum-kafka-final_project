@@ -1,0 +1,42 @@
+{
+  "productId": "000429",
+  "name": "Футболка Polar S919 #000429",
+  "description": "Футболка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 6567.06,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 177,
+    "reserved": 16
+  },
+  "sku": "Polar-000429",
+  "tags": [
+    "мода",
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Polar-S919-000429.jpg",
+      "alt": "Футболка Polar S919 #000429 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Polar-S919-000429_side.jpg",
+      "alt": "Футболка Polar S919 #000429 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1567g",
+    "dimensions": "227mm x 170mm x 12mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-24T10:04:04Z",
+  "updatedAt": "2025-05-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

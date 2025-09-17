@@ -1,0 +1,40 @@
+{
+  "productId": "000440",
+  "name": "Футболка Vega Plus140 #000440",
+  "description": "Футболка бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 33602.3,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 500,
+    "reserved": 128
+  },
+  "sku": "Vega-000440",
+  "tags": [
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Vega-Plus140-000440.jpg",
+      "alt": "Футболка Vega Plus140 #000440 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Vega-Plus140-000440_side.jpg",
+      "alt": "Футболка Vega Plus140 #000440 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "749g",
+    "dimensions": "212mm x 101mm x 21mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-31T10:04:04Z",
+  "updatedAt": "2025-02-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

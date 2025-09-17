@@ -1,0 +1,40 @@
+{
+  "productId": "000065",
+  "name": "Фитнес-трекер Astra Lite204 #000065",
+  "description": "Фитнес-трекер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 48214.42,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 11,
+    "reserved": 0
+  },
+  "sku": "Astra-000065",
+  "tags": [
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Lite204-000065.jpg",
+      "alt": "Фитнес-трекер Astra Lite204 #000065 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Astra-Lite204-000065_side.jpg",
+      "alt": "Фитнес-трекер Astra Lite204 #000065 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1181g",
+    "dimensions": "100mm x 197mm x 15mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-10T10:04:04Z",
+  "updatedAt": "2025-05-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

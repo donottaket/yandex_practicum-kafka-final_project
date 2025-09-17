@@ -1,0 +1,40 @@
+{
+  "productId": "000538",
+  "name": "Спортивные часы NovaTech X759 #000538",
+  "description": "Спортивные часы бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 30159.5,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 53,
+    "reserved": 7
+  },
+  "sku": "NovaTech-000538",
+  "tags": [
+    "активность",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-X759-000538.jpg",
+      "alt": "Спортивные часы NovaTech X759 #000538 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-NovaTech-X759-000538_side.jpg",
+      "alt": "Спортивные часы NovaTech X759 #000538 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "108g",
+    "dimensions": "122mm x 59mm x 27mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-08-02T10:04:04Z",
+  "updatedAt": "2025-09-20T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

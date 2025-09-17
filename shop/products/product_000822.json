@@ -1,0 +1,41 @@
+{
+  "productId": "000822",
+  "name": "Спортивные часы Orion Pro512 #000822",
+  "description": "Спортивные часы бренда Orion. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 14673.35,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Orion",
+  "stock": {
+    "available": 333,
+    "reserved": 108
+  },
+  "sku": "Orion-000822",
+  "tags": [
+    "активность",
+    "здоровье",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Pro512-000822.jpg",
+      "alt": "Спортивные часы Orion Pro512 #000822 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Orion-Pro512-000822_side.jpg",
+      "alt": "Спортивные часы Orion Pro512 #000822 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "982g",
+    "dimensions": "168mm x 47mm x 48mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-22T10:04:04Z",
+  "updatedAt": "2025-05-09T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000810",
+  "name": "Фитнес-трекер XYZ Max322 #000810",
+  "description": "Фитнес-трекер бренда XYZ. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 42768.44,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "XYZ",
+  "stock": {
+    "available": 416,
+    "reserved": 176
+  },
+  "sku": "XYZ-000810",
+  "tags": [
+    "здоровье",
+    "gps",
+    "outdoor",
+    "активность",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-XYZ-Max322-000810.jpg",
+      "alt": "Фитнес-трекер XYZ Max322 #000810 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-XYZ-Max322-000810_side.jpg",
+      "alt": "Фитнес-трекер XYZ Max322 #000810 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "805g",
+    "dimensions": "92mm x 83mm x 49mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-02T10:04:04Z",
+  "updatedAt": "2025-04-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000911",
+  "name": "Чайник XYZ Pro558 #000911",
+  "description": "Чайник бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 78279.8,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 87,
+    "reserved": 14
+  },
+  "sku": "XYZ-000911",
+  "tags": [
+    "дом",
+    "тихий",
+    "экономия энергии",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Pro558-000911.jpg",
+      "alt": "Чайник XYZ Pro558 #000911 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-XYZ-Pro558-000911_side.jpg",
+      "alt": "Чайник XYZ Pro558 #000911 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1194g",
+    "dimensions": "229mm x 105mm x 34mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-27T10:04:04Z",
+  "updatedAt": "2025-02-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

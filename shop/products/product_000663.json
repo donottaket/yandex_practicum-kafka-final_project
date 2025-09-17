@@ -1,0 +1,43 @@
+{
+  "productId": "000663",
+  "name": "Чайник Vega 89 #000663",
+  "description": "Чайник бренда Vega. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 60234.04,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Vega",
+  "stock": {
+    "available": 210,
+    "reserved": 78
+  },
+  "sku": "Vega-000663",
+  "tags": [
+    "умный дом",
+    "дом",
+    "экономия энергии",
+    "тихий",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-Vega-89-000663.jpg",
+      "alt": "Чайник Vega 89 #000663 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-Vega-89-000663_side.jpg",
+      "alt": "Чайник Vega 89 #000663 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1934g",
+    "dimensions": "288mm x 162mm x 16mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-02T10:04:04Z",
+  "updatedAt": "2024-11-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

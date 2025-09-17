@@ -1,0 +1,41 @@
+{
+  "productId": "000372",
+  "name": "Экшн-камера Astra S335 #000372",
+  "description": "Экшн-камера бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 159692.73,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 218,
+    "reserved": 4
+  },
+  "sku": "Astra-000372",
+  "tags": [
+    "android",
+    "gps",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-S335-000372.jpg",
+      "alt": "Экшн-камера Astra S335 #000372 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-S335-000372_side.jpg",
+      "alt": "Экшн-камера Astra S335 #000372 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "312g",
+    "dimensions": "48mm x 101mm x 49mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-09-28T10:04:04Z",
+  "updatedAt": "2024-10-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

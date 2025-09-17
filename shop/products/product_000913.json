@@ -1,0 +1,41 @@
+{
+  "productId": "000913",
+  "name": "Кроссовки NovaTech Max598 #000913",
+  "description": "Кроссовки бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 16911.83,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 305,
+    "reserved": 109
+  },
+  "sku": "NovaTech-000913",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-NovaTech-Max598-000913.jpg",
+      "alt": "Кроссовки NovaTech Max598 #000913 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-NovaTech-Max598-000913_side.jpg",
+      "alt": "Кроссовки NovaTech Max598 #000913 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1927g",
+    "dimensions": "79mm x 155mm x 27mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-27T10:04:04Z",
+  "updatedAt": "2025-05-19T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

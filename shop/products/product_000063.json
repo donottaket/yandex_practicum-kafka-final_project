@@ -1,0 +1,43 @@
+{
+  "productId": "000063",
+  "name": "Кофемашина Orion Pro893 #000063",
+  "description": "Кофемашина бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 78316.03,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 172,
+    "reserved": 26
+  },
+  "sku": "Orion-000063",
+  "tags": [
+    "экономия энергии",
+    "дом",
+    "умный дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-Pro893-000063.jpg",
+      "alt": "Кофемашина Orion Pro893 #000063 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-Pro893-000063_side.jpg",
+      "alt": "Кофемашина Orion Pro893 #000063 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1469g",
+    "dimensions": "122mm x 167mm x 32mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-12-02T10:04:04Z",
+  "updatedAt": "2024-12-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

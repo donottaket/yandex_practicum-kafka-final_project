@@ -1,0 +1,42 @@
+{
+  "productId": "000834",
+  "name": "Худи NovaTech 278 #000834",
+  "description": "Худи бренда NovaTech. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 46497.31,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 364,
+    "reserved": 17
+  },
+  "sku": "NovaTech-000834",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-NovaTech-278-000834.jpg",
+      "alt": "Худи NovaTech 278 #000834 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-NovaTech-278-000834_side.jpg",
+      "alt": "Худи NovaTech 278 #000834 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1883g",
+    "dimensions": "90mm x 197mm x 10mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-14T10:04:04Z",
+  "updatedAt": "2025-04-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

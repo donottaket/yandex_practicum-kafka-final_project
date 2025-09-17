@@ -1,0 +1,43 @@
+{
+  "productId": "000206",
+  "name": "Смарт-велокомпьютер Astra 160 #000206",
+  "description": "Смарт-велокомпьютер бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 24401.28,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 111,
+    "reserved": 49
+  },
+  "sku": "Astra-000206",
+  "tags": [
+    "gps",
+    "активность",
+    "здоровье",
+    "outdoor",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Astra-160-000206.jpg",
+      "alt": "Смарт-велокомпьютер Astra 160 #000206 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Astra-160-000206_side.jpg",
+      "alt": "Смарт-велокомпьютер Astra 160 #000206 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "897g",
+    "dimensions": "68mm x 31mm x 28mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-08-11T10:04:04Z",
+  "updatedAt": "2025-09-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

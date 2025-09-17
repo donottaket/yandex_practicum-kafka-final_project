@@ -1,0 +1,41 @@
+{
+  "productId": "000542",
+  "name": "Увлажнитель воздуха ACME 609 #000542",
+  "description": "Увлажнитель воздуха бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 48902.42,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 187,
+    "reserved": 80
+  },
+  "sku": "ACME-000542",
+  "tags": [
+    "тихий",
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-609-000542.jpg",
+      "alt": "Увлажнитель воздуха ACME 609 #000542 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-ACME-609-000542_side.jpg",
+      "alt": "Увлажнитель воздуха ACME 609 #000542 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1773g",
+    "dimensions": "183mm x 199mm x 14mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-08-03T10:04:04Z",
+  "updatedAt": "2025-09-27T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

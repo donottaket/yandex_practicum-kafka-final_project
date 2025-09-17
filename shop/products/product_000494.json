@@ -1,0 +1,42 @@
+{
+  "productId": "000494",
+  "name": "Чайник ACME Lite843 #000494",
+  "description": "Чайник бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 78414.07,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 120,
+    "reserved": 53
+  },
+  "sku": "ACME-000494",
+  "tags": [
+    "экономия энергии",
+    "дом",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Чайник-ACME-Lite843-000494.jpg",
+      "alt": "Чайник ACME Lite843 #000494 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Чайник-ACME-Lite843-000494_side.jpg",
+      "alt": "Чайник ACME Lite843 #000494 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "785g",
+    "dimensions": "298mm x 121mm x 12mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-19T10:04:04Z",
+  "updatedAt": "2025-09-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000080",
+  "name": "Пульсометр ACME Pro344 #000080",
+  "description": "Пульсометр бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 39391.14,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 497,
+    "reserved": 209
+  },
+  "sku": "ACME-000080",
+  "tags": [
+    "gps",
+    "активность",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-Pro344-000080.jpg",
+      "alt": "Пульсометр ACME Pro344 #000080 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-ACME-Pro344-000080_side.jpg",
+      "alt": "Пульсометр ACME Pro344 #000080 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1566g",
+    "dimensions": "122mm x 43mm x 32mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-01-26T10:04:04Z",
+  "updatedAt": "2025-02-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

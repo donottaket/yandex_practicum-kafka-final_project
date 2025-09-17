@@ -1,0 +1,41 @@
+{
+  "productId": "000954",
+  "name": "Экшн-камера Astra Plus813 #000954",
+  "description": "Экшн-камера бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 11766.57,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 215,
+    "reserved": 65
+  },
+  "sku": "Astra-000954",
+  "tags": [
+    "oled",
+    "gps",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-Plus813-000954.jpg",
+      "alt": "Экшн-камера Astra Plus813 #000954 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Astra-Plus813-000954_side.jpg",
+      "alt": "Экшн-камера Astra Plus813 #000954 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1943g",
+    "dimensions": "139mm x 129mm x 14mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-03-18T10:04:04Z",
+  "updatedAt": "2025-05-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

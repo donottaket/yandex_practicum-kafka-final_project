@@ -1,0 +1,40 @@
+{
+  "productId": "000379",
+  "name": "Футболка Lumen X175 #000379",
+  "description": "Футболка бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 6035.62,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 495,
+    "reserved": 166
+  },
+  "sku": "Lumen-000379",
+  "tags": [
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Lumen-X175-000379.jpg",
+      "alt": "Футболка Lumen X175 #000379 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Lumen-X175-000379_side.jpg",
+      "alt": "Футболка Lumen X175 #000379 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1538g",
+    "dimensions": "126mm x 71mm x 48mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-31T10:04:04Z",
+  "updatedAt": "2024-11-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

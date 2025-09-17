@@ -1,0 +1,41 @@
+{
+  "productId": "000059",
+  "name": "Пульсометр Astra Lite561 #000059",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 24019.69,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 64,
+    "reserved": 15
+  },
+  "sku": "Astra-000059",
+  "tags": [
+    "спорт",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Lite561-000059.jpg",
+      "alt": "Пульсометр Astra Lite561 #000059 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-Lite561-000059_side.jpg",
+      "alt": "Пульсометр Astra Lite561 #000059 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "797g",
+    "dimensions": "84mm x 177mm x 33mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-01-26T10:04:04Z",
+  "updatedAt": "2025-02-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

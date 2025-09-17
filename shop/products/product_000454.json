@@ -1,0 +1,43 @@
+{
+  "productId": "000454",
+  "name": "Спортивные часы Neon Max528 #000454",
+  "description": "Спортивные часы бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 23619.25,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 148,
+    "reserved": 45
+  },
+  "sku": "Neon-000454",
+  "tags": [
+    "активность",
+    "спорт",
+    "здоровье",
+    "gps",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-Max528-000454.jpg",
+      "alt": "Спортивные часы Neon Max528 #000454 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Neon-Max528-000454_side.jpg",
+      "alt": "Спортивные часы Neon Max528 #000454 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1244g",
+    "dimensions": "38mm x 65mm x 5mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-30T10:04:04Z",
+  "updatedAt": "2025-04-13T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000727",
+  "name": "Блендер Polar X824 #000727",
+  "description": "Блендер бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 11091.96,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 128,
+    "reserved": 12
+  },
+  "sku": "Polar-000727",
+  "tags": [
+    "кухня",
+    "тихий",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Polar-X824-000727.jpg",
+      "alt": "Блендер Polar X824 #000727 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Polar-X824-000727_side.jpg",
+      "alt": "Блендер Polar X824 #000727 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "94g",
+    "dimensions": "105mm x 139mm x 28mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-06T10:04:04Z",
+  "updatedAt": "2024-11-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

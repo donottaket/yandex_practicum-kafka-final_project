@@ -1,0 +1,42 @@
+{
+  "productId": "000375",
+  "name": "Худи ACME S110 #000375",
+  "description": "Худи бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 15901.44,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 249,
+    "reserved": 79
+  },
+  "sku": "ACME-000375",
+  "tags": [
+    "мода",
+    "удобство",
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-ACME-S110-000375.jpg",
+      "alt": "Худи ACME S110 #000375 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-ACME-S110-000375_side.jpg",
+      "alt": "Худи ACME S110 #000375 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "456g",
+    "dimensions": "196mm x 152mm x 24mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-22T10:04:04Z",
+  "updatedAt": "2025-08-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

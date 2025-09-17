@@ -1,0 +1,43 @@
+{
+  "productId": "000931",
+  "name": "Смарт-велокомпьютер Quantum X799 #000931",
+  "description": "Смарт-велокомпьютер бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 90502.42,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 323,
+    "reserved": 122
+  },
+  "sku": "Quantum-000931",
+  "tags": [
+    "спорт",
+    "gps",
+    "здоровье",
+    "outdoor",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-X799-000931.jpg",
+      "alt": "Смарт-велокомпьютер Quantum X799 #000931 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Quantum-X799-000931_side.jpg",
+      "alt": "Смарт-велокомпьютер Quantum X799 #000931 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1090g",
+    "dimensions": "124mm x 183mm x 34mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-07T10:04:04Z",
+  "updatedAt": "2025-05-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000034",
+  "name": "Наушники Astra 780 #000034",
+  "description": "Наушники бренда Astra. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 12362.74,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Astra",
+  "stock": {
+    "available": 331,
+    "reserved": 72
+  },
+  "sku": "Astra-000034",
+  "tags": [
+    "технологии",
+    "ios",
+    "гаджеты",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Astra-780-000034.jpg",
+      "alt": "Наушники Astra 780 #000034 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Astra-780-000034_side.jpg",
+      "alt": "Наушники Astra 780 #000034 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "248g",
+    "dimensions": "281mm x 115mm x 31mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-19T10:04:04Z",
+  "updatedAt": "2025-01-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

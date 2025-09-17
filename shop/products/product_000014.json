@@ -1,0 +1,41 @@
+{
+  "productId": "000014",
+  "name": "Фитнес-трекер Polar S598 #000014",
+  "description": "Фитнес-трекер бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 66350.26,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 488,
+    "reserved": 12
+  },
+  "sku": "Polar-000014",
+  "tags": [
+    "спорт",
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-S598-000014.jpg",
+      "alt": "Фитнес-трекер Polar S598 #000014 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Polar-S598-000014_side.jpg",
+      "alt": "Фитнес-трекер Polar S598 #000014 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1552g",
+    "dimensions": "97mm x 142mm x 39mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-27T10:04:04Z",
+  "updatedAt": "2025-04-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

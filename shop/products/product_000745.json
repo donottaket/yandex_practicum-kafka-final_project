@@ -1,0 +1,40 @@
+{
+  "productId": "000745",
+  "name": "Смарт-велокомпьютер Neon 755 #000745",
+  "description": "Смарт-велокомпьютер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 26917.65,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 210,
+    "reserved": 69
+  },
+  "sku": "Neon-000745",
+  "tags": [
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-755-000745.jpg",
+      "alt": "Смарт-велокомпьютер Neon 755 #000745 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-Neon-755-000745_side.jpg",
+      "alt": "Смарт-велокомпьютер Neon 755 #000745 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1762g",
+    "dimensions": "184mm x 49mm x 30mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-08T10:04:04Z",
+  "updatedAt": "2025-02-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

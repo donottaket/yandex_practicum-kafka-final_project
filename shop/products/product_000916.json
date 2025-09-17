@@ -1,0 +1,42 @@
+{
+  "productId": "000916",
+  "name": "Худи Lumen Lite827 #000916",
+  "description": "Худи бренда Lumen. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 25764.26,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Lumen",
+  "stock": {
+    "available": 200,
+    "reserved": 31
+  },
+  "sku": "Lumen-000916",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Lumen-Lite827-000916.jpg",
+      "alt": "Худи Lumen Lite827 #000916 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Lumen-Lite827-000916_side.jpg",
+      "alt": "Худи Lumen Lite827 #000916 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1386g",
+    "dimensions": "157mm x 72mm x 28mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-01T10:04:04Z",
+  "updatedAt": "2024-11-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

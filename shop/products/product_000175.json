@@ -1,0 +1,43 @@
+{
+  "productId": "000175",
+  "name": "Робот-пылесос NovaTech 170 #000175",
+  "description": "Робот-пылесос бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 24244.48,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 238,
+    "reserved": 61
+  },
+  "sku": "NovaTech-000175",
+  "tags": [
+    "экономия энергии",
+    "тихий",
+    "кухня",
+    "дом",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-170-000175.jpg",
+      "alt": "Робот-пылесос NovaTech 170 #000175 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-NovaTech-170-000175_side.jpg",
+      "alt": "Робот-пылесос NovaTech 170 #000175 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1197g",
+    "dimensions": "152mm x 80mm x 18mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-10-13T10:04:04Z",
+  "updatedAt": "2024-11-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

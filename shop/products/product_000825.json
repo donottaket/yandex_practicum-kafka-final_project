@@ -1,0 +1,41 @@
+{
+  "productId": "000825",
+  "name": "Штаны Neon 308 #000825",
+  "description": "Штаны бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 4626.81,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 420,
+    "reserved": 67
+  },
+  "sku": "Neon-000825",
+  "tags": [
+    "стиль",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Neon-308-000825.jpg",
+      "alt": "Штаны Neon 308 #000825 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Neon-308-000825_side.jpg",
+      "alt": "Штаны Neon 308 #000825 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "825g",
+    "dimensions": "211mm x 178mm x 40mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-05-08T10:04:04Z",
+  "updatedAt": "2025-06-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

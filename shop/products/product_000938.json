@@ -1,0 +1,41 @@
+{
+  "productId": "000938",
+  "name": "Штаны Vega Max489 #000938",
+  "description": "Штаны бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 28408.48,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 6,
+    "reserved": 2
+  },
+  "sku": "Vega-000938",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Vega-Max489-000938.jpg",
+      "alt": "Штаны Vega Max489 #000938 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Vega-Max489-000938_side.jpg",
+      "alt": "Штаны Vega Max489 #000938 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1404g",
+    "dimensions": "146mm x 43mm x 50mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-11-12T10:04:04Z",
+  "updatedAt": "2024-11-17T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

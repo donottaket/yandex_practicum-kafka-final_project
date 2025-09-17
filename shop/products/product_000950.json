@@ -1,0 +1,41 @@
+{
+  "productId": "000950",
+  "name": "Кроссовки Polar Max48 #000950",
+  "description": "Кроссовки бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 35009.46,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 151,
+    "reserved": 37
+  },
+  "sku": "Polar-000950",
+  "tags": [
+    "повседневное",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-Max48-000950.jpg",
+      "alt": "Кроссовки Polar Max48 #000950 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Polar-Max48-000950_side.jpg",
+      "alt": "Кроссовки Polar Max48 #000950 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "213g",
+    "dimensions": "220mm x 38mm x 21mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-03-12T10:04:04Z",
+  "updatedAt": "2025-04-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000075",
+  "name": "Робот-пылесос XYZ Max310 #000075",
+  "description": "Робот-пылесос бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 66553.87,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 216,
+    "reserved": 107
+  },
+  "sku": "XYZ-000075",
+  "tags": [
+    "кухня",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-XYZ-Max310-000075.jpg",
+      "alt": "Робот-пылесос XYZ Max310 #000075 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-XYZ-Max310-000075_side.jpg",
+      "alt": "Робот-пылесос XYZ Max310 #000075 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "95g",
+    "dimensions": "105mm x 51mm x 14mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-06-03T10:04:04Z",
+  "updatedAt": "2025-07-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

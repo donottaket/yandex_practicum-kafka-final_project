@@ -1,0 +1,42 @@
+{
+  "productId": "000685",
+  "name": "Фитнес-браслет Orion 416 #000685",
+  "description": "Фитнес-браслет бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 25024.37,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 491,
+    "reserved": 235
+  },
+  "sku": "Orion-000685",
+  "tags": [
+    "технологии",
+    "гаджеты",
+    "bluetooth",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-416-000685.jpg",
+      "alt": "Фитнес-браслет Orion 416 #000685 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-Orion-416-000685_side.jpg",
+      "alt": "Фитнес-браслет Orion 416 #000685 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1949g",
+    "dimensions": "257mm x 181mm x 20mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-09-23T10:04:04Z",
+  "updatedAt": "2024-11-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

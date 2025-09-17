@@ -1,0 +1,42 @@
+{
+  "productId": "000981",
+  "name": "Наушники XYZ Pro613 #000981",
+  "description": "Наушники бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 190795.12,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 361,
+    "reserved": 42
+  },
+  "sku": "XYZ-000981",
+  "tags": [
+    "гаджеты",
+    "android",
+    "ios",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-XYZ-Pro613-000981.jpg",
+      "alt": "Наушники XYZ Pro613 #000981 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-XYZ-Pro613-000981_side.jpg",
+      "alt": "Наушники XYZ Pro613 #000981 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1029g",
+    "dimensions": "134mm x 133mm x 36mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-01-12T10:04:04Z",
+  "updatedAt": "2025-02-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

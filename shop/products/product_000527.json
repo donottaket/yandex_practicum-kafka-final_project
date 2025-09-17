@@ -1,0 +1,42 @@
+{
+  "productId": "000527",
+  "name": "Кроссовки Vega Pro750 #000527",
+  "description": "Кроссовки бренда Vega. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 29728.39,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Vega",
+  "stock": {
+    "available": 54,
+    "reserved": 6
+  },
+  "sku": "Vega-000527",
+  "tags": [
+    "удобство",
+    "стиль",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Vega-Pro750-000527.jpg",
+      "alt": "Кроссовки Vega Pro750 #000527 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Vega-Pro750-000527_side.jpg",
+      "alt": "Кроссовки Vega Pro750 #000527 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "893g",
+    "dimensions": "259mm x 160mm x 15mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-04-02T10:04:04Z",
+  "updatedAt": "2025-04-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000140",
+  "name": "Футболка ACME X969 #000140",
+  "description": "Футболка бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49382.17,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 328,
+    "reserved": 51
+  },
+  "sku": "ACME-000140",
+  "tags": [
+    "стиль",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-ACME-X969-000140.jpg",
+      "alt": "Футболка ACME X969 #000140 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-ACME-X969-000140_side.jpg",
+      "alt": "Футболка ACME X969 #000140 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "94g",
+    "dimensions": "149mm x 40mm x 50mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-05-06T10:04:04Z",
+  "updatedAt": "2025-06-03T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

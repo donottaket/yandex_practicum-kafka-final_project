@@ -1,0 +1,41 @@
+{
+  "productId": "000705",
+  "name": "Увлажнитель воздуха NovaTech Lite24 #000705",
+  "description": "Увлажнитель воздуха бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 8118.52,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 18,
+    "reserved": 3
+  },
+  "sku": "NovaTech-000705",
+  "tags": [
+    "дом",
+    "тихий",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-NovaTech-Lite24-000705.jpg",
+      "alt": "Увлажнитель воздуха NovaTech Lite24 #000705 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-NovaTech-Lite24-000705_side.jpg",
+      "alt": "Увлажнитель воздуха NovaTech Lite24 #000705 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1413g",
+    "dimensions": "225mm x 61mm x 27mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-09T10:04:04Z",
+  "updatedAt": "2025-05-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

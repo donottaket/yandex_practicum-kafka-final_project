@@ -1,0 +1,43 @@
+{
+  "productId": "000262",
+  "name": "Кофемашина NovaTech Pro801 #000262",
+  "description": "Кофемашина бренда NovaTech. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 58166.17,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 42,
+    "reserved": 20
+  },
+  "sku": "NovaTech-000262",
+  "tags": [
+    "тихий",
+    "экономия энергии",
+    "дом",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-Pro801-000262.jpg",
+      "alt": "Кофемашина NovaTech Pro801 #000262 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-NovaTech-Pro801-000262_side.jpg",
+      "alt": "Кофемашина NovaTech Pro801 #000262 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "581g",
+    "dimensions": "139mm x 31mm x 39mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-06T10:04:04Z",
+  "updatedAt": "2024-11-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

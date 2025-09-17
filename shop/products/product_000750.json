@@ -1,0 +1,40 @@
+{
+  "productId": "000750",
+  "name": "Худи Polar Max611 #000750",
+  "description": "Худи бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 17789.11,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 248,
+    "reserved": 24
+  },
+  "sku": "Polar-000750",
+  "tags": [
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Polar-Max611-000750.jpg",
+      "alt": "Худи Polar Max611 #000750 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Polar-Max611-000750_side.jpg",
+      "alt": "Худи Polar Max611 #000750 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "63g",
+    "dimensions": "153mm x 198mm x 8mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-06T10:04:04Z",
+  "updatedAt": "2024-11-10T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

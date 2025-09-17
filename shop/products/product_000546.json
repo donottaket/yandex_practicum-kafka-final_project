@@ -1,0 +1,40 @@
+{
+  "productId": "000546",
+  "name": "Наушники Polar 922 #000546",
+  "description": "Наушники бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 199271.63,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 424,
+    "reserved": 44
+  },
+  "sku": "Polar-000546",
+  "tags": [
+    "android",
+    "технологии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-Polar-922-000546.jpg",
+      "alt": "Наушники Polar 922 #000546 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-Polar-922-000546_side.jpg",
+      "alt": "Наушники Polar 922 #000546 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1271g",
+    "dimensions": "165mm x 149mm x 16mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-24T10:04:04Z",
+  "updatedAt": "2025-03-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

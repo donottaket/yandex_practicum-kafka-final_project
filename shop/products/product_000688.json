@@ -1,0 +1,40 @@
+{
+  "productId": "000688",
+  "name": "Кофемашина XYZ S538 #000688",
+  "description": "Кофемашина бренда XYZ. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 49417.83,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "XYZ",
+  "stock": {
+    "available": 111,
+    "reserved": 51
+  },
+  "sku": "XYZ-000688",
+  "tags": [
+    "экономия энергии",
+    "умный дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-XYZ-S538-000688.jpg",
+      "alt": "Кофемашина XYZ S538 #000688 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-XYZ-S538-000688_side.jpg",
+      "alt": "Кофемашина XYZ S538 #000688 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1908g",
+    "dimensions": "233mm x 159mm x 34mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-07-22T10:04:04Z",
+  "updatedAt": "2025-07-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

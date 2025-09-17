@@ -1,0 +1,42 @@
+{
+  "productId": "000958",
+  "name": "Робот-пылесос Polar Max406 #000958",
+  "description": "Робот-пылесос бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 9136.1,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 252,
+    "reserved": 5
+  },
+  "sku": "Polar-000958",
+  "tags": [
+    "тихий",
+    "экономия энергии",
+    "умный дом",
+    "кухня"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-Max406-000958.jpg",
+      "alt": "Робот-пылесос Polar Max406 #000958 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Polar-Max406-000958_side.jpg",
+      "alt": "Робот-пылесос Polar Max406 #000958 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "673g",
+    "dimensions": "47mm x 37mm x 33mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-11-16T10:04:04Z",
+  "updatedAt": "2024-12-26T10:04:04Z",
+  "index": "products",
+  "storeId": "store_010"
+}

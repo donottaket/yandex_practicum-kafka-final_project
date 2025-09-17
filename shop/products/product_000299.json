@@ -1,0 +1,41 @@
+{
+  "productId": "000299",
+  "name": "Пульсометр Polar X57 #000299",
+  "description": "Пульсометр бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 27016.83,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 476,
+    "reserved": 220
+  },
+  "sku": "Polar-000299",
+  "tags": [
+    "outdoor",
+    "спорт",
+    "активность"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Polar-X57-000299.jpg",
+      "alt": "Пульсометр Polar X57 #000299 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Polar-X57-000299_side.jpg",
+      "alt": "Пульсометр Polar X57 #000299 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "473g",
+    "dimensions": "280mm x 95mm x 31mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-10-22T10:04:04Z",
+  "updatedAt": "2024-11-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

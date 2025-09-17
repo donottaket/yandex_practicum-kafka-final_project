@@ -1,0 +1,43 @@
+{
+  "productId": "000349",
+  "name": "Кофемашина Lumen X686 #000349",
+  "description": "Кофемашина бренда Lumen. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 8571.63,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Lumen",
+  "stock": {
+    "available": 361,
+    "reserved": 152
+  },
+  "sku": "Lumen-000349",
+  "tags": [
+    "умный дом",
+    "кухня",
+    "экономия энергии",
+    "дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-X686-000349.jpg",
+      "alt": "Кофемашина Lumen X686 #000349 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Lumen-X686-000349_side.jpg",
+      "alt": "Кофемашина Lumen X686 #000349 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1206g",
+    "dimensions": "194mm x 184mm x 42mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-02-28T10:04:04Z",
+  "updatedAt": "2025-04-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

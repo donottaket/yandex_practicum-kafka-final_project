@@ -1,0 +1,40 @@
+{
+  "productId": "000884",
+  "name": "Экшн-камера Polar Pro237 #000884",
+  "description": "Экшн-камера бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 197755.32,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 88,
+    "reserved": 36
+  },
+  "sku": "Polar-000884",
+  "tags": [
+    "gps",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Polar-Pro237-000884.jpg",
+      "alt": "Экшн-камера Polar Pro237 #000884 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Polar-Pro237-000884_side.jpg",
+      "alt": "Экшн-камера Polar Pro237 #000884 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "614g",
+    "dimensions": "196mm x 53mm x 47mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-23T10:04:04Z",
+  "updatedAt": "2025-02-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

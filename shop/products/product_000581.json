@@ -1,0 +1,41 @@
+{
+  "productId": "000581",
+  "name": "Умные часы ACME Pro766 #000581",
+  "description": "Умные часы бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 60996.57,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 162,
+    "reserved": 28
+  },
+  "sku": "ACME-000581",
+  "tags": [
+    "gps",
+    "ios",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Pro766-000581.jpg",
+      "alt": "Умные часы ACME Pro766 #000581 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-ACME-Pro766-000581_side.jpg",
+      "alt": "Умные часы ACME Pro766 #000581 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "802g",
+    "dimensions": "207mm x 163mm x 42mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-04-29T10:04:04Z",
+  "updatedAt": "2025-06-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

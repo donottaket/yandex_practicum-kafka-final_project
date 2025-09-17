@@ -1,0 +1,40 @@
+{
+  "productId": "000153",
+  "name": "Смартфон NovaTech X101 #000153",
+  "description": "Смартфон бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 150714.78,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 85,
+    "reserved": 28
+  },
+  "sku": "NovaTech-000153",
+  "tags": [
+    "oled",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-X101-000153.jpg",
+      "alt": "Смартфон NovaTech X101 #000153 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смартфон-NovaTech-X101-000153_side.jpg",
+      "alt": "Смартфон NovaTech X101 #000153 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "170g",
+    "dimensions": "258mm x 31mm x 40mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-09T10:04:04Z",
+  "updatedAt": "2025-01-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

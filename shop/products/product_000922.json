@@ -1,0 +1,40 @@
+{
+  "productId": "000922",
+  "name": "Фитнес-браслет XYZ Lite865 #000922",
+  "description": "Фитнес-браслет бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 164203.31,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 43,
+    "reserved": 15
+  },
+  "sku": "XYZ-000922",
+  "tags": [
+    "oled",
+    "bluetooth"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-Lite865-000922.jpg",
+      "alt": "Фитнес-браслет XYZ Lite865 #000922 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-XYZ-Lite865-000922_side.jpg",
+      "alt": "Фитнес-браслет XYZ Lite865 #000922 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "815g",
+    "dimensions": "57mm x 66mm x 49mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-11-01T10:04:04Z",
+  "updatedAt": "2024-11-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

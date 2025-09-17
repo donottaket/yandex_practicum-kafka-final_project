@@ -1,0 +1,41 @@
+{
+  "productId": "000861",
+  "name": "Кофемашина Quantum X725 #000861",
+  "description": "Кофемашина бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 31885.66,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 138,
+    "reserved": 45
+  },
+  "sku": "Quantum-000861",
+  "tags": [
+    "тихий",
+    "умный дом",
+    "дом"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Quantum-X725-000861.jpg",
+      "alt": "Кофемашина Quantum X725 #000861 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Quantum-X725-000861_side.jpg",
+      "alt": "Кофемашина Quantum X725 #000861 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "88g",
+    "dimensions": "75mm x 112mm x 22mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-01-02T10:04:04Z",
+  "updatedAt": "2025-01-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

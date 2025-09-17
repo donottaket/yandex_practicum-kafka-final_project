@@ -1,0 +1,40 @@
+{
+  "productId": "000013",
+  "name": "Наушники ACME Max524 #000013",
+  "description": "Наушники бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 61095.79,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 28,
+    "reserved": 6
+  },
+  "sku": "ACME-000013",
+  "tags": [
+    "oled",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-ACME-Max524-000013.jpg",
+      "alt": "Наушники ACME Max524 #000013 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-ACME-Max524-000013_side.jpg",
+      "alt": "Наушники ACME Max524 #000013 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1003g",
+    "dimensions": "196mm x 82mm x 46mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2024-10-09T10:04:04Z",
+  "updatedAt": "2024-10-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

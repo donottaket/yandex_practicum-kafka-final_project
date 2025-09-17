@@ -1,0 +1,41 @@
+{
+  "productId": "000675",
+  "name": "Штаны Quantum Pro18 #000675",
+  "description": "Штаны бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 41744.63,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 266,
+    "reserved": 87
+  },
+  "sku": "Quantum-000675",
+  "tags": [
+    "удобство",
+    "повседневное",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Pro18-000675.jpg",
+      "alt": "Штаны Quantum Pro18 #000675 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Pro18-000675_side.jpg",
+      "alt": "Штаны Quantum Pro18 #000675 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1120g",
+    "dimensions": "115mm x 175mm x 8mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-29T10:04:04Z",
+  "updatedAt": "2024-12-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

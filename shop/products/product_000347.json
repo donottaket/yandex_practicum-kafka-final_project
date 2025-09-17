@@ -1,0 +1,40 @@
+{
+  "productId": "000347",
+  "name": "Пульсометр Astra S384 #000347",
+  "description": "Пульсометр бренда Astra. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 68379.37,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Astra",
+  "stock": {
+    "available": 18,
+    "reserved": 4
+  },
+  "sku": "Astra-000347",
+  "tags": [
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-S384-000347.jpg",
+      "alt": "Пульсометр Astra S384 #000347 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Пульсометр-Astra-S384-000347_side.jpg",
+      "alt": "Пульсометр Astra S384 #000347 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "432g",
+    "dimensions": "37mm x 58mm x 35mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-11T10:04:04Z",
+  "updatedAt": "2025-04-21T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

@@ -1,0 +1,42 @@
+{
+  "productId": "000585",
+  "name": "Спортивные часы Quantum Lite720 #000585",
+  "description": "Спортивные часы бренда Quantum. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 32052.58,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Quantum",
+  "stock": {
+    "available": 318,
+    "reserved": 3
+  },
+  "sku": "Quantum-000585",
+  "tags": [
+    "outdoor",
+    "активность",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Quantum-Lite720-000585.jpg",
+      "alt": "Спортивные часы Quantum Lite720 #000585 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Quantum-Lite720-000585_side.jpg",
+      "alt": "Спортивные часы Quantum Lite720 #000585 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1248g",
+    "dimensions": "130mm x 49mm x 34mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-12-20T10:04:04Z",
+  "updatedAt": "2025-01-28T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

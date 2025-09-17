@@ -1,0 +1,42 @@
+{
+  "productId": "000387",
+  "name": "Робот-пылесос Astra Max515 #000387",
+  "description": "Робот-пылесос бренда Astra. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 44086.16,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Astra",
+  "stock": {
+    "available": 123,
+    "reserved": 22
+  },
+  "sku": "Astra-000387",
+  "tags": [
+    "кухня",
+    "умный дом",
+    "дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Max515-000387.jpg",
+      "alt": "Робот-пылесос Astra Max515 #000387 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-Astra-Max515-000387_side.jpg",
+      "alt": "Робот-пылесос Astra Max515 #000387 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1480g",
+    "dimensions": "143mm x 45mm x 39mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-11T10:04:04Z",
+  "updatedAt": "2025-02-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

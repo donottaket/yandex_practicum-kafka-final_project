@@ -1,0 +1,41 @@
+{
+  "productId": "000842",
+  "name": "Фитнес-браслет ACME S840 #000842",
+  "description": "Фитнес-браслет бренда ACME. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 165659.08,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "ACME",
+  "stock": {
+    "available": 284,
+    "reserved": 69
+  },
+  "sku": "ACME-000842",
+  "tags": [
+    "oled",
+    "ios",
+    "android"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-браслет-ACME-S840-000842.jpg",
+      "alt": "Фитнес-браслет ACME S840 #000842 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-браслет-ACME-S840-000842_side.jpg",
+      "alt": "Фитнес-браслет ACME S840 #000842 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1202g",
+    "dimensions": "261mm x 173mm x 17mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-20T10:04:04Z",
+  "updatedAt": "2025-04-07T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

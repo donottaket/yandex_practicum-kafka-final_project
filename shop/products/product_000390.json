@@ -1,0 +1,40 @@
+{
+  "productId": "000390",
+  "name": "Блендер Polar Lite157 #000390",
+  "description": "Блендер бренда Polar. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 59156.7,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Polar",
+  "stock": {
+    "available": 111,
+    "reserved": 19
+  },
+  "sku": "Polar-000390",
+  "tags": [
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Блендер-Polar-Lite157-000390.jpg",
+      "alt": "Блендер Polar Lite157 #000390 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Блендер-Polar-Lite157-000390_side.jpg",
+      "alt": "Блендер Polar Lite157 #000390 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "612g",
+    "dimensions": "71mm x 188mm x 7mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-03-17T10:04:04Z",
+  "updatedAt": "2025-04-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

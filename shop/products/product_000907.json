@@ -1,0 +1,42 @@
+{
+  "productId": "000907",
+  "name": "Смарт-велокомпьютер NovaTech X206 #000907",
+  "description": "Смарт-велокомпьютер бренда NovaTech. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 58123.62,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 341,
+    "reserved": 165
+  },
+  "sku": "NovaTech-000907",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "outdoor",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X206-000907.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X206 #000907 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-NovaTech-X206-000907_side.jpg",
+      "alt": "Смарт-велокомпьютер NovaTech X206 #000907 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "158g",
+    "dimensions": "297mm x 100mm x 14mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-04-24T10:04:04Z",
+  "updatedAt": "2025-05-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

@@ -1,0 +1,40 @@
+{
+  "productId": "000641",
+  "name": "Футболка Polar Lite251 #000641",
+  "description": "Футболка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 40195.75,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 94,
+    "reserved": 0
+  },
+  "sku": "Polar-000641",
+  "tags": [
+    "стиль",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Polar-Lite251-000641.jpg",
+      "alt": "Футболка Polar Lite251 #000641 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Polar-Lite251-000641_side.jpg",
+      "alt": "Футболка Polar Lite251 #000641 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "683g",
+    "dimensions": "159mm x 38mm x 44mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-20T10:04:04Z",
+  "updatedAt": "2025-06-06T10:04:04Z",
+  "index": "products",
+  "storeId": "store_003"
+}

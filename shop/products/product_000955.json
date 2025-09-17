@@ -1,0 +1,41 @@
+{
+  "productId": "000955",
+  "name": "Куртка Quantum 731 #000955",
+  "description": "Куртка бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 9275.44,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 372,
+    "reserved": 146
+  },
+  "sku": "Quantum-000955",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "мода"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Куртка-Quantum-731-000955.jpg",
+      "alt": "Куртка Quantum 731 #000955 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Куртка-Quantum-731-000955_side.jpg",
+      "alt": "Куртка Quantum 731 #000955 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1777g",
+    "dimensions": "217mm x 100mm x 27mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-10-13T10:04:04Z",
+  "updatedAt": "2024-10-30T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

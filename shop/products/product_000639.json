@@ -1,0 +1,42 @@
+{
+  "productId": "000639",
+  "name": "Худи Quantum Pro743 #000639",
+  "description": "Худи бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 7052.59,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 159,
+    "reserved": 1
+  },
+  "sku": "Quantum-000639",
+  "tags": [
+    "повседневное",
+    "удобство",
+    "мода",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Quantum-Pro743-000639.jpg",
+      "alt": "Худи Quantum Pro743 #000639 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Quantum-Pro743-000639_side.jpg",
+      "alt": "Худи Quantum Pro743 #000639 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "626g",
+    "dimensions": "56mm x 138mm x 46mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-11-29T10:04:04Z",
+  "updatedAt": "2024-12-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

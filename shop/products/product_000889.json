@@ -1,0 +1,41 @@
+{
+  "productId": "000889",
+  "name": "Экшн-камера Orion X396 #000889",
+  "description": "Экшн-камера бренда Orion. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 71192.14,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Orion",
+  "stock": {
+    "available": 38,
+    "reserved": 4
+  },
+  "sku": "Orion-000889",
+  "tags": [
+    "gps",
+    "android",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Orion-X396-000889.jpg",
+      "alt": "Экшн-камера Orion X396 #000889 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Orion-X396-000889_side.jpg",
+      "alt": "Экшн-камера Orion X396 #000889 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1840g",
+    "dimensions": "204mm x 151mm x 19mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-01-03T10:04:04Z",
+  "updatedAt": "2025-01-31T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

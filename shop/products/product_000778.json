@@ -1,0 +1,40 @@
+{
+  "productId": "000778",
+  "name": "Спортивные часы Polar Lite225 #000778",
+  "description": "Спортивные часы бренда Polar. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 15921.11,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Polar",
+  "stock": {
+    "available": 398,
+    "reserved": 160
+  },
+  "sku": "Polar-000778",
+  "tags": [
+    "gps",
+    "здоровье"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite225-000778.jpg",
+      "alt": "Спортивные часы Polar Lite225 #000778 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Спортивные-часы-Polar-Lite225-000778_side.jpg",
+      "alt": "Спортивные часы Polar Lite225 #000778 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "355g",
+    "dimensions": "120mm x 118mm x 23mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-07-04T10:04:04Z",
+  "updatedAt": "2025-07-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_006"
+}

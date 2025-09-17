@@ -1,0 +1,41 @@
+{
+  "productId": "000021",
+  "name": "Планшет Vega Plus94 #000021",
+  "description": "Планшет бренда Vega. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 34178.07,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Vega",
+  "stock": {
+    "available": 92,
+    "reserved": 26
+  },
+  "sku": "Vega-000021",
+  "tags": [
+    "gps",
+    "технологии",
+    "гаджеты"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Планшет-Vega-Plus94-000021.jpg",
+      "alt": "Планшет Vega Plus94 #000021 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Планшет-Vega-Plus94-000021_side.jpg",
+      "alt": "Планшет Vega Plus94 #000021 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1676g",
+    "dimensions": "74mm x 104mm x 7mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-05-01T10:04:04Z",
+  "updatedAt": "2025-05-25T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

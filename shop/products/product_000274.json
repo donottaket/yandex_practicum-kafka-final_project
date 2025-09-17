@@ -1,0 +1,42 @@
+{
+  "productId": "000274",
+  "name": "Худи ACME X597 #000274",
+  "description": "Худи бренда ACME. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 22212.83,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "ACME",
+  "stock": {
+    "available": 386,
+    "reserved": 107
+  },
+  "sku": "ACME-000274",
+  "tags": [
+    "стиль",
+    "повседневное",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-ACME-X597-000274.jpg",
+      "alt": "Худи ACME X597 #000274 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-ACME-X597-000274_side.jpg",
+      "alt": "Худи ACME X597 #000274 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1314g",
+    "dimensions": "47mm x 147mm x 37mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2025-07-24T10:04:04Z",
+  "updatedAt": "2025-09-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

@@ -1,0 +1,41 @@
+{
+  "productId": "000060",
+  "name": "Экшн-камера Quantum X988 #000060",
+  "description": "Экшн-камера бренда Quantum. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 50689.67,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Quantum",
+  "stock": {
+    "available": 54,
+    "reserved": 5
+  },
+  "sku": "Quantum-000060",
+  "tags": [
+    "ios",
+    "bluetooth",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-Quantum-X988-000060.jpg",
+      "alt": "Экшн-камера Quantum X988 #000060 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-Quantum-X988-000060_side.jpg",
+      "alt": "Экшн-камера Quantum X988 #000060 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1254g",
+    "dimensions": "188mm x 71mm x 42mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-02-22T10:04:04Z",
+  "updatedAt": "2025-04-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

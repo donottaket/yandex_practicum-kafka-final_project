@@ -1,0 +1,43 @@
+{
+  "productId": "000197",
+  "name": "Наушники NovaTech Max438 #000197",
+  "description": "Наушники бренда NovaTech. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 73368.08,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "NovaTech",
+  "stock": {
+    "available": 234,
+    "reserved": 9
+  },
+  "sku": "NovaTech-000197",
+  "tags": [
+    "bluetooth",
+    "гаджеты",
+    "gps",
+    "технологии",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-Max438-000197.jpg",
+      "alt": "Наушники NovaTech Max438 #000197 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-NovaTech-Max438-000197_side.jpg",
+      "alt": "Наушники NovaTech Max438 #000197 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1825g",
+    "dimensions": "113mm x 28mm x 29mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-04-30T10:04:04Z",
+  "updatedAt": "2025-06-01T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

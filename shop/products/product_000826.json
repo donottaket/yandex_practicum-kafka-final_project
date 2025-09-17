@@ -1,0 +1,41 @@
+{
+  "productId": "000826",
+  "name": "Робот-пылесос ACME Plus146 #000826",
+  "description": "Робот-пылесос бренда ACME. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 57418.58,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "ACME",
+  "stock": {
+    "available": 261,
+    "reserved": 42
+  },
+  "sku": "ACME-000826",
+  "tags": [
+    "тихий",
+    "дом",
+    "экономия энергии"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Робот-пылесос-ACME-Plus146-000826.jpg",
+      "alt": "Робот-пылесос ACME Plus146 #000826 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Робот-пылесос-ACME-Plus146-000826_side.jpg",
+      "alt": "Робот-пылесос ACME Plus146 #000826 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "168g",
+    "dimensions": "117mm x 95mm x 15mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-03-04T10:04:04Z",
+  "updatedAt": "2025-04-08T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

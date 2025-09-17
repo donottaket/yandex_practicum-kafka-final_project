@@ -1,0 +1,42 @@
+{
+  "productId": "000171",
+  "name": "Кроссовки XYZ Lite359 #000171",
+  "description": "Кроссовки бренда XYZ. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 49569.06,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "XYZ",
+  "stock": {
+    "available": 461,
+    "reserved": 152
+  },
+  "sku": "XYZ-000171",
+  "tags": [
+    "стиль",
+    "удобство",
+    "мода",
+    "повседневное"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-XYZ-Lite359-000171.jpg",
+      "alt": "Кроссовки XYZ Lite359 #000171 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-XYZ-Lite359-000171_side.jpg",
+      "alt": "Кроссовки XYZ Lite359 #000171 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "795g",
+    "dimensions": "265mm x 155mm x 43mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-06-15T10:04:04Z",
+  "updatedAt": "2025-06-23T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}

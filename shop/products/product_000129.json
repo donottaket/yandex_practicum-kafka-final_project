@@ -1,0 +1,41 @@
+{
+  "productId": "000129",
+  "name": "Кофемашина Orion Max697 #000129",
+  "description": "Кофемашина бренда Orion. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 17125.0,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Orion",
+  "stock": {
+    "available": 261,
+    "reserved": 76
+  },
+  "sku": "Orion-000129",
+  "tags": [
+    "дом",
+    "кухня",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-Max697-000129.jpg",
+      "alt": "Кофемашина Orion Max697 #000129 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кофемашина-Orion-Max697-000129_side.jpg",
+      "alt": "Кофемашина Orion Max697 #000129 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "360g",
+    "dimensions": "71mm x 39mm x 8mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2025-04-15T10:04:04Z",
+  "updatedAt": "2025-05-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_009"
+}

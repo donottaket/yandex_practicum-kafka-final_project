@@ -1,0 +1,42 @@
+{
+  "productId": "000067",
+  "name": "Смарт-велокомпьютер ACME Lite250 #000067",
+  "description": "Смарт-велокомпьютер бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 2386.91,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 131,
+    "reserved": 47
+  },
+  "sku": "ACME-000067",
+  "tags": [
+    "спорт",
+    "здоровье",
+    "активность",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-Lite250-000067.jpg",
+      "alt": "Смарт-велокомпьютер ACME Lite250 #000067 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-Lite250-000067_side.jpg",
+      "alt": "Смарт-велокомпьютер ACME Lite250 #000067 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "179g",
+    "dimensions": "173mm x 40mm x 47mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-08-12T10:04:04Z",
+  "updatedAt": "2025-09-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

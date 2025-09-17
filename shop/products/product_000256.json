@@ -1,0 +1,42 @@
+{
+  "productId": "000256",
+  "name": "Штаны Quantum Lite249 #000256",
+  "description": "Штаны бренда Quantum. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 25965.11,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Quantum",
+  "stock": {
+    "available": 157,
+    "reserved": 26
+  },
+  "sku": "Quantum-000256",
+  "tags": [
+    "стиль",
+    "мода",
+    "повседневное",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Lite249-000256.jpg",
+      "alt": "Штаны Quantum Lite249 #000256 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Штаны-Quantum-Lite249-000256_side.jpg",
+      "alt": "Штаны Quantum Lite249 #000256 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1807g",
+    "dimensions": "282mm x 44mm x 41mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-09-25T10:04:04Z",
+  "updatedAt": "2024-11-04T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

@@ -1,0 +1,43 @@
+{
+  "productId": "000377",
+  "name": "Фитнес-трекер Neon S335 #000377",
+  "description": "Фитнес-трекер бренда Neon. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 89178.43,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "Neon",
+  "stock": {
+    "available": 332,
+    "reserved": 8
+  },
+  "sku": "Neon-000377",
+  "tags": [
+    "активность",
+    "outdoor",
+    "здоровье",
+    "gps",
+    "спорт"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S335-000377.jpg",
+      "alt": "Фитнес-трекер Neon S335 #000377 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Фитнес-трекер-Neon-S335-000377_side.jpg",
+      "alt": "Фитнес-трекер Neon S335 #000377 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "818g",
+    "dimensions": "266mm x 86mm x 17mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-05-14T10:04:04Z",
+  "updatedAt": "2025-05-29T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

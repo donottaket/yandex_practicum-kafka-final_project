@@ -1,0 +1,41 @@
+{
+  "productId": "000081",
+  "name": "Экшн-камера XYZ X187 #000081",
+  "description": "Экшн-камера бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 118642.95,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 474,
+    "reserved": 25
+  },
+  "sku": "XYZ-000081",
+  "tags": [
+    "bluetooth",
+    "android",
+    "ios"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-X187-000081.jpg",
+      "alt": "Экшн-камера XYZ X187 #000081 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Экшн-камера-XYZ-X187-000081_side.jpg",
+      "alt": "Экшн-камера XYZ X187 #000081 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "594g",
+    "dimensions": "113mm x 98mm x 39mm",
+    "batteryLife": "24 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-10-08T10:04:04Z",
+  "updatedAt": "2024-11-18T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

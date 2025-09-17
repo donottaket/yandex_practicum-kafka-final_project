@@ -1,0 +1,41 @@
+{
+  "productId": "000516",
+  "name": "Смарт-велокомпьютер ACME Lite54 #000516",
+  "description": "Смарт-велокомпьютер бренда ACME. Качественный продукт категории Спорт.",
+  "price": {
+    "amount": 47322.39,
+    "currency": "RUB"
+  },
+  "category": "Спорт",
+  "brand": "ACME",
+  "stock": {
+    "available": 138,
+    "reserved": 26
+  },
+  "sku": "ACME-000516",
+  "tags": [
+    "gps",
+    "здоровье",
+    "outdoor"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-Lite54-000516.jpg",
+      "alt": "Смарт-велокомпьютер ACME Lite54 #000516 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Смарт-велокомпьютер-ACME-Lite54-000516_side.jpg",
+      "alt": "Смарт-велокомпьютер ACME Lite54 #000516 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "982g",
+    "dimensions": "70mm x 67mm x 50mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2025-02-06T10:04:04Z",
+  "updatedAt": "2025-03-22T10:04:04Z",
+  "index": "products",
+  "storeId": "store_001"
+}

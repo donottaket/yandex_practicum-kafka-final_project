@@ -1,0 +1,40 @@
+{
+  "productId": "000649",
+  "name": "Худи Neon Lite390 #000649",
+  "description": "Худи бренда Neon. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 43034.59,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Neon",
+  "stock": {
+    "available": 465,
+    "reserved": 13
+  },
+  "sku": "Neon-000649",
+  "tags": [
+    "стиль",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Худи-Neon-Lite390-000649.jpg",
+      "alt": "Худи Neon Lite390 #000649 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Худи-Neon-Lite390-000649_side.jpg",
+      "alt": "Худи Neon Lite390 #000649 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1031g",
+    "dimensions": "40mm x 153mm x 21mm",
+    "batteryLife": "10 hours",
+    "waterResistance": "IP67"
+  },
+  "createdAt": "2024-12-05T10:04:04Z",
+  "updatedAt": "2024-12-11T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

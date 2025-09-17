@@ -1,0 +1,42 @@
+{
+  "productId": "000195",
+  "name": "Кроссовки Orion Plus307 #000195",
+  "description": "Кроссовки бренда Orion. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 1129.29,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Orion",
+  "stock": {
+    "available": 274,
+    "reserved": 5
+  },
+  "sku": "Orion-000195",
+  "tags": [
+    "повседневное",
+    "мода",
+    "удобство",
+    "стиль"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Кроссовки-Orion-Plus307-000195.jpg",
+      "alt": "Кроссовки Orion Plus307 #000195 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Кроссовки-Orion-Plus307-000195_side.jpg",
+      "alt": "Кроссовки Orion Plus307 #000195 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "306g",
+    "dimensions": "153mm x 156mm x 34mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX4"
+  },
+  "createdAt": "2025-05-10T10:04:04Z",
+  "updatedAt": "2025-05-14T10:04:04Z",
+  "index": "products",
+  "storeId": "store_005"
+}

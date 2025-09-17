@@ -1,0 +1,40 @@
+{
+  "productId": "000396",
+  "name": "Увлажнитель воздуха Quantum 566 #000396",
+  "description": "Увлажнитель воздуха бренда Quantum. Качественный продукт категории Дом и кухня.",
+  "price": {
+    "amount": 8336.07,
+    "currency": "RUB"
+  },
+  "category": "Дом и кухня",
+  "brand": "Quantum",
+  "stock": {
+    "available": 263,
+    "reserved": 116
+  },
+  "sku": "Quantum-000396",
+  "tags": [
+    "дом",
+    "тихий"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-566-000396.jpg",
+      "alt": "Увлажнитель воздуха Quantum 566 #000396 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Увлажнитель-воздуха-Quantum-566-000396_side.jpg",
+      "alt": "Увлажнитель воздуха Quantum 566 #000396 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1514g",
+    "dimensions": "41mm x 162mm x 30mm",
+    "batteryLife": "7 days",
+    "waterResistance": "IP68"
+  },
+  "createdAt": "2024-11-11T10:04:04Z",
+  "updatedAt": "2025-01-05T10:04:04Z",
+  "index": "products",
+  "storeId": "store_007"
+}

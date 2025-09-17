@@ -1,0 +1,40 @@
+{
+  "productId": "000276",
+  "name": "Наушники XYZ S214 #000276",
+  "description": "Наушники бренда XYZ. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 52902.4,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "XYZ",
+  "stock": {
+    "available": 404,
+    "reserved": 134
+  },
+  "sku": "XYZ-000276",
+  "tags": [
+    "технологии",
+    "gps"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Наушники-XYZ-S214-000276.jpg",
+      "alt": "Наушники XYZ S214 #000276 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Наушники-XYZ-S214-000276_side.jpg",
+      "alt": "Наушники XYZ S214 #000276 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1816g",
+    "dimensions": "278mm x 96mm x 35mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IPX7"
+  },
+  "createdAt": "2024-12-26T10:04:04Z",
+  "updatedAt": "2025-02-02T10:04:04Z",
+  "index": "products",
+  "storeId": "store_008"
+}

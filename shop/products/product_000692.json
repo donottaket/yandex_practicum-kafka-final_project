@@ -1,0 +1,42 @@
+{
+  "productId": "000692",
+  "name": "Футболка Polar S985 #000692",
+  "description": "Футболка бренда Polar. Качественный продукт категории Одежда.",
+  "price": {
+    "amount": 19496.48,
+    "currency": "RUB"
+  },
+  "category": "Одежда",
+  "brand": "Polar",
+  "stock": {
+    "available": 344,
+    "reserved": 32
+  },
+  "sku": "Polar-000692",
+  "tags": [
+    "повседневное",
+    "стиль",
+    "мода",
+    "удобство"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Футболка-Polar-S985-000692.jpg",
+      "alt": "Футболка Polar S985 #000692 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Футболка-Polar-S985-000692_side.jpg",
+      "alt": "Футболка Polar S985 #000692 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1005g",
+    "dimensions": "123mm x 44mm x 6mm",
+    "batteryLife": "48 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2025-02-12T10:04:04Z",
+  "updatedAt": "2025-03-15T10:04:04Z",
+  "index": "products",
+  "storeId": "store_004"
+}

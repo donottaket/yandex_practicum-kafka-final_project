@@ -1,0 +1,41 @@
+{
+  "productId": "000932",
+  "name": "Умные часы Polar S652 #000932",
+  "description": "Умные часы бренда Polar. Качественный продукт категории Электроника.",
+  "price": {
+    "amount": 181454.28,
+    "currency": "RUB"
+  },
+  "category": "Электроника",
+  "brand": "Polar",
+  "stock": {
+    "available": 255,
+    "reserved": 107
+  },
+  "sku": "Polar-000932",
+  "tags": [
+    "gps",
+    "гаджеты",
+    "oled"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-S652-000932.jpg",
+      "alt": "Умные часы Polar S652 #000932 — вид спереди"
+    },
+    {
+      "url": "https://example.com/images/Умные-часы-Polar-S652-000932_side.jpg",
+      "alt": "Умные часы Polar S652 #000932 — вид сбоку"
+    }
+  ],
+  "specifications": {
+    "weight": "1632g",
+    "dimensions": "245mm x 121mm x 49mm",
+    "batteryLife": "36 hours",
+    "waterResistance": "IP65"
+  },
+  "createdAt": "2024-12-27T10:04:04Z",
+  "updatedAt": "2025-01-24T10:04:04Z",
+  "index": "products",
+  "storeId": "store_002"
+}
