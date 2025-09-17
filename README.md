@@ -151,5 +151,5 @@ kafka в hdfs)
 * Все ендпойнты вызываются с https (кроме Kafka UI). Для этого
   сгенерен [клиентский сертификат](certificate_generation/certificates/client_cli)
 * [Коллекция Postman](Final_Project.postman_collection.json). Так же желательно
-  установить [сертификаты](certificate_generation/certificates/client_cli), ![](screens/postman_cert.png)
+  установить [сертификаты](certificate_generation/certificates/client_cli) ![](screens/postman_cert.png)
 
